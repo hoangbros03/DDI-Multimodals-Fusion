@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Flurazepam Hydrochloride" setid="2f2db2f5-49d3-4d47-a08a-628df49d2120">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  Benzodiazepines, including flurazepam, produce additive CNS depressant effects when co-administered with ethanol or other CNS depressants (e.g., psychotropic medications, anticonvulsants, antihistamines). Downward dose adjustment of flurazepam and/or concomitant CNS depressants may be necessary because of additive effects.  • CNS Depressants: Downward dose adjustment may be necessary due to additive effects. ( 7 )  • Opioids: Limit dosage and duration, and follow patients closely for respiratory depression and sedation. ( 7.1 )  7.1 Drug Interactions  The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration. Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors. When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists. Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Flurazepam, like other central nervous system agents of the 1,4-benzodiazepine class, presumably exerts its effects by binding to stereo-specific receptors at several sites within the central nervous system (CNS). The exact mechanism of action is unknown.  12.3 Pharmacokinetics  Flurazepam hydrochloride is rapidly absorbed from the gastro-intestinal tract. Flurazepam is rapidly metabolized and is excreted primarily in the urine. Following a single oral dose, peak flurazepam plasma concentrations ranging from 0.5 to 4.0 ng/mL occur at 30 to 60 minutes post-dosing. The harmonic mean apparent half-life of flurazepam is 2.3 hours. The blood level profile of flurazepam and its major metabolites was determined in man following the oral administration of 30 mg daily for 2 weeks. The N1-hydroxyethyl-flurazepam was measurable only during the early hours after a 30 mg dose and was not detectable after 24 hours. The major metabolite in blood was N1-desalkyl-flurazepam, which reached steady-state (plateau) levels after 7 to 10 days of dosing, at levels approximately 5- to 6-fold greater than the 24-hour levels observed on Day 1. The half-life of elimination of N1-desalkyl-flurazepam ranged from 47 to 100 hours. The major urinary metabolite is conjugated N1-hydroxyethyl-flurazepam which accounts for 22% to 55% of the dose. Less than 1% of the dose is excreted in the urine as N1-desalkyl-flurazepam.  This pharmacokinetic profile may be responsible for the clinical observation that flurazepam is increasingly effective on the second or third night of consecutive use and that for 1 or 2 nights after the drug is discontinued both sleep latency and total wake time may still be decreased.  The single dose pharmacokinetics of flurazepam were studied in 12 healthy geriatric subjects (aged 61 to 85 years). The mean elimination half-life of desalkyl-flurazepam was longer in elderly male subjects (160 hours) compared with younger male subjects (74 hours), while mean elimination half-life was similar in geriatric female subjects (120 hours) and younger female subjects (90 hours). After multiple dosing, mean steady-state plasma levels of desalkyl-flurazepam were higher in elderly male subjects (81 ng/mL) compared with younger male subjects (53 ng/mL), while values were similar between elderly female subjects (85 ng/mL) and younger female subjects (86 ng/mL). The mean washout half-life of desalkyl-flurazepam was longer in elderly male and female subjects (126 and 158 hours, respectively) compared with younger male and female subjects (111 and 113 hours, respectively). 1  1 Greenblatt DJ, Divoll M, Hammatz JS, MacLauglin DS, Shader RI: Kinetics and clinical effects of flurazepam in young and elderly noninsomniacs. Clin Pharmacol Ther 30:475–486, 1981.</Section>
+</Text><Sentences>
+<Sentence id="3039" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>Benzodiazepines, including flurazepam, produce additive CNS depressant effects when co-administered with ethanol or other CNS depressants (e.g., psychotropic medications, anticonvulsants, antihistamines).</SentenceText>
+<Mention id="M13" type="Trigger" span="47 8;71 7" str="additive | effects"/>
+<Mention id="M2" type="Precipitant" span="145 24" str="psychotropic medications" code="NO MAP"/>
+<Mention id="M15" type="SpecificInteraction" span="47 31" str="additive CNS depressant effects" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M5" type="Precipitant" span="122 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M8" type="Precipitant" span="188 14" str="antihistamines" code="N0000029071"/>
+<Mention id="M11" type="Precipitant" span="171 15" str="anticonvulsants" code="N0000029145"/>
+<Mention id="M14" type="Precipitant" span="105 7" str="ethanol" code="3K9958V90M"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M13" precipitant="M2" effect="M15"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M13" precipitant="M5" effect="M15"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M13" precipitant="M8" effect="M15"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M13" precipitant="M11" effect="M15"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M13" precipitant="M14" effect="M15"/>
+</Sentence>
+<Sentence id="3040" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>Downward dose adjustment of flurazepam and/or concomitant CNS depressants may be necessary because of additive effects.</SentenceText>
+<Mention id="M16" type="Trigger" span="102 16" str="additive effects"/>
+<Mention id="M22" type="Precipitant" span="58 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M18" type="SpecificInteraction" span="58 15;102 16" str="CNS depressants | additive effects" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M21" type="Trigger" span="0 24" str="Downward dose adjustment"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M16" precipitant="M22" effect="M18"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M21" precipitant="M22" effect="C54357"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M21" precipitant="M22" effect="C54355"/>
+</Sentence>
+<Sentence id="3041" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>•CNS Depressants: Downward dose adjustment may be necessary due to additive effects.</SentenceText>
+<Mention id="M28" type="Trigger" span="18 24" str="Downward dose adjustment"/>
+<Mention id="M29" type="Precipitant" span="1 15" str="CNS Depressants" code="N0000175758"/>
+<Mention id="M25" type="Trigger" span="67 16" str="additive effects"/>
+<Mention id="M27" type="SpecificInteraction" span="1 15;67 16" str="CNS Depressants | additive effects" code="418072004: Central nervous system depression (disorder)"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M28" precipitant="M29" effect="C54355"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M25" precipitant="M29" effect="M27"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M28" precipitant="M29" effect="C54357"/>
+</Sentence>
+<Sentence id="3042" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>Opioids: Limit dosage and duration, and follow patients closely for respiratory depression and sedation.</SentenceText>
+<Mention id="M33" type="SpecificInteraction" span="68 22" str="respiratory depression " code="80954004: Decreased respiratory function (finding)"/>
+<Mention id="M34" type="SpecificInteraction" span="95 8" str=" sedation" code=" 17971005: Sedated (finding)"/>
+<Mention id="M32" type="Precipitant" span="0 7" str="Opioids" code="n0000175103"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M33;M34" precipitant="M32" effect="M33;M34"/>
+</Sentence>
+<Sentence id="3043" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.</SentenceText>
+<Mention id="M35" type="Trigger" span="51 18" str="increases the risk"/>
+<Mention id="M36" type="Precipitant" span="43 7" str="opioids" code="n0000175103"/>
+<Mention id="M37" type="SpecificInteraction" span="73 22" str="respiratory depression" code="80954004: Decreased respiratory function (finding)"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M35" precipitant="M36" effect="M37"/>
+</Sentence>
+<Sentence id="3044" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.</SentenceText>
+</Sentence>
+<Sentence id="3045" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.</SentenceText>
+<Mention id="M38" type="Trigger" span="98 6" str="worsen"/>
+<Mention id="M39" type="Precipitant" span="25 7" str="opioids" code="n0000175103"/>
+<Mention id="M40" type="SpecificInteraction" span="105 37" str="opioid-related respiratory depression" code="80954004: Decreased respiratory function (finding)"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M38" precipitant="M39" effect="M40"/>
+</Sentence>
+<Sentence id="3046" LabelDrug="Flurazepam Hydrochloride" section="34073-7">
+<SentenceText>Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.</SentenceText>
+<Mention id="M41" type="Trigger" span="81 6" str="follow"/>
+<Mention id="M42" type="Precipitant" span="68 7" str="opioids" code="n0000175103"/>
+<Mention id="M43" type="SpecificInteraction" span="109 22" str="respiratory depression " code="80954004: Decreased respiratory function (finding)"/>
+<Mention id="M44" type="SpecificInteraction" span="136 8" str=" sedation" code=" 17971005: Sedated (finding)"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M41" precipitant="M42" effect="M43;M44"/>
+</Sentence>
+<Sentence id="3047" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>Flurazepam, like other central nervous system agents of the 1,4-benzodiazepine class, presumably exerts its effects by binding to stereo-specific receptors at several sites within the central nervous system (CNS).</SentenceText>
+</Sentence>
+<Sentence id="3048" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The exact mechanism of action is unknown.</SentenceText>
+</Sentence>
+<Sentence id="3049" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>Flurazepam hydrochloride is rapidly absorbed from the gastro-intestinal tract.</SentenceText>
+</Sentence>
+<Sentence id="3050" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>Flurazepam is rapidly metabolized and is excreted primarily in the urine.</SentenceText>
+</Sentence>
+<Sentence id="3051" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>Following a single oral dose, peak flurazepam plasma concentrations ranging from 0.5 to 4.0 ng/mL occur at 30 to 60 minutes post-dosing.</SentenceText>
+</Sentence>
+<Sentence id="3052" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The harmonic mean apparent half-life of flurazepam is 2.3 hours.</SentenceText>
+</Sentence>
+<Sentence id="3053" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The blood level profile of flurazepam and its major metabolites was determined in man following the oral administration of 30 mg daily for 2 weeks.</SentenceText>
+</Sentence>
+<Sentence id="3054" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The N1-hydroxyethyl-flurazepam was measurable only during the early hours after a 30 mg dose and was not detectable after 24 hours.</SentenceText>
+</Sentence>
+<Sentence id="3055" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The major metabolite in blood was N1-desalkyl-flurazepam, which reached steady-state (plateau) levels after 7 to 10 days of dosing, at levels approximately 5- to 6-fold greater than the 24-hour levels observed on Day 1.</SentenceText>
+</Sentence>
+<Sentence id="3056" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The half-life of elimination of N1-desalkyl-flurazepam ranged from 47 to 100 hours.</SentenceText>
+</Sentence>
+<Sentence id="3057" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The major urinary metabolite is conjugated N1-hydroxyethyl-flurazepam which accounts for 22% to 55% of the dose.</SentenceText>
+</Sentence>
+<Sentence id="3058" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>Less than 1% of the dose is excreted in the urine as N1-desalkyl-flurazepam.</SentenceText>
+</Sentence>
+<Sentence id="3059" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>This pharmacokinetic profile may be responsible for the clinical observation that flurazepam is increasingly effective on the second or third night of consecutive use and that for 1 or 2 nights after the drug is discontinued both sleep latency and total wake time may still be decreased.</SentenceText>
+</Sentence>
+<Sentence id="3060" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The single dose pharmacokinetics of flurazepam were studied in 12 healthy geriatric subjects (aged 61 to 85 years).</SentenceText>
+</Sentence>
+<Sentence id="3061" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The mean elimination half-life of desalkyl-flurazepam was longer in elderly male subjects (160 hours) compared with younger male subjects (74 hours), while mean elimination half-life was similar in geriatric female subjects (120 hours) and younger female subjects (90 hours).</SentenceText>
+</Sentence>
+<Sentence id="3062" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>After multiple dosing, mean steady-state plasma levels of desalkyl-flurazepam were higher in elderly male subjects (81 ng/mL) compared with younger male subjects (53 ng/mL), while values were similar between elderly female subjects (85 ng/mL) and younger female subjects (86 ng/mL).</SentenceText>
+</Sentence>
+<Sentence id="3063" LabelDrug="Flurazepam Hydrochloride" section="34090-1">
+<SentenceText>The mean washout half-life of desalkyl-flurazepam was longer in elderly male and female subjects (126 and 158 hours, respectively) compared with younger male and female subjects (111 and 113 hours, respectively).1 1 Greenblatt DJ, Divoll M, Hammatz JS, MacLauglin DS, Shader RI: Kinetics and clinical effects of flurazepam in young and elderly noninsomniacs.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="psychotropic medications" precipitantCode="NO MAP" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antihistamines" precipitantCode="N0000029071" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticonvulsants" precipitantCode="N0000029145" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ethanol" precipitantCode="3K9958V90M" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="opioids" precipitantCode="n0000175103" effect=" 17971005: Sedated (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="opioids" precipitantCode="n0000175103" effect="80954004: Decreased respiratory function (finding)"/>
+
+</LabelInteractions></Label>

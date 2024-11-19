@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Pyrilamine Maleate and Phenylephrine Hydrochloride" setid="fd6ab993-d4ca-490b-a07c-61b0910ea657">
+<Text><Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+Directions Do not exceed recommended dosage. Adults and children 12 years of age and over 1 tablet every 4-6 hours, not to exceed 6 tablets in 24 hours Children 6 to 12 years of age 1/2 tablet every 4-6 hours, not to exceed 3 tablets in 24 hours. Children 6 years of age and younger: Consult a physician.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+Do not exceed recommended dosage. Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if you prescription drug contains an MAOI ask a doctor or pharmacist before taking this product. Do not use for more than 3 days. Use only as directed. Frequent for prolonged use may cause nasal congestion to recur or worsen. Ask a doctor before use if you have heart disease, high blood pressure, thyroid disease, diabetes, trouble urinating due to enlargement of the prostate gland, or if you have a breathing problem such as emphysema or chronic bronchitis, or if you have glaucoma. Ask a doctor before use if you are taking sedatives or tranquilizers excitability may occur, especially in children may cause drowsiness avoid alcoholic drinks alcohol, sedative and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or are accompanied by fever. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.</Section>
+</Text><Sentences>
+<Sentence id="10541" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34068-7">
+<SentenceText>DirectionsDo not exceed recommended dosage.</SentenceText>
+</Sentence>
+<Sentence id="10542" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34068-7">
+<SentenceText>Adults and children 12 years of age and over 1 tablet every 4-6 hours, not to exceed 6 tablets in 24 hours Children 6 to 12 years of age 1/2 tablet every 4-6 hours, not to exceed 3 tablets in 24 hours.</SentenceText>
+</Sentence>
+<Sentence id="10543" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34068-7">
+<SentenceText>Children 6 years of age and younger: Consult a physician.</SentenceText>
+</Sentence>
+<Sentence id="10544" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug.</SentenceText>
+<Mention id="M3" type="Trigger" span="0 10" str="Do not use"/>
+<Mention id="M2" type="Precipitant" span="90 4" str="MAOI" code="N0000000184"/>
+<Mention id="M4" type="Precipitant" span="61 27" str="monoamine oxidase inhibitor" code="N0000000184 | N0000175744"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M3" precipitant="M2"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="10545" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>If you do not know if you prescription drug contains an MAOI ask a doctor or pharmacist before taking this product.</SentenceText>
+<Mention id="M5" type="Trigger" span="61 26" str="ask a doctor or pharmacist"/>
+<Mention id="M6" type="Precipitant" span="56 4" str="MAOI" code="N0000000184"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="10546" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>Frequent for prolonged use may cause nasal congestion to recur or worsen.</SentenceText>
+</Sentence>
+<Sentence id="10547" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>Ask a doctor before use if you have heart disease, high blood pressure, thyroid disease, diabetes, trouble urinating due to enlargement of the prostate gland, or if you have a breathing problem such as emphysema or chronic bronchitis, or if you have glaucoma.</SentenceText>
+</Sentence>
+<Sentence id="10548" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>Ask a doctor before use if you are taking sedatives or tranquilizers excitability may occur, especially in children may cause drowsiness avoid alcoholic drinks alcohol, sedative and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or are accompanied by fever.</SentenceText>
+<Mention id="M145" type="Trigger" span="86 5" str="occur "/>
+<Mention id="M146" type="Trigger" span="342 8" str=" symptoms "/>
+<Mention id="M147" type="Trigger" span="120 5" str=" cause "/>
+<Mention id="M148" type="Trigger" span="200 8;224 6" str=" increase | effect"/>
+<Mention id="M41" type="Precipitant" span="143 7" str="alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M120" type="SpecificInteraction" span="308 9" str="dizziness" code="404640003: Dizziness (finding)"/>
+<Mention id="M126" type="SpecificInteraction" span="126 10" str="drowsiness" code="271782001: Drowsy (finding)"/>
+<Mention id="M132" type="SpecificInteraction" span="69 12" str="excitability" code="102893002: Excitability (finding)"/>
+<Mention id="M138" type="SpecificInteraction" span="402 5" str="fever" code="386661006: Fever (finding)"/>
+<Mention id="M144" type="SpecificInteraction" span="295 11" str="nervousness" code="424196004: Feeling nervous (finding)"/>
+<Mention id="M150" type="SpecificInteraction" span="322 13" str="sleeplessness" code="193462001: Insomnia (disorder)"/>
+<Mention id="M77" type="Precipitant" span="143 16" str="alcoholic drinks" code="3K9958V90M"/>
+<Mention id="M113" type="Precipitant" span="42 9" str="sedatives" code="N0000029143 | N0000193842"/>
+<Mention id="M149" type="Precipitant" span="55 13" str="tranquilizers" code="N0000029143 | N0000193842"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M41" effect="M120" effectCodeMatch="Exact"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M41" effect="M126" effectCodeMatch="Exact Match"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M41" effect="M132" effectCodeMatch="Exact Match"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M41" effect="M138" effectCodeMatch="Exact Match"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M41" effect="M144" effectCodeMatch="Exact Match"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M41" effect="M150" effectCodeMatch="Exact Match"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M77" effect="M120" effectCodeMatch="Exact"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M77" effect="M126" effectCodeMatch="Exact Match"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M77" effect="M132" effectCodeMatch="Exact Match"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M77" effect="M138" effectCodeMatch="Exact Match"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M77" effect="M144" effectCodeMatch="Exact Match"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M77" effect="M150" effectCodeMatch="Exact Match"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M113" effect="M120" effectCodeMatch="Exact"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M113" effect="M126" effectCodeMatch="Exact Match"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M113" effect="M132" effectCodeMatch="Exact Match"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M113" effect="M138" effectCodeMatch="Exact Match"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M113" effect="M144" effectCodeMatch="Exact Match"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M113" effect="M150" effectCodeMatch="Exact Match"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M149" effect="M120" effectCodeMatch="Exact"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M149" effect="M126" effectCodeMatch="Exact Match"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M149" effect="M132" effectCodeMatch="Exact Match"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M149" effect="M138" effectCodeMatch="Exact Match"/>
+<Interaction id="I26" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M149" effect="M144" effectCodeMatch="Exact Match"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M145;M146;M147;M148" precipitant="M149" effect="M150" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="10549" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>If pregnant or breast-feeding, ask a health professional before use.</SentenceText>
+</Sentence>
+<Sentence id="10550" LabelDrug="Pyrilamine Maleate and Phenylephrine Hydrochloride" section="34071-1">
+<SentenceText>In case of overdose, get medical help or contact a Poison Control Center right away.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="maoi" precipitantCode="N0000000184"/>
+<LabelInteraction type="Unspecified interaction" precipitant="monoamine oxidase inhibitor" precipitantCode="N0000000184 | N0000175744"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="102893002: Excitability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="386661006: Fever (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="424196004: Feeling nervous (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="102893002: Excitability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="386661006: Fever (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="424196004: Feeling nervous (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="102893002: Excitability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="386661006: Fever (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="424196004: Feeling nervous (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="102893002: Excitability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="386661006: Fever (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="424196004: Feeling nervous (finding)"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Zolpidem" setid="d76d5540-7bae-4719-8166-f2a9106338df">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  CNS depressants, including alcohol: Possible adverse additive CNS-depressant effects ( 5.1 , 7.1 )  Imipramine: Decreased alertness observed ( 7.1 )  Chlorpromazine: Impaired alertness and psychomotor performance observed ( 7.1 )  CYP3A4 inducers (rifampin or St. John's wort): Combination use may decrease effect ( 7.2 )  Ketoconazole: Combination use may increase effect ( 7.2 )  7.1 CNS-active Drugs  Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression. Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [see Warnings and Precautions (5.1) ]. Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.  Imipramine, Chlorpromazine  Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness. Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance [see Clinical Pharmacology (12.3) ] .  Haloperidol  A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem. The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration [see Clinical Pharmacology (12.3) ] .  Alcohol  An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1) ] .  Sertraline  Concomitant administration of zolpidem and sertraline increases exposure to zolpidem [see Clinical Pharmacology (12.3) ] .  Fluoxetine  After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed. There was no evidence of an additive effect in psychomotor performance [see Clinical Pharmacology (12.3) ] .  7.2 Drugs that Affect Drug Metabolism via Cytochrome P450  Some compounds known to induce or inhibit CYP3A may affect exposure to zolpidem. The effect of drugs that induce or inhibit other P450 enzymes on the exposure to zolpidem is not known.  CYP3A4 Inducers  Rifampin  Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem. Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem and is not recommended [see Clinical Pharmacology (12.3) ] .  St. John's wort  Use of St. John's wort, a CYP3A4 inducer, in combination with zolpidem may decrease blood levels of zolpidem and is not recommended.  CYP3A4 Inhibitors  Ketoconazole  Ketoconazole, a potent CYP3A4 inhibitor, increased the exposure to and pharmacodynamic effects of zolpidem. Consideration should be given to using a lower dose of zolpidem when a potent CYP3A4 inhibitor and zolpidem are given together [see Clinical Pharmacology (12.3) ] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties. It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines. In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ 1 receptor preferentially with a high affinity ratio of the α 1 /α 5 subunits. This selective binding of zolpidem on the BZ 1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.  12.3 Pharmacokinetics  The pharmacokinetic profile of AMBIEN is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T 1/  2 ) in healthy subjects.  In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (C ma  x ) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (T ma  x ) of 1.6 hours for both. The mean AMBIEN elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively. AMBIEN is converted to inactive metabolites that are eliminated primarily by renal excretion. AMBIEN demonstrated linear kinetics in the dose range of 5 to 20 mg. Total protein binding was found to be 92.5 ± 0.1% and remained constant, independent of concentration between 40 and 790 ng/mL. Zolpidem did not accumulate in young adults following nightly dosing with 20 mg zolpidem tartrate tablets for 2 weeks.  A food-effect study in 30 healthy male subjects compared the pharmacokinetics of AMBIEN 10 mg when administered while fasting or 20 minutes after a meal. Results demonstrated that with food, mean AUC and C max were decreased by 15% and 25%, respectively, while mean T max was prolonged by 60% (from 1.4 to 2.2 hr). The half-life remained unchanged. These results suggest that, for faster sleep onset, AMBIEN should not be administered with or immediately after a meal.  Special Populations  Elderly:  In the elderly, the dose for AMBIEN should be 5 mg [see Warnings and Precautions (5) and Dosage and Administration (2) ] . This recommendation is based on several studies in which the mean C max , T 1/2 , and AUC were significantly increased when compared to results in young adults. In one study of eight elderly subjects (&gt; 70 years), the means for C max , T 1/2 , and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose. AMBIEN did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.  Hepatic Impairment:  The pharmacokinetics of AMBIEN in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects. Following a single 20 mg oral zolpidem tartrate dose, mean C max and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically-compromised patients. T max did not change. The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr) [see Dosage and Administration (2.2) , Warnings and Precautions (5.7) , Use in Specific Populations (8.7) ] .  Renal Impairment:  The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean Cl Cr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days. No statistically significant differences were observed for C max , T max , half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made. Zolpidem was not hemodialyzable. No accumulation of unchanged drug appeared after 14 or 21 days. Zolpidem pharmacokinetics were not significantly different in renally impaired patients. No dosage adjustment is necessary in patients with compromised renal function.  Drug Interactions  CNS-depressants  Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression [see Warnings and Precautions (5.1) ]. Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs. Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness. Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.  A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem. The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.  An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1) ].  Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem C max was significantly higher (43%) and T max was significantly decreased (-53%). Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.  A single-dose interaction study with zolpidem tartrate 10 mg and fluoxetine 20 mg at steady-state levels in male volunteers did not demonstrate any clinically significant pharmacokinetic or pharmacodynamic interactions. When multiple doses of zolpidem and fluoxetine were given at steady state and the concentrations evaluated in healthy females, an increase in the zolpidem half-life (17%) was observed. There was no evidence of an additive effect in psychomotor performance.  Drugs that Affect Drug Metabolism via Cytochrome P450  Some compounds known to inhibit CYP3A may increase exposure to zolpidem. The effect of inhibitors of other P450 enzymes on the pharmacokinetics of zolpidem is unknown.  A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 200 mg at steady-state levels in male volunteers resulted in a 34% increase in AUC 0–∞ of zolpidem tartrate. There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.  A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), C max (-58%), and T 1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate. Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2) ] .  Similarly, St. John's wort, a CYP3A4 inducer, may also decrease the blood levels of zolpidem.  A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased C max of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2) ] .  Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem's metabolic pathways, potentially leading to an increase in zolpidem exposure.  Other Drugs with No Interactions with Zolpidem  A study involving cimetidine/zolpidem tartrate and ranitidine/zolpidem tartrate combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.  Zolpidem tartrate had no effect on digoxin pharmacokinetics and did not affect prothrombin time when given with warfarin in healthy subjects.</Section>
+</Text><Sentences>
+<Sentence id="5655" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>CNS depressants, including alcohol: Possible adverse additive CNS-depressant effects (5.1, 7.1) Imipramine: Decreased alertness observed (7.1) Chlorpromazine: Impaired alertness and psychomotor performance observed (7.1) Rifampin: Combination use may decrease effect (7.2) Ketoconazole: Combination use may increase effect (7.2) Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression.</SentenceText>
+<Mention id="M3" type="SpecificInteraction" span="307 15" str="increase effect" code="NO MAP"/>
+<Mention id="M2" type="Precipitant" span="273 12" str="Ketoconazole" code="N0000007319"/>
+<Mention id="M10" type="Trigger" span="45 16;77 7" str="adverse additive | effects"/>
+<Mention id="M14" type="Precipitant" span="0 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M12" type="SpecificInteraction" span="45 39" str="adverse additive CNS-depressant effects" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M9" type="SpecificInteraction" span="251 15" str="decrease effect" code="NO MAP"/>
+<Mention id="M8" type="Precipitant" span="221 8" str="Rifampin" code="N0000006026"/>
+<Mention id="M11" type="Precipitant" span="27 7" str="alcohol" code="N0000007432"/>
+<Mention id="M13" type="Trigger" span="386 18" str="increases the risk"/>
+<Mention id="M15" type="SpecificInteraction" span="408 14" str="CNS depression" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M18" type="SpecificInteraction" span="108 19" str="Decreased alertness" code="704426000:  Impairment of mental alertness (finding)"/>
+<Mention id="M17" type="Precipitant" span="96 10" str="Imipramine" code="OGG85SX4E4"/>
+<Mention id="M22" type="SpecificInteraction" span="159 18" str="Impaired alertness " code="704426000:  Impairment of mental alertness (finding)"/>
+<Mention id="M23" type="SpecificInteraction" span="159 8;182 23" str=" Impaired | psychomotor performance" code=" 416909000: Impaired psychomotor performance (finding)"/>
+<Mention id="M21" type="Precipitant" span="143 14" str="Chlorpromazine" code="U42B7VYA4P"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M3" precipitant="M2" effect="M3"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M10" precipitant="M14" effect="M12"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M9" precipitant="M8" effect="M9"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M10" precipitant="M11" effect="M12"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M13" precipitant="M14" effect="M15"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M18" precipitant="M17" effect="M18"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M22;M23" precipitant="M21" effect="M22;M23"/>
+</Sentence>
+<Sentence id="5656" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Concomitant use of zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability.</SentenceText>
+</Sentence>
+<Sentence id="5657" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Zolpidem tartrate was evaluated in healthy volunteers in single-dose interaction studies for several CNS drugs.</SentenceText>
+</Sentence>
+<Sentence id="5658" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Imipramine, Chlorpromazine Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.</SentenceText>
+<Mention id="M24" type="Trigger" span="180 15" str="additive effect"/>
+<Mention id="M28" type="Precipitant" span="0 10" str="Imipramine" code="OGG85SX4E4"/>
+<Mention id="M26" type="SpecificInteraction" span="180 38" str="additive effect of decreased alertness" code="704426000:  Impairment of mental alertness (finding)"/>
+<Mention id="M27" type="Trigger" span="124 23" str="decrease in peak levels"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M24" precipitant="M28" effect="M26"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M27" precipitant="M28" effect="C54615"/>
+</Sentence>
+<Sentence id="5659" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Similarly, chlorpromazine in combination with zolpidem produced no pharmacokinetic interaction, but there was an additive effect of decreased alertness and psychomotor performance.</SentenceText>
+<Mention id="M29" type="Trigger" span="113 15" str="additive effect"/>
+<Mention id="M30" type="Precipitant" span="11 14" str="chlorpromazine" code="U42B7VYA4P"/>
+<Mention id="M31" type="SpecificInteraction" span="132 19" str="decreased alertness " code="704426000:  Impairment of mental alertness (finding)"/>
+<Mention id="M32" type="SpecificInteraction" span="132 9;156 23" str=" decreased | psychomotor performance" code=" 416909000: Impaired psychomotor performance (finding)"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M29" precipitant="M30" effect="M31;M32"/>
+</Sentence>
+<Sentence id="5660" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Haloperidol A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.</SentenceText>
+</Sentence>
+<Sentence id="5661" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>The lack of a drug interaction following single-dose administration does not predict the absence of an effect following chronic administration.</SentenceText>
+</Sentence>
+<Sentence id="5662" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Alcohol An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated.</SentenceText>
+<Mention id="M33" type="Trigger" span="11 23" str="additive adverse effect"/>
+<Mention id="M34" type="Precipitant" span="70 7" str="alcohol" code="N0000007432"/>
+<Mention id="M35" type="SpecificInteraction" span="11 50" str="additive adverse effect on psychomotor performance" code="416909000: Impaired psychomotor performance (finding)"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M33" precipitant="M34" effect="M35"/>
+</Sentence>
+<Sentence id="5663" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Sertraline Concomitant administration of zolpidem and sertraline increases exposure to zolpidem.</SentenceText>
+<Mention id="M36" type="Trigger" span="65 18" str="increases exposure"/>
+<Mention id="M37" type="Precipitant" span="54 10" str="sertraline" code="QUC7NX6WMB"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M36" precipitant="M37" effect="C54355"/>
+</Sentence>
+<Sentence id="5664" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Fluoxetine After multiple doses of zolpidem tartrate and fluoxetine an increase in the zolpidem half-life (17%) was observed.</SentenceText>
+<Mention id="M38" type="Trigger" span="71 8;96 9" str="increase | half-life"/>
+<Mention id="M39" type="Precipitant" span="57 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M38" precipitant="M39" effect="C54603"/>
+</Sentence>
+<Sentence id="5665" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>There was no evidence of an additive effect in psychomotor performance.</SentenceText>
+</Sentence>
+<Sentence id="5666" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Some compounds known to induce or inhibit CYP3A may affect exposure to zolpidem.</SentenceText>
+<Mention id="M40" type="Trigger" span="52 15" str="affect exposure"/>
+<Mention id="M41" type="Precipitant" span="5 42" str="compounds known to induce or inhibit CYP3A" code="NONE"/>
+<Interaction id="I14" type="Unspecified interaction" trigger="M40" precipitant="M41"/>
+</Sentence>
+<Sentence id="5667" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>The effect of drugs that induce or inhibit other P450 enzymes on the exposure to zolpidem is not known.</SentenceText>
+</Sentence>
+<Sentence id="5668" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>CYP3A4 Inducers Rifampin Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.</SentenceText>
+<Mention id="M55" type="Trigger" span="67 20" str="reduced the exposure"/>
+<Mention id="M50" type="Precipitant" span="0 15" str="CYP3A4 Inducers" code="N0000185506"/>
+<Mention id="M52" type="Trigger" span="67 7;115 7" str="reduced | effects"/>
+<Mention id="M48" type="Precipitant" span="37 14" str="CYP3A4 inducer" code="n0000185506"/>
+<Mention id="M54" type="SpecificInteraction" span="67 7;99 35" str="reduced | pharmacodynamic effects of zolpidem" code="NO MAP"/>
+<Mention id="M56" type="Precipitant" span="16 8" str="Rifampin" code="N0000006026"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M55" precipitant="M50" effect="C54356"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M52" precipitant="M48" effect="M54"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M55" precipitant="M48" effect="C54356"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M52" precipitant="M50" effect="M54"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M52" precipitant="M56" effect="M54"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M55" precipitant="M56" effect="C54356"/>
+</Sentence>
+<Sentence id="5669" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Use of Rifampin in combination with zolpidem may decrease the efficacy of zolpidem and is not recommended.</SentenceText>
+<Mention id="M57" type="Trigger" span="49 21" str="decrease the efficacy"/>
+<Mention id="M58" type="Precipitant" span="7 8" str="Rifampin" code="N0000006026"/>
+<Mention id="M59" type="SpecificInteraction" span="49 33" str="decrease the efficacy of zolpidem" code="NO MAP"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M57" precipitant="M58" effect="M59"/>
+</Sentence>
+<Sentence id="5670" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>St. John’s wort Use of St. John’s wort, a CYP3A4 inducer, in combination with zolpidem may decrease blood levels of zolpidem and is not recommended.</SentenceText>
+<Mention id="M62" type="Trigger" span="91 21" str="decrease blood levels"/>
+<Mention id="M61" type="Precipitant" span="42 14" str="CYP3A4 inducer" code="n0000185506"/>
+<Mention id="M63" type="Precipitant" span="0 15" str="St. John’s wort" code="N0000022261"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M62" precipitant="M61" effect="C54356"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M62" precipitant="M63" effect="C54356"/>
+</Sentence>
+<Sentence id="5671" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>CYP3A4 Inhibitors Ketoconazole Ketoconazole, a potent CYP3A4 inhibitor, increased the exposure to and pharmacodynamic effects of zolpidem.</SentenceText>
+<Mention id="M74" type="Trigger" span="72 9;118 7" str="increased | effects"/>
+<Mention id="M78" type="Precipitant" span="0 17" str="CYP3A4 Inhibitors" code="N0000182141"/>
+<Mention id="M76" type="SpecificInteraction" span="72 9;102 35" str="increased | pharmacodynamic effects of zolpidem" code="NO MAP"/>
+<Mention id="M77" type="Trigger" span="72 22" str="increased the exposure"/>
+<Mention id="M72" type="Precipitant" span="47 23" str="potent CYP3A4 inhibitor" code="NONE"/>
+<Mention id="M75" type="Precipitant" span="18 12" str="Ketoconazole" code="N0000007319"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M74" precipitant="M78" effect="M76"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M77" precipitant="M72" effect="C54355"/>
+<Interaction id="I26" type="Pharmacokinetic interaction" trigger="M77" precipitant="M75" effect="C54355"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M74" precipitant="M72" effect="M76"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M74" precipitant="M75" effect="M76"/>
+<Interaction id="I29" type="Pharmacokinetic interaction" trigger="M77" precipitant="M78" effect="C54355"/>
+</Sentence>
+<Sentence id="5672" LabelDrug="Zolpidem" section="34073-7">
+<SentenceText>Consideration should be given to using a lower dose of zolpidem when a potent CYP3A4 inhibitor and zolpidem are given together.</SentenceText>
+<Mention id="M79" type="Trigger" span="41 10" str="lower dose"/>
+<Mention id="M80" type="Precipitant" span="71 23" str="potent CYP3A4 inhibitor" code="NONE"/>
+<Interaction id="I30" type="Pharmacokinetic interaction" trigger="M79" precipitant="M80" effect="C54355"/>
+</Sentence>
+<Sentence id="5673" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.</SentenceText>
+</Sentence>
+<Sentence id="5674" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>It interacts with a GABA-BZ receptor complex and shares some of the pharmacological properties of the benzodiazepines.</SentenceText>
+</Sentence>
+<Sentence id="5675" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>In contrast to the benzodiazepines, which non-selectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the α1/α5 subunits.</SentenceText>
+</Sentence>
+<Sentence id="5676" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem tartrate at hypnotic doses.</SentenceText>
+</Sentence>
+<Sentence id="5677" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>The pharmacokinetic profile of AMBIEN is characterized by rapid absorption from the gastrointestinal tract and a short elimination half-life (T1/ 2) in healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="5678" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>In a single-dose crossover study in 45 healthy subjects administered 5 and 10 mg zolpidem tartrate tablets, the mean peak concentrations (Cma x) were 59 (range: 29 to 113) and 121 (range: 58 to 272) ng/mL, respectively, occurring at a mean time (Tma x) of 1.6 hours for both.</SentenceText>
+</Sentence>
+<Sentence id="5679" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>The mean AMBIEN elimination half-life was 2.6 (range: 1.4 to 4.5) and 2.5 (range: 1.4 to 3.8) hours, for the 5 and 10 mg tablets, respectively.</SentenceText>
+</Sentence>
+<Sentence id="5680" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>AMBIEN is converted to inactive metabolites that are eliminated primarily by renal excretion.</SentenceText>
+</Sentence>
+<Sentence id="5681" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>AMBIEN demonstrated linear kinetics in the dose range of 5 to 20 mg. Total protein binding was found to be 92.5 ± 0.1% and remained constant, independent of concentration between 40 and 790 ng/mL.</SentenceText>
+</Sentence>
+<Sentence id="5682" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Zolpidem did not accumulate in young adults following nightly dosing with 20 mg zolpidem tartrate tablets for 2 weeks.</SentenceText>
+</Sentence>
+<Sentence id="5683" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>A food-effect study in 30 healthy male subjects compared the pharmacokinetics of AMBIEN 10 mg when administered while fasting or 20 minutes after a meal.</SentenceText>
+</Sentence>
+<Sentence id="5684" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Results demonstrated that with food, mean AUC and Cmax were decreased by 15% and 25%, respectively, while mean Tmax was prolonged by 60% (from 1.4 to 2.2 hr).</SentenceText>
+<Mention id="M81" type="Trigger" span="111 4;120 9" str="Tmax | prolonged"/>
+<Mention id="M86" type="Precipitant" span="31 4" str="food" code="NOT_DRUG"/>
+<Mention id="M83" type="Trigger" span="42 3;60 9" str="AUC | decreased"/>
+<Mention id="M85" type="Trigger" span="50 4;60 9" str="Cmax | decreased"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M81" precipitant="M86" effect="C54604"/>
+<Interaction id="I32" type="Pharmacokinetic interaction" trigger="M83" precipitant="M86" effect="C54609"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M85" precipitant="M86" effect="C54606"/>
+</Sentence>
+<Sentence id="5685" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>These results suggest that, for faster sleep onset, AMBIEN should not be administered with or immediately after a meal.</SentenceText>
+</Sentence>
+<Sentence id="5686" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Special Populations Elderly: In the elderly, the dose for AMBIEN should be 5 mg.</SentenceText>
+</Sentence>
+<Sentence id="5687" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>This recommendation is based on several studies in which the mean Cmax, T1/2, and AUC were significantly increased when compared to results in young adults.</SentenceText>
+</Sentence>
+<Sentence id="5688" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>In one study of eight elderly subjects (&gt; 70 years), the means for Cmax, T1/2, and AUC significantly increased by 50% (255 vs. 384 ng/mL), 32% (2.2 vs. 2.9 hr), and 64% (955 vs. 1,562 ng∙hr/mL), respectively, as compared to younger adults (20 to 40 years) following a single 20 mg oral dose.</SentenceText>
+</Sentence>
+<Sentence id="5689" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>AMBIEN did not accumulate in elderly subjects following nightly oral dosing of 10 mg for 1 week.</SentenceText>
+</Sentence>
+<Sentence id="5690" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Hepatic Impairment: The pharmacokinetics of AMBIEN in eight patients with chronic hepatic insufficiency were compared to results in healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="5691" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 vs. 499 ng/mL) and five times (788 vs. 4,203 ng∙hr/mL) higher, respectively, in hepatically -compromised patients.</SentenceText>
+</Sentence>
+<Sentence id="5692" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in normal subjects of 2.2 hr (range: 1.6 to 2.4 hr).</SentenceText>
+</Sentence>
+<Sentence id="5693" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Renal Impairment: The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.</SentenceText>
+</Sentence>
+<Sentence id="5694" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.</SentenceText>
+</Sentence>
+<Sentence id="5695" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>No accumulation of unchanged drug appeared after 14 or 21 days.</SentenceText>
+</Sentence>
+<Sentence id="5696" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Zolpidem pharmacokinetics were not significantly different in renally impaired patients.</SentenceText>
+</Sentence>
+<Sentence id="5697" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>No dosage adjustment is necessary in patients with compromised renal function.</SentenceText>
+</Sentence>
+<Sentence id="5698" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Drug Interactions CNS-depressants Co-administration of zolpidem with other CNS depressants increases the risk of CNS depression.</SentenceText>
+<Mention id="M87" type="Trigger" span="91 18" str="increases the risk"/>
+<Mention id="M88" type="Precipitant" span="75 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M89" type="SpecificInteraction" span="113 14" str="CNS depression" code="418072004: Central nervous system depression (disorder)"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M87" precipitant="M88" effect="M89"/>
+</Sentence>
+<Sentence id="5700" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Imipramine in combination with zolpidem produced no pharmacokinetic interaction other than a 20% decrease in peak levels of imipramine, but there was an additive effect of decreased alertness.</SentenceText>
+<Mention id="M90" type="Trigger" span="153 15" str="additive effect"/>
+<Mention id="M94" type="Precipitant" span="124 10" str="imipramine" code="OGG85SX4E4"/>
+<Mention id="M92" type="SpecificInteraction" span="153 38" str="additive effect of decreased alertness" code="704426000:  Impairment of mental alertness (finding)"/>
+<Mention id="M93" type="Trigger" span="97 23" str="decrease in peak levels"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M90" precipitant="M94" effect="M92"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M93" precipitant="M94" effect="C54615"/>
+</Sentence>
+<Sentence id="5702" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>A study involving haloperidol and zolpidem revealed no effect of haloperidol on the pharmacokinetics or pharmacodynamics of zolpidem.</SentenceText>
+</Sentence>
+<Sentence id="5704" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated.</SentenceText>
+<Mention id="M95" type="Trigger" span="3 23" str="additive adverse effect"/>
+<Mention id="M96" type="Precipitant" span="62 7" str="alcohol" code="N0000007432"/>
+<Mention id="M97" type="SpecificInteraction" span="3 50" str="additive adverse effect on psychomotor performance" code="416909000: Impaired psychomotor performance (finding)"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M95" precipitant="M96" effect="M97"/>
+</Sentence>
+<Sentence id="5705" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).</SentenceText>
+<Mention id="M98" type="Trigger" span="201 4;224 6" str="Cmax | higher"/>
+<Mention id="M101" type="Precipitant" span="103 10" str="sertraline" code="QUC7NX6WMB"/>
+<Mention id="M100" type="Trigger" span="241 4;264 9" str="Tmax | decreased"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M98" precipitant="M101" effect="C54602"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M100" precipitant="M101" effect="C54608"/>
+</Sentence>
+<Sentence id="5706" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.</SentenceText>
+</Sentence>
+<Sentence id="5707" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>A single-dose interaction study with zolpidem tartrate 10 mg and fluoxetine 20 mg at steady-state levels in male volunteers did not demonstrate any clinically significant pharmacokinetic or pharmacodynamic interactions.</SentenceText>
+</Sentence>
+<Sentence id="5708" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>When multiple doses of zolpidem and fluoxetine were given at steady state and the concentrations evaluated in healthy females, an increase in the zolpidem half-life (17%) was observed.</SentenceText>
+<Mention id="M102" type="Trigger" span="130 8;155 9" str="increase | half-life"/>
+<Mention id="M103" type="Precipitant" span="36 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M102" precipitant="M103" effect="C54603"/>
+</Sentence>
+<Sentence id="5710" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Drugs that Affect Drug Metabolism via Cytochrome P450 Some compounds known to inhibit CYP3A may increase exposure to zolpidem.</SentenceText>
+<Mention id="M104" type="Trigger" span="96 17" str="increase exposure"/>
+<Mention id="M105" type="Precipitant" span="59 32" str="compounds known to inhibit CYP3A" code="NONE"/>
+<Interaction id="I41" type="Pharmacokinetic interaction" trigger="M104" precipitant="M105" effect="C54355"/>
+</Sentence>
+<Sentence id="5711" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>The effect of inhibitors of other P450 enzymes on the pharmacokinetics of zolpidem is unknown.</SentenceText>
+</Sentence>
+<Sentence id="5712" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 200 mg at steady-state levels in male volunteers resulted in a 34% increase in AUC0–∞ of zolpidem tartrate.</SentenceText>
+<Mention id="M106" type="Trigger" span="145 15" str="increase in AUC"/>
+<Mention id="M107" type="Precipitant" span="65 12" str="itraconazole" code="N0000006753"/>
+<Interaction id="I42" type="Pharmacokinetic interaction" trigger="M106" precipitant="M107" effect="C54605"/>
+</Sentence>
+<Sentence id="5713" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.</SentenceText>
+</Sentence>
+<Sentence id="5714" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.</SentenceText>
+<Mention id="M108" type="Trigger" span="142 21" str="reductions of the AUC"/>
+<Mention id="M116" type="Precipitant" span="65 8" str="rifampin" code="N0000006026"/>
+<Mention id="M110" type="Trigger" span="142 10;172 4" str="reductions | Cmax"/>
+<Mention id="M112" type="Trigger" span="240 41" str="reductions in the pharmacodynamic effects"/>
+<Mention id="M114" type="SpecificInteraction" span="240 62" str="reductions in the pharmacodynamic effects of zolpidem tartrate" code="NO MAP"/>
+<Mention id="M115" type="Trigger" span="142 10;189 4" str="reductions | T1/2"/>
+<Interaction id="I43" type="Pharmacokinetic interaction" trigger="M108" precipitant="M116" effect="C54609"/>
+<Interaction id="I44" type="Pharmacokinetic interaction" trigger="M110" precipitant="M116" effect="C54606"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M112" precipitant="M116" effect="M114"/>
+<Interaction id="I46" type="Pharmacokinetic interaction" trigger="M115" precipitant="M116" effect="C54607"/>
+</Sentence>
+<Sentence id="5715" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.</SentenceText>
+<Mention id="M117" type="Trigger" span="42 20" str="reduced the exposure"/>
+<Mention id="M120" type="Precipitant" span="0 8" str="Rifampin" code="N0000006026"/>
+<Mention id="M119" type="Trigger" span="42 7;74 23" str="reduced | pharmacodynamic effects"/>
+<Mention id="M121" type="SpecificInteraction" span="42 7;74 35" str="reduced | pharmacodynamic effects of zolpidem" code="NO MAP"/>
+<Interaction id="I47" type="Pharmacokinetic interaction" trigger="M117" precipitant="M120" effect="C54356"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M119" precipitant="M120" effect="M121"/>
+</Sentence>
+<Sentence id="5716" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Similarly, St. John’s wort, a CYP3A4 inducer, may also decrease the blood levels of zolpidem.</SentenceText>
+<Mention id="M124" type="Trigger" span="55 25" str="decrease the blood levels"/>
+<Mention id="M123" type="Precipitant" span="11 15" str="St. John’s wort" code="N0000022261"/>
+<Mention id="M125" type="Precipitant" span="30 14" str="CYP3A4 inducer" code="n0000185506"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M124" precipitant="M123" effect="C54356"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M124" precipitant="M125" effect="C54356"/>
+</Sentence>
+<Sentence id="5717" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.</SentenceText>
+<Mention id="M126" type="Trigger" span="144 9;191 3" str="increased | AUC"/>
+<Mention id="M134" type="Precipitant" span="64 12" str="ketoconazole" code="N0000007319"/>
+<Mention id="M128" type="Trigger" span="301 39" str="increase in the pharmacodynamic effects"/>
+<Mention id="M130" type="SpecificInteraction" span="301 51" str="increase in the pharmacodynamic effects of zolpidem" code="NO MAP"/>
+<Mention id="M131" type="Trigger" span="244 9;270 9" str="prolonged | half-life"/>
+<Mention id="M133" type="Trigger" span="144 14" str="increased Cmax"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M126" precipitant="M134" effect="C54605"/>
+<Interaction id="I52" type="Pharmacodynamic interaction" trigger="M128" precipitant="M134" effect="M130"/>
+<Interaction id="I53" type="Pharmacokinetic interaction" trigger="M131" precipitant="M134" effect="C54603"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M133" precipitant="M134" effect="C54602"/>
+</Sentence>
+<Sentence id="5718" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem's metabolic pathways, potentially leading to an increase in zolpidem exposure.</SentenceText>
+<Mention id="M150" type="Trigger" span="36 7;221 18" str="inhibit | metabolic pathways "/>
+<Mention id="M151" type="Trigger" span="267 8;288 8" str=" increase | exposure"/>
+<Mention id="M137" type="Precipitant" span="153 28" str="moderate inhibitor of CYP3A4" code="NONE"/>
+<Mention id="M140" type="Precipitant" span="103 13" str="ciprofloxacin" code="5E8K9I0O4U"/>
+<Mention id="M143" type="Precipitant" span="62 24" str="weak inhibitor of CYP3A4" code="NONE"/>
+<Mention id="M146" type="Precipitant" span="14 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Mention id="M149" type="Precipitant" span="62 17;91 6" str="weak inhibitor of | CYP2C9" code="NONE"/>
+<Mention id="M152" type="Precipitant" span="29 26" str="strong inhibitor of CYP1A2" code="NONE"/>
+<Interaction id="I55" type="Pharmacokinetic interaction" trigger="M150;M151" precipitant="M137" effect="C54355"/>
+<Interaction id="I56" type="Pharmacokinetic interaction" trigger="M150;M151" precipitant="M140" effect="C54355"/>
+<Interaction id="I57" type="Pharmacokinetic interaction" trigger="M150;M151" precipitant="M143" effect="C54355"/>
+<Interaction id="I58" type="Pharmacokinetic interaction" trigger="M150;M151" precipitant="M146" effect="C54355"/>
+<Interaction id="I59" type="Pharmacokinetic interaction" trigger="M150;M151" precipitant="M149" effect="C54355"/>
+<Interaction id="I60" type="Pharmacokinetic interaction" trigger="M150;M151" precipitant="M152" effect="C54355"/>
+</Sentence>
+<Sentence id="5719" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Other Drugs with No Interactions with Zolpidem A study involving cimetidine/zolpidem tartrate and ranitidine/zolpidem tartrate combinations revealed no effect of either drug on the pharmacokinetics or pharmacodynamics of zolpidem.</SentenceText>
+</Sentence>
+<Sentence id="5720" LabelDrug="Zolpidem" section="34090-1">
+<SentenceText>Zolpidem tartrate had no effect on digoxin pharmacokinetics and did not affect prothrombin time when given with warfarin in healthy subjects.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="ketoconazole" precipitantCode="N0000007319" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="N0000007319" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="N0000007319" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="N0000007319" effect="C54603"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="N0000007319" effect="C54605"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54606"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54607"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54609"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="416909000: Impaired psychomotor performance (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="imipramine" precipitantCode="OGG85SX4E4" effect="704426000:  Impairment of mental alertness (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="imipramine" precipitantCode="OGG85SX4E4" effect="C54615"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chlorpromazine" precipitantCode="U42B7VYA4P" effect=" 416909000: Impaired psychomotor performance (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chlorpromazine" precipitantCode="U42B7VYA4P" effect="704426000:  Impairment of mental alertness (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB" effect="C54608"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54603"/>
+<LabelInteraction type="Unspecified interaction" precipitant="compounds known to induce or inhibit cyp3a" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp3a4 inducers" precipitantCode="N0000185506" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a4 inducers" precipitantCode="N0000185506" effect="C54356"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp3a4 inducer" precipitantCode="n0000185506" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a4 inducer" precipitantCode="n0000185506" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="st. john’s wort" precipitantCode="N0000022261" effect="C54356"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp3a4 inhibitors" precipitantCode="N0000182141" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a4 inhibitors" precipitantCode="N0000182141" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="potent cyp3a4 inhibitor" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="potent cyp3a4 inhibitor" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="food" precipitantCode="NOT_DRUG" effect="C54604"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="food" precipitantCode="NOT_DRUG" effect="C54606"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="food" precipitantCode="NOT_DRUG" effect="C54609"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="compounds known to inhibit cyp3a" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="itraconazole" precipitantCode="N0000006753" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate inhibitor of cyp3a4" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ciprofloxacin" precipitantCode="5E8K9I0O4U" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="weak inhibitor of cyp3a4" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluvoxamine" precipitantCode="O4L1XPO44W" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="weak inhibitor of | cyp2c9" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong inhibitor of cyp1a2" precipitantCode="NONE" effect="C54355"/>
+
+</LabelInteractions></Label>

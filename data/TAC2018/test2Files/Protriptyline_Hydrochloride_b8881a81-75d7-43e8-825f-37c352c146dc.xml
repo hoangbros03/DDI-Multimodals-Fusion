@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Protriptyline Hydrochloride" setid="b8881a81-75d7-43e8-825f-37c352c146dc">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Protriptyline hydrochloride is an antidepressant agent. The mechanism of its antidepressant action in man is not known. It is not a monoamine oxidase inhibitor, and it does not act primarily by stimulation of the central nervous system.  Protriptyline has been found in some studies to have a more rapid onset of action than imipramine or amitriptyline. The initial clinical effect may occur within one week. Sedative and tranquilizing properties are lacking. The rate of excretion is slow.</Section>
+</Text><Sentences>
+<Sentence id="903" LabelDrug="Protriptyline Hydrochloride" section="34090-1">
+<SentenceText>Protriptyline hydrochloride is an antidepressant agent.</SentenceText>
+</Sentence>
+<Sentence id="904" LabelDrug="Protriptyline Hydrochloride" section="34090-1">
+<SentenceText>The mechanism of its antidepressant action in man is not known.</SentenceText>
+</Sentence>
+<Sentence id="905" LabelDrug="Protriptyline Hydrochloride" section="34090-1">
+<SentenceText>It is not a monoamine oxidase inhibitor, and it does not act primarily by stimulation of the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="906" LabelDrug="Protriptyline Hydrochloride" section="34090-1">
+<SentenceText>Protriptyline has been found in some studies to have a more rapid onset of action than imipramine or amitriptyline.</SentenceText>
+</Sentence>
+<Sentence id="907" LabelDrug="Protriptyline Hydrochloride" section="34090-1">
+<SentenceText>The initial clinical effect may occur within one week.</SentenceText>
+</Sentence>
+<Sentence id="908" LabelDrug="Protriptyline Hydrochloride" section="34090-1">
+<SentenceText>Sedative and tranquilizing properties are lacking.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

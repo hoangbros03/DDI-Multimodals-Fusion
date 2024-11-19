@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Perphenazine" setid="d78e9639-6fab-4a78-8b29-6991a18ae6c6">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Pharmacokinetics  Following oral administration of perphenazine tablets, mean peak plasma perphenazine concentrations were observed between 1 to 3 hours. The plasma elimination half-life of perphenazine was independent of dose and ranged between 9 and 12 hours. In a study in which normal volunteers (n=12) received perphenazine 4 mg q8h for 5 days, steady-state concentrations of perphenazine were reached within 72 hours. Mean (%CV) C max and C min values for perphenazine and 7-hydroxyperphenazine at steady-state are listed below:  Parameter    Perphenazine    7-Hydroxyperphenazine    C max (pg/mL)   984 (43)   509 (25)   C min (pg/mL)   442 (76)   350 (56)   Peak 7-hydroxyperphenazine concentrations were observed between 2 to 4 hours with a terminal phase half-life ranging between 9.9 to 18.8 hours. Perphenazine is extensively metabolized in the liver to a number of metabolites by sulfoxidation, hydroxylation, dealkylation, and glucuronidation. The pharmacokinetics of perphenazine covary with the hydroxylation of debrisoquine which is mediated by cytochrome P450 2D6 (CYP 2D6) and thus is subject to genetic polymorphism—i.e., 7% to 10% of Caucasians and a low percentage of Asians have little or no activity and are called “poor metabolizers.” Poor metabolizers of CYP 2D6 will metabolize perphenazine more slowly and will experience higher concentrations compared with normal or “extensive” metabolizers.</Section>
+</Text><Sentences>
+<Sentence id="4550" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Metabolism of a number of medications, including antipsychotics, antidepressants, β-blockers, and antiarrhythmics, occurs through the cytochrome P450 2D6 isoenzyme (debrisoquine hydroxylase).</SentenceText>
+</Sentence>
+<Sentence id="4551" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Approximately 10% of the Caucasian population has reduced activity of this enzyme, so-called “poor” metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="4552" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Among other populations the prevalence is not known.</SentenceText>
+</Sentence>
+<Sentence id="4553" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Poor metabolizers demonstrate higher plasma concentrations of antipsychotic drugs at usual doses, which may correlate with emergence of side effects.</SentenceText>
+</Sentence>
+<Sentence id="4554" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>In one study of 45 elderly patients suffering from dementia treated with perphenazine, the 5 patients who were prospectively identified as poor P450 2D6 metabolizers had reported significantly greater side effects during the first 10 days of treatment than the 40 extensive metabolizers, following which the groups tended to converge.</SentenceText>
+</Sentence>
+<Sentence id="4555" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Prospective phenotyping of elderly patients prior to antipsychotic treatment may identify those at risk for adverse events.</SentenceText>
+</Sentence>
+<Sentence id="4556" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>The concomitant administration of other drugs that inhibit the activity of P450 2D6 may acutely increase plasma concentrations of antipsychotics.</SentenceText>
+<Mention id="M1" type="Trigger" span="96 30" str="increase plasma concentrations"/>
+<Mention id="M2" type="Precipitant" span="40 18;75 8" str="drugs that inhibit | P450 2D6" code="NONE"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M1" precipitant="M2" effect="C54355"/>
+</Sentence>
+<Sentence id="4557" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Among these are tricyclic antidepressants and selective serotonin reuptake inhibitors, e.g., fluoxetine, sertraline and paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="4558" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>When prescribing these drugs to patients already receiving antipsychotic therapy, close monitoring is essential and dose reduction may become necessary to avoid toxicity.</SentenceText>
+</Sentence>
+<Sentence id="4559" LabelDrug="Perphenazine" section="34073-7">
+<SentenceText>Lower doses than usually prescribed for either the antipsychotic or the other drug may be required.</SentenceText>
+</Sentence>
+<Sentence id="4560" LabelDrug="Perphenazine" section="34090-1">
+<SentenceText>Following oral administration of perphenazine tablets, mean peak plasma perphenazine concentrations were observed between 1 to 3 hours.</SentenceText>
+</Sentence>
+<Sentence id="4561" LabelDrug="Perphenazine" section="34090-1">
+<SentenceText>The plasma elimination half-life of perphenazine was independent of dose and ranged between 9 and 12 hours.</SentenceText>
+</Sentence>
+<Sentence id="4562" LabelDrug="Perphenazine" section="34090-1">
+<SentenceText>In a study in which normal volunteers (n=12) received perphenazine 4 mg q8h for 5 days, steady-state concentrations of perphenazine were reached within 72 hours.</SentenceText>
+</Sentence>
+<Sentence id="4563" LabelDrug="Perphenazine" section="34090-1">
+<SentenceText>Mean (%CV) Cmax and Cmin values for perphenazine and 7-hydroxyperphenazine at steady-state are listed below: Parameter Perphenazine 7-Hydroxyperphenazine Cmax (pg/mL) 984 (43) 509 (25) Cmin (pg/mL) 442 (76) 350 (56) Peak 7-hydroxyperphenazine concentrations were observed between 2 to 4 hours with a terminal phase half-life ranging between 9.9 to 18.8 hours.</SentenceText>
+</Sentence>
+<Sentence id="4564" LabelDrug="Perphenazine" section="34090-1">
+<SentenceText>Perphenazine is extensively metabolized in the liver to a number of metabolites by sulfoxidation, hydroxylation, dealkylation, and glucuronidation.</SentenceText>
+</Sentence>
+<Sentence id="4565" LabelDrug="Perphenazine" section="34090-1">
+<SentenceText>The pharmacokinetics of perphenazine covary with the hydroxylation of debrisoquine which is mediated by cytochrome P450 2D6 (CYP 2D6) and thus is subject to genetic polymorphism—i.e., 7% to 10% of Caucasians and a low percentage of Asians have little or no activity and are called “poor metabolizers.” Poor metabolizers of CYP 2D6 will metabolize perphenazine more slowly and will experience higher concentrations compared with normal or “extensive” metabolizers.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that inhibit | p450 2d6" precipitantCode="NONE" effect="C54355"/>
+
+</LabelInteractions></Label>

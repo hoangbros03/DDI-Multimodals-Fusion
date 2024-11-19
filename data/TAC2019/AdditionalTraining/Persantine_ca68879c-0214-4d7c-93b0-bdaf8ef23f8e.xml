@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Persantine" setid="ca68879c-0214-4d7c-93b0-bdaf8ef23f8e">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Hypersensitivity to dipyridamole and any of the other components.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+Adjunctive Use in Prophylaxis of Thromboembolism after Cardiac Valve Replacement. The recommended dose is 75-100 mg four times daily as an adjunct to the usual warfarin therapy. Please note that aspirin is not to be administered concomitantly with coumarin anticoagulants.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Coronary Artery Disease: Dipyridamole has a vasodilatory effect and should be used with caution in patients with severe coronary artery disease (e.g., unstable angina or recently sustained myocardial infarction). Chest pain maybe aggravated in patients with underlying coronary artery disease who are receiving dipyridamole.   Hepatic Insufficiency: Elevations of hepatic enzymes and hepatic failure have been reported in association with dipyridamole administration.   Hypotension: Dipyridamole should be used with caution in patients with hypotension since it can produce peripheral vasodilation.           Dipyridamole has been associated with elevated hepatic enzymes.          No pharmacokinetic drug-drug interaction studies were conducted with Persantine® (dipyridamole USP) tablets. The following information was obtained from the literature.   Adenosine: Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine. Adjustment of adenosine dosage may be necessary.   Cholinesterase Inhibitors: Dipyridamole may counteract the anticholinesterase effect of cholinesterase inhibitors, thereby potentially aggravating myasthenia gravis.          In studies in which dipyridamole was administered in the feed to mice (up to 111 weeks in males and females) and rats (up to 128 weeks in males and up to 142 weeks in females), there was no evidence of drug-related carcinogenesis . The highest dose administered in these studies (75 mg/kg/day) was, on a mg/m2 basis, about equivalent to the maximum recommended daily human oral dose (MRHD) in mice and about twice the MRHD in rats. Mutagenicity tests of dipyridamole with bacterial and mammalian cell systems were negative. There was no evidence of impaired fertility when dipyridamole was administered to male and female rats at oral doses up to 500 mg/kg/day (about 12 times the MRHD on a mg/m2 basis). A significant reduction in number of corpora lutea with consequent reduction in implantations and live fetuses was, however, observed at 1250 mg/kg (more than 30 times the MRHD on a mg/m2 basis).                Reproduction studies have been performed in mice, rabbits and rats at oral dipyridamole doses of up to 125 mg/kg, 40 mg/kg and 1000 mg/kg, respectively (about 1 ½, 2 and 25 times the maximum recommended daily human oraldose, respectively, on a mg/m2 basis) and have revealed no evidence of harm to the fetus due to dipyridamole. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, PERSANTINE tablets should be used during pregnancy only if clearly needed.            As dipyridamole is excreted in human milk, caution should be exercised when PERSANTINE tablets are administered to a nursing woman.          Safety and effectiveness in the pediatric population below the age of 12 years have not been established.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+It is believed that platelet reactivity and interaction with prosthetic cardiac valve surfaces, resulting in abnormally shortened platelet survival time, is a significant factor in thromboembolic complications occurring in connection with prosthetic heart valve replacement. PERSANTINE tablets have been found to lengthen abnormally shortened platelet survival time in a dose-dependent manner. In three randomized controlled clinical trials involving 854 patients who had undergone surgical placement of a prosthetic heart valve, PERSANTINE tablets, in combination with warfarin, decreased the incidence of postoperative thromboembolic events by 62 to 91% compared to warfarin treatment alone. The incidence of thromboembolic events in patients receiving the combination of PERSANTINE tablets and warfarin ranged from 1.2 to 1.8%. In three additional studies involving 392 patients taking PERSANTINE tablets and coumarin-like anticoagulants, the incidence of thromboembolic events ranged from 2.3 to 6.9%. In these trials, the coumarin anticoagulant was begun between 24 hours and 4 days postoperatively, and the Persantine® (dipyridamole USP) tablets were begun between 24 hours and 10 days postoperatively. The length of follow-up in these trials varied from 1 to 2 years. PERSANTINE tablets do not influence prothrombin time or activity measurements when administered with warfarin.        Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo; the inhibition occurs in a dose-dependent manner at therapeutic concentrations (0.5–1.9 μg/mL). This inhibition results in an increase in local concentrations of adenosine which acts on the platelet A2-receptor thereby stimulating platelet adenylate cyclase and increasing platelet cyclic-3',5'-adenosine monophosphate (cAMP) levels. Via this mechanism, platelet aggregation is inhibited in response to various stimuli such as platelet activating factor (PAF), collagen and adenosine diphosphate (ADP). Dipyridamole inhibits phosphodiesterase (PDE) in various tissues. While the inhibition of cAMP-PDE is weak, therapeutic levels of dipyridamole inhibit cyclic-3',5'-guanosine monophosphate-PDE (cGMP-PDE), thereby augmenting the increase in cGMP produced by EDRF (endothelium-derived relaxing factor, now identified as nitric oxide).          In dogs intraduodenal doses of dipyridamole of 0.5 to 4.0 mg/kg produced dose-related decreases in systemic and coronary vascular resistance leading to decreases in systemic blood pressure and increases in coronary blood flow.Onset of action was in about 24 minutes and effects persisted for about 3 hours. Similar effects were observed following IV PERSANTINE® in doses ranging from 0.025 to 2.0 mg/kg. In man the same qualitative hemodynamic effects have been observed. However, acute intravenous administration of PERSANTINE may worsen regional myocardial perfusion distal to partial occlusion of coronary arteries.          Following an oral dose of PERSANTINE tablets, the average time to peak concentration is about 75 minutes. The decline in plasma concentration following a dose of PERSANTINE tablets fits a two-compartment model. The alpha half-life (the initial decline following peak concentration) is approximately 40 minutes. The beta half-life (the terminal decline in plasma concentration) is approximately 10 hours. Dipyridamole is highly bound to plasma proteins. It is metabolized in the liver where it is conjugated as a glucuronide and excreted with the bile.</Section>
+</Text><Sentences>
+<Sentence id="5021" LabelDrug="Persantine" section="34070-3">
+<SentenceText>Hypersensitivity to dipyridamole and any of the other components.</SentenceText>
+</Sentence>
+<Sentence id="5022" LabelDrug="Persantine" section="34068-7">
+<SentenceText>Adjunctive Use in Prophylaxis of Thromboembolism after Cardiac Valve Replacement.</SentenceText>
+</Sentence>
+<Sentence id="5023" LabelDrug="Persantine" section="34068-7">
+<SentenceText>The recommended dose is 75-100 mg four times daily as an adjunct to the usual warfarin therapy.</SentenceText>
+</Sentence>
+<Sentence id="5024" LabelDrug="Persantine" section="34068-7">
+<SentenceText>Please note that aspirin is not to be administered concomitantly with coumarin anticoagulants.</SentenceText>
+<Mention id="M1" type="Trigger" span="28 22" str="not to be administered"/>
+<Mention id="M2" type="Precipitant" span="17 7" str="aspirin" code="R16CO5Y76E"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="5025" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Coronary Artery Disease: Dipyridamole has a vasodilatory effect and should be used with caution in patients with severe coronary artery disease (e.g., unstable angina or recently sustained myocardial infarction).</SentenceText>
+</Sentence>
+<Sentence id="5026" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Chest pain may be aggravated in patients with underlying coronary artery disease who are receiving dipyridamole.</SentenceText>
+</Sentence>
+<Sentence id="5027" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Hepatic Insufficiency: Elevations of hepatic enzymes and hepatic failure have been reported in association with dipyridamole administration.</SentenceText>
+</Sentence>
+<Sentence id="5028" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Hypotension: Dipyridamole should be used with caution in patients with hypotension since it can produce peripheral vasodilation.</SentenceText>
+</Sentence>
+<Sentence id="5029" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Dipyridamole has been associated with elevated hepatic enzymes.</SentenceText>
+</Sentence>
+<Sentence id="5030" LabelDrug="Persantine" section="42232-9">
+<SentenceText>No pharmacokinetic drug-drug interaction studies were conducted with Persantine® (dipyridamole USP) tablets.</SentenceText>
+</Sentence>
+<Sentence id="5031" LabelDrug="Persantine" section="42232-9">
+<SentenceText>The following information was obtained from the literature.</SentenceText>
+</Sentence>
+<Sentence id="5032" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Adenosine: Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine.</SentenceText>
+<Mention id="M3" type="Trigger" span="45 8;91 7" str="increase | effects"/>
+<Mention id="M7" type="Precipitant" span="102 9" str="adenosine" code="K72T3FS567"/>
+<Mention id="M5" type="SpecificInteraction" span="45 8;76 22" str="increase | cardiovascular effects" code="111970001: Abnormal cardiovascular function (finding)"/>
+<Mention id="M6" type="Trigger" span="45 26" str="increase the plasma levels"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M3" precipitant="M7" effect="M5"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M6" precipitant="M7" effect="C54357"/>
+</Sentence>
+<Sentence id="5033" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Adjustment of adenosine dosage may be necessary.</SentenceText>
+<Mention id="M8" type="Trigger" span="0 10;24 6" str="Adjustment | dosage"/>
+<Mention id="M9" type="Precipitant" span="14 9" str="adenosine" code="K72T3FS567"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M8" precipitant="M9"/>
+</Sentence>
+<Sentence id="5034" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Cholinesterase Inhibitors: Dipyridamole may counteract the anticholinesterase effect of cholinesterase inhibitors, thereby potentially aggravating myasthenia gravis.</SentenceText>
+<Mention id="M10" type="Trigger" span="135 11" str="aggravating"/>
+<Mention id="M14" type="Precipitant" span="88 25" str="cholinesterase inhibitors" code="N0000175723"/>
+<Mention id="M12" type="SpecificInteraction" span="135 29" str="aggravating myasthenia gravis" code="91637004: Myasthenia gravis (disorder)"/>
+<Mention id="M13" type="Trigger" span="44 10;78 6" str="counteract | effect"/>
+<Mention id="M15" type="SpecificInteraction" span="44 40" str="counteract the anticholinesterase effect" code="NO MAP"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M10" precipitant="M14" effect="M12"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M13" precipitant="M14" effect="M15"/>
+</Sentence>
+<Sentence id="5035" LabelDrug="Persantine" section="42232-9">
+<SentenceText>In studies in which dipyridamole was administered in the feed to mice (up to 111 weeks in males and females) and rats (up to 128 weeks in males and up to 142 weeks in females), there was no evidence of drug-related carcinogenesis.</SentenceText>
+</Sentence>
+<Sentence id="5036" LabelDrug="Persantine" section="42232-9">
+<SentenceText>The highest dose administered in these studies (75 mg/kg/day) was, on a mg/m2 basis, about equivalent to the maximum recommended daily human oral dose (MRHD) in mice and about twice the MRHD in rats.</SentenceText>
+</Sentence>
+<Sentence id="5037" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Mutagenicity tests of dipyridamole with bacterial and mammalian cell systems were negative.</SentenceText>
+</Sentence>
+<Sentence id="5038" LabelDrug="Persantine" section="42232-9">
+<SentenceText>There was no evidence of impaired fertility when dipyridamole was administered to male and female rats at oral doses up to 500 mg/kg/day (about 12 times the MRHD on a mg/m2 basis).</SentenceText>
+</Sentence>
+<Sentence id="5039" LabelDrug="Persantine" section="42232-9">
+<SentenceText>A significant reduction in number of corpora lutea with consequent reduction in implantations and live fetuses was, however, observed at 1250 mg/kg (more than 30 times the MRHD on a mg/m2 basis).</SentenceText>
+</Sentence>
+<Sentence id="5040" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Reproduction studies have been performed in mice, rabbits and rats at oral dipyridamole doses of up to 125 mg/kg, 40 mg/kg and 1000 mg/kg, respectively (about 1 ½, 2 and 25 times the maximum recommended daily human oral dose, respectively, on a mg/m2 basis) and have revealed no evidence of harm to the fetus due to dipyridamole.</SentenceText>
+</Sentence>
+<Sentence id="5041" LabelDrug="Persantine" section="42232-9">
+<SentenceText>There are, however, no adequate and well-controlled studies in pregnant women.</SentenceText>
+</Sentence>
+<Sentence id="5042" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Because animal reproduction studies are not always predictive of human response, PERSANTINE tablets should be used during pregnancy only if clearly needed.</SentenceText>
+</Sentence>
+<Sentence id="5043" LabelDrug="Persantine" section="42232-9">
+<SentenceText>As dipyridamole is excreted in human milk, caution should be exercised when PERSANTINE tablets are administered to a nursing woman.</SentenceText>
+</Sentence>
+<Sentence id="5044" LabelDrug="Persantine" section="42232-9">
+<SentenceText>Safety and effectiveness in the pediatric population below the age of 12 years have not been established.</SentenceText>
+</Sentence>
+<Sentence id="5045" LabelDrug="Persantine" section="34090-1">
+<SentenceText>It is believed that platelet reactivity and interaction with prosthetic cardiac valve surfaces, resulting in abnormally shortened platelet survival time, is a significant factor in thromboembolic complications occurring in connection with prosthetic heart valve replacement.</SentenceText>
+</Sentence>
+<Sentence id="5046" LabelDrug="Persantine" section="34090-1">
+<SentenceText>PERSANTINE tablets have been found to lengthen abnormally shortened platelet survival time in a dose-dependent manner.</SentenceText>
+</Sentence>
+<Sentence id="5047" LabelDrug="Persantine" section="34090-1">
+<SentenceText>In three randomized controlled clinical trials involving 854 patients who had undergone surgical placement of a prosthetic heart valve, PERSANTINE tablets, in combination with warfarin, decreased the incidence of postoperative thromboembolic events by 62 to 91% compared to warfarin treatment alone.</SentenceText>
+</Sentence>
+<Sentence id="5048" LabelDrug="Persantine" section="34090-1">
+<SentenceText>The incidence of thromboembolic events in patients receiving the combination of PERSANTINE tablets and warfarin ranged from 1.2 to 1.8%.</SentenceText>
+</Sentence>
+<Sentence id="5049" LabelDrug="Persantine" section="34090-1">
+<SentenceText>In three additional studies involving 392 patients taking PERSANTINE tablets and coumarin-like anticoagulants, the incidence of thromboembolic events ranged from 2.3 to 6.9%.</SentenceText>
+</Sentence>
+<Sentence id="5050" LabelDrug="Persantine" section="34090-1">
+<SentenceText>In these trials, the coumarin anticoagulant was begun between 24 hours and 4 days postoperatively, and the Persantine® (dipyridamole USP) tablets were begun between 24 hours and 10 days postoperatively.</SentenceText>
+</Sentence>
+<Sentence id="5051" LabelDrug="Persantine" section="34090-1">
+<SentenceText>The length of follow-up in these trials varied from 1 to 2 years.</SentenceText>
+</Sentence>
+<Sentence id="5052" LabelDrug="Persantine" section="34090-1">
+<SentenceText>PERSANTINE tablets do not influence prothrombin time or activity measurements when administered with warfarin.</SentenceText>
+</Sentence>
+<Sentence id="5053" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo; the inhibition occurs in a dose-dependent manner at therapeutic concentrations (0.5–1.9 μg/mL).</SentenceText>
+</Sentence>
+<Sentence id="5054" LabelDrug="Persantine" section="34090-1">
+<SentenceText>This inhibition results in an increase in local concentrations of adenosine which acts on the platelet A2-receptor thereby stimulating platelet adenylate cyclase and increasing platelet cyclic-3',5'-adenosine monophosphate (cAMP) levels.</SentenceText>
+</Sentence>
+<Sentence id="5055" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Via this mechanism, platelet aggregation is inhibited in response to various stimuli such as platelet activating factor (PAF), collagen and adenosine diphosphate (ADP).</SentenceText>
+</Sentence>
+<Sentence id="5056" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Dipyridamole inhibits phosphodiesterase (PDE) in various tissues.</SentenceText>
+</Sentence>
+<Sentence id="5057" LabelDrug="Persantine" section="34090-1">
+<SentenceText>While the inhibition of cAMP-PDE is weak, therapeutic levels of dipyridamole inhibit cyclic-3',5'-guanosine monophosphate-PDE (cGMP-PDE), thereby augmenting the increase in cGMP produced by EDRF (endothelium-derived relaxing factor, now identified as nitric oxide).</SentenceText>
+</Sentence>
+<Sentence id="5058" LabelDrug="Persantine" section="34090-1">
+<SentenceText>In dogs intraduodenal doses of dipyridamole of 0.5 to 4.0 mg/kg produced dose-related decreases in systemic and coronary vascular resistance leading to decreases in systemic blood pressure and increases in coronary blood flow.</SentenceText>
+</Sentence>
+<Sentence id="5059" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Onset of action was in about 24 minutes and effects persisted for about 3 hours.</SentenceText>
+</Sentence>
+<Sentence id="5060" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Similar effects were observed following IV PERSANTINE® in doses ranging from 0.025 to 2.0 mg/kg.</SentenceText>
+</Sentence>
+<Sentence id="5061" LabelDrug="Persantine" section="34090-1">
+<SentenceText>In man the same qualitative hemodynamic effects have been observed.</SentenceText>
+</Sentence>
+<Sentence id="5062" LabelDrug="Persantine" section="34090-1">
+<SentenceText>However, acute intravenous administration of PERSANTINE may worsen regional myocardial perfusion distal to partial occlusion of coronary arteries.</SentenceText>
+</Sentence>
+<Sentence id="5063" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Following an oral dose of PERSANTINE tablets, the average time to peak concentration is about 75 minutes.</SentenceText>
+</Sentence>
+<Sentence id="5064" LabelDrug="Persantine" section="34090-1">
+<SentenceText>The decline in plasma concentration following a dose of PERSANTINE tablets fits a two-compartment model.</SentenceText>
+</Sentence>
+<Sentence id="5065" LabelDrug="Persantine" section="34090-1">
+<SentenceText>The alpha half-life (the initial decline following peak concentration) is approximately 40 minutes.</SentenceText>
+</Sentence>
+<Sentence id="5066" LabelDrug="Persantine" section="34090-1">
+<SentenceText>The beta half-life (the terminal decline in plasma concentration) is approximately 10 hours.</SentenceText>
+</Sentence>
+<Sentence id="5067" LabelDrug="Persantine" section="34090-1">
+<SentenceText>Dipyridamole is highly bound to plasma proteins.</SentenceText>
+</Sentence>
+<Sentence id="5068" LabelDrug="Persantine" section="34090-1">
+<SentenceText>It is metabolized in the liver where it is conjugated as a glucuronide and excreted with the bile.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="aspirin" precipitantCode="R16CO5Y76E"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="adenosine" precipitantCode="K72T3FS567" effect="111970001: Abnormal cardiovascular function (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="adenosine" precipitantCode="K72T3FS567" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="adenosine" precipitantCode="K72T3FS567"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cholinesterase inhibitors" precipitantCode="N0000175723" effect="91637004: Myasthenia gravis (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cholinesterase inhibitors" precipitantCode="N0000175723" effect="NO MAP"/>
+
+</LabelInteractions></Label>

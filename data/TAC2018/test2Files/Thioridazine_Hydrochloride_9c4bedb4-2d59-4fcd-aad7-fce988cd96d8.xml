@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Thioridazine Hydrochloride" setid="9c4bedb4-2d59-4fcd-aad7-fce988cd96d8">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The basic pharmacological activity of thioridazine is similar to that of other phenothiazines, but is associated with minimal extrapyramidal stimulation.  However, thioridazine has been shown to prolong the QTc interval in a dose dependent fashion. This effect may increase the risk of serious, potentially fatal, ventricular arrhythmias, such as Torsades de pointes type arrhythmias. Due to this risk, thioridazine is indicated only for schizophrenic patients who have not been responsive to or cannot tolerate other antipsychotic agents (see WARNINGS and CONTRAINDICATIONS ). However, the prescriber should be aware that thioridazine has not been systematically evaluated in controlled trials in treatment refractory schizophrenic patients and its efficacy in such patients is unknown.</Section>
+</Text><Sentences>
+<Sentence id="1725" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Reduced cytochrome P450 2D6 isozyme activity, drugs which inhibit this isozyme (e.g., fluoxetine and paroxetine), and certain other drugs (e.g., fluvoxamine, propranolol, and pindolol) appear to appreciably inhibit the metabolism of thioridazine.</SentenceText>
+</Sentence>
+<Sentence id="1726" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>The resulting elevated levels of thioridazine would be expected to augment the prolongation of the QTc interval associated with thioridazine and may increase the risk of serious, potentially fatal, cardiac arrhythmias, such as Torsades de pointes type arrhythmias.</SentenceText>
+</Sentence>
+<Sentence id="1727" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Such an increased risk may result also from the additive effect of coadministering thioridazine with other agents that prolong the QTc interval.</SentenceText>
+</Sentence>
+<Sentence id="1728" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Therefore, thioridazine is contraindicated with these drugs as well as in patients, comprising about 7% of the normal population, who are known to have a genetic defect leading to reduced levels of activity of P450 2D6.</SentenceText>
+</Sentence>
+<Sentence id="1729" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared to rapid hydroxylators.</SentenceText>
+</Sentence>
+<Sentence id="1730" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>The rate of debrisoquin hydroxylation is felt to depend on the level of cytochrome P450 2D6 isozyme activity.</SentenceText>
+</Sentence>
+<Sentence id="1731" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Thus, this study suggests that drugs that inhibit P450 2D6 or the presence of reduced activity levels of this isozyme will produce elevated plasma levels of thioridazine.</SentenceText>
+</Sentence>
+<Sentence id="1732" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Therefore, the coadministration of drugs that inhibit P450 2D6 with thioridazine and the use of thioridazine in patients known to have reduced activity of P450 2D6 are contraindicated. for one week) on thioridazine steady-state concentration was evaluated in ten male inpatients with schizophrenia.</SentenceText>
+</Sentence>
+<Sentence id="1733" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Concentrations of thioridazine and its two active metabolites, mesoridazine and sulforidazine, increased 3-fold following coadministration of fluvoxamine.</SentenceText>
+</Sentence>
+<Sentence id="1734" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Fluvoxamine and thioridazine should not be coadministered.</SentenceText>
+</Sentence>
+<Sentence id="1735" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Concurrent administration of propranolol (100 to 800 mg daily) has been reported to produce increases in plasma levels of thioridazine (approximately 50% to 400%) and its metabolites (approximately 80% to 300%).</SentenceText>
+</Sentence>
+<Sentence id="1736" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Propranolol and thioridazine should not be coadministered.</SentenceText>
+</Sentence>
+<Sentence id="1737" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Concurrent administration of pindolol and thioridazine have resulted in moderate, dose related increases in the serum levels of thioridazine and two of its metabolites, as well as higher than expected serum pindolol levels.</SentenceText>
+</Sentence>
+<Sentence id="1738" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>Pindolol and thioridazine should not be coadministered.</SentenceText>
+</Sentence>
+<Sentence id="1739" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>There are no studies of the coadministration of thioridazine and other drugs that prolong the QTc interval.</SentenceText>
+</Sentence>
+<Sentence id="1740" LabelDrug="Thioridazine Hydrochloride" section="34073-7">
+<SentenceText>However, it is expected that such coadministration would produce additive prolongation of the QTc interval and, thus, such use is contraindicated.</SentenceText>
+</Sentence>
+<Sentence id="1741" LabelDrug="Thioridazine Hydrochloride" section="34090-1">
+<SentenceText>The basic pharmacological activity of thioridazine is similar to that of other phenothiazines, but is associated with minimal extrapyramidal stimulation.</SentenceText>
+</Sentence>
+<Sentence id="1742" LabelDrug="Thioridazine Hydrochloride" section="34090-1">
+<SentenceText>However, thioridazine has been shown to prolong the QTc interval in a dose dependent fashion.</SentenceText>
+</Sentence>
+<Sentence id="1743" LabelDrug="Thioridazine Hydrochloride" section="34090-1">
+<SentenceText>This effect may increase the risk of serious, potentially fatal, ventricular arrhythmias, such as Torsades de pointes type arrhythmias.</SentenceText>
+</Sentence>
+<Sentence id="1744" LabelDrug="Thioridazine Hydrochloride" section="34090-1">
+<SentenceText>Due to this risk, thioridazine is indicated only for schizophrenic patients who have not been responsive to or cannot tolerate other antipsychotic agents.</SentenceText>
+</Sentence>
+<Sentence id="1745" LabelDrug="Thioridazine Hydrochloride" section="34090-1">
+<SentenceText>However, the prescriber should be aware that thioridazine has not been systematically evaluated in controlled trials in treatment refractory schizophrenic patients and its efficacy in such patients is unknown.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

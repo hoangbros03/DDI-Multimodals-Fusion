@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Triprolidine Hydrochloride" setid="fd834576-3f5c-4c77-bd42-a45966f60a41">
+<Text><Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+take every 4 to 6 hours do not take more than 4 doses in 24 hours or as directed by a doctor. do not give more than directed or exceed the recommended daily dosage use only with enclosed dropper do not use enclosed dropper for any other drug product Adults and children 12 years of age and over 4 mL (2.5 mg) Children 6 to under 12 years of age 2 mL (1.25 mg) Children under 6 years of age ask a doctor</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+May cause excitability, especially in children if you or your children are taking sedatives or tranquilizers, without first consulting your doctor with any other product containing triprolidine glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland do not use more than directed may cause drowsiness avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery nervousness, dizziness or sleeplessness occurs symptoms do not improve within 7 days or are accompanied by a fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.</Section>
+</Text><Sentences>
+<Sentence id="2853" LabelDrug="Triprolidine Hydrochloride" section="34068-7">
+<SentenceText>take every 4 to 6 hours do not take more than 4 doses in 24 hours or as directed by a doctor. do not give more than directed or exceed the recommended daily dosage use only with enclosed dropper do not use enclosed dropper for any other drug product Adults and children 12 years of age and over 4 mL (2.5 mg) Children 6 to under 12 years of age 2 mL (1.25 mg) Children under 6 years of age ask a doctor</SentenceText>
+</Sentence>
+<Sentence id="2854" LabelDrug="Triprolidine Hydrochloride" section="34071-1">
+<SentenceText>May cause excitability, especially in children if you or your children are taking sedatives or tranquilizers, without first consulting your doctor with any other product containing triprolidine glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland do not use more than directed may cause drowsiness avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery nervousness, dizziness or sleeplessness occurs symptoms do not improve within 7 days or are accompanied by a fever If pregnant or breast-feeding, ask a health professional before use.</SentenceText>
+<Mention id="M85" type="Trigger" span="444 8" str="increase "/>
+<Mention id="M86" type="Trigger" span="567 6" str=" occurs"/>
+<Mention id="M15" type="Precipitant" span="385 7" str="alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M73" type="SpecificInteraction" span="540 9" str="dizziness" code="404640003: Dizziness (finding)"/>
+<Mention id="M77" type="SpecificInteraction" span="368 10" str="drowsiness" code="271782001: Drowsy (finding)"/>
+<Mention id="M84" type="SpecificInteraction" span="527 11" str="nervousness" code="424196004: Feeling nervous (finding)"/>
+<Mention id="M88" type="SpecificInteraction" span="553 13" str="sleeplessness" code="193462001: Insomnia (disorder)"/>
+<Mention id="M31" type="Precipitant" span="385 16" str="alcoholic drinks" code="3K9958V90M"/>
+<Mention id="M78" type="Trigger" span="4 5" str="cause"/>
+<Mention id="M49" type="Precipitant" span="162 31" str="product containing triprolidine" code="2L8T9S52QM"/>
+<Mention id="M35" type="SpecificInteraction" span="205 17" str="breathing problem" code="386813002: Abnormal breathing (finding)"/>
+<Mention id="M38" type="SpecificInteraction" span="244 18" str="chronic bronchitis" code="63480004: Chronic bronchitis (disorder)"/>
+<Mention id="M41" type="SpecificInteraction" span="263 23" str="difficulty in urination" code="102835006: Difficulty passing urine (finding)"/>
+<Mention id="M44" type="SpecificInteraction" span="231 9" str="emphysema" code="NO MAP"/>
+<Mention id="M47" type="SpecificInteraction" span="294 33" str="enlargement of the prostate gland" code="433234005: Hyperplasia of prostate (disorder)"/>
+<Mention id="M50" type="SpecificInteraction" span="194 8" str="glaucoma" code="23986001: Glaucoma (disorder)"/>
+<Mention id="M68" type="Precipitant" span="82 9" str="sedatives" code="N0000029143 | N0000193842"/>
+<Mention id="M80" type="SpecificInteraction" span="10 12" str="excitability" code="102893002: Excitability (finding)"/>
+<Mention id="M87" type="Precipitant" span="95 13" str="tranquilizers" code="N0000029143 | N0000193842"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M15" effect="M73" effectCodeMatch="Exact"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M15" effect="M77" effectCodeMatch="Exact Match"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M15" effect="M84" effectCodeMatch="Exact Match"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M15" effect="M88" effectCodeMatch="Exact Match"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M31" effect="M73" effectCodeMatch="Exact"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M31" effect="M77" effectCodeMatch="Exact Match"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M31" effect="M84" effectCodeMatch="Exact Match"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M31" effect="M88" effectCodeMatch="Exact Match"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M78" precipitant="M49" effect="M35" effectCodeMatch="Exact Match"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M78" precipitant="M49" effect="M38" effectCodeMatch="Exact Match"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M78" precipitant="M49" effect="M41" effectCodeMatch="Exact Match"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M78" precipitant="M49" effect="M44" effectCodeMatch="NULL"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M78" precipitant="M49" effect="M47" effectCodeMatch="Exact Match"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M78" precipitant="M49" effect="M50" effectCodeMatch="Exact Match"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M68" effect="M73" effectCodeMatch="Exact"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M68" effect="M77" effectCodeMatch="Exact Match"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M78" precipitant="M68" effect="M80" effectCodeMatch="Exact Match"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M68" effect="M84" effectCodeMatch="Exact Match"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M68" effect="M88" effectCodeMatch="Exact Match"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M87" effect="M73" effectCodeMatch="Exact"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M87" effect="M77" effectCodeMatch="Exact Match"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M78" precipitant="M87" effect="M80" effectCodeMatch="Exact Match"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M87" effect="M84" effectCodeMatch="Exact Match"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M85;M86" precipitant="M87" effect="M88" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="2855" LabelDrug="Triprolidine Hydrochloride" section="34071-1">
+<SentenceText>In case of overdose, get medical help or contact a Poison Control Center right away.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="424196004: Feeling nervous (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcoholic drinks" precipitantCode="3K9958V90M" effect="424196004: Feeling nervous (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="product containing triprolidine" precipitantCode="2L8T9S52QM" effect="102835006: Difficulty passing urine (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="product containing triprolidine" precipitantCode="2L8T9S52QM" effect="23986001: Glaucoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="product containing triprolidine" precipitantCode="2L8T9S52QM" effect="386813002: Abnormal breathing (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="product containing triprolidine" precipitantCode="2L8T9S52QM" effect="433234005: Hyperplasia of prostate (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="product containing triprolidine" precipitantCode="2L8T9S52QM" effect="63480004: Chronic bronchitis (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="product containing triprolidine" precipitantCode="2L8T9S52QM" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="102893002: Excitability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="424196004: Feeling nervous (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="102893002: Excitability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="193462001: Insomnia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="271782001: Drowsy (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="424196004: Feeling nervous (finding)"/>
+
+</LabelInteractions></Label>

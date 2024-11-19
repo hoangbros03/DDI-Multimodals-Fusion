@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Inspra" setid="a55a39ff-1bd5-428b-a64f-c44262e2f3ed">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+For all patients:   Serum potassium &amp;gt;5.5 mEq/L at initiation (4) Creatinine clearance ≤30 mL/min (4) Concomitant use with strong CYP3A4 inhibitors (4, 7.1)   For the treatment of hypertension:   Type 2 diabetes with microalbuminuria (4) Serum creatinine &amp;gt;2.0 mg/dL in males, &amp;gt;1.8 mg/dL in females (4) Creatinine clearance &amp;lt;50 mL/min (4) Concomitant use of potassium supplements or potassium-sparing diuretics (4)           For All Patients  INSPRA is contraindicated in all patients with:  serum potassium &amp;gt;5.5 mEq/L at initiation, creatinine clearance ≤30 mL/min, or concomitant administration of strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, and nelfinavir). [See DRUG INTERACTIONS (7.1), CLINICAL PHARMACOLOGY (12.3).]             For Patients Treated for Hypertension  INSPRA is contraindicated for the treatment of hypertension in patients with:  type 2 diabetes with microalbuminuria, serum creatinine &amp;gt;2.0 mg/dL in males or &amp;gt;1.8 mg/dL in females, creatinine clearance &amp;lt;50 mL/min, or concomitant administration of potassium supplements or potassium-sparing diuretics (e.g., amiloride, spironolactone, or triamterene). [See WARNINGS AND PRECAUTIONS (5.1), ADVERSE REACTIONS (6.2), DRUG INTERACTIONS (7), and CLINICAL PHARMACOLOGY (12.3).]</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+CHF Post-MI: Initiate treatment with 25 mg once daily. Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated. Dose adjustments may be required based on potassium levels. (2.1)  Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents. For inadequate response, increase to 50 mg twice daily. Higher dosages are not recommended. (2.2)  For all patients:  Measure serum potassium before starting INSPRA and periodically thereafter. (2.3)         Treatment should be initiated at 25 mg once daily and titrated to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient. INSPRA may be administered with or without food.  Once treatment with INSPRA has begun, adjust the dose based on the serum potassium level as shown in Table 1.  Table 1. Dose Adjustment in Congestive Heart Failure Post-MI      Serum Potassium(mEq/L) Action Dose Adjustment     &amp;lt; 5.0 Increase 25 mg every other day to 25 mg once daily25 mg once daily to 50 mg once daily   5.0–5.4 Maintain No adjustment   5.5–5.9 Decrease 50 mg once daily to 25 mg once daily25 mg once daily to 25 mg every other day25 mg every other day to withhold   ≥ 6.0 Withhold Restart at 25 mg every other day when potassium levels fall to &amp;lt;5.5 mEq/L             The recommended starting dose of INSPRA is 50 mg administered once daily. The full therapeutic effect of INSPRA is apparent within 4 weeks. For patients with an inadequate blood pressure response to 50 mg once daily the dosage of INSPRA should be increased to 50 mg twice daily. Higher dosages of INSPRA are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia. [See CLINICAL STUDIES (14.2).]           Serum potassium should be measured before initiating INSPRA therapy, within the first week, and at one month after the start of treatment or dose adjustment. Serum potassium should be assessed periodically thereafter. Patient characteristics and serum potassium levels may indicate that additional monitoring is appropriate. [See WARNINGS AND PRECAUTIONS (5.1), ADVERSE REACTIONS (6.2).] In the EPHESUS study [See CLINICAL STUDIES (14.1)], the majority of hyperkalemia was observed within the first three months after randomization.  In all patients taking INSPRA who start taking a moderate CYP3A4 inhibitor, check serum potassium and serum creatinine in 3–7 days.          For hypertensive patients receiving moderate CYP3A4 inhibitors (e.g., erythromycin, saquinavir, verapamil, and fluconazole), the starting dose of INSPRA should be reduced to 25 mg once daily. [See DRUG INTERACTIONS (7.1).]  No adjustment of the starting dose is recommended for the elderly or for patients with mild-to-moderate hepatic impairment. [See CLINICAL PHARMACOLOGY (12.3).]</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+CYP3A4 Inhibitors: Reduce the starting dose for hypertension to 25 mg once daily when used with moderate CYP3A4 inhibitors (e.g., verapamil, erythromycin, saquinavir, fluconazole). (2.4, 7.1, 12.3)          Because eplerenone metabolism is predominantly mediated via CYP3A4, do not use INSPRA with drugs that are strong inhibitors of CYP3A4. [See CONTRAINDICATIONS (4) and CLINICAL PHARMACOLOGY (12.3).]  In patients with hypertension taking moderate CYP3A4 inhibitors, reduce the starting dose of INSPRA to 25 mg once daily. [See DOSAGE AND ADMINISTRATION (2.3,  2.4) and CLINICAL PHARMACOLOGY (12.3).]            The risk of hyperkalaemia may increase when eplerenone is used in combination with an angiotensin converting enzyme (ACE) inhibitor and/or an angiotensin receptor blocker (ARB). A close monitoring of serum potassium and renal function is recommended, especially in patients at risk for impaired renal function, e.g., the elderly. [see WARNINGS AND PRECAUTIONS (5.1)]   Congestive Heart Failure Post-Myocardial Infarction  In EPHESUS [see CLINICAL STUDIES (14.1)], 3020 (91%) patients receiving INSPRA 25 to 50 mg also received ACE inhibitors or angiotensin II receptor antagonists (ACEI/ARB). Rates of patients with maximum potassium levels &amp;gt;5.5 mEq/L were similar regardless of the use of ACEI/ARB.  Hypertension  In clinical studies of patients with hypertension, the addition of INSPRA 50 to 100 mg to ACE inhibitors and angiotensin II receptor antagonists increased mean serum potassium slightly (about 0.09–0.13 mEq/L). In a study in diabetics with microalbuminuria, INSPRA 200 mg combined with the ACE inhibitor enalapril 10 mg increased the frequency of hyperkalemia (serum potassium &amp;gt;5.5 mEq/L) from 17% on enalapril alone to 38%.          A drug interaction study of eplerenone with lithium has not been conducted. Lithium toxicity has been reported in patients receiving lithium concomitantly with diuretics and ACE inhibitors. Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.          A drug interaction study of eplerenone with an NSAID has not been conducted. The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function. Therefore, when INSPRA and NSAIDs are used concomitantly, patients should be observed to determine whether the desired effect on blood pressure is obtained and monitored for changes in serum potassium levels.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Hyperkalemia: Patients with decreased renal function and diabetics with proteinuria are at increased risk. Proper patient selection and monitoring and avoiding certain concomitant medications can minimize the risk. (5.1)          Minimize the risk of hyperkalemia with proper patient selection and monitoring, and avoidance of certain concomitant medications [See CONTRAINDICATIONS (4), ADVERSE REACTIONS (6.2), and DRUG INTERACTIONS (7)]. Monitor patients for the development of hyperkalemia until the effect of INSPRA is established. Patients who develop hyperkalemia (&amp;gt;5.5 mEq/L) may continue INSPRA therapy with proper dose adjustment. Dose reduction decreases potassium levels. [See DOSAGE AND ADMINISTRATION (2.1).]  The rates of hyperkalemia increase with declining renal function. [See ADVERSE REACTIONS (6.2).] Patients with hypertension who have serum creatinine levels &amp;gt;2.0 mg/dL (males) or &amp;gt;1.8 mg/dL (females) or creatinine clearance ≤50 mL/min should not be treated with INSPRA. [See CONTRAINDICTIONS (4).] Patients with CHF post-MI who have serum creatinine levels &amp;gt;2.0 mg/dL (males) or &amp;gt;1.8 mg/dL (females) or creatinine clearance ≤50mL/min should be treated with INSPRA with caution.   Diabetic patients with CHF post-MI should also be treated with caution, especially those with proteinuria. The subset of patients in the EPHESUS study with both diabetes and proteinuria on the baseline urinalysis had increased rates of hyperkalemia compared to patients with either diabetes or proteinuria. [See ADVERSE REACTIONS (6.2).]   The risk of hyperkalaemia may increase when eplerenone is used in combination with an angiotensin converting enzyme (ACE) inhibitor and/or an angiotensin receptor blocker (ARB). [See DRUG INTERACTIONS (7.2)]           Mild-to-moderate hepatic impairment did not increase the incidence of hyperkalemia. In 16 subjects with mild-to-moderate hepatic impairment who received 400 mg of eplerenone, no elevations of serum potassium above 5.5 mEq/L were observed. The mean increase in serum potassium was 0.12 mEq/L in patients with hepatic impairment and 0.13 mEq/L in normal controls. The use of INSPRA in patients with severe hepatic impairment has not been evaluated. [See CLINICAL PHARMACOLOGY (12.3).]           Patients with decreased renal function are at increased risk of hyperkalemia. [See CONTRAINDICATIONS (4),WARNINGS AND PRECAUTIONS (5.1), ADVERSE REACTIONS (6.1).]</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium. Aldosterone binds to mineralocorticoid receptors in both epithelial (e.g., kidney) and nonepithelial (e.g., heart, blood vessels, and brain) tissues and increases blood pressure through induction of sodium reabsorption and possibly other mechanisms.  Eplerenone has been shown to produce sustained increases in plasma renin and serum aldosterone, consistent with inhibition of the negative regulatory feedback of aldosterone on renin secretion. The resulting increased plasma renin activity and aldosterone circulating levels do not overcome the effects of eplerenone.  Eplerenone selectively binds to recombinant human mineralocorticoid receptors relative to its binding to recombinant human glucocorticoid, progesterone, and androgen receptors.          Eplerenone is cleared predominantly by cytochrome P450 (CYP) 3A4 metabolism, with an elimination half-life of 4 to 6 hours. Steady state is reached within 2 days. Absorption is not affected by food. Inhibitors of CYP3A4 (e.g., ketoconazole, saquinavir) increase blood levels of eplerenone.         Absorption and Distribution  Mean peak plasma concentrations of eplerenone are reached approximately 1.5 hours following oral administration. The absolute bioavailability of eplerenone is 69% following administration of a 100 mg oral tablet. Both peak plasma levels (Cmax) and area under the curve (AUC) are dose proportional for doses of 25 to 100 mg and less than proportional at doses above 100 mg. The plasma protein binding of eplerenone is about 50% and it is primarily bound to alpha 1-acid glycoproteins. The apparent volume of distribution at steady state ranged from 43 to 90 L. Eplerenone does not preferentially bind to red blood cells.            Metabolism and Excretion  Eplerenone metabolism is primarily mediated via CYP3A4. No active metabolites of eplerenone have been identified in human plasma.  Less than 5% of an eplerenone dose is recovered as unchanged drug in the urine and feces. Following a single oral dose of radiolabeled drug, approximately 32% of the dose was excreted in the feces and approximately 67% was excreted in the urine. The elimination half-life of eplerenone is approximately 4 to 6 hours. The apparent plasma clearance is approximately 10 L/hr.           Age, Gender, and Race  The pharmacokinetics of eplerenone at a dose of 100 mg once daily has been investigated in the elderly (≥65 years), in males and females, and in Blacks. At steady state, elderly subjects had increases in Cmax (22%) and AUC (45%) compared with younger subjects (18 to 45 years). The pharmacokinetics of eplerenone did not differ significantly between males and females. At steady state, Cmax was 19% lower and AUC was 26% lower in Blacks. [See DOSAGE AND ADMINISTRATION (2.4) and USE IN SPECIFIC POPULATIONS (8.5).]            Renal Impairment  The pharmacokinetics of eplerenone was evaluated in patients with varying degrees of renal impairment and in patients undergoing hemodialysis. Compared with control subjects, steady state AUC and Cmax were increased by 38% and 24%, respectively, in patients with severe renal impairment and were decreased by 26% and 3%, respectively, in patients undergoing hemodialysis. No correlation was observed between plasma clearance of eplerenone and creatinine clearance. Eplerenone is not removed by hemodialysis. [See WARNINGS AND PRECAUTIONS (5.3).]            Hepatic Impairment  The pharmacokinetics of eplerenone 400 mg has been investigated in patients with moderate (Child-Pugh Class B) hepatic impairment and compared with normal subjects. Steady state Cmax and AUC of eplerenone were increased by 3.6% and 42%, respectively.            Heart Failure  The pharmacokinetics of eplerenone 50 mg was evaluated in 8 patients with heart failure (NYHA classification II–IV) and 8 matched (gender, age, weight) healthy controls. Compared with the controls, steady state AUC and Cmax in patients with stable heart failure were 38% and 30% higher, respectively.            Drug-Drug Interactions [See DRUG INTERACTIONS (7).]  Eplerenone is metabolized primarily by CYP3A4. Inhibitors of CYP3A4 cause increased exposure [see DRUG INTERACTIONS (7.1)]. Drug-drug interaction studies were conducted with a 100 mg dose of eplerenone. A pharmacokinetic study evaluating the administration of a single dose of INSPRA 100 mg with ketoconazole 200 mg two times a day, a strong inhibitor of the CYP3A4 pathway, showed a 1.7-fold increase in Cmax of eplerenone and a 5.4-fold increase in AUC of eplerenone.  Administration of eplerenone with moderate CYP3A4 inhibitors (e.g., erythromycin 500 mg BID, verapamil 240 mg once daily, saquinavir 1200 mg three times a day, fluconazole 200 mg once daily) resulted in increases in Cmax of eplerenone ranging from 1.4- to 1.6-fold and AUC from 2.0- to 2.9-fold. Grapefruit juice caused only a small increase (about 25%) in exposure. Eplerenone is not an inhibitor of CYP1A2, CYP3A4, CYP2C19, CYP2C9, or CYP2D6. Eplerenone did not inhibit the metabolism of amiodarone, amlodipine, astemizole, chlorzoxazone, cisapride, dexamethasone, dextromethorphan, diclofenac, 17α-ethinyl estradiol, fluoxetine, losartan, lovastatin, mephobarbital, methylphenidate, methylprednisolone, metoprolol, midazolam, nifedipine, phenacetin, phenytoin, simvastatin, tolbutamide, triazolam, verapamil, and warfarin in vitro. Eplerenone is not a substrate or an inhibitor of P-Glycoprotein at clinically relevant doses. No clinically significant drug-drug pharmacokinetic interactions were observed when eplerenone was administered with cisapride, cyclosporine, digoxin, glyburide, midazolam, oral contraceptives (norethindrone/ethinyl estradiol), simvastatin, or warfarin. St. John's Wort (a CYP3A4 inducer) caused a small (about 30%) decrease in eplerenone AUC.  No significant changes in eplerenone pharmacokinetics were observed when eplerenone was administered with aluminum- and magnesium-containing antacids.</Section>
+</Text><Sentences>
+<Sentence id="1174" LabelDrug="Inspra" section="34070-3">
+<SentenceText>For all patients: Serum potassium &gt;5.5 mEq/L at initiation (4) Creatinine clearance ≤30 mL/min (4) Concomitant use with strong CYP3A inhibitors (4, 7.1) For the treatment of hypertension: Type 2 diabetes with microalbuminuria (4) Serum creatinine &gt;2.0 mg/dL in males, &gt;1.8 mg/dL in females (4) Creatinine clearance &lt;50 mL/min (4) Concomitant use of potassium supplements or potassium-sparing diuretics (4) For All Patients INSPRA is contraindicated in all patients with: serum potassium &gt;5.5 mEq/L at initiation, creatinine clearance ≤30 mL/min, or concomitant administration of strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, and nelfinavir).</SentenceText>
+</Sentence>
+<Sentence id="1175" LabelDrug="Inspra" section="34070-3">
+<SentenceText>For Patients Treated for Hypertension INSPRA is contraindicated for the treatment of hypertension in patients with: type 2 diabetes with microalbuminuria, serum creatinine &gt;2.0 mg/dL in males or &gt;1.8 mg/dL in females, creatinine clearance &lt;50 mL/min, or concomitant administration of potassium supplements or potassium-sparing diuretics (e.g., amiloride, spironolactone, or triamterene).</SentenceText>
+<Mention id="M9" type="Trigger" span="48 15" str="contraindicated"/>
+<Mention id="M2" type="Precipitant" span="344 9" str="amiloride" code="7DZO8EB0Z3"/>
+<Mention id="M4" type="Precipitant" span="284 21" str="potassium supplements" code="RWP5GA015D"/>
+<Mention id="M6" type="Precipitant" span="309 27" str="potassium-sparing diuretics" code="N0000175418"/>
+<Mention id="M8" type="Precipitant" span="355 14" str="spironolactone" code="27O7W4T232"/>
+<Mention id="M10" type="Precipitant" span="374 11" str="triamterene" code="WS821Z52LQ"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M9" precipitant="M2"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M9" precipitant="M4"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M9" precipitant="M6"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M9" precipitant="M8"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M9" precipitant="M10"/>
+</Sentence>
+<Sentence id="1176" LabelDrug="Inspra" section="34068-7">
+<SentenceText>HFrEF Post-MI: Initiate treatment with 25 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="1177" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Titrate to maximum of 50 mg once daily within 4 weeks, as tolerated.</SentenceText>
+</Sentence>
+<Sentence id="1178" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Dose adjustments may be required based on potassium levels.</SentenceText>
+</Sentence>
+<Sentence id="1179" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Hypertension: 50 mg once daily, alone or combined with other antihypertensive agents.</SentenceText>
+</Sentence>
+<Sentence id="1180" LabelDrug="Inspra" section="34068-7">
+<SentenceText>For inadequate response, increase to 50 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="1181" LabelDrug="Inspra" section="34068-7">
+<SentenceText>For all patients: Measure serum potassium before starting INSPRA and periodically thereafter.</SentenceText>
+</Sentence>
+<Sentence id="1182" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Initiate treatment at 25 mg once daily and titrate to the recommended dose of 50 mg once daily, preferably within 4 weeks as tolerated by the patient.</SentenceText>
+</Sentence>
+<Sentence id="1183" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Once treatment with INSPRA has begun, adjust the dose based on the serum potassium level as shown in Table 1.</SentenceText>
+</Sentence>
+<Sentence id="1184" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Dose Adjustment in Heart Failure Post-MI Serum Potassium (mEq/L) Dose Adjustment &lt;5.0 25 mg every other day to 25 mg once daily25 mg once daily to 50 mg once daily 5.0–5.4 No adjustment 5.5–5.9 50 mg once daily to 25 mg once daily25 mg once daily to 25 mg every other day25 mg every other day to withhold ≥6.0 Withhold and restart at 25 mg every other day when potassium levels fall to &lt;5.5 mEq/L The recommended starting dose of INSPRA is 50 mg administered once daily.</SentenceText>
+</Sentence>
+<Sentence id="1185" LabelDrug="Inspra" section="34068-7">
+<SentenceText>The full therapeutic effect of INSPRA is apparent within 4 weeks.</SentenceText>
+</Sentence>
+<Sentence id="1186" LabelDrug="Inspra" section="34068-7">
+<SentenceText>For patients with an inadequate blood pressure response to 50 mg once daily increase the dosage of INSPRA to 50 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="1187" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Higher dosages of INSPRA are not recommended because they have no greater effect on blood pressure than 100 mg and are associated with an increased risk of hyperkalemia.</SentenceText>
+</Sentence>
+<Sentence id="1188" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Measure serum potassium before initiating INSPRA therapy, within the first week, and at one month after the start of treatment or dose adjustment.</SentenceText>
+</Sentence>
+<Sentence id="1189" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Assess serum potassium periodically thereafter.</SentenceText>
+</Sentence>
+<Sentence id="1190" LabelDrug="Inspra" section="34068-7">
+<SentenceText>Check serum potassium and serum creatinine within 3–7 days of a patient initating a moderate CYP3A inhibitor ACE inhibitors, angiotensin-II blockers or non-steroidal-anti-inflammatories.</SentenceText>
+<Mention id="M32" type="Trigger" span="0 5" str="Check"/>
+<Mention id="M15" type="Precipitant" span="109 14" str="ACE inhibitors" code="N0000175562"/>
+<Mention id="M34" type="SpecificInteraction" span="6 15" str="serum potassium" code="24529006: Potassium disorder (disorder)"/>
+<Mention id="M31" type="SpecificInteraction" span="26 16" str="serum creatinine" code="166714005: Serum creatinine abnormal (finding)"/>
+<Mention id="M21" type="Precipitant" span="125 23" str="angiotensin-II blockers" code="N0000175561"/>
+<Mention id="M27" type="Precipitant" span="84 24" str="moderate CYP3A inhibitor" code="N0000191001"/>
+<Mention id="M33" type="Precipitant" span="152 33" str="non-steroidal-anti-inflammatories" code="N0000175722"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M32" precipitant="M15" effect="M34"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M32" precipitant="M15" effect="M31"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M32" precipitant="M21" effect="M31"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M32" precipitant="M21" effect="M34"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M32" precipitant="M27" effect="M31"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M32" precipitant="M27" effect="M34"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M32" precipitant="M33" effect="M31"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M32" precipitant="M33" effect="M34"/>
+</Sentence>
+<Sentence id="1191" LabelDrug="Inspra" section="34068-7">
+<SentenceText>In post-MI HFrEF patients receiving a moderate CYP3A inhibitor (e.g., erythromycin, saquinavir, verapamil, and fluconazole), do not exceed 25 mg once daily.</SentenceText>
+<Mention id="M43" type="Trigger" span="125 13" str="do not exceed"/>
+<Mention id="M36" type="Precipitant" span="70 12" str="erythromycin" code="63937KV33D"/>
+<Mention id="M38" type="Precipitant" span="111 11" str="fluconazole" code="8VZV102JFY"/>
+<Mention id="M40" type="Precipitant" span="38 24" str="moderate CYP3A inhibitor" code="N0000191001"/>
+<Mention id="M42" type="Precipitant" span="84 10" str="saquinavir" code="L3JE09KZ2F"/>
+<Mention id="M44" type="Precipitant" span="96 9" str="verapamil" code="CJ0O37KU29"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M43" precipitant="M36" effect="C54355"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M43" precipitant="M38" effect="C54355"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M43" precipitant="M40" effect="C54355"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M43" precipitant="M42" effect="C54355"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M43" precipitant="M44" effect="C54355"/>
+</Sentence>
+<Sentence id="1192" LabelDrug="Inspra" section="34068-7">
+<SentenceText>In patients with hypertension receiving a moderate CYP3A inhibitor, initiate at 25 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="1193" LabelDrug="Inspra" section="34068-7">
+<SentenceText>For inadequate blood pressure response, dosing may be increased to a maximum of 25 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="1194" LabelDrug="Inspra" section="34073-7">
+<SentenceText>CYP3A Inhibitors: In post-MI HFrEF patients do not exceed 25 mg once daily when used with moderate CYP3A inhibitors (e.g., verapamil, erythromycin, saquinavir, fluconazole).</SentenceText>
+<Mention id="M55" type="Trigger" span="44 13" str="do not exceed"/>
+<Mention id="M46" type="Precipitant" span="0 16" str="CYP3A Inhibitors" code="N0000191001"/>
+<Mention id="M48" type="Precipitant" span="134 12" str="erythromycin" code="63937KV33D"/>
+<Mention id="M50" type="Precipitant" span="160 11" str="fluconazole" code="8VZV102JFY"/>
+<Mention id="M52" type="Precipitant" span="90 25" str="moderate CYP3A inhibitors" code="N0000191001"/>
+<Mention id="M54" type="Precipitant" span="148 10" str="saquinavir" code="L3JE09KZ2F"/>
+<Mention id="M56" type="Precipitant" span="123 9" str="verapamil" code="CJ0O37KU29"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M55" precipitant="M46" effect="C54355"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M55" precipitant="M48" effect="C54355"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M55" precipitant="M50" effect="C54355"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M55" precipitant="M52" effect="C54355"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M55" precipitant="M54" effect="C54355"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M55" precipitant="M56" effect="C54355"/>
+</Sentence>
+<Sentence id="1195" LabelDrug="Inspra" section="34073-7">
+<SentenceText>In patients with hypertension initiate at 25 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="1196" LabelDrug="Inspra" section="34073-7">
+<SentenceText>Eplerenone metabolism is predominantly mediated via CYP3A.</SentenceText>
+</Sentence>
+<Sentence id="1197" LabelDrug="Inspra" section="34073-7">
+<SentenceText>Do not use INSPRA with drugs that are strong inhibitors of CYP3A.</SentenceText>
+<Mention id="M57" type="Trigger" span="0 10" str="Do not use"/>
+<Mention id="M58" type="Precipitant" span="38 26" str="strong inhibitors of CYP3A" code="N0000191001"/>
+<Interaction id="I25" type="Unspecified interaction" trigger="M57" precipitant="M58"/>
+</Sentence>
+<Sentence id="1198" LabelDrug="Inspra" section="34073-7">
+<SentenceText>In post-MI HFrEF patients taking a moderate CYP3A inhibitor, do not exceed 25 mg once daily.</SentenceText>
+<Mention id="M59" type="Trigger" span="61 13" str="do not exceed"/>
+<Mention id="M60" type="Precipitant" span="35 24" str="moderate CYP3A inhibitor" code="N0000191001"/>
+<Interaction id="I26" type="Pharmacokinetic interaction" trigger="M59" precipitant="M60" effect="C54355"/>
+</Sentence>
+<Sentence id="1199" LabelDrug="Inspra" section="34073-7">
+<SentenceText>In patients with hypertension taking a moderate CYP3A inhibitor, initiate at 25 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="1200" LabelDrug="Inspra" section="34073-7">
+<SentenceText>The risk of hyperkalaemia increase when eplerenone is used in combination with an ACE inhibitor and/or an ARB.</SentenceText>
+<Mention id="M64" type="Trigger" span="4 4;26 8" str="risk | increase"/>
+<Mention id="M62" type="Precipitant" span="82 13" str="ACE inhibitor" code="N0000175562"/>
+<Mention id="M66" type="SpecificInteraction" span="12 13" str="hyperkalaemia" code="14140009: Hyperkalemia (disorder)"/>
+<Mention id="M65" type="Precipitant" span="106 3" str="ARB" code="N0000175561"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M64" precipitant="M62" effect="M66"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M64" precipitant="M65" effect="M66"/>
+</Sentence>
+<Sentence id="1201" LabelDrug="Inspra" section="34073-7">
+<SentenceText>A close monitoring of serum potassium and renal function is recommended, especially in patients at risk for impaired renal function, e.g., the elderly.</SentenceText>
+</Sentence>
+<Sentence id="1202" LabelDrug="Inspra" section="34073-7">
+<SentenceText>A drug interaction study of eplerenone with lithium has not been conducted.</SentenceText>
+</Sentence>
+<Sentence id="1203" LabelDrug="Inspra" section="34073-7">
+<SentenceText>Lithium toxicity has been reported in patients receiving lithium concomitantly with diuretics and ACE inhibitors.</SentenceText>
+<Mention id="M67" type="Trigger" span="8 8" str="toxicity"/>
+<Mention id="M68" type="Precipitant" span="57 7" str="lithium" code="9FN79X2M3F"/>
+<Interaction id="I29" type="Unspecified interaction" trigger="M67" precipitant="M68"/>
+</Sentence>
+<Sentence id="1204" LabelDrug="Inspra" section="34073-7">
+<SentenceText>Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.</SentenceText>
+<Mention id="M69" type="Trigger" span="0 5;14 37" str="Serum | levels should be monitored frequently"/>
+<Mention id="M70" type="Precipitant" span="6 7" str="lithium" code="9FN79X2M3F"/>
+<Interaction id="I30" type="Unspecified interaction" trigger="M69" precipitant="M70"/>
+</Sentence>
+<Sentence id="1205" LabelDrug="Inspra" section="34073-7">
+<SentenceText>A drug interaction study of eplerenone with an NSAID has not been conducted.</SentenceText>
+</Sentence>
+<Sentence id="1206" LabelDrug="Inspra" section="34073-7">
+<SentenceText>The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function.</SentenceText>
+<Mention id="M71" type="Trigger" span="150 9" str="result in"/>
+<Mention id="M75" type="Precipitant" span="69 6" str="NSAIDs" code="N0000175722"/>
+<Mention id="M73" type="SpecificInteraction" span="160 19" str="severe hyperkalemia" code="14140009: Hyperkalemia (disorder)"/>
+<Mention id="M74" type="Trigger" span="94 6;122 6" str="reduce | effect"/>
+<Mention id="M76" type="SpecificInteraction" span="94 34" str="reduce the antihypertensive effect" code="NO MAP"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M71" precipitant="M75" effect="M73"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M74" precipitant="M75" effect="M76"/>
+</Sentence>
+<Sentence id="1207" LabelDrug="Inspra" section="34073-7">
+<SentenceText>Therefore, when INSPRA and NSAIDs are used concomitantly, monitor blood pressure and serum potassium levels.</SentenceText>
+<Mention id="M80" type="Trigger" span="58 7" str="monitor"/>
+<Mention id="M81" type="Precipitant" span="27 6" str="NSAIDs" code="N0000175722"/>
+<Mention id="M79" type="SpecificInteraction" span="66 14" str="blood pressure" code="38936003: Abnormal blood pressure (finding)"/>
+<Mention id="M82" type="SpecificInteraction" span="85 22" str="serum potassium levels" code="24529006: Potassium disorder (disorder)"/>
+<Interaction id="I33" type="Pharmacodynamic interaction" trigger="M80" precipitant="M81" effect="M79"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M80" precipitant="M81" effect="M82"/>
+</Sentence>
+<Sentence id="1208" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Hyperkalemia: Patients with decreased renal function, diabetes, proteinuria or patients who are taking ACEs and ARBs, NSAIDs or moderate CYP3A inhibitors are at increased risk.</SentenceText>
+<Mention id="M92" type="Trigger" span="161 14" str="increased risk"/>
+<Mention id="M84" type="Precipitant" span="103 4" str="ACEs" code="NO MAP"/>
+<Mention id="M94" type="SpecificInteraction" span="-1 12" str="hyperkalemia" code="14140009: Hyperkalemia (disorder)"/>
+<Mention id="M87" type="Precipitant" span="112 4" str="ARBs" code="N0000175561"/>
+<Mention id="M90" type="Precipitant" span="128 25" str="moderate CYP3A inhibitors" code="N0000191001"/>
+<Mention id="M93" type="Precipitant" span="118 6" str="NSAIDs" code="N0000175722"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M92" precipitant="M84" effect="M94"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M92" precipitant="M87" effect="M94"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M92" precipitant="M90" effect="M94"/>
+<Interaction id="I38" type="Pharmacodynamic interaction" trigger="M92" precipitant="M93" effect="M94"/>
+</Sentence>
+<Sentence id="1209" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Monitor serum potassium levels and adjust dose as needed.</SentenceText>
+</Sentence>
+<Sentence id="1210" LabelDrug="Inspra" section="43685-7">
+<SentenceText>The risk of hyperkalemia is higher in patients with impaired renal function, proteinuria, diabetes and those concomitantly treated with ACEs, ARBs, NSAIDs and moderate CYP3A inhibitors.</SentenceText>
+<Mention id="M104" type="Trigger" span="4 4;28 6" str="risk | higher"/>
+<Mention id="M96" type="Precipitant" span="136 4" str="ACEs" code="NO MAP"/>
+<Mention id="M106" type="SpecificInteraction" span="12 12" str="hyperkalemia" code="14140009: Hyperkalemia (disorder)"/>
+<Mention id="M99" type="Precipitant" span="142 4" str="ARBs" code="N0000175561"/>
+<Mention id="M102" type="Precipitant" span="159 25" str="moderate CYP3A inhibitors" code="N0000191001"/>
+<Mention id="M105" type="Precipitant" span="148 6" str="NSAIDs" code="N0000175722"/>
+<Interaction id="I39" type="Pharmacodynamic interaction" trigger="M104" precipitant="M96" effect="M106"/>
+<Interaction id="I40" type="Pharmacodynamic interaction" trigger="M104" precipitant="M99" effect="M106"/>
+<Interaction id="I41" type="Pharmacodynamic interaction" trigger="M104" precipitant="M102" effect="M106"/>
+<Interaction id="I42" type="Pharmacodynamic interaction" trigger="M104" precipitant="M105" effect="M106"/>
+</Sentence>
+<Sentence id="1211" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Minimize the risk of hyperkalemia with proper patient selection and monitoring.</SentenceText>
+</Sentence>
+<Sentence id="1212" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Monitor patients for the development of hyperkalemia until the effect of INSPRA is established.</SentenceText>
+</Sentence>
+<Sentence id="1213" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Patients who develop hyperkalemia (5.5–5.9 mEq/L) may continue INSPRA therapy with proper dose adjustment.</SentenceText>
+</Sentence>
+<Sentence id="1214" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Dose reduction decreases potassium levels.</SentenceText>
+</Sentence>
+<Sentence id="1215" LabelDrug="Inspra" section="43685-7">
+<SentenceText>Patients on moderate CYP3A inhibitors that cannot be avoided should have their dose of eplerenone reduced.</SentenceText>
+<Mention id="M107" type="Trigger" span="79 4;98 7" str="dose | reduced"/>
+<Mention id="M108" type="Precipitant" span="12 25" str="moderate CYP3A inhibitors" code="N0000191001"/>
+<Interaction id="I43" type="Pharmacokinetic interaction" trigger="M107" precipitant="M108" effect="C54355"/>
+</Sentence>
+<Sentence id="1216" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS).</SentenceText>
+</Sentence>
+<Sentence id="1217" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium.</SentenceText>
+</Sentence>
+<Sentence id="1218" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Aldosterone binds to mineralocorticoid receptors in both epithelial (e.g., kidney) and nonepithelial (e.g., heart, blood vessels, and brain) tissues and increases blood pressure through induction of sodium reabsorption and possibly other mechanisms.</SentenceText>
+</Sentence>
+<Sentence id="1219" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone has been shown to produce sustained increases in plasma renin and serum aldosterone, consistent with inhibition of the negative regulatory feedback of aldosterone on renin secretion.</SentenceText>
+</Sentence>
+<Sentence id="1220" LabelDrug="Inspra" section="34090-1">
+<SentenceText>The resulting increased plasma renin activity and aldosterone circulating levels do not overcome the effects of eplerenone.</SentenceText>
+</Sentence>
+<Sentence id="1221" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone selectively binds to human mineralocorticoid receptors relative to its binding to recombinant human glucocorticoid, progesterone, and androgen receptors.</SentenceText>
+</Sentence>
+<Sentence id="1222" LabelDrug="Inspra" section="34090-1">
+<SentenceText>There was no significant change in average heart rate among patients treated with INSPRA in the combined clinical studies.</SentenceText>
+</Sentence>
+<Sentence id="1223" LabelDrug="Inspra" section="34090-1">
+<SentenceText>No consistent effects of INSPRA on heart rate, QRS duration, or PR or QT interval were observed in 147 normal subjects evaluated for electrocardiographic changes during pharmacokinetic studies.</SentenceText>
+</Sentence>
+<Sentence id="1224" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone is cleared predominantly by cytochrome P450 (CYP) 3A4 metabolism, with an elimination half-life of 3 to 6 hours.</SentenceText>
+</Sentence>
+<Sentence id="1225" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Inhibitors of CYP3A (e.g., ketoconazole, saquinavir) increase blood levels of eplerenone.</SentenceText>
+<Mention id="M113" type="Trigger" span="53 21" str="increase blood levels"/>
+<Mention id="M110" type="Precipitant" span="0 19" str="Inhibitors of CYP3A" code="N0000191001"/>
+<Mention id="M112" type="Precipitant" span="27 12" str="ketoconazole" code="R9400W927I"/>
+<Mention id="M114" type="Precipitant" span="41 10" str="saquinavir" code="L3JE09KZ2F"/>
+<Interaction id="I44" type="Pharmacokinetic interaction" trigger="M113" precipitant="M110" effect="C54355"/>
+<Interaction id="I45" type="Pharmacokinetic interaction" trigger="M113" precipitant="M112" effect="C54355"/>
+<Interaction id="I46" type="Pharmacokinetic interaction" trigger="M113" precipitant="M114" effect="C54355"/>
+</Sentence>
+<Sentence id="1226" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Absorption and Distribution Mean peak plasma concentrations of eplerenone are reached approximately 1.5 to 2 hours following oral administration.</SentenceText>
+</Sentence>
+<Sentence id="1227" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Absorption is not affected by food.The absolute bioavailability of eplerenone is 69% following administration of a 100 mg oral tablet.</SentenceText>
+</Sentence>
+<Sentence id="1228" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Both peak plasma levels (Cmax) and area under the curve (AUC) are dose proportional for doses of 25 mg to 100 mg and less than proportional at doses above 100 mg.</SentenceText>
+</Sentence>
+<Sentence id="1229" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Upon repeat dosing, steady state levels are reached within 2 days.</SentenceText>
+</Sentence>
+<Sentence id="1230" LabelDrug="Inspra" section="34090-1">
+<SentenceText>The plasma protein binding of eplerenone is about 50% and it is primarily bound to alpha 1-acid glycoproteins.</SentenceText>
+</Sentence>
+<Sentence id="1231" LabelDrug="Inspra" section="34090-1">
+<SentenceText>The apparent volume of distribution at steady state ranged from 42 to 90 L. Eplerenone does not preferentially bind to red blood cells.</SentenceText>
+</Sentence>
+<Sentence id="1232" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Metabolism and Excretion Eplerenone metabolism is primarily mediated via CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="1233" LabelDrug="Inspra" section="34090-1">
+<SentenceText>No active metabolites of eplerenone have been identified in human plasma.</SentenceText>
+</Sentence>
+<Sentence id="1234" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Less than 5% of an eplerenone dose is recovered as unchanged drug in the urine and feces.</SentenceText>
+</Sentence>
+<Sentence id="1235" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Following a single oral dose of radiolabeled drug, approximately 32% of the dose was excreted in the feces and approximately 67% was excreted in the urine.</SentenceText>
+</Sentence>
+<Sentence id="1236" LabelDrug="Inspra" section="34090-1">
+<SentenceText>The elimination half-life of eplerenone is approximately 3 to 6 hours.</SentenceText>
+</Sentence>
+<Sentence id="1237" LabelDrug="Inspra" section="34090-1">
+<SentenceText>The apparent plasma clearance is approximately 10 L/hr.</SentenceText>
+</Sentence>
+<Sentence id="1238" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Age, Gender, and Race The pharmacokinetics of eplerenone at a dose of 100 mg once daily has been investigated in the elderly (≥65 years), in males and females, and in Blacks.</SentenceText>
+</Sentence>
+<Sentence id="1239" LabelDrug="Inspra" section="34090-1">
+<SentenceText>At steady state, elderly subjects had increases in Cmax (22%) and AUC (45%) compared with younger subjects (18 to 45 years).</SentenceText>
+</Sentence>
+<Sentence id="1240" LabelDrug="Inspra" section="34090-1">
+<SentenceText>The pharmacokinetics of eplerenone did not differ significantly between males and females.</SentenceText>
+</Sentence>
+<Sentence id="1241" LabelDrug="Inspra" section="34090-1">
+<SentenceText>At steady state, Cmax was 19% lower and AUC was 26% lower in Blacks.</SentenceText>
+</Sentence>
+<Sentence id="1242" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Renal Impairment The pharmacokinetics of eplerenone was evaluated in patients with varying degrees of renal impairment and in patients undergoing hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="1243" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Compared with control subjects, steady state AUC and Cmax were increased by 38% and 24%, respectively, in patients with severe renal impairment and were decreased by 26% and 3%, respectively, in patients undergoing hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="1244" LabelDrug="Inspra" section="34090-1">
+<SentenceText>No correlation was observed between plasma clearance of eplerenone and creatinine clearance.</SentenceText>
+</Sentence>
+<Sentence id="1245" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone is not removed by hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="1246" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Hepatic Impairment The pharmacokinetics of eplerenone 400 mg has been investigated in patients with moderate (Child-Pugh Class B) hepatic impairment and compared with normal subjects.</SentenceText>
+</Sentence>
+<Sentence id="1247" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Steady state Cmax and AUC of eplerenone were increased by 3.6% and 42%, respectively.</SentenceText>
+</Sentence>
+<Sentence id="1248" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Heart Failure The pharmacokinetics of eplerenone 50 mg was evaluated in 8 patients with heart failure (NYHA classification II–IV) and 8 matched (gender, age, weight) healthy controls.</SentenceText>
+</Sentence>
+<Sentence id="1249" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Compared with the controls, steady state AUC and Cmax in patients with stable heart failure were 38% and 30% higher, respectively.</SentenceText>
+</Sentence>
+<Sentence id="1250" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Drug-Drug Interactions Eplerenone is metabolized primarily by CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="1251" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Inhibitors of CYP3A cause increased exposure.</SentenceText>
+<Mention id="M115" type="Trigger" span="26 18" str="increased exposure"/>
+<Mention id="M116" type="Precipitant" span="0 19" str="Inhibitors of CYP3A" code="N0000191001"/>
+<Interaction id="I47" type="Pharmacokinetic interaction" trigger="M115" precipitant="M116" effect="C54355"/>
+</Sentence>
+<Sentence id="1252" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Drug-drug interaction studies were conducted with a 100 mg dose of eplerenone.</SentenceText>
+</Sentence>
+<Sentence id="1253" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Following a single dose of INSPRA 100 mg and CYP3A inhibitor ketoconazole 200 mg twice a day, eplerone's Cmax was 1.7-fold and AUC was 5.4-fold compared with eplerone alone.</SentenceText>
+</Sentence>
+<Sentence id="1254" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Administration of eplerenone with moderate CYP3A inhibitors (e.g., erythromycin 500 mg BID, verapamil 240 mg once daily, saquinavir 1200 mg three times a day, fluconazole 200 mg once daily) resulted in increases in Cmax of eplerenone ranging from 40% to 60% and AUC from 100% to 190%.</SentenceText>
+<Mention id="M133" type="Trigger" span="202 17" str="increases in Cmax"/>
+<Mention id="M120" type="Precipitant" span="67 12" str="erythromycin" code="63937KV33D"/>
+<Mention id="M135" type="Trigger" span="202 9;262 3" str="increases | AUC"/>
+<Mention id="M124" type="Precipitant" span="159 11" str="fluconazole" code="8VZV102JFY"/>
+<Mention id="M128" type="Precipitant" span="34 25" str="moderate CYP3A inhibitors" code="N0000191001"/>
+<Mention id="M132" type="Precipitant" span="121 10" str="saquinavir" code="L3JE09KZ2F"/>
+<Mention id="M136" type="Precipitant" span="92 9" str="verapamil" code="CJ0O37KU29"/>
+<Interaction id="I48" type="Pharmacokinetic interaction" trigger="M133" precipitant="M120" effect="C54602"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M135" precipitant="M120" effect="C54605"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M133" precipitant="M124" effect="C54602"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M135" precipitant="M124" effect="C54605"/>
+<Interaction id="I52" type="Pharmacokinetic interaction" trigger="M133" precipitant="M128" effect="C54602"/>
+<Interaction id="I53" type="Pharmacokinetic interaction" trigger="M135" precipitant="M128" effect="C54605"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M133" precipitant="M132" effect="C54602"/>
+<Interaction id="I55" type="Pharmacokinetic interaction" trigger="M135" precipitant="M132" effect="C54605"/>
+<Interaction id="I56" type="Pharmacokinetic interaction" trigger="M133" precipitant="M136" effect="C54602"/>
+<Interaction id="I57" type="Pharmacokinetic interaction" trigger="M135" precipitant="M136" effect="C54605"/>
+</Sentence>
+<Sentence id="1255" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Grapefruit juice caused a 25% increase in exposure.</SentenceText>
+<Mention id="M137" type="Trigger" span="30 20" str="increase in exposure"/>
+<Mention id="M138" type="Precipitant" span="0 16" str="Grapefruit juice" code="JQ9EK2H6BG"/>
+<Interaction id="I58" type="Pharmacokinetic interaction" trigger="M137" precipitant="M138" effect="C54355"/>
+</Sentence>
+<Sentence id="1256" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone is not an inhibitor of CYP1A2, CYP3A4, CYP2C19, CYP2C9, or CYP2D6.</SentenceText>
+</Sentence>
+<Sentence id="1257" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone did not inhibit the metabolism of amiodarone, amlodipine, astemizole, chlorzoxazone, cisapride, dexamethasone, dextromethorphan, diclofenac, 17α-ethinyl estradiol, fluoxetine, losartan, lovastatin, mephobarbital, methylphenidate, methylprednisolone, metoprolol, midazolam, nifedipine, phenacetin, phenytoin, simvastatin, tolbutamide, triazolam, verapamil, or warfarin in vitro.</SentenceText>
+</Sentence>
+<Sentence id="1258" LabelDrug="Inspra" section="34090-1">
+<SentenceText>Eplerenone is not a substrate or an inhibitor of P-Glycoprotein at clinically relevant doses.</SentenceText>
+</Sentence>
+<Sentence id="1259" LabelDrug="Inspra" section="34090-1">
+<SentenceText>No clinically significant drug-drug pharmacokinetic interactions were observed when eplerenone was administered with cisapride, cyclosporine, digoxin, glyburide, midazolam, oral contraceptives (norethindrone/ethinyl estradiol), simvastatin, or warfarin.</SentenceText>
+</Sentence>
+<Sentence id="1260" LabelDrug="Inspra" section="34090-1">
+<SentenceText>St. John's wort (a CYP3A inducer) caused a small (about 30%) decrease in eplerenone AUC.</SentenceText>
+<Mention id="M141" type="Trigger" span="61 8;84 3" str="decrease | AUC"/>
+<Mention id="M140" type="Precipitant" span="19 13" str="CYP3A inducer" code="N0000190118"/>
+<Mention id="M142" type="Precipitant" span="0 15" str="St. John's wort" code="UFH8805FKA"/>
+<Interaction id="I59" type="Pharmacokinetic interaction" trigger="M141" precipitant="M140" effect="C54609"/>
+<Interaction id="I60" type="Pharmacokinetic interaction" trigger="M141" precipitant="M142" effect="C54609"/>
+</Sentence>
+<Sentence id="1261" LabelDrug="Inspra" section="34090-1">
+<SentenceText>No significant changes in eplerenone pharmacokinetics were observed when eplerenone was administered with aluminum- and magnesium-containing antacids.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="amiloride" precipitantCode="7DZO8EB0Z3"/>
+<LabelInteraction type="Unspecified interaction" precipitant="potassium supplements" precipitantCode="RWP5GA015D"/>
+<LabelInteraction type="Unspecified interaction" precipitant="potassium-sparing diuretics" precipitantCode="N0000175418"/>
+<LabelInteraction type="Unspecified interaction" precipitant="spironolactone" precipitantCode="27O7W4T232"/>
+<LabelInteraction type="Unspecified interaction" precipitant="triamterene" precipitantCode="WS821Z52LQ"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ace inhibitors" precipitantCode="N0000175562" effect="166714005: Serum creatinine abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ace inhibitors" precipitantCode="N0000175562" effect="24529006: Potassium disorder (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="angiotensin-ii blockers" precipitantCode="N0000175561" effect="166714005: Serum creatinine abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="angiotensin-ii blockers" precipitantCode="N0000175561" effect="24529006: Potassium disorder (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="moderate cyp3a inhibitor" precipitantCode="N0000191001" effect="166714005: Serum creatinine abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="moderate cyp3a inhibitor" precipitantCode="N0000191001" effect="24529006: Potassium disorder (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp3a inhibitor" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="non-steroidal-anti-inflammatories" precipitantCode="N0000175722" effect="166714005: Serum creatinine abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="non-steroidal-anti-inflammatories" precipitantCode="N0000175722" effect="24529006: Potassium disorder (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="erythromycin" precipitantCode="63937KV33D" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="erythromycin" precipitantCode="63937KV33D" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="erythromycin" precipitantCode="63937KV33D" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluconazole" precipitantCode="8VZV102JFY" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluconazole" precipitantCode="8VZV102JFY" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluconazole" precipitantCode="8VZV102JFY" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="saquinavir" precipitantCode="L3JE09KZ2F" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="saquinavir" precipitantCode="L3JE09KZ2F" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="saquinavir" precipitantCode="L3JE09KZ2F" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a inhibitors" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="moderate cyp3a inhibitors" precipitantCode="N0000191001" effect="14140009: Hyperkalemia (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp3a inhibitors" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp3a inhibitors" precipitantCode="N0000191001" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp3a inhibitors" precipitantCode="N0000191001" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="strong inhibitors of cyp3a" precipitantCode="N0000191001"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ace inhibitor" precipitantCode="N0000175562" effect="14140009: Hyperkalemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="arb" precipitantCode="N0000175561" effect="14140009: Hyperkalemia (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="lithium" precipitantCode="9FN79X2M3F"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="14140009: Hyperkalemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="24529006: Potassium disorder (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="38936003: Abnormal blood pressure (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="aces" precipitantCode="NO MAP" effect="14140009: Hyperkalemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="arbs" precipitantCode="N0000175561" effect="14140009: Hyperkalemia (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp3a" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="R9400W927I" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="grapefruit juice" precipitantCode="JQ9EK2H6BG" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a inducer" precipitantCode="N0000190118" effect="C54609"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="st. john's wort" precipitantCode="UFH8805FKA" effect="C54609"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Humulin" setid="b519bd83-038c-4ec5-a231-a51ec5cc291f">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+HUMULIN R is contraindicated: during episodes of hypoglycemia in patients with hypersensitivity to HUMULIN R or any of its excipients. Do not use during episodes of hypoglycemia. ( 4 ) Do not use in patients with hypersensitivity to HUMULIN R or any of its excipients. ( 4 )</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+See Full Prescribing Information for important administration instructions. ( 2.1 ) Subcutaneous injection: inject subcutaneously 30 minutes before a meal. Rotate injection sites to reduce the risk of lipodystrophy. ( 2.2 ) Intravenous infusion: administer intravenously ONLY under medical supervision at concentrations from 0.1 unit/mL to 1 unit/mL in infusion systems containing 0.9% sodium chloride. ( 2.2 ) Individualize dose based on route of administration, metabolic needs, blood glucose monitoring results and glycemic control goal. ( 2.3 ) HUMULIN R given by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin. ( 2.3 ) Do not mix with insulin preparations other than HUMULIN ® N. ( 2.5 ) Always check the insulin label before administration to confirm the correct insulin product is being used [see Warnings and Precautions ( 5.4 )] . Inspect HUMULIN R visually before use. It should appear clear and colorless. Do not use HUMULIN R if particulate matter or coloration is seen. Subcutaneous Injection Inject HUMULIN R subcutaneously approximately 30 minutes before meals into the thigh, upper arm, abdomen, or buttocks. Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions ( 6 )] . Intravenous Administration Administer HUMULIN R intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to reduce the risk of hypoglycemia and hypokalemia [see Warnings and Precautions ( 5.3 , 5.6 ), How Supplied/Storage and Handling ( 16.3 )] . For intravenous use, HUMULIN R should be used at concentrations from 0.1 unit/mL to 1 unit/mL in infusion systems containing 0.9% sodium chloride. Individualize and adjust the dosage of HUMULIN R based on the route of administration, the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal. HUMULIN R given by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin. Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (e.g., macronutrient content or timing of food intake), changes in renal or hepatic function, or during acute illness [see Warnings and Precautions ( 5.2 , 5.3 ), Use in Specific Populations ( 8.6 , 8.7 )] . Dosage adjustment may be needed when switching from another insulin to HUMULIN R [see Warnings and Precautions ( 5.2 )] . Dosage adjustment may be needed when HUMULIN R is co-administered with certain drugs [see Drug Interactions ( 7 )] . Do not mix HUMULIN R with insulin preparations other than HUMULIN N. To mix HUMULIN R and HUMULIN N, draw HUMULIN R into the syringe first. Inject immediately after mixing.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Table 1: Clinically Significant Drug Interactions with HUMULIN R Drugs that May Increase the Risk of Hypoglycemia Drugs: Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, propoxyphene, pentoxifylline, pramlintide, salicylates, somatostatin analog (e.g., octreotide), and sulfonamide antibiotics Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs. Drugs that May Decrease the Blood Glucose Lowering Effect of HUMULIN R Drugs: Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs. Drugs that May Increase or Decrease the Blood Glucose Lowering Effect of HUMULIN R Drugs: Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs. Drugs that May Blunt Signs and Symptoms of Hypoglycemia Drugs: Beta-blockers, clonidine, guanethidine, and reserpine Intervention: Increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs. Drugs that may increase the risk of hypoglycemia: antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analog (e.g., octreotide), and sulfonamide antibiotics ( 7 ) Drugs that may decrease the blood glucose lowering effect: atypical antipsychotics, corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones ( 7 ) Drugs that may increase or decrease the blood glucose lowering effect: Alcohol, beta-blockers, clonidine, lithium salts, and pentamidine ( 7 ) Drugs that may blunt the signs and symptoms of hypoglycemia: beta-blockers, clonidine, guanethidine, and reserpine ( 7 )</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Never share needles or syringes with another person. ( 5.1 ) Hyper- or Hypoglycemia with Changes in Insulin Regimen: Carry out under close medical supervision and increase frequency of blood glucose monitoring. ( 5.2 ) Hypoglycemia: May be life-threatening. Increase frequency of blood glucose monitoring with changes to: insulin dosage, co-administered glucose lowering medications, meal pattern, physical activity; in patients with renal or hepatic impairment or with hypoglycemia unawareness. ( 5.3 ) Hypoglycemia Due to Medication Errors: Accidental mix-ups between insulin products can occur. Instruct patients to check insulin labels before injection. ( 5.4 ) Hypersensitivity and Allergic Reactions : Severe, life-threatening, generalized allergy, including anaphylaxis, can occur. Discontinue HUMULIN R, monitor, and treat if indicated. ( 5.5 ) Hypokalemia: May be life-threatening. Monitor potassium levels in patients at risk for hypokalemia and treat if indicated. ( 5.6 ) Fluid Retention and Heart Failure with Concomitant Use of Thiazolidinediones (TZDs) : Observe for signs and symptoms of heart failure; consider dosage reduction or discontinuation if heart failure occurs. ( 5.7 ) Patients using HUMULIN R vials must never share needles or syringes with another person. Sharing poses a risk for transmission of blood-borne pathogens. Changes in insulin, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions ( 5.3 )] or hyperglycemia. These changes should be made cautiously and only under medical supervision and the frequency of blood glucose monitoring should be increased. For patients with type 2 diabetes, adjustments in concomitant anti-diabetic medications may be needed. Hypoglycemia is the most common adverse reaction of all insulins, including HUMULIN R. Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death. Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery). Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual. Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions ( 7 )] , or in patients who experience recurrent hypoglycemia. Risk Factors for Hypoglycemia The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal. As with all insulin preparations, the glucose lowering effect time course of HUMULIN R may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology ( 12.2 )] . Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions ( 7 )] . Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations ( 8.6 , 8.7 )] . Risk Mitigation Strategies for Hypoglycemia Patients and caregivers must be educated to recognize and manage hypoglycemia. Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia. In patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended. Accidental mix-ups between HUMULIN R and other insulins have been reported. To avoid medication errors between HUMULIN R and other insulins, instruct patients to always check the insulin label before each injection. Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with HUMULIN R [see Adverse Reactions ( 6 )] . If hypersensitivity reactions occur, discontinue HUMULIN R; treat per standard of care and monitor until symptoms and signs resolve. HUMULIN R is contraindicated in patients who have had a hypersensitivity reaction to HUMULIN R or its excipients [see Contraindications ( 4 )] . All insulin products, including HUMULIN R, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia. Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death. Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations). Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin. Fluid retention may lead to or exacerbate heart failure. Patients treated with insulin, including HUMULIN R, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure. If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+The primary activity of insulin, including HUMULIN R, is the regulation of glucose metabolism. Insulin lowers blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production. Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis. The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual. With subcutaneous use, the pharmacologic effect of HUMULIN R begins approximately 30 minutes (range: 10 to 75 minutes) after administration of doses in the 0.05 to 0.4 units/kg range (Figure 1). The effect is maximal at approximately 3 hours (range: 20 minutes to 7 hours) and terminates after approximately 8 hours (range: 3 to 14 hours). In a study that administered 50 and 100 units doses subcutaneously to obese subjects, mean time of termination of effect was prolonged to approximately 18 hours (range approximately 12-24 hours). Figure 1: Mean Insulin Activity Versus Time Profile After Subcutaneous Injection of HUMULIN R (0.3 unit/kg) in Healthy Subjects. With intravenous use, the pharmacologic effect of HUMULIN R begins at approximately 10 to 15 minutes and terminates at a median time of approximately 4 hours (range: 2 to 6 hours) after administration of doses in the range of 0.1 to 0.2 units/kg. The intravenous administration of HUMULIN R was tested in 21 people with type 1 diabetes. During the 6-hour assessment phase patients received intravenous HUMULIN R at an initial dose of 0.5 units/hour, adjusted to maintain blood glucose concentrations near normoglycemia (100 to 160 mg/dL). The mean blood glucose levels during the assessment phase for patients on HUMULIN R therapy are summarized below in Table 2. All patients achieved near normoglycemia during the 6-hour assessment phase. The average time (± SE) required to attain near normoglycemia was 161 ± 14 minutes for HUMULIN R. Table 2: Mean Blood Glucose Concentrations (mg/dL) during Intravenous Infusions of HUMULIN R a Results shown as mean ± Standard Deviation. Time from Start of Infusion (minutes) Mean Blood Glucose (mg/dL) Intravenous a 0 220 ± 11 30 204 ± 17 60 193 ± 18 120 172 ± 28 180 153 ± 30 240 139 ± 24 300 131 ± 22 360 128 ± 18 Figure 1 Absorption — In healthy subjects given subcutaneous doses of HUMULIN R ranging from 0.05 to 0.4 unit/kg, mean peak serum levels occurred between 36 to 150 minutes after dosing. After subcutaneous administration of a single 12 unit dose (approximately 0.15 units/kg) to patients with type 1 diabetes, the median peak serum level occurred at approximately 2 hours (range: 20 minutes-6 hours). In a study that administered 50 units (0.4-0.6 unit/kg) and 100 units (0.8-1.3 unit/kg) doses subcutaneously to healthy obese subjects, median peak serum levels were prolonged to approximately 3 hours (range 1 to 8 hours). The absolute bioavailability after a single subcutaneous injection of HUMULIN R ranges from 48% to 89% in the 0.1 to 0.3 unit/kg dose range. Distribution — When HUMULIN R is administered intravenously at doses of 0.1 or 0.2 unit/kg, the mean volume of distribution ranges between 0.32 to 0.67 L/kg. Metabolism — The uptake and degradation of insulin occurs predominantly in liver, kidney, muscle, and adipocytes, with the liver being the major organ involved in the clearance of insulin. Excretion — After subcutaneous administration of HUMULIN R doses in the 0.05-0.4 unit/kg dose range, the median apparent half-life is approximately 1.5 hours (range: 40 minutes-7 hours). Mean apparent half-life of HUMULIN R after subcutaneous administration of higher doses (50 and 100 units) to healthy obese subjects was approximately 3.6 hours (range= 1.6-8.6 hours). When administered intravenously, HUMULIN R had a mean half-life of approximately 20 minutes at a 0.1 unit/kg dose and 1 hour at a 0.2 unit/kg dose.</Section>
+</Text><Sentences>
+<Sentence id="3045" LabelDrug="Humulin" section="34070-3">
+<SentenceText>HUMULIN R is contraindicated: during episodes of hypoglycemia in patients with hypersensitivity to HUMULIN R or any of its excipients.</SentenceText>
+</Sentence>
+<Sentence id="3046" LabelDrug="Humulin" section="34070-3">
+<SentenceText>Do not use during episodes of hypoglycemia.</SentenceText>
+</Sentence>
+<Sentence id="3047" LabelDrug="Humulin" section="34070-3">
+<SentenceText>Do not use in patients with hypersensitivity to HUMULIN R or any of its excipients.</SentenceText>
+</Sentence>
+<Sentence id="3048" LabelDrug="Humulin" section="34068-7">
+<SentenceText>See Full Prescribing Information for important administration instructions.</SentenceText>
+</Sentence>
+<Sentence id="3049" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Subcutaneous injection: inject subcutaneously 30 minutes before a meal.</SentenceText>
+</Sentence>
+<Sentence id="3050" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Rotate injection sites to reduce the risk of lipodystrophy.</SentenceText>
+</Sentence>
+<Sentence id="3051" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Intravenous infusion: administer intravenously ONLY under medical supervision at concentrations from 0.1 unit/mL to 1 unit/mL in infusion systems containing 0.9% sodium chloride.</SentenceText>
+</Sentence>
+<Sentence id="3052" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Individualize dose based on route of administration, metabolic needs, blood glucose monitoring results and glycemic control goal.</SentenceText>
+</Sentence>
+<Sentence id="3053" LabelDrug="Humulin" section="34068-7">
+<SentenceText>HUMULIN R given by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.</SentenceText>
+</Sentence>
+<Sentence id="3054" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Do not mix with insulin preparations other than HUMULIN® N. (2.5) Always check the insulin label before administration to confirm the correct insulin product is being used.</SentenceText>
+<Mention id="M1" type="Trigger" span="0 10" str="Do not mix"/>
+<Mention id="M2" type="Precipitant" span="16 20" str="insulin preparations" code="N0000175944"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="3055" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Do not use HUMULIN R if particulate matter or coloration is seen.</SentenceText>
+</Sentence>
+<Sentence id="3056" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Subcutaneous Injection Inject HUMULIN R subcutaneously approximately 30 minutes before meals into the thigh, upper arm, abdomen, or buttocks.</SentenceText>
+</Sentence>
+<Sentence id="3057" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy.</SentenceText>
+</Sentence>
+<Sentence id="3058" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Intravenous Administration Administer HUMULIN R intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to reduce the risk of hypoglycemia and hypokalemia.</SentenceText>
+</Sentence>
+<Sentence id="3059" LabelDrug="Humulin" section="34068-7">
+<SentenceText>For intravenous use, HUMULIN R should be used at concentrations from 0.1 unit/mL to 1 unit/mL in infusion systems containing 0.9% sodium chloride.</SentenceText>
+</Sentence>
+<Sentence id="3060" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Individualize and adjust the dosage of HUMULIN R based on the route of administration, the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal.</SentenceText>
+</Sentence>
+<Sentence id="3061" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (e.g., macronutrient content or timing of food intake), changes in renal or hepatic function, or during acute illness.</SentenceText>
+<Mention id="M3" type="Trigger" span="0 18" str="Dosage adjustments"/>
+<Mention id="M4" type="Precipitant" span="79 4" str="meal" code="NO MAP"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="3062" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Dosage adjustment may be needed when switching from another insulin to HUMULIN R.</SentenceText>
+<Mention id="M5" type="Trigger" span="0 17" str="Dosage adjustment"/>
+<Mention id="M6" type="Precipitant" span="60 7" str="insulin" code="N0000004931 | N0000175944"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="3063" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Dosage adjustment may be needed when HUMULIN R is co-administered with certain drugs.</SentenceText>
+</Sentence>
+<Sentence id="3064" LabelDrug="Humulin" section="34068-7">
+<SentenceText>Do not mix HUMULIN R with insulin preparations other than HUMULIN N. To mix HUMULIN R and HUMULIN N, draw HUMULIN R into the syringe first.</SentenceText>
+<Mention id="M7" type="Trigger" span="0 10" str="Do not mix"/>
+<Mention id="M8" type="Precipitant" span="26 20" str="insulin preparations" code="N0000175944"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M7" precipitant="M8"/>
+</Sentence>
+<Sentence id="3065" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Table 1: Clinically Significant Drug Interactions with HUMULIN R Drugs that May Increase the Risk of Hypoglycemia Drugs: Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, propoxyphene, pentoxifylline, pramlintide, salicylates, somatostatin analog (e.g., octreotide), and sulfonamide antibiotics Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs.</SentenceText>
+<Mention id="M51" type="Trigger" span="80 17" str="Increase the Risk"/>
+<Mention id="M10" type="Precipitant" span="142 14" str="ACE inhibitors" code="N0000000181 | N0000175562 | N0000029130"/>
+<Mention id="M53" type="SpecificInteraction" span="101 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M13" type="Precipitant" span="158 39" str="angiotensin II receptor blocking agents" code="N0000000070"/>
+<Mention id="M16" type="Precipitant" span="121 19" str="Antidiabetic agents" code="NO MAP"/>
+<Mention id="M19" type="Precipitant" span="199 12" str="disopyramide" code="GFO928U8MQ"/>
+<Mention id="M22" type="Precipitant" span="65 48" str="Drugs that May Increase the Risk of Hypoglycemia" code="NO MAP"/>
+<Mention id="M25" type="Precipitant" span="213 8" str="fibrates" code="6848ST447Q | N0000182116"/>
+<Mention id="M28" type="Precipitant" span="223 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M31" type="Precipitant" span="235 28" str="monoamine oxidase inhibitors" code="N0000000184 | N0000175744"/>
+<Mention id="M34" type="Precipitant" span="348 10" str="octreotide" code="RWM8CCW8GP"/>
+<Mention id="M37" type="Precipitant" span="279 14" str="pentoxifylline" code="SD6QCT3TSU"/>
+<Mention id="M40" type="Precipitant" span="295 11" str="pramlintide" code="D3FM8FA78T"/>
+<Mention id="M43" type="Precipitant" span="265 12" str="propoxyphene" code="S2F83W92TK"/>
+<Mention id="M46" type="Precipitant" span="308 11" str="salicylates" code="N0000006035 | O414PZ4LPZ"/>
+<Mention id="M49" type="Precipitant" span="321 19" str="somatostatin analog" code="N0000175904"/>
+<Mention id="M52" type="Precipitant" span="365 23" str="sulfonamide antibiotics" code="N0000175504"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M51" precipitant="M10" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M51" precipitant="M13" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M51" precipitant="M16" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M51" precipitant="M19" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M51" precipitant="M22" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M51" precipitant="M25" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M51" precipitant="M28" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M51" precipitant="M31" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M51" precipitant="M34" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M51" precipitant="M37" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M51" precipitant="M40" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M51" precipitant="M43" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M51" precipitant="M46" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M51" precipitant="M49" effect="M53" effectCodeMatch="Exact"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M51" precipitant="M52" effect="M53" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3066" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Drugs that May Decrease the Blood Glucose Lowering Effect of HUMULIN R Drugs: Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones.</SentenceText>
+<Mention id="M114" type="Trigger" span="15 8;51 6" str="Decrease | Effect"/>
+<Mention id="M55" type="Precipitant" span="358 9" str="albuterol" code="QF8SVZ843E"/>
+<Mention id="M116" type="SpecificInteraction" span="15 53" str="Decrease the Blood Glucose Lowering Effect of HUMULIN" code="NO MAP"/>
+<Mention id="M58" type="Precipitant" span="78 23" str="Atypical antipsychotics" code="N0000175430"/>
+<Mention id="M61" type="Precipitant" span="124 9" str="clozapine" code="J60AR2IKIC"/>
+<Mention id="M64" type="Precipitant" span="136 15" str="corticosteroids" code="N0000011309 | N0000175576"/>
+<Mention id="M67" type="Precipitant" span="153 7" str="danazol" code="N29QWW3BUO"/>
+<Mention id="M70" type="Precipitant" span="162 9" str="diuretics" code="N0000029125 | N0000175359"/>
+<Mention id="M73" type="Precipitant" span="0 57" str="Drugs that May Decrease the Blood Glucose Lowering Effect" code="NO MAP"/>
+<Mention id="M76" type="Precipitant" span="369 11" str="epinephrine" code="YKH834O4BH | N0000006261"/>
+<Mention id="M79" type="Precipitant" span="173 9" str="estrogens" code="N0000175825 | N0000011402"/>
+<Mention id="M82" type="Precipitant" span="184 8" str="glucagon" code="76LA80IG2G"/>
+<Mention id="M85" type="Precipitant" span="194 9" str="isoniazid" code="V83O1VOZ8L"/>
+<Mention id="M88" type="Precipitant" span="205 6" str="niacin" code="2679MF687A"/>
+<Mention id="M91" type="Precipitant" span="109 10" str="olanzapine" code="N7U69T4SZR"/>
+<Mention id="M94" type="Precipitant" span="213 19" str="oral contraceptives" code="NO MAP"/>
+<Mention id="M97" type="Precipitant" span="234 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M100" type="Precipitant" span="250 12" str="progestogens" code="N0000175602"/>
+<Mention id="M103" type="Precipitant" span="295 19" str="protease inhibitors" code="N0000175889 | N0000000076"/>
+<Mention id="M106" type="Precipitant" span="316 10" str="somatropin" code="NQX9KB6PCL"/>
+<Mention id="M109" type="Precipitant" span="328 22" str="sympathomimetic agents" code="N0000029104 | N0000175651"/>
+<Mention id="M112" type="Precipitant" span="382 11" str="terbutaline" code="N8ONU3L3PG"/>
+<Mention id="M115" type="Precipitant" span="400 16" str="thyroid hormones" code="0B4FDL9I6P | N0000011247"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M114" precipitant="M55" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M114" precipitant="M58" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M114" precipitant="M61" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M114" precipitant="M64" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M114" precipitant="M67" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M114" precipitant="M70" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I26" type="Pharmacodynamic interaction" trigger="M114" precipitant="M73" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M114" precipitant="M76" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M114" precipitant="M79" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M114" precipitant="M82" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M114" precipitant="M85" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M114" precipitant="M88" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M114" precipitant="M91" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I33" type="Pharmacodynamic interaction" trigger="M114" precipitant="M94" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M114" precipitant="M97" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M114" precipitant="M100" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M114" precipitant="M103" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M114" precipitant="M106" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I38" type="Pharmacodynamic interaction" trigger="M114" precipitant="M109" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I39" type="Pharmacodynamic interaction" trigger="M114" precipitant="M112" effect="M116" effectCodeMatch="NULL"/>
+<Interaction id="I40" type="Pharmacodynamic interaction" trigger="M114" precipitant="M115" effect="M116" effectCodeMatch="NULL"/>
+</Sentence>
+<Sentence id="3067" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs.</SentenceText>
+</Sentence>
+<Sentence id="3068" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Drugs that May Increase or Decrease the Blood Glucose Lowering Effect of HUMULIN R Drugs: Alcohol, beta-blockers, clonidine, and lithium salts.</SentenceText>
+<Mention id="M129" type="Trigger" span="15 20;63 6" str="Increase or Decrease | Effect"/>
+<Mention id="M118" type="Precipitant" span="90 7" str="Alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M131" type="SpecificInteraction" span="15 65" str="Increase or Decrease the Blood Glucose Lowering Effect of HUMULIN" code="NO MAP"/>
+<Mention id="M121" type="Precipitant" span="99 13" str="beta-blockers" code="N0000000161 | N0000175556"/>
+<Mention id="M124" type="Precipitant" span="114 9" str="clonidine" code="N0000006505 | MN3L5RMN02"/>
+<Mention id="M127" type="Precipitant" span="0 69" str="Drugs that May Increase or Decrease the Blood Glucose Lowering Effect" code="NO MAP"/>
+<Mention id="M130" type="Precipitant" span="129 13" str="lithium salts" code="9FN79X2M3F"/>
+<Interaction id="I41" type="Pharmacodynamic interaction" trigger="M129" precipitant="M118" effect="M131" effectCodeMatch="NULL"/>
+<Interaction id="I42" type="Pharmacodynamic interaction" trigger="M129" precipitant="M121" effect="M131" effectCodeMatch="NULL"/>
+<Interaction id="I43" type="Pharmacodynamic interaction" trigger="M129" precipitant="M124" effect="M131" effectCodeMatch="NULL"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M129" precipitant="M127" effect="M131" effectCodeMatch="NULL"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M129" precipitant="M130" effect="M131" effectCodeMatch="NULL"/>
+</Sentence>
+<Sentence id="3069" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia.</SentenceText>
+<Mention id="M135" type="Trigger" span="16 5" str="cause"/>
+<Mention id="M136" type="Precipitant" span="0 11" str="Pentamidine" code="673LC5J4LQ"/>
+<Mention id="M134" type="SpecificInteraction" span="71 13" str="hyperglycemia" code="80394007: Hyperglycemia (disorder)"/>
+<Mention id="M137" type="SpecificInteraction" span="22 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Interaction id="I46" type="Pharmacodynamic interaction" trigger="M135" precipitant="M136" effect="M134" effectCodeMatch="Exact"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M135" precipitant="M136" effect="M137" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3070" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Drugs that May Blunt Signs and Symptoms of Hypoglycemia Drugs: Beta-blockers, clonidine, guanethidine, and reserpine Intervention: Increased frequency of glucose monitoring may be required when HUMULIN R is co-administered with these drugs.</SentenceText>
+<Mention id="M162" type="Trigger" span="15 24" str="Blunt Signs and Symptoms"/>
+<Mention id="M142" type="Precipitant" span="63 13" str="Beta-blockers" code="N0000000161 | N0000175556"/>
+<Mention id="M164" type="SpecificInteraction" span="15 40" str="Blunt Signs and Symptoms of Hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M165" type="Trigger" span="131 9;162 10" str="Increased | monitoring"/>
+<Mention id="M167" type="SpecificInteraction" span="154 7" str="glucose" code="166922008: Blood glucose abnormal (finding)"/>
+<Mention id="M148" type="Precipitant" span="78 9" str="clonidine" code="N0000006505 | MN3L5RMN02"/>
+<Mention id="M154" type="Precipitant" span="0 55" str="Drugs that May Blunt Signs and Symptoms of Hypoglycemia" code="NO MAP"/>
+<Mention id="M160" type="Precipitant" span="89 12" str="guanethidine" code="ZTI6C33Q2Q"/>
+<Mention id="M166" type="Precipitant" span="107 9" str="reserpine" code="8B1QWR724A"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M162" precipitant="M142" effect="M164" effectCodeMatch="Exact Match"/>
+<Interaction id="I49" type="Pharmacodynamic interaction" trigger="M165" precipitant="M142" effect="M167" effectCodeMatch="Close to Exact Match"/>
+<Interaction id="I50" type="Pharmacodynamic interaction" trigger="M162" precipitant="M148" effect="M164" effectCodeMatch="Exact Match"/>
+<Interaction id="I51" type="Pharmacodynamic interaction" trigger="M165" precipitant="M148" effect="M167" effectCodeMatch="Close to Exact Match"/>
+<Interaction id="I52" type="Pharmacodynamic interaction" trigger="M162" precipitant="M154" effect="M164" effectCodeMatch="Exact Match"/>
+<Interaction id="I53" type="Pharmacodynamic interaction" trigger="M165" precipitant="M154" effect="M167" effectCodeMatch="Close to Exact Match"/>
+<Interaction id="I54" type="Pharmacodynamic interaction" trigger="M162" precipitant="M160" effect="M164" effectCodeMatch="Exact Match"/>
+<Interaction id="I55" type="Pharmacodynamic interaction" trigger="M165" precipitant="M160" effect="M167" effectCodeMatch="Close to Exact Match"/>
+<Interaction id="I56" type="Pharmacodynamic interaction" trigger="M162" precipitant="M166" effect="M164" effectCodeMatch="Exact Match"/>
+<Interaction id="I57" type="Pharmacodynamic interaction" trigger="M165" precipitant="M166" effect="M167" effectCodeMatch="Close to Exact Match"/>
+</Sentence>
+<Sentence id="3071" LabelDrug="Humulin" section="34073-7">
+<SentenceText>Drugs that may increase the risk of hypoglycemia: antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analog (e.g., octreotide), and sulfonamide antibiotics (7) Drugs that may decrease the blood glucose lowering effect: atypical antipsychotics, corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones (7) Drugs that may increase or decrease the blood glucose lowering effect: Alcohol, beta-blockers, clonidine, lithium salts, and pentamidine (7) Drugs that may blunt the signs and symptoms of hypoglycemia: beta-blockers, clonidine, guanethidine, and reserpine (7)</SentenceText>
+<Mention id="M291" type="Trigger" span="15 17" str="increase the risk"/>
+<Mention id="M169" type="Precipitant" span="71 14" str="ACE inhibitors" code="N0000000181 | N0000175562 | N0000029130"/>
+<Mention id="M293" type="SpecificInteraction" span="36 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M300" type="Trigger" span="337 8;373 6" str="decrease | effect"/>
+<Mention id="M172" type="Precipitant" span="628 9" str="albuterol" code="QF8SVZ843E"/>
+<Mention id="M302" type="SpecificInteraction" span="337 42" str="decrease the blood glucose lowering effect" code="NO MAP"/>
+<Mention id="M258" type="Trigger" span="706 20;373 6" str="Increase or Decrease | Effect"/>
+<Mention id="M175" type="Precipitant" span="762 7" str="Alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M260" type="SpecificInteraction" span="706 54" str="increase or decrease the blood glucose lowering effect" code="NO MAP"/>
+<Mention id="M178" type="Precipitant" span="87 39" str="angiotensin II receptor blocking agents" code="N0000000070"/>
+<Mention id="M181" type="Precipitant" span="50 19" str="antidiabetic agents" code="NO MAP"/>
+<Mention id="M184" type="Precipitant" span="381 23" str="atypical antipsychotics" code="N0000175430"/>
+<Mention id="M279" type="Trigger" span="847 28" str="blunt the signs and symptoms"/>
+<Mention id="M190" type="Precipitant" span="771 13" str="beta-blockers" code="N0000000161 | N0000175556"/>
+<Mention id="M281" type="SpecificInteraction" span="847 44" str="blunt the signs and symptoms of hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M243" type="Trigger" span="706 20;373 6" str="increase or decrease | effect"/>
+<Mention id="M196" type="Precipitant" span="786 9" str="clonidine" code="N0000006505 | MN3L5RMN02"/>
+<Mention id="M199" type="Precipitant" span="406 15" str="corticosteroids" code="N0000011309 | N0000175576"/>
+<Mention id="M202" type="Precipitant" span="423 7" str="danazol" code="N29QWW3BUO"/>
+<Mention id="M205" type="Precipitant" span="128 12" str="disopyramide" code="GFO928U8MQ"/>
+<Mention id="M208" type="Precipitant" span="432 9" str="diuretics" code="N0000029125 | N0000175359"/>
+<Mention id="M211" type="Precipitant" span="832 59" str="Drugs that may blunt the signs and symptoms of hypoglycemia" code="NO MAP"/>
+<Mention id="M214" type="Precipitant" span="322 57" str="Drugs that may decrease the blood glucose lowering effect" code="NO MAP"/>
+<Mention id="M217" type="Precipitant" span="691 69" str="Drugs that may increase or decrease the blood glucose lowering effect" code="NO MAP"/>
+<Mention id="M220" type="Precipitant" span="0 48" str="Drugs that may increase the risk of hypoglycemia" code="NO MAP"/>
+<Mention id="M223" type="Precipitant" span="639 11" str="epinephrine" code="YKH834O4BH | N0000006261"/>
+<Mention id="M226" type="Precipitant" span="443 9" str="estrogens" code="N0000175825 | N0000011402"/>
+<Mention id="M229" type="Precipitant" span="142 8" str="fibrates" code="6848ST447Q | N0000182116"/>
+<Mention id="M232" type="Precipitant" span="152 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M235" type="Precipitant" span="454 8" str="glucagon" code="76LA80IG2G"/>
+<Mention id="M238" type="Precipitant" span="919 12" str="guanethidine" code="ZTI6C33Q2Q"/>
+<Mention id="M241" type="Precipitant" span="464 9" str="isoniazid" code="V83O1VOZ8L"/>
+<Mention id="M244" type="Precipitant" span="797 13" str="lithium salts" code="9FN79X2M3F"/>
+<Mention id="M247" type="Precipitant" span="164 28" str="monoamine oxidase inhibitors" code="N0000000184 | N0000175744"/>
+<Mention id="M250" type="Precipitant" span="475 6" str="niacin" code="2679MF687A"/>
+<Mention id="M253" type="Precipitant" span="277 10" str="octreotide" code="RWM8CCW8GP"/>
+<Mention id="M256" type="Precipitant" span="483 19" str="oral contraceptives" code="NO MAP"/>
+<Mention id="M259" type="Precipitant" span="816 11" str="pentamidine" code="673LC5J4LQ"/>
+<Mention id="M262" type="Precipitant" span="194 14" str="pentoxifylline" code="SD6QCT3TSU"/>
+<Mention id="M265" type="Precipitant" span="504 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M268" type="Precipitant" span="210 11" str="pramlintide" code="D3FM8FA78T"/>
+<Mention id="M271" type="Precipitant" span="520 12" str="progestogens" code="N0000175602"/>
+<Mention id="M274" type="Precipitant" span="223 12" str="propoxyphene" code="S2F83W92TK"/>
+<Mention id="M277" type="Precipitant" span="565 19" str="protease inhibitors" code="N0000175889 | N0000000076"/>
+<Mention id="M280" type="Precipitant" span="937 9" str="reserpine" code="8B1QWR724A"/>
+<Mention id="M283" type="Precipitant" span="237 11" str="salicylates" code="N0000006035 | O414PZ4LPZ"/>
+<Mention id="M286" type="Precipitant" span="250 19" str="somatostatin analog" code="N0000175904"/>
+<Mention id="M289" type="Precipitant" span="586 10" str="somatropin" code="NQX9KB6PCL"/>
+<Mention id="M292" type="Precipitant" span="294 23" str="sulfonamide antibiotics" code="N0000175504"/>
+<Mention id="M295" type="Precipitant" span="598 22" str="sympathomimetic agents" code="N0000029104 | N0000175651"/>
+<Mention id="M298" type="Precipitant" span="652 11" str="terbutaline" code="N8ONU3L3PG"/>
+<Mention id="M301" type="Precipitant" span="670 16" str="thyroid hormones" code="0B4FDL9I6P | N0000011247"/>
+<Interaction id="I58" type="Pharmacodynamic interaction" trigger="M291" precipitant="M169" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I59" type="Pharmacodynamic interaction" trigger="M300" precipitant="M172" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I60" type="Pharmacodynamic interaction" trigger="M258" precipitant="M175" effect="M260" effectCodeMatch="NULL"/>
+<Interaction id="I61" type="Pharmacodynamic interaction" trigger="M291" precipitant="M178" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I62" type="Pharmacodynamic interaction" trigger="M291" precipitant="M181" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I63" type="Pharmacodynamic interaction" trigger="M300" precipitant="M184" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I64" type="Pharmacodynamic interaction" trigger="M279" precipitant="M190" effect="M281" effectCodeMatch="Exact Match"/>
+<Interaction id="I65" type="Pharmacodynamic interaction" trigger="M243" precipitant="M190" effect="M260" effectCodeMatch="NULL"/>
+<Interaction id="I66" type="Pharmacodynamic interaction" trigger="M279" precipitant="M196" effect="M281" effectCodeMatch="Exact Match"/>
+<Interaction id="I67" type="Pharmacodynamic interaction" trigger="M258" precipitant="M196" effect="M260" effectCodeMatch="NULL"/>
+<Interaction id="I68" type="Pharmacodynamic interaction" trigger="M300" precipitant="M199" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I69" type="Pharmacodynamic interaction" trigger="M300" precipitant="M202" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I70" type="Pharmacodynamic interaction" trigger="M291" precipitant="M205" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I71" type="Pharmacodynamic interaction" trigger="M300" precipitant="M208" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I72" type="Pharmacodynamic interaction" trigger="M279" precipitant="M211" effect="M281" effectCodeMatch="Exact Match"/>
+<Interaction id="I73" type="Pharmacodynamic interaction" trigger="M300" precipitant="M214" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I74" type="Pharmacodynamic interaction" trigger="M243" precipitant="M217" effect="M260" effectCodeMatch="NULL"/>
+<Interaction id="I75" type="Pharmacodynamic interaction" trigger="M291" precipitant="M220" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I76" type="Pharmacodynamic interaction" trigger="M300" precipitant="M223" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I77" type="Pharmacodynamic interaction" trigger="M300" precipitant="M226" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I78" type="Pharmacodynamic interaction" trigger="M291" precipitant="M229" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I79" type="Pharmacodynamic interaction" trigger="M291" precipitant="M232" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I80" type="Pharmacodynamic interaction" trigger="M300" precipitant="M235" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I81" type="Pharmacodynamic interaction" trigger="M279" precipitant="M238" effect="M281" effectCodeMatch="Exact Match"/>
+<Interaction id="I82" type="Pharmacodynamic interaction" trigger="M300" precipitant="M241" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I83" type="Pharmacodynamic interaction" trigger="M243" precipitant="M244" effect="M260" effectCodeMatch="NULL"/>
+<Interaction id="I84" type="Pharmacodynamic interaction" trigger="M291" precipitant="M247" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I85" type="Pharmacodynamic interaction" trigger="M300" precipitant="M250" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I86" type="Pharmacodynamic interaction" trigger="M291" precipitant="M253" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I87" type="Pharmacodynamic interaction" trigger="M300" precipitant="M256" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I88" type="Pharmacodynamic interaction" trigger="M258" precipitant="M259" effect="M260" effectCodeMatch="NULL"/>
+<Interaction id="I89" type="Pharmacodynamic interaction" trigger="M291" precipitant="M262" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I90" type="Pharmacodynamic interaction" trigger="M300" precipitant="M265" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I91" type="Pharmacodynamic interaction" trigger="M291" precipitant="M268" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I92" type="Pharmacodynamic interaction" trigger="M300" precipitant="M271" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I93" type="Pharmacodynamic interaction" trigger="M291" precipitant="M274" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I94" type="Pharmacodynamic interaction" trigger="M300" precipitant="M277" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I95" type="Pharmacodynamic interaction" trigger="M279" precipitant="M280" effect="M281" effectCodeMatch="Exact Match"/>
+<Interaction id="I96" type="Pharmacodynamic interaction" trigger="M291" precipitant="M283" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I97" type="Pharmacodynamic interaction" trigger="M291" precipitant="M286" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I98" type="Pharmacodynamic interaction" trigger="M300" precipitant="M289" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I99" type="Pharmacodynamic interaction" trigger="M291" precipitant="M292" effect="M293" effectCodeMatch="Exact"/>
+<Interaction id="I100" type="Pharmacodynamic interaction" trigger="M300" precipitant="M295" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I101" type="Pharmacodynamic interaction" trigger="M300" precipitant="M298" effect="M302" effectCodeMatch="NULL"/>
+<Interaction id="I102" type="Pharmacodynamic interaction" trigger="M300" precipitant="M301" effect="M302" effectCodeMatch="NULL"/>
+</Sentence>
+<Sentence id="3072" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Never share needles or syringes with another person.</SentenceText>
+</Sentence>
+<Sentence id="3073" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hyper- or Hypoglycemia with Changes in Insulin Regimen: Carry out under close medical supervision and increase frequency of blood glucose monitoring.</SentenceText>
+</Sentence>
+<Sentence id="3074" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypoglycemia: May be life-threatening.</SentenceText>
+</Sentence>
+<Sentence id="3075" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Increase frequency of blood glucose monitoring with changes to: insulin dosage, co-administered glucose lowering medications, meal pattern, physical activity; in patients with renal or hepatic impairment or with hypoglycemia unawareness.</SentenceText>
+<Mention id="M303" type="Trigger" span="0 8;36 10" str="Increase | monitoring"/>
+<Mention id="M304" type="Precipitant" span="96 28" str="glucose lowering medications" code="NO MAP"/>
+<Mention id="M305" type="SpecificInteraction" span="22 13" str="blood glucose" code="166922008: Blood glucose abnormal (finding)"/>
+<Interaction id="I103" type="Pharmacodynamic interaction" trigger="M303" precipitant="M304" effect="M305" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3076" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypoglycemia Due to Medication Errors: Accidental mix-ups between insulin products can occur.</SentenceText>
+</Sentence>
+<Sentence id="3077" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Instruct patients to check insulin labels before injection.</SentenceText>
+</Sentence>
+<Sentence id="3078" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypersensitivity and Allergic Reactions: Severe, life-threatening, generalized allergy, including anaphylaxis, can occur.</SentenceText>
+</Sentence>
+<Sentence id="3079" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Discontinue HUMULIN R, monitor, and treat if indicated.</SentenceText>
+</Sentence>
+<Sentence id="3080" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypokalemia: May be life-threatening.</SentenceText>
+</Sentence>
+<Sentence id="3081" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Monitor potassium levels in patients at risk for hypokalemia and treat if indicated.</SentenceText>
+</Sentence>
+<Sentence id="3082" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Fluid Retention and Heart Failure with Concomitant Use of Thiazolidinediones (TZDs): Observe for signs and symptoms of heart failure; consider dosage reduction or discontinuation if heart failure occurs.</SentenceText>
+<Mention id="M317" type="SpecificInteraction" span="0 15" str="Fluid Retention" code="43498006: Body fluid retention (disorder)"/>
+<Mention id="M313" type="Precipitant" span="58 18" str="Thiazolidinediones" code="N0000180190"/>
+<Mention id="M318" type="Trigger" span="85 7" str="Observe "/>
+<Mention id="M319" type="Trigger" span="97 18" str=" signs and symptoms "/>
+<Mention id="M320" type="Trigger" span="143 16" str=" dosage reduction "/>
+<Mention id="M321" type="Trigger" span="163 15" str=" discontinuation"/>
+<Mention id="M323" type="SpecificInteraction" span="20 13" str="heart failure" code="42343007: Congestive heart failure (disorder)"/>
+<Mention id="M322" type="Precipitant" span="78 4" str="TZDs" code="N0000180190"/>
+<Interaction id="I104" type="Pharmacodynamic interaction" trigger="M317" precipitant="M313" effect="M317" effectCodeMatch="Exact"/>
+<Interaction id="I105" type="Pharmacodynamic interaction" trigger="M318;M319;M320;M321" precipitant="M313" effect="M323" effectCodeMatch="Exact"/>
+<Interaction id="I106" type="Pharmacodynamic interaction" trigger="M317" precipitant="M322" effect="M317" effectCodeMatch="Exact"/>
+<Interaction id="I107" type="Pharmacodynamic interaction" trigger="M318;M319;M320;M321" precipitant="M322" effect="M323" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3083" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Patients using HUMULIN R vials must never share needles or syringes with another person.</SentenceText>
+</Sentence>
+<Sentence id="3084" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Sharing poses a risk for transmission of blood-borne pathogens.</SentenceText>
+</Sentence>
+<Sentence id="3085" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Changes in insulin, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia or hyperglycemia.</SentenceText>
+</Sentence>
+<Sentence id="3086" LabelDrug="Humulin" section="43685-7">
+<SentenceText>These changes should be made cautiously and only under medical supervision and the frequency of blood glucose monitoring should be increased.</SentenceText>
+</Sentence>
+<Sentence id="3087" LabelDrug="Humulin" section="43685-7">
+<SentenceText>For patients with type 2 diabetes, adjustments in concomitant anti-diabetic medications may be needed.</SentenceText>
+<Mention id="M324" type="Trigger" span="35 11" str="adjustments"/>
+<Mention id="M325" type="Precipitant" span="62 25" str="anti-diabetic medications" code="NO MAP"/>
+<Interaction id="I108" type="Unspecified interaction" trigger="M324" precipitant="M325"/>
+</Sentence>
+<Sentence id="3088" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypoglycemia is the most common adverse reaction of all insulins, including HUMULIN R. Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death.</SentenceText>
+</Sentence>
+<Sentence id="3089" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).</SentenceText>
+</Sentence>
+<Sentence id="3090" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.</SentenceText>
+</Sentence>
+<Sentence id="3091" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers), or in patients who experience recurrent hypoglycemia.</SentenceText>
+<Mention id="M330" type="Trigger" span="0 11" str="Symptomatic "/>
+<Mention id="M331" type="Trigger" span="45 15" str=" less pronounced"/>
+<Mention id="M328" type="Precipitant" span="221 13" str="beta-blockers" code="N0000000161 | N0000175556"/>
+<Mention id="M333" type="SpecificInteraction" span="0 60" str="Symptomatic awareness of hypoglycemia may be less pronounced" code="NO MAP"/>
+<Mention id="M332" type="Precipitant" span="160 53" str="medications that block the sympathetic nervous system" code="N0000175650"/>
+<Interaction id="I109" type="Pharmacodynamic interaction" trigger="M330;M331" precipitant="M328" effect="M333" effectCodeMatch="NULL"/>
+<Interaction id="I110" type="Pharmacodynamic interaction" trigger="M330;M331" precipitant="M332" effect="M333" effectCodeMatch="NULL"/>
+</Sentence>
+<Sentence id="3092" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Risk Factors for Hypoglycemia The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.</SentenceText>
+</Sentence>
+<Sentence id="3093" LabelDrug="Humulin" section="43685-7">
+<SentenceText>As with all insulin preparations, the glucose lowering effect time course of HUMULIN R may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature.</SentenceText>
+</Sentence>
+<Sentence id="3094" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication.</SentenceText>
+<Mention id="M334" type="Trigger" span="24 17" str="increase the risk"/>
+<Mention id="M335" type="Precipitant" span="77 4" str="meal" code="NO MAP"/>
+<Mention id="M336" type="SpecificInteraction" span="45 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Interaction id="I111" type="Pharmacodynamic interaction" trigger="M334" precipitant="M335" effect="M336" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3095" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Patients with renal or hepatic impairment may be at higher risk of hypoglycemia.</SentenceText>
+</Sentence>
+<Sentence id="3096" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Risk Mitigation Strategies for Hypoglycemia Patients and caregivers must be educated to recognize and manage hypoglycemia.</SentenceText>
+</Sentence>
+<Sentence id="3097" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.</SentenceText>
+</Sentence>
+<Sentence id="3098" LabelDrug="Humulin" section="43685-7">
+<SentenceText>In patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.</SentenceText>
+</Sentence>
+<Sentence id="3099" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Accidental mix-ups between HUMULIN R and other insulins have been reported.</SentenceText>
+</Sentence>
+<Sentence id="3100" LabelDrug="Humulin" section="43685-7">
+<SentenceText>To avoid medication errors between HUMULIN R and other insulins, instruct patients to always check the insulin label before each injection.</SentenceText>
+</Sentence>
+<Sentence id="3101" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with HUMULIN R.</SentenceText>
+</Sentence>
+<Sentence id="3102" LabelDrug="Humulin" section="43685-7">
+<SentenceText>If hypersensitivity reactions occur, discontinue HUMULIN R; treat per standard of care and monitor until symptoms and signs resolve.</SentenceText>
+</Sentence>
+<Sentence id="3103" LabelDrug="Humulin" section="43685-7">
+<SentenceText>HUMULIN R is contraindicated in patients who have had a hypersensitivity reaction to HUMULIN R or its excipients.</SentenceText>
+</Sentence>
+<Sentence id="3104" LabelDrug="Humulin" section="43685-7">
+<SentenceText>All insulin products, including HUMULIN R, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.</SentenceText>
+</Sentence>
+<Sentence id="3105" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.</SentenceText>
+</Sentence>
+<Sentence id="3106" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).</SentenceText>
+<Mention id="M343" type="Trigger" span="40 8" str="risk for"/>
+<Mention id="M341" type="Precipitant" span="144 55" str="medications sensitive to serum potassium concentrations" code="NO MAP"/>
+<Mention id="M345" type="SpecificInteraction" span="49 11" str="hypokalemia" code="43339004: Hypokalemia (disorder)"/>
+<Mention id="M346" type="Trigger" span="0 7" str="Monitor"/>
+<Mention id="M348" type="SpecificInteraction" span="8 16" str="potassium levels" code="NO MAP"/>
+<Mention id="M347" type="Precipitant" span="96 30" str="potassium-lowering medications" code="NO MAP"/>
+<Interaction id="I112" type="Pharmacodynamic interaction" trigger="M343" precipitant="M341" effect="M345" effectCodeMatch="Exact"/>
+<Interaction id="I113" type="Pharmacodynamic interaction" trigger="M346" precipitant="M341" effect="M348" effectCodeMatch="NULL"/>
+<Interaction id="I114" type="Pharmacodynamic interaction" trigger="M343" precipitant="M347" effect="M345" effectCodeMatch="Exact"/>
+<Interaction id="I115" type="Pharmacodynamic interaction" trigger="M346" precipitant="M347" effect="M348" effectCodeMatch="NULL"/>
+</Sentence>
+<Sentence id="3107" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.</SentenceText>
+<Mention id="M361" type="Trigger" span="107 18" str="cause dose-related"/>
+<Mention id="M350" type="Precipitant" span="37 64" str="peroxisome proliferator-activated receptor (PPAR)-gamma agonists" code="N0000175377"/>
+<Mention id="M363" type="SpecificInteraction" span="126 15" str="Fluid Retention" code="43498006: Body fluid retention (disorder)"/>
+<Mention id="M353" type="Precipitant" span="37 42;87 14" str="peroxisome proliferator-activated receptor | gamma agonists" code="N0000175377"/>
+<Mention id="M356" type="Precipitant" span="81 4;87 14" str="PPAR | gamma agonists" code="N0000175377"/>
+<Mention id="M359" type="Precipitant" span="0 18" str="Thiazolidinediones" code="N0000180190"/>
+<Mention id="M362" type="Precipitant" span="20 4" str="TZDs" code="N0000180190"/>
+<Interaction id="I116" type="Pharmacodynamic interaction" trigger="M361" precipitant="M350" effect="M363" effectCodeMatch="Exact"/>
+<Interaction id="I117" type="Pharmacodynamic interaction" trigger="M361" precipitant="M353" effect="M363" effectCodeMatch="Exact"/>
+<Interaction id="I118" type="Pharmacodynamic interaction" trigger="M361" precipitant="M356" effect="M363" effectCodeMatch="Exact"/>
+<Interaction id="I119" type="Pharmacodynamic interaction" trigger="M361" precipitant="M359" effect="M363" effectCodeMatch="Exact"/>
+<Interaction id="I120" type="Pharmacodynamic interaction" trigger="M361" precipitant="M362" effect="M363" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3108" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Fluid retention may lead to or exacerbate heart failure.</SentenceText>
+</Sentence>
+<Sentence id="3109" LabelDrug="Humulin" section="43685-7">
+<SentenceText>Patients treated with insulin, including HUMULIN R, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.</SentenceText>
+<Mention id="M364" type="Trigger" span="77 18" str="should be observed "/>
+<Mention id="M365" type="Trigger" span="100 18" str=" signs and symptoms"/>
+<Mention id="M366" type="Precipitant" span="58 18" str="PPAR-gamma agonist" code="N0000175377"/>
+<Mention id="M367" type="SpecificInteraction" span="122 13" str="heart failure" code="42343007: Congestive heart failure (disorder)"/>
+<Interaction id="I121" type="Pharmacodynamic interaction" trigger="M364;M365" precipitant="M366" effect="M367" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3110" LabelDrug="Humulin" section="43685-7">
+<SentenceText>If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.</SentenceText>
+<Mention id="M368" type="Trigger" span="0 2;17 8" str="If | develops "/>
+<Mention id="M369" type="Trigger" span="92 15" str=" discontinuation "/>
+<Mention id="M370" type="Trigger" span="111 14" str=" dose reduction"/>
+<Mention id="M371" type="Precipitant" span="133 18" str="PPAR-gamma agonist" code="N0000175377"/>
+<Mention id="M372" type="SpecificInteraction" span="3 13" str="heart failure" code="42343007: Congestive heart failure (disorder)"/>
+<Interaction id="I122" type="Pharmacodynamic interaction" trigger="M368;M369;M370" precipitant="M371" effect="M372" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="3111" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The primary activity of insulin, including HUMULIN R, is the regulation of glucose metabolism.</SentenceText>
+</Sentence>
+<Sentence id="3112" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Insulin lowers blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.</SentenceText>
+</Sentence>
+<Sentence id="3113" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.</SentenceText>
+</Sentence>
+<Sentence id="3114" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual.</SentenceText>
+</Sentence>
+<Sentence id="3115" LabelDrug="Humulin" section="34090-1">
+<SentenceText>With subcutaneous use, the pharmacologic effect of HUMULIN R begins approximately 30 minutes (range: 10 to 75 minutes) after administration of doses in the 0.05 to 0.4 units/kg range (Figure 1).</SentenceText>
+</Sentence>
+<Sentence id="3116" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The effect is maximal at approximately 3 hours (range: 20 minutes to 7 hours) and terminates after approximately 8 hours (range: 3 to 14 hours).</SentenceText>
+</Sentence>
+<Sentence id="3117" LabelDrug="Humulin" section="34090-1">
+<SentenceText>In a study that administered 50 and 100 units doses subcutaneously to obese subjects, mean time of termination of effect was prolonged to approximately 18 hours (range approximately 12-24 hours).</SentenceText>
+</Sentence>
+<Sentence id="3118" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Figure 1: Mean Insulin Activity Versus Time Profile After Subcutaneous Injection of HUMULIN R (0.3 unit/kg) in Healthy Subjects.</SentenceText>
+</Sentence>
+<Sentence id="3119" LabelDrug="Humulin" section="34090-1">
+<SentenceText>With intravenous use, the pharmacologic effect of HUMULIN R begins at approximately 10 to 15 minutes and terminates at a median time of approximately 4 hours (range: 2 to 6 hours) after administration of doses in the range of 0.1 to 0.2 units/kg.</SentenceText>
+</Sentence>
+<Sentence id="3120" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The intravenous administration of HUMULIN R was tested in 21 people with type 1 diabetes.</SentenceText>
+</Sentence>
+<Sentence id="3121" LabelDrug="Humulin" section="34090-1">
+<SentenceText>During the 6-hour assessment phase patients received intravenous HUMULIN R at an initial dose of 0.5 units/hour, adjusted to maintain blood glucose concentrations near normoglycemia (100 to 160 mg/dL).</SentenceText>
+</Sentence>
+<Sentence id="3122" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The mean blood glucose levels during the assessment phase for patients on HUMULIN R therapy are summarized below in Table 2.</SentenceText>
+</Sentence>
+<Sentence id="3123" LabelDrug="Humulin" section="34090-1">
+<SentenceText>All patients achieved near normoglycemia during the 6-hour assessment phase.</SentenceText>
+</Sentence>
+<Sentence id="3124" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The average time (± SE) required to attain near normoglycemia was 161 ± 14 minutes for HUMULIN R. Table 2: Mean Blood Glucose Concentrations (mg/dL) during Intravenous Infusions of HUMULIN R a Results shown as mean ± Standard Deviation.</SentenceText>
+</Sentence>
+<Sentence id="3125" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Time from Start of Infusion (minutes) Mean Blood Glucose (mg/dL) Intravenousa 0 220 ± 11 30 204 ± 17 60 193 ± 18 120 172 ± 28 180 153 ± 30 240 139 ± 24 300 131 ± 22 360 128 ± 18 Figure 1 Absorption — In healthy subjects given subcutaneous doses of HUMULIN R ranging from 0.05 to 0.4 unit/kg, mean peak serum levels occurred between 36 to 150 minutes after dosing.</SentenceText>
+</Sentence>
+<Sentence id="3126" LabelDrug="Humulin" section="34090-1">
+<SentenceText>After subcutaneous administration of a single 12 unit dose (approximately 0.15 units/kg) to patients with type 1 diabetes, the median peak serum level occurred at approximately 2 hours (range: 20 minutes-6 hours).</SentenceText>
+</Sentence>
+<Sentence id="3127" LabelDrug="Humulin" section="34090-1">
+<SentenceText>In a study that administered 50 units (0.4-0.6 unit/kg) and 100 units (0.8-1.3 unit/kg) doses subcutaneously to healthy obese subjects, median peak serum levels were prolonged to approximately 3 hours (range 1 to 8 hours).</SentenceText>
+</Sentence>
+<Sentence id="3128" LabelDrug="Humulin" section="34090-1">
+<SentenceText>The absolute bioavailability after a single subcutaneous injection of HUMULIN R ranges from 48% to 89% in the 0.1 to 0.3 unit/kg dose range.</SentenceText>
+</Sentence>
+<Sentence id="3129" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Distribution — When HUMULIN R is administered intravenously at doses of 0.1 or 0.2 unit/kg, the mean volume of distribution ranges between 0.32 to 0.67 L/kg.</SentenceText>
+</Sentence>
+<Sentence id="3130" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Metabolism — The uptake and degradation of insulin occurs predominantly in liver, kidney, muscle, and adipocytes, with the liver being the major organ involved in the clearance of insulin.</SentenceText>
+</Sentence>
+<Sentence id="3131" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Excretion — After subcutaneous administration of HUMULIN R doses in the 0.05-0.4 unit/kg dose range, the median apparent half-life is approximately 1.5 hours (range: 40 minutes-7 hours).</SentenceText>
+</Sentence>
+<Sentence id="3132" LabelDrug="Humulin" section="34090-1">
+<SentenceText>Mean apparent half-life of HUMULIN R after subcutaneous administration of higher doses (50 and 100 units) to healthy obese subjects was approximately 3.6 hours (range= 1.6-8.6 hours).</SentenceText>
+</Sentence>
+<Sentence id="3133" LabelDrug="Humulin" section="34090-1">
+<SentenceText>When administered intravenously, HUMULIN R had a mean half-life of approximately 20 minutes at a 0.1 unit/kg dose and 1 hour at a 0.2 unit/kg dose.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="insulin preparations" precipitantCode="N0000175944"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="meal" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="meal" precipitantCode="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="insulin" precipitantCode="N0000004931 | N0000175944"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ace inhibitors" precipitantCode="N0000000181 | N0000175562 | N0000029130" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="angiotensin ii receptor blocking agents" precipitantCode="N0000000070" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antidiabetic agents" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="disopyramide" precipitantCode="GFO928U8MQ" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may increase the risk of hypoglycemia" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fibrates" precipitantCode="6848ST447Q | N0000182116" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="monoamine oxidase inhibitors" precipitantCode="N0000000184 | N0000175744" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="octreotide" precipitantCode="RWM8CCW8GP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pentoxifylline" precipitantCode="SD6QCT3TSU" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pramlintide" precipitantCode="D3FM8FA78T" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="propoxyphene" precipitantCode="S2F83W92TK" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="salicylates" precipitantCode="N0000006035 | O414PZ4LPZ" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="somatostatin analog" precipitantCode="N0000175904" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sulfonamide antibiotics" precipitantCode="N0000175504" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="albuterol" precipitantCode="QF8SVZ843E" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="atypical antipsychotics" precipitantCode="N0000175430" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clozapine" precipitantCode="J60AR2IKIC" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="corticosteroids" precipitantCode="N0000011309 | N0000175576" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="danazol" precipitantCode="N29QWW3BUO" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="diuretics" precipitantCode="N0000029125 | N0000175359" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may decrease the blood glucose lowering effect" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epinephrine" precipitantCode="YKH834O4BH | N0000006261" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="estrogens" precipitantCode="N0000175825 | N0000011402" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="glucagon" precipitantCode="76LA80IG2G" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="isoniazid" precipitantCode="V83O1VOZ8L" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="niacin" precipitantCode="2679MF687A" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="olanzapine" precipitantCode="N7U69T4SZR" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="oral contraceptives" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="progestogens" precipitantCode="N0000175602" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="protease inhibitors" precipitantCode="N0000175889 | N0000000076" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="somatropin" precipitantCode="NQX9KB6PCL" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sympathomimetic agents" precipitantCode="N0000029104 | N0000175651" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="terbutaline" precipitantCode="N8ONU3L3PG" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="thyroid hormones" precipitantCode="0B4FDL9I6P | N0000011247" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blockers" precipitantCode="N0000000161 | N0000175556" effect="166922008: Blood glucose abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blockers" precipitantCode="N0000000161 | N0000175556" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blockers" precipitantCode="N0000000161 | N0000175556" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clonidine" precipitantCode="N0000006505 | MN3L5RMN02" effect="166922008: Blood glucose abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clonidine" precipitantCode="N0000006505 | MN3L5RMN02" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clonidine" precipitantCode="N0000006505 | MN3L5RMN02" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may increase or decrease the blood glucose lowering effect" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="lithium salts" precipitantCode="9FN79X2M3F" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pentamidine" precipitantCode="673LC5J4LQ" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pentamidine" precipitantCode="673LC5J4LQ" effect="80394007: Hyperglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pentamidine" precipitantCode="673LC5J4LQ" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may blunt signs and symptoms of hypoglycemia" precipitantCode="NO MAP" effect="166922008: Blood glucose abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may blunt signs and symptoms of hypoglycemia" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="guanethidine" precipitantCode="ZTI6C33Q2Q" effect="166922008: Blood glucose abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="guanethidine" precipitantCode="ZTI6C33Q2Q" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="reserpine" precipitantCode="8B1QWR724A" effect="166922008: Blood glucose abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="reserpine" precipitantCode="8B1QWR724A" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may blunt the signs and symptoms of hypoglycemia" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="glucose lowering medications" precipitantCode="NO MAP" effect="166922008: Blood glucose abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="thiazolidinediones" precipitantCode="N0000180190" effect="42343007: Congestive heart failure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="thiazolidinediones" precipitantCode="N0000180190" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tzds" precipitantCode="N0000180190" effect="42343007: Congestive heart failure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tzds" precipitantCode="N0000180190" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anti-diabetic medications" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="medications that block the sympathetic nervous system" precipitantCode="N0000175650" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="medications sensitive to serum potassium concentrations" precipitantCode="NO MAP" effect="43339004: Hypokalemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="medications sensitive to serum potassium concentrations" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="potassium-lowering medications" precipitantCode="NO MAP" effect="43339004: Hypokalemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="potassium-lowering medications" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="peroxisome proliferator-activated receptor (ppar)-gamma agonists" precipitantCode="N0000175377" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="peroxisome proliferator-activated receptor | gamma agonists" precipitantCode="N0000175377" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ppar | gamma agonists" precipitantCode="N0000175377" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ppar-gamma agonist" precipitantCode="N0000175377" effect="42343007: Congestive heart failure (disorder)"/>
+
+</LabelInteractions></Label>

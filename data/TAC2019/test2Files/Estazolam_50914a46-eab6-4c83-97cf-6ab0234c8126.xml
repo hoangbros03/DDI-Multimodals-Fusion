@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Estazolam" setid="50914a46-eab6-4c83-97cf-6ab0234c8126">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Pharmacokinetics  Absorption  Estazolam tablets have been found to be equivalent in absorption to an orally administered solution of estazolam. In healthy subjects who received up to three times the recommended dose of estazolam, peak estazolam plasma concentrations occurred within two hours after dosing (range 0.5 to 6.0 hours) and were proportional to the administered dose, suggesting linear pharmacokinetics over the dosage range tested.  Distribution  Independent of concentration, estazolam in plasma is 93% protein bound.  Metabolism  Estazolam is extensively metabolized. Only two metabolites (1-oxo-estazolam &amp; 4-hydroxy-estazolam) were detected in human plasma up to 18 hrs.  The pharmacologic activity of estazolam is primarily from the parent drug. The elimination of the parent drug takes place via hepatic metabolism of estazolam to hydroxylated and other metabolites that are eliminated largely in the urine both free and conjugated. In humans, greater than 70% of a single dose of estazolam was recovered in the urine as metabolites. Less than 5% of a 2 mg dose of estazolam was excreted unchanged in the urine, with only 4% of the dose appearing in the feces. The principal urinary excretion product is an unidentified metabolite, presumed to be a metabolic product of 4-hydroxy-estazolam, accounting for at least 27% of the administered dose. 4-hydroxy-estazolam is the major metabolite in plasma, with concentrations approaching 12% of those of the parent eight hours after administration. Urinary 4-hydroxy-estazolam and 1-oxo-estazolam account for 11.9% and 4.4% of the dose respectively. In vitro studies with human liver microsomes indicate that the biotransformation of estazolam to the major circulating metabolite 4-hydroxy-estazolam is mediated by cytochrome P450 3A (CYP3A). While 4-hydroxy-estazolam and the lesser metabolite, 1-oxo-estazolam, have some pharmacologic activity, their low potencies and low concentrations preclude any significant contribution to the hypnotic effect of estazolam.  Elimination  The range of estimates for the mean elimination half-life of estazolam varied from 10 to 24 hours. Radiolabel mass balance studies indicate that the main route of excretion is via the kidneys. After 5 days, 87% of the administered radioactivity was excreted in human urine. Less than 4% of the dose was excreted unchanged. Eleven metabolites were found in urine. Four metabolites were identified as 1-oxo-estazolam, 4’-hydroxy-estazolam, 4-hydroxy-estazolam, and benzophenone, as free metabolites and glucuronides. The predominant metabolite in urine (17% of the administered dose) has not been identified, but is likely to be a metabolite of 4-hydroxy-estazolam.  Special Populations  In a small study (N = 8) using various doses in older subjects (59 to 68 years), peak estazolam concentrations were found to be similar to those observed in younger subjects with a mean elimination half-life of 18.4 hours (range 13.5 to 34.6 hours). The influence of hepatic or renal impairment on the pharmacokinetics of estazolam has not been studied.  Pediatrics  The pharmacokinetics of estazolam have not been studied in pediatric patients.  Race  The influence of race on the pharmacokinetics of estazolam has not been studied.  Gender  The gender-effect on the pharmacokinetics of estazolam has not been investigated.  Cigarette smoking  The clearance of benzodiazepines is accelerated in smokers compared to nonsmokers, and there is evidence that this occurs with estazolam. This decrease in half-life, presumably due to enzyme induction by smoking, is consistent with other drugs with similar hepatic clearance characteristics. In all subjects and at all doses, the mean elimination half-life appeared to be independent of the dose.  Drug-drug interaction  The metabolism of estazolam to the major circulating metabolite 4-hydroxy-estazolam is catalyzed by CYP3A. While no in vivo drug-drug interaction studies were conducted between estazolam and inhibitors/inducers of CYP3A, compounds that are potent CYP3A inhibitors (such as ketoconazole, itraconazole, nefazodone, fluvoxamine, and erythromycin) would be expected to increase plasma estazolam concentrations and CYP3A inducers (such as carbamazepine, phenytoin, rifampin and barbiturates) would be expected to decrease estazolam concentrations.  Drug interaction with fluoxetine  A multiple-dose study was conducted to assess the effect of fluoxetine 20 mg BID on the pharmacokinetics of estazolam 2 mg QHS after seven days. The pharmacokinetics of estazolam (C max and AUC) were not affected during multiple-dose fluoxetine, suggesting no clinically significant pharmacokinetic interaction.  The ability of estazolam to induce or inhibit human enzyme systems  The results from in vitro human liver microsomal studies suggest that at therapeutic concentrations, estazolam has no significant inhibitory effect on the major human cytochrome P450 enzyme activities (i.e., CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A). The ability of estazolam to induce human hepatic enzyme systems has not been determined.  Pharmacodynamics  Postulated relationship between elimination rate of benzodiazepine hypnotics and their profile of common untoward effects: The type and duration of hypnotic effects and the profile of unwanted effects during administration of benzodiazepine drugs may be influenced by the biologic half-life of administered drug and any active metabolites formed. If half-lives are long, drug or metabolites may accumulate during periods of nightly administration and may be associated with impairments of cognitive and/or motor performance during waking hours; the possibility of interaction with other psychoactive drugs or alcohol will be increased. In contrast, if half-lives are short, drug and metabolites will be cleared before the next dose is ingested, and carry-over effects related to excessive sedation or CNS depression should be minimal or absent. However, during nightly use for an extended period, pharmacodynamic tolerance or adaptation to some effects of benzodiazepine hypnotics may develop. If the drug has a short elimination half-life, it is possible that a relative deficiency of the drug or its active metabolites (i.e., in relationship to the receptor site) may occur at some point in the interval between each night’s use. This sequence of events may account for two clinical findings reported to occur after several weeks of nightly use of rapidly eliminated benzodiazepine hypnotics, namely, increased wakefulness during the last third of the night and increased daytime anxiety in selected patients.</Section>
+</Text><Sentences>
+<Sentence id="3201" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>If estazolam is given concomitantly with other drugs acting on the central nervous system, careful consideration should be given to the pharmacology of all agents.</SentenceText>
+<Mention id="M1" type="Trigger" span="91 21" str="careful consideration"/>
+<Mention id="M2" type="Precipitant" span="47 42" str="drugs acting on the central nervous system" code="NONE"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="3202" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>The action of the benzodiazepines may be potentiated by anticonvulsants, antihistamines, alcohol, barbiturates, monoamine oxidase inhibitors, narcotics, phenothiazines, psychotropic medications, or other drugs that produce CNS depression.</SentenceText>
+<Mention id="M27" type="Trigger" span="41 11" str="potentiated"/>
+<Mention id="M4" type="Precipitant" span="153 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M29" type="SpecificInteraction" span="18 15;41 11" str="benzodiazepines | potentiated" code="NO MAP"/>
+<Mention id="M7" type="Precipitant" span="56 15" str="anticonvulsants" code="N0000029145"/>
+<Mention id="M10" type="Precipitant" span="112 28" str="monoamine oxidase inhibitors" code="N0000000184"/>
+<Mention id="M13" type="Precipitant" span="89 7" str="alcohol" code="N0000007432"/>
+<Mention id="M16" type="Precipitant" span="73 14" str="antihistamines" code="N0000029071"/>
+<Mention id="M19" type="Precipitant" span="142 9" str="narcotics" code="n0000175103"/>
+<Mention id="M22" type="Precipitant" span="204 33" str="drugs that produce CNS depression" code="NONE"/>
+<Mention id="M25" type="Precipitant" span="98 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M28" type="Precipitant" span="169 24" str="psychotropic medications" code="NO MAP"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M27" precipitant="M4" effect="M29"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M27" precipitant="M7" effect="M29"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M27" precipitant="M10" effect="M29"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M27" precipitant="M13" effect="M29"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M27" precipitant="M16" effect="M29"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M27" precipitant="M19" effect="M29"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M27" precipitant="M22" effect="M29"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M27" precipitant="M25" effect="M29"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M27" precipitant="M28" effect="M29"/>
+</Sentence>
+<Sentence id="3203" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>Smokers have an increased clearance of benzodiazepines as compared to nonsmokers; this was seen in studies with estazolam.</SentenceText>
+</Sentence>
+<Sentence id="3204" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>While no in vivo drug-drug interaction studies were conducted between estazolam and inducers of CYP3A, compounds that are potent CYP3A inhibitors (such as carbamazepine, phenytoin, rifampin, and barbiturates) would be expected to decrease estazolam concentrations.</SentenceText>
+<Mention id="M38" type="Trigger" span="230 8;249 14" str="decrease | concentrations"/>
+<Mention id="M31" type="Precipitant" span="181 8" str="rifampin" code="N0000006026"/>
+<Mention id="M33" type="Precipitant" span="170 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M35" type="Precipitant" span="155 13" str="carbamazepine" code="N0000007470"/>
+<Mention id="M37" type="Precipitant" span="195 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M39" type="Precipitant" span="122 23" str="potent CYP3A inhibitors" code="NONE"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M38" precipitant="M31" effect="C54356"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M38" precipitant="M33" effect="C54356"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M38" precipitant="M35" effect="C54356"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M38" precipitant="M37" effect="C54356"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M38" precipitant="M39" effect="C54356"/>
+</Sentence>
+<Sentence id="3205" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>The metabolism of estazolam to the major circulating metabolite 4-hydroxy-estazolam and the metabolism of other triazolobenzodiazepines is catalyzed by CYP3A.</SentenceText>
+</Sentence>
+<Sentence id="3206" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>Consequently, estazolam should be avoided in patients receiving ketoconazole and itraconazole, which are very potent inhibitors of CYP3A.</SentenceText>
+<Mention id="M44" type="Trigger" span="24 17" str="should be avoided"/>
+<Mention id="M41" type="Precipitant" span="64 12" str="ketoconazole" code="N0000007319"/>
+<Mention id="M43" type="Precipitant" span="81 12" str="itraconazole" code="N0000006753"/>
+<Mention id="M45" type="Precipitant" span="110 26" str="potent inhibitors of CYP3A" code="NONE"/>
+<Interaction id="I16" type="Unspecified interaction" trigger="M44" precipitant="M41"/>
+<Interaction id="I17" type="Unspecified interaction" trigger="M44" precipitant="M43"/>
+<Interaction id="I18" type="Unspecified interaction" trigger="M44" precipitant="M45"/>
+</Sentence>
+<Sentence id="3207" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>With drugs inhibiting CYP3A to a lesser, but still significant degree, estazolam should be used only with caution and consideration of appropriate dosage reduction.</SentenceText>
+<Mention id="M46" type="Trigger" span="147 16" str="dosage reduction"/>
+<Mention id="M47" type="Precipitant" span="5 22" str="drugs inhibiting CYP3A" code="NONE"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M46" precipitant="M47" effect="C54355"/>
+</Sentence>
+<Sentence id="3208" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>The following are examples of drugs known to inhibit the metabolism of other related benzodiazepines, presumably through inhibition of CYP3A: nefazodone, fluvoxamine, cimetidine, diltiazem, isoniazide, and some macrolide antibiotics.</SentenceText>
+<Mention id="M58" type="Trigger" span="45 22" str="inhibit the metabolism"/>
+<Mention id="M49" type="Precipitant" span="167 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M51" type="Precipitant" span="190 10" str="isoniazide" code="NONE"/>
+<Mention id="M53" type="Precipitant" span="179 9" str="diltiazem" code="N0000006682"/>
+<Mention id="M55" type="Precipitant" span="211 21" str="macrolide antibiotics" code="N0000175431"/>
+<Mention id="M57" type="Precipitant" span="154 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Mention id="M59" type="Precipitant" span="142 10" str="nefazodone" code="N0000007250"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M58" precipitant="M49" effect="C54355"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M58" precipitant="M51" effect="C54355"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M58" precipitant="M53" effect="C54355"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M58" precipitant="M55" effect="C54355"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M58" precipitant="M57" effect="C54355"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M58" precipitant="M59" effect="C54355"/>
+</Sentence>
+<Sentence id="3209" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>A multiple-dose study was conducted to assess the effect of fluoxetine 20 mg BID on the pharmacokinetics of estazolam 2 mg QHS after seven days.</SentenceText>
+</Sentence>
+<Sentence id="3210" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>The pharmacokinetics of estazolam (Cmax and AUC) were not affected during multiple-dose fluoxetine, suggesting no clinically significant pharmacokinetic interaction.</SentenceText>
+</Sentence>
+<Sentence id="3211" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>At clinically relevant concentrations, in vitro studies indicate that estazolam (0.6µM) was not inhibitory towards the major cytochrome P450 isoforms CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.</SentenceText>
+</Sentence>
+<Sentence id="3212" LabelDrug="Estazolam" section="34073-7">
+<SentenceText>Therefore, based on these in vitro data, estazolam is very unlikely to inhibit the biotransformation of other drugs metabolized by these CYP isoforms.</SentenceText>
+</Sentence>
+<Sentence id="3213" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Estazolam tablets have been found to be equivalent in absorption to an orally administered solution of estazolam.</SentenceText>
+</Sentence>
+<Sentence id="3214" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>In healthy subjects who received up to three times the recommended dose of estazolam, peak estazolam plasma concentrations occurred within two hours after dosing (range 0.5 to 6.0 hours) and were proportional to the administered dose, suggesting linear pharmacokinetics over the dosage range tested.</SentenceText>
+</Sentence>
+<Sentence id="3215" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Independent of concentration, estazolam in plasma is 93% protein bound.</SentenceText>
+</Sentence>
+<Sentence id="3216" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Only two metabolites (1-oxo-estazolam &amp; 4-hydroxy-estazolam) were detected in human plasma up to 18 hrs.</SentenceText>
+</Sentence>
+<Sentence id="3217" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The pharmacologic activity of estazolam is primarily from the parent drug.</SentenceText>
+</Sentence>
+<Sentence id="3218" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The elimination of the parent drug takes place via hepatic metabolism of estazolam to hydroxylated and other metabolites that are eliminated largely in the urine both free and conjugated.</SentenceText>
+</Sentence>
+<Sentence id="3219" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>In humans, greater than 70% of a single dose of estazolam was recovered in the urine as metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3220" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Less than 5% of a 2 mg dose of estazolam was excreted unchanged in the urine, with only 4% of the dose appearing in the feces.</SentenceText>
+</Sentence>
+<Sentence id="3221" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The principal urinary excretion product is an unidentified metabolite, presumed to be a metabolic product of 4-hydroxy-estazolam, accounting for at least 27% of the administered dose.</SentenceText>
+</Sentence>
+<Sentence id="3222" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>4-hydroxy-estazolam is the major metabolite in plasma, with concentrations approaching 12% of those of the parent eight hours after administration.</SentenceText>
+</Sentence>
+<Sentence id="3223" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Urinary 4-hydroxy-estazolam and 1-oxo-estazolam account for 11.9% and 4.4% of the dose respectively.</SentenceText>
+</Sentence>
+<Sentence id="3224" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>In vitro studies with human liver microsomes indicate that the biotransformation of estazolam to the major circulating metabolite 4-hydroxy-estazolam is mediated by cytochrome P450 3A (CYP3A).</SentenceText>
+</Sentence>
+<Sentence id="3225" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>While 4-hydroxy-estazolam and the lesser metabolite, 1-oxo-estazolam, have some pharmacologic activity, their low potencies and low concentrations preclude any significant contribution to the hypnotic effect of estazolam.</SentenceText>
+</Sentence>
+<Sentence id="3226" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The range of estimates for the mean elimination half-life of estazolam varied from 10 to 24 hours.</SentenceText>
+</Sentence>
+<Sentence id="3227" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Radiolabel mass balance studies indicate that the main route of excretion is via the kidneys.</SentenceText>
+</Sentence>
+<Sentence id="3228" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>After 5 days, 87% of the administered radioactivity was excreted in human urine.</SentenceText>
+</Sentence>
+<Sentence id="3229" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Less than 4% of the dose was excreted unchanged.</SentenceText>
+</Sentence>
+<Sentence id="3230" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Four metabolites were identified as 1-oxo-estazolam, 4’-hydroxy-estazolam, 4-hydroxy-estazolam, and benzophenone, as free metabolites and glucuronides.</SentenceText>
+</Sentence>
+<Sentence id="3231" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The predominant metabolite in urine (17% of the administered dose) has not been identified, but is likely to be a metabolite of 4-hydroxy-estazolam.</SentenceText>
+</Sentence>
+<Sentence id="3232" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>In a small study (N = 8) using various doses in older subjects (59 to 68 years), peak estazolam concentrations were found to be similar to those observed in younger subjects with a mean elimination half-life of 18.4 hours (range 13.5 to 34.6 hours).</SentenceText>
+</Sentence>
+<Sentence id="3233" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The influence of hepatic or renal impairment on the pharmacokinetics of estazolam has not been studied.</SentenceText>
+</Sentence>
+<Sentence id="3234" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The pharmacokinetics of estazolam have not been studied in pediatric patients.</SentenceText>
+</Sentence>
+<Sentence id="3235" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The influence of race on the pharmacokinetics of estazolam has not been studied.</SentenceText>
+</Sentence>
+<Sentence id="3236" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The gender-effect on the pharmacokinetics of estazolam has not been investigated.</SentenceText>
+</Sentence>
+<Sentence id="3237" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The clearance of benzodiazepines is accelerated in smokers compared to nonsmokers, and there is evidence that this occurs with estazolam.</SentenceText>
+</Sentence>
+<Sentence id="3238" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>This decrease in half-life, presumably due to enzyme induction by smoking, is consistent with other drugs with similar hepatic clearance characteristics.</SentenceText>
+</Sentence>
+<Sentence id="3239" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>In all subjects and at all doses, the mean elimination half-life appeared to be independent of the dose.</SentenceText>
+</Sentence>
+<Sentence id="3240" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The metabolism of estazolam to the major circulating metabolite 4-hydroxy-estazolam is catalyzed by CYP3A.</SentenceText>
+</Sentence>
+<Sentence id="3241" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>While no in vivo drug-drug interaction studies were conducted between estazolam and inhibitors/inducers of CYP3A, compounds that are potent CYP3A inhibitors (such as ketoconazole, itraconazole, nefazodone, fluvoxamine, and erythromycin) would be expected to increase plasma estazolam concentrations and CYP3A inducers (such as carbamazepine, phenytoin, rifampin and barbiturates) would be expected to decrease estazolam concentrations.</SentenceText>
+<Mention id="M80" type="Trigger" span="258 15;284 14" str="increase plasma | concentrations"/>
+<Mention id="M61" type="Precipitant" span="166 12" str="ketoconazole" code="N0000007319"/>
+<Mention id="M63" type="Precipitant" span="133 23" str="potent CYP3A inhibitors" code="NONE"/>
+<Mention id="M65" type="Precipitant" span="194 10" str="nefazodone" code="N0000007250"/>
+<Mention id="M78" type="Trigger" span="401 8;284 14" str="decrease | concentrations"/>
+<Mention id="M67" type="Precipitant" span="366 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M69" type="Precipitant" span="342 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M71" type="Precipitant" span="327 13" str="carbamazepine" code="N0000007470"/>
+<Mention id="M73" type="Precipitant" span="303 14" str="CYP3A inducers" code="n0000190118"/>
+<Mention id="M75" type="Precipitant" span="206 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Mention id="M77" type="Precipitant" span="180 12" str="itraconazole" code="N0000006753"/>
+<Mention id="M79" type="Precipitant" span="353 8" str="rifampin" code="N0000006026"/>
+<Mention id="M81" type="Precipitant" span="223 12" str="erythromycin" code="N0000007133"/>
+<Interaction id="I26" type="Pharmacokinetic interaction" trigger="M80" precipitant="M61" effect="C54355"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M80" precipitant="M63" effect="C54355"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M80" precipitant="M65" effect="C54355"/>
+<Interaction id="I29" type="Pharmacokinetic interaction" trigger="M78" precipitant="M67" effect="C54356"/>
+<Interaction id="I30" type="Pharmacokinetic interaction" trigger="M78" precipitant="M69" effect="C54356"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M78" precipitant="M71" effect="C54356"/>
+<Interaction id="I32" type="Pharmacokinetic interaction" trigger="M78" precipitant="M73" effect="C54356"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M80" precipitant="M75" effect="C54355"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M80" precipitant="M77" effect="C54355"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M78" precipitant="M79" effect="C54356"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M80" precipitant="M81" effect="C54355"/>
+</Sentence>
+<Sentence id="3244" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The results from in vitro human liver microsomal studies suggest that at therapeutic concentrations, estazolam has no significant inhibitory effect on the major human cytochrome P450 enzyme activities (i.e., CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A).</SentenceText>
+</Sentence>
+<Sentence id="3245" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>The ability of estazolam to induce human hepatic enzyme systems has not been determined.</SentenceText>
+</Sentence>
+<Sentence id="3246" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>Postulated relationship between elimination rate of benzodiazepine hypnotics and their profile of common untoward effects: The type and duration of hypnotic effects and the profile of unwanted effects during administration of benzodiazepine drugs may be influenced by the biologic half-life of administered drug and any active metabolites formed.</SentenceText>
+</Sentence>
+<Sentence id="3247" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>If half-lives are long, drug or metabolites may accumulate during periods of nightly administration and may be associated with impairments of cognitive and/or motor performance during waking hours; the possibility of interaction with other psychoactive drugs or alcohol will be increased.</SentenceText>
+<Mention id="M84" type="Trigger" span="217 11" str="interaction"/>
+<Mention id="M83" type="Precipitant" span="240 18" str="psychoactive drugs" code="NO MAP"/>
+<Mention id="M85" type="Precipitant" span="262 7" str="alcohol" code="N0000007432"/>
+<Interaction id="I37" type="Unspecified interaction" trigger="M84" precipitant="M83"/>
+<Interaction id="I38" type="Unspecified interaction" trigger="M84" precipitant="M85"/>
+</Sentence>
+<Sentence id="3248" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>In contrast, if half-lives are short, drug and metabolites will be cleared before the next dose is ingested, and carry-over effects related to excessive sedation or CNS depression should be minimal or absent.</SentenceText>
+</Sentence>
+<Sentence id="3249" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>However, during nightly use for an extended period, pharmacodynamic tolerance or adaptation to some effects of benzodiazepine hypnotics may develop.</SentenceText>
+</Sentence>
+<Sentence id="3250" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>If the drug has a short elimination half-life, it is possible that a relative deficiency of the drug or its active metabolites (i.e., in relationship to the receptor site) may occur at some point in the interval between each night’s use.</SentenceText>
+</Sentence>
+<Sentence id="3251" LabelDrug="Estazolam" section="34090-1">
+<SentenceText>This sequence of events may account for two clinical findings reported to occur after several weeks of nightly use of rapidly eliminated benzodiazepine hypnotics, namely, increased wakefulness during the last third of the night and increased daytime anxiety in selected patients.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="drugs acting on the central nervous system" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticonvulsants" precipitantCode="N0000029145" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="monoamine oxidase inhibitors" precipitantCode="N0000000184" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="alcohol" precipitantCode="N0000007432"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antihistamines" precipitantCode="N0000029071" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="narcotics" precipitantCode="n0000175103" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that produce cns depression" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="barbiturates" precipitantCode="N0000008016" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="barbiturates" precipitantCode="N0000008016" effect="C54356"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="psychotropic medications" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="N0000006023" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="N0000007470" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="potent cyp3a inhibitors" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="potent cyp3a inhibitors" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="N0000007319" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ketoconazole" precipitantCode="N0000007319"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="itraconazole" precipitantCode="N0000006753" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="itraconazole" precipitantCode="N0000006753"/>
+<LabelInteraction type="Unspecified interaction" precipitant="potent inhibitors of cyp3a" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs inhibiting cyp3a" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="isoniazide" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="diltiazem" precipitantCode="N0000006682" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="macrolide antibiotics" precipitantCode="N0000175431" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluvoxamine" precipitantCode="O4L1XPO44W" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nefazodone" precipitantCode="N0000007250" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a inducers" precipitantCode="n0000190118" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="erythromycin" precipitantCode="N0000007133" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="psychoactive drugs" precipitantCode="NO MAP"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Apixaban" setid="e9481622-7cc6-418a-acb6-c5450daae9b0">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  Apixaban is a substrate of both CYP3A4 and P-gp. Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding. Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events.  • Combined P-gp and strong CYP3A4 inhibitors increase blood levels of apixaban. Reduce ELIQUIS dose or avoid coadministration. (2.5 , 7.1 , 12.3)  • Simultaneous use of combined P-gp and strong CYP3A4 inducers reduces blood levels of apixaban: Avoid concomitant use. (7.2 , 12.3)  7.1 Combined P-gp and Strong CYP3A4 Inhibitors  For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see  Dosage and Administration (2.5)  and Clinical Pharmacology (12.3) ] .  For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors [see  Dosage and Administration (2.5)  and Clinical Pharmacology (12.3) ] .  Clarithromycin  Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS [see Clinical Pharmacology (12.3) ] .  7.2 Combined P-gp and Strong CYP3A4 Inducers  Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3) ] .  7.3 Anticoagulants and Antiplatelet Agents  Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.  APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo. The rate of ISTH major bleeding was 2.8% per year with apixaban versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with apixaban versus 2.5% per year with placebo in those receiving dual antiplatelet therapy.  In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year. In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Apixaban is a selective inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin. By inhibiting FXa, apixaban decreases thrombin generation and thrombus development.  12.2 Pharmacodynamics  As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT). Changes observed in these clotting tests at the expected therapeutic dose, however, are small, subject to a high degree of variability, and not useful in monitoring the anticoagulation effect of apixaban.  The Rotachrom ® Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans during the apixaban development program. A concentration-dependent increase in anti-FXa activity was observed in the dose range tested and was similar in healthy subjects and patients with AF.  This test is not recommended for assessing the anticoagulant effect of apixaban.  Effect of PCCs on Pharmacodynamics of ELIQUIS  There is no clinical experience to reverse bleeding with the use of 4-factor PCC products in individuals who have received ELIQUIS.  Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in healthy subjects. Following administration of apixaban dosed to steady state, endogenous thrombin potential (ETP) returned to pre-apixaban levels 4 hours after the initiation of a 30-minute PCC infusion, compared to 45 hours with placebo. Mean ETP levels continued to increase and exceeded pre-apixaban levels reaching a maximum (34%-51% increase over pre-apixaban levels) at 21 hours after initiating PCC and remained elevated (21%-27% increase) at the end of the study (69 hours after initiation of PCC). The clinical relevance of this increase in ETP is unknown.  Pharmacodynamic Drug Interaction Studies  Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, prasugrel, enoxaparin, and naproxen were conducted. No pharmacodynamic interactions were observed with aspirin, clopidogrel, or prasugrel [see Warnings and Precautions (5.2) ] . A 50% to 60% increase in anti-FXa activity was observed when apixaban was coadministered with enoxaparin or naproxen.  Specific Populations  Renal impairment: Anti-FXa activity adjusted for exposure to apixaban was similar across renal function categories.  Hepatic impairment: Changes in anti-FXa activity were similar in patients with mild-to-moderate hepatic impairment and healthy subjects. However, in patients with moderate hepatic impairment, there is no clear understanding of the impact of this degree of hepatic function impairment on the coagulation cascade and its relationship to efficacy and bleeding. Patients with severe hepatic impairment were not studied.  Cardiac Electrophysiology  Apixaban has no effect on the QTc interval in humans at doses up to 50 mg.  12.3 Pharmacokinetics  Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg.  Absorption  The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of ELIQUIS. Food does not affect the bioavailability of apixaban. Maximum concentrations (C max ) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS. At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was similar to that after oral administration of 2 intact 5 mg tablets. Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets mixed with 30 g of applesauce, the C max and AUC were 20% and 16% lower, respectively, when compared to administration of 2 intact 5 mg tablets. Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube, exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.  Distribution  Plasma protein binding in humans is approximately 87%. The volume of distribution (Vss) is approximately 21 liters.  Metabolism  Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation.  Unchanged apixaban is the major drug-related component in human plasma; there are no active circulating metabolites.  Elimination  Apixaban is eliminated in both urine and feces. Renal excretion accounts for about 27% of total clearance. Biliary and direct intestinal excretion contributes to elimination of apixaban in the feces.  Apixaban has a total clearance of approximately 3.3 L/hour and an apparent half-life of approximately 12 hours following oral administration.  Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.  Drug Interaction Studies  In i  n vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed. Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp.  The effects of coadministered drugs on the pharmacokinetics of apixaban are summarized in Figure 2 [see also Warnings and Precautions (5.2) and Drug Interactions (7) ] .  Figure 2:      Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban  In dedicated studies conducted in healthy subjects, famotidine, atenolol, prasugrel, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban.  In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, prasugrel, or acetylsalicylic acid.  Effect of Coadministered Drugs on Pharmacokinetics of Apixaban  Specific Populations  The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of apixaban are summarized in Figure 3.  Figure 3:      Effect of Specific Populations on the Pharmacokinetics of Apixaban          *  ESRD subjects treated with intermittent hemodialysis; reported PK findings             are following single dose of apixaban post hemodialysis.          †   Results reflect CrCl of 15 mL/min based on regression analysis.          ‡   Dashed vertical lines illustrate pharmacokinetic changes that were used to inform             dosing recommendations.          §   No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless             at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.  Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.  Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects. No dose adjustment is required based on race/ethnicity.  Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function (Figure 3). The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function. The dialysis clearance of apixaban is approximately 18 mL/min. The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis.  Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods.  O:\E-Submissions\PBO\PRODUCTS\Eliquis 202155\08. PAS ESRD Dosing\01. Orig Submission\Source\eliquis-pkplot-pop-fig3.jpg</Section>
+</Text><Sentences>
+<Sentence id="1211" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Apixaban is a substrate of both CYP3A4 and P-gp.</SentenceText>
+</Sentence>
+<Sentence id="1212" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding.</SentenceText>
+</Sentence>
+<Sentence id="1213" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events.</SentenceText>
+</Sentence>
+<Sentence id="1214" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>•Combined P-gp and strong CYP3A4 inhibitors increase blood levels of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="1215" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Reduce ELIQUIS dose or avoid coadministration.</SentenceText>
+</Sentence>
+<Sentence id="1216" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>●Simultaneous use of strong dual inducers of CYP3A4 and P-gp reduces blood levels of apixaban: Avoid concomitant use.</SentenceText>
+</Sentence>
+<Sentence id="1217" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir).</SentenceText>
+</Sentence>
+<Sentence id="1218" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="1219" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="1220" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Avoid concomitant use of ELIQUIS with strong dual inducers of CYP3A4 and P-gp (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban.</SentenceText>
+</Sentence>
+<Sentence id="1224" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year.</SentenceText>
+</Sentence>
+<Sentence id="1225" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="1230" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.</SentenceText>
+</Sentence>
+<Sentence id="1231" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo.</SentenceText>
+</Sentence>
+<Sentence id="1232" LabelDrug="Apixaban" section="34073-7">
+<SentenceText>The rate of ISTH major bleeding was 2.8% per year with apixaban versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with apixaban versus 2.5% per year with placebo in those receiving dual antiplatelet therapy.</SentenceText>
+</Sentence>
+<Sentence id="1235" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban is a selective inhibitor of FXa.</SentenceText>
+</Sentence>
+<Sentence id="1236" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>It does not require antithrombin III for antithrombotic activity.</SentenceText>
+</Sentence>
+<Sentence id="1237" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban inhibits free and clot-bound FXa, and prothrombinase activity.</SentenceText>
+</Sentence>
+<Sentence id="1238" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin.</SentenceText>
+</Sentence>
+<Sentence id="1239" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>By inhibiting FXa, apixaban decreases thrombin generation and thrombus development.</SentenceText>
+</Sentence>
+<Sentence id="1240" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT).</SentenceText>
+</Sentence>
+<Sentence id="1241" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Changes observed in these clotting tests at the expected therapeutic dose, however, are small, subject to a high degree of variability, and not useful in monitoring the anticoagulation effect of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="1242" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The Rotachrom® Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans during the apixaban development program.</SentenceText>
+</Sentence>
+<Sentence id="1243" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>A concentration-dependent increase in anti-FXa activity was observed in the dose range tested and was similar in healthy subjects and patients with AF.</SentenceText>
+</Sentence>
+<Sentence id="1244" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>This test is not recommended for assessing the anticoagulant effect of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="1245" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>There is no clinical experience to reverse bleeding with the use of 4-factor PCC products in individuals who have received ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="1246" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="1247" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Following administration of apixaban dosed to steady state, endogenous thrombin potential (ETP) returned to pre-apixaban levels 4 hours after the initiation of a 30-minute PCC infusion, compared to 45 hours with placebo.</SentenceText>
+</Sentence>
+<Sentence id="1248" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Mean ETP levels continued to increase and exceeded pre-apixaban levels reaching a maximum (34%-51% increase over pre-apixaban levels) at 21 hours after initiating PCC and remained elevated (21%-27% increase) at the end of the study (69 hours after initiation of PCC).</SentenceText>
+</Sentence>
+<Sentence id="1249" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The clinical relevance of this increase in ETP is unknown.</SentenceText>
+</Sentence>
+<Sentence id="1250" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, prasugrel, enoxaparin, and naproxen were conducted.</SentenceText>
+</Sentence>
+<Sentence id="1251" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>No pharmacodynamic interactions were observed with aspirin, clopidogrel, or prasugrel.</SentenceText>
+</Sentence>
+<Sentence id="1252" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>A 50% to 60% increase in anti-FXa activity was observed when apixaban was coadministered with enoxaparin or naproxen.</SentenceText>
+</Sentence>
+<Sentence id="1253" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Renal impairment: Anti-FXa activity adjusted for exposure to apixaban was similar across renal function categories.</SentenceText>
+</Sentence>
+<Sentence id="1254" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Hepatic impairment: Changes in anti-FXa activity were similar in patients with mild-to-moderate hepatic impairment and healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="1255" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>However, in patients with moderate hepatic impairment, there is no clear understanding of the impact of this degree of hepatic function impairment on the coagulation cascade and its relationship to efficacy and bleeding.</SentenceText>
+</Sentence>
+<Sentence id="1256" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Patients with severe hepatic impairment were not studied.</SentenceText>
+</Sentence>
+<Sentence id="1257" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban has no effect on the QTc interval in humans at doses up to 50 mg. Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg.</SentenceText>
+</Sentence>
+<Sentence id="1258" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="1259" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Food does not affect the bioavailability of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="1260" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Maximum concentrations (Cmax) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="1261" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability.</SentenceText>
+</Sentence>
+<Sentence id="1262" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was similar to that after oral administration of 2 intact 5 mg tablets.</SentenceText>
+</Sentence>
+<Sentence id="1263" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets mixed with 30 g of applesauce, the Cmax and AUC were 20% and 16% lower, respectively, when compared to administration of 2 intact 5 mg tablets.</SentenceText>
+</Sentence>
+<Sentence id="1264" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube (NGT), exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.</SentenceText>
+</Sentence>
+<Sentence id="1265" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Plasma protein binding in humans is approximately 87%.</SentenceText>
+</Sentence>
+<Sentence id="1266" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The volume of distribution (Vss) is approximately 21 liters.</SentenceText>
+</Sentence>
+<Sentence id="1267" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites.</SentenceText>
+</Sentence>
+<Sentence id="1268" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2.</SentenceText>
+</Sentence>
+<Sentence id="1269" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation.</SentenceText>
+</Sentence>
+<Sentence id="1270" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Unchanged apixaban is the major drug-related component in human plasma; there are no active circulating metabolites.</SentenceText>
+</Sentence>
+<Sentence id="1271" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban is eliminated in both urine and feces.</SentenceText>
+</Sentence>
+<Sentence id="1272" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Renal excretion accounts for about 27% of total clearance.</SentenceText>
+</Sentence>
+<Sentence id="1273" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Biliary and direct intestinal excretion contributes to elimination of apixaban in the feces.</SentenceText>
+</Sentence>
+<Sentence id="1274" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban has a total clearance of approximately 3.3 L/hour and an apparent half-life of approximately 12 hours following oral administration.</SentenceText>
+</Sentence>
+<Sentence id="1275" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.</SentenceText>
+</Sentence>
+<Sentence id="1276" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>In vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed.</SentenceText>
+</Sentence>
+<Sentence id="1277" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes.</SentenceText>
+</Sentence>
+<Sentence id="1278" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Apixaban is not a significant inhibitor of P-gp.</SentenceText>
+</Sentence>
+<Sentence id="1279" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The effects of coadministered drugs on the pharmacokinetics of apixaban are summarized in Figure 2.</SentenceText>
+</Sentence>
+<Sentence id="1280" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Figure 2: Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban In dedicated studies conducted in healthy subjects, famotidine, atenolol, prasugrel, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="1281" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, prasugrel, or acetylsalicylic acid.</SentenceText>
+</Sentence>
+<Sentence id="1282" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Effect of Coadministered Drugs on Pharmacokinetics of Apixaban The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of apixaban are summarized in Figure 3.</SentenceText>
+</Sentence>
+<Sentence id="1283" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban * ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="1284" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>† Results reflect CrCl of 15 mL/min based on regression analysis.</SentenceText>
+</Sentence>
+<Sentence id="1285" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations.</SentenceText>
+</Sentence>
+<Sentence id="1286" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics are present: age &gt; 79 years, body weight &lt; 61 kg, or serum creatinine &gt; 1.4 mg/dL.</SentenceText>
+</Sentence>
+<Sentence id="1287" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.</SentenceText>
+</Sentence>
+<Sentence id="1288" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects.</SentenceText>
+</Sentence>
+<Sentence id="1289" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>No dose adjustment is required based on race/ethnicity.</SentenceText>
+</Sentence>
+<Sentence id="1290" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="1291" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="1292" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The dialysis clearance of apixaban is approximately 18 mL/min.</SentenceText>
+</Sentence>
+<Sentence id="1293" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis.</SentenceText>
+</Sentence>
+<Sentence id="1294" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods.</SentenceText>
+</Sentence>
+<Sentence id="1295" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>O:\E-Submissions\PBO\PRODUCTS\Eliquis 202155\08.</SentenceText>
+</Sentence>
+<Sentence id="1296" LabelDrug="Apixaban" section="34090-1">
+<SentenceText>Orig Submission\Source\eliquis-pkplot-pop-fig3.jpg</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

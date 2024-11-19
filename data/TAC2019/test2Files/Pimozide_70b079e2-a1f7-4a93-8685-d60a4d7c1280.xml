@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Pimozide" setid="70b079e2-a1f7-4a93-8685-d60a4d7c1280">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Pharmacodynamic Actions  Pimozide tablets, USP is an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity. However, receptor blockade is often accompanied by a series of secondary alterations in central dopamine metabolism and function which may contribute to both pimozide’s therapeutic and untoward effects. In addition, pimozide tablets, USP in common with other antipsychotic drugs, has various effects on other central nervous system receptor systems which are not fully characterized.  Metabolism and Pharmacokinetics  More than 50% of a dose of pimozide is absorbed after oral administration. Based on the pharmacokinetic and metabolic profile, pimozide appears to undergo significant first pass metabolism. Peak serum levels occur generally six to eight hours (range 4 to 12 hours) after dosing.  Pimozide is extensively metabolized, primarily by N-dealkylation in the liver. This metabolism is catalyzed mainly by the cytochrome P450 3A4 (CYP 3A4) enzymatic system and to a lesser extent, by cytochrome P450 1A2 (CYP 1A2) and cytochrome P450 2D6 (CYP 2D6). Two major metabolites have been identified, 1-(4-piperidyl)-2-benzimidazolinone and 4,4-bis(4-fluorophenyl) butyric acid. The antipsychotic activity of these metabolites is undetermined. The major route of elimination of pimozide and its metabolites is through the kidney.  The mean serum elimination half-life of pimozide in schizophrenic patients was approximately 55 hours. There was a 13-fold interindividual difference in the area under the serum pimozide level-time curve and an equivalent degree of variation in peak serum levels among patients studied. The significance of this is unclear since there are few correlations between plasma levels and clinical findings.  Effects of food and disease upon the absorption, distribution, metabolism and elimination of pimozide are not known. Effects of concomitant medication and genetic variations on pimozide metabolism are described in the CONTRAINDICATIONS and PRECAUTIONS sections.</Section>
+</Text><Sentences>
+<Sentence id="2723" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Because pimozide prolongs the QT interval of the electrocardiogram, an additive effect on QT interval would be anticipated if administered with other drugs, such as phenothiazines, tricyclic antidepressants or antiarrhythmic agents, which prolong the QT interval.</SentenceText>
+<Mention id="M10" type="Trigger" span="71 15" str="additive effect"/>
+<Mention id="M2" type="Precipitant" span="181 25" str="tricyclic antidepressants" code="N0000029148"/>
+<Mention id="M12" type="SpecificInteraction" span="71 30" str="additive effect on QT interval" code="164956004: Electrocardiogram: Q-T interval abnormal (finding)"/>
+<Mention id="M5" type="Precipitant" span="150 5;233 29" str="drugs | which prolong the QT interval" code="NONE"/>
+<Mention id="M8" type="Precipitant" span="165 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M11" type="Precipitant" span="210 21" str="antiarrhythmic agents" code="N0000178311"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M10" precipitant="M2" effect="M12"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M10" precipitant="M5" effect="M12"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M10" precipitant="M8" effect="M12"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M10" precipitant="M11" effect="M12"/>
+</Sentence>
+<Sentence id="2724" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Accordingly, pimozide should not be given with dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol, tacrolimus, ziprasidone, or other drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects.</SentenceText>
+<Mention id="M76" type="Trigger" span="423 23" str="pharmacodynamic effects"/>
+<Mention id="M14" type="Precipitant" span="59 7" str="sotalol" code="A6D97U294I"/>
+<Mention id="M78" type="SpecificInteraction" span="391 15" str="QT prolongation" code="111975006: Prolonged QT interval (finding)"/>
+<Mention id="M17" type="Precipitant" span="120 12" str="mesoridazine" code="5XE4NWM740"/>
+<Mention id="M20" type="Precipitant" span="232 10" str="mefloquine" code="TML814419R"/>
+<Mention id="M23" type="Precipitant" span="328 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Mention id="M26" type="Precipitant" span="85 8;102 16" str="Class Ia | anti-arrhythmics" code="NONE"/>
+<Mention id="M29" type="Precipitant" span="257 16" str="arsenic trioxide" code="S7V92P67HO"/>
+<Mention id="M32" type="Precipitant" span="244 11" str="pentamidine" code="673LC5J4LQ"/>
+<Mention id="M35" type="Precipitant" span="134 12" str="thioridazine" code="N3D6TG58NI"/>
+<Mention id="M38" type="Precipitant" span="85 5;98 20" str="Class | III anti-arrhythmics" code="NONE"/>
+<Mention id="M41" type="Precipitant" span="218 12" str="halofantrine" code="Q2OS4303HZ"/>
+<Mention id="M44" type="Precipitant" span="297 19" str="dolasetron mesylate" code="U3C8E5BWKR"/>
+<Mention id="M47" type="Precipitant" span="47 10" str="dofetilide" code="R4Z9X1N2ND"/>
+<Mention id="M50" type="Precipitant" span="190 12" str="gatifloxacin" code="L4618BD7KJ"/>
+<Mention id="M53" type="Precipitant" span="318 8" str="probucol" code="P3CTH044XJ"/>
+<Mention id="M56" type="Precipitant" span="275 20" str="levomethadyl acetate" code="R3B637Y991"/>
+<Mention id="M59" type="Precipitant" span="340 11" str="ziprasidone" code="6UKA5VEJ6X"/>
+<Mention id="M62" type="Precipitant" span="148 14" str="chlorpromazine" code="U42B7VYA4P"/>
+<Mention id="M65" type="Precipitant" span="204 12" str="moxifloxacin" code="U188XYD42P"/>
+<Mention id="M68" type="Precipitant" span="68 9" str="quinidine" code="N0000007728"/>
+<Mention id="M71" type="Precipitant" span="164 10" str="droperidol" code="O9U0F09D5X"/>
+<Mention id="M74" type="Precipitant" span="362 84" str="drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects" code="NO MAP"/>
+<Mention id="M77" type="Precipitant" span="176 12" str="sparfloxacin" code="Q90AGA787L"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M76" precipitant="M14" effect="M78"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M76" precipitant="M17" effect="M78"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M76" precipitant="M20" effect="M78"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M76" precipitant="M23" effect="M78"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M76" precipitant="M26" effect="M78"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M76" precipitant="M29" effect="M78"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M76" precipitant="M32" effect="M78"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M76" precipitant="M35" effect="M78"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M76" precipitant="M38" effect="M78"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M76" precipitant="M41" effect="M78"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M76" precipitant="M44" effect="M78"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M76" precipitant="M47" effect="M78"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M76" precipitant="M50" effect="M78"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M76" precipitant="M53" effect="M78"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M76" precipitant="M56" effect="M78"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M76" precipitant="M59" effect="M78"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M76" precipitant="M62" effect="M78"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M76" precipitant="M65" effect="M78"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M76" precipitant="M68" effect="M78"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M76" precipitant="M71" effect="M78"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M76" precipitant="M74" effect="M78"/>
+<Interaction id="I26" type="Pharmacodynamic interaction" trigger="M76" precipitant="M77" effect="M78"/>
+</Sentence>
+<Sentence id="2725" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Also, the use of macrolide antibiotics in patients with prolonged QT intervals has been rarely associated with ventricular arrhythmias.</SentenceText>
+<Mention id="M79" type="Trigger" span="95 15" str="associated with"/>
+<Mention id="M80" type="Precipitant" span="17 21" str="macrolide antibiotics" code="N0000175431"/>
+<Mention id="M81" type="SpecificInteraction" span="111 23" str="ventricular arrhythmias" code="44103008: Ventricular arrhythmia (disorder)"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M79" precipitant="M80" effect="M81"/>
+</Sentence>
+<Sentence id="2726" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Such concomitant administration should not be undertaken.</SentenceText>
+</Sentence>
+<Sentence id="2727" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Since pimozide is partly metabolized via CYP 3A4, it should not be administered concomitantly with inhibitors of this metabolic system, such as azole antifungal agents and protease inhibitor drugs.</SentenceText>
+<Mention id="M86" type="Trigger" span="53 26" str="should not be administered"/>
+<Mention id="M83" type="Precipitant" span="41 7;99 10" str="CYP 3A4 | inhibitors" code="n0000182141"/>
+<Mention id="M85" type="Precipitant" span="144 23" str="azole antifungal agents" code="n0000175487"/>
+<Mention id="M87" type="Precipitant" span="172 24" str="protease inhibitor drugs" code="n0000000076"/>
+<Interaction id="I28" type="Unspecified interaction" trigger="M86" precipitant="M83"/>
+<Interaction id="I29" type="Unspecified interaction" trigger="M86" precipitant="M85"/>
+<Interaction id="I30" type="Unspecified interaction" trigger="M86" precipitant="M87"/>
+</Sentence>
+<Sentence id="2728" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Pimozide and Celexa: In a controlled study, a single dose of pimozide 2 mg coadministered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.</SentenceText>
+<Mention id="M91" type="Trigger" span="153 15" str="associated with"/>
+<Mention id="M89" type="Precipitant" span="13 6" str="Celexa" code="I1E9D14F36"/>
+<Mention id="M93" type="SpecificInteraction" span="176 15" str="increase in QTc" code="111975006: Prolonged QT interval (finding)"/>
+<Mention id="M92" type="Precipitant" span="103 10" str="citalopram" code="0DHU5B8D6V"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M91" precipitant="M89" effect="M93"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M91" precipitant="M92" effect="M93"/>
+</Sentence>
+<Sentence id="2729" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Racemic citalopram did not alter the mean AUC or Cmax of pimozide.</SentenceText>
+</Sentence>
+<Sentence id="2730" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The mechanism of this pharmacodynamic interaction is not known.</SentenceText>
+</Sentence>
+<Sentence id="2731" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Concomitant use of Pimozide and Celexa or Lexapro is contraindicated.</SentenceText>
+<Mention id="M96" type="Trigger" span="53 15" str="contraindicated"/>
+<Mention id="M95" type="Precipitant" span="32 6" str="Celexa" code="I1E9D14F36"/>
+<Mention id="M97" type="Precipitant" span="42 7" str="Lexapro" code="5U85DBW7LO"/>
+<Interaction id="I33" type="Unspecified interaction" trigger="M96" precipitant="M95"/>
+<Interaction id="I34" type="Unspecified interaction" trigger="M96" precipitant="M97"/>
+</Sentence>
+<Sentence id="2732" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>CYP 2D6 inhibitors: In healthy subjects, co-administration of pimozide 2 mg (single dose) and paroxetine 60 mg resulted in a 151% increase in pimozide AUC and a 62% increase in pimozide Cmax compared to pimozide administered alone.</SentenceText>
+<Mention id="M100" type="Trigger" span="130 8;151 3" str="increase | AUC"/>
+<Mention id="M105" type="Precipitant" span="94 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M103" type="Precipitant" span="0 18" str="CYP 2D6 inhibitors" code="N0000182137"/>
+<Mention id="M104" type="Trigger" span="130 8;186 4" str="increase | Cmax"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M100" precipitant="M105" effect="C54605"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M100" precipitant="M103" effect="C54605"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M104" precipitant="M103" effect="C54602"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M104" precipitant="M105" effect="C54602"/>
+</Sentence>
+<Sentence id="2733" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The increase in pimozide AUC and Cmax is related to the CYP 2D6 inhibitory properties of paroxetine.</SentenceText>
+<Mention id="M106" type="Trigger" span="4 8;25 3" str="increase | AUC"/>
+<Mention id="M109" type="Precipitant" span="89 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M108" type="Trigger" span="4 8;33 4" str="increase | Cmax"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M106" precipitant="M109" effect="C54605"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M108" precipitant="M109" effect="C54602"/>
+</Sentence>
+<Sentence id="2734" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Concomitant use of pimozide and paroxetine or other strong CYP 2D6 inhibitors are contraindicated.</SentenceText>
+<Mention id="M112" type="Trigger" span="82 15" str="contraindicated"/>
+<Mention id="M111" type="Precipitant" span="32 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M113" type="Precipitant" span="52 25" str="strong CYP 2D6 inhibitors" code="NONE"/>
+<Interaction id="I41" type="Unspecified interaction" trigger="M112" precipitant="M111"/>
+<Interaction id="I42" type="Unspecified interaction" trigger="M112" precipitant="M113"/>
+</Sentence>
+<Sentence id="2735" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>As CYP 1A2 may also contribute to the metabolism of pimozide, prescribers should be aware of the theoretical potential for drug interactions with inhibitors of this enzymatic system.</SentenceText>
+<Mention id="M114" type="Trigger" span="123 17" str="drug interactions"/>
+<Mention id="M115" type="Precipitant" span="3 7;146 10" str="CYP 1A2 | inhibitors" code="n0000182138"/>
+<Interaction id="I43" type="Unspecified interaction" trigger="M114" precipitant="M115"/>
+</Sentence>
+<Sentence id="2736" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Pimozide may be capable of potentiating CNS depressants, including analgesics, sedatives, anxiolytics, and alcohol.</SentenceText>
+<Mention id="M128" type="Trigger" span="27 12" str="potentiating"/>
+<Mention id="M117" type="Precipitant" span="40 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M118" type="SpecificInteraction" span="27 28" str="potentiating CNS depressants" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M120" type="Precipitant" span="107 7" str="alcohol" code="N0000007432"/>
+<Mention id="M121" type="SpecificInteraction" span="27 12;107 7" str="potentiating | alcohol" code="NO Map"/>
+<Mention id="M123" type="Precipitant" span="90 11" str="anxiolytics" code="NO MAP"/>
+<Mention id="M124" type="SpecificInteraction" span="27 12;90 11" str="potentiating | anxiolytics" code="NO Map"/>
+<Mention id="M126" type="Precipitant" span="79 9" str="sedatives" code="N0000029143"/>
+<Mention id="M127" type="SpecificInteraction" span="27 12;79 9" str="potentiating | sedatives" code="17971005: Sedated (finding)"/>
+<Mention id="M129" type="Precipitant" span="67 10" str="analgesics" code="N0000029133"/>
+<Mention id="M130" type="SpecificInteraction" span="27 12;67 10" str="potentiating | analgesics" code="NO Map"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M128" precipitant="M117" effect="M118"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M128" precipitant="M120" effect="M121"/>
+<Interaction id="I46" type="Pharmacodynamic interaction" trigger="M128" precipitant="M123" effect="M124"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M128" precipitant="M126" effect="M127"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M128" precipitant="M129" effect="M130"/>
+</Sentence>
+<Sentence id="2737" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Rare case reports have suggested possible additive effects of pimozide and fluoxetine leading to bradycardia.</SentenceText>
+<Mention id="M131" type="Trigger" span="42 16" str="additive effects "/>
+<Mention id="M132" type="Trigger" span="86 10" str=" leading to"/>
+<Mention id="M133" type="Precipitant" span="75 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M134" type="SpecificInteraction" span="97 11" str="bradycardia" code="48867003: Bradycardia (finding)"/>
+<Interaction id="I49" type="Pharmacodynamic interaction" trigger="M131;M132" precipitant="M133" effect="M134"/>
+</Sentence>
+<Sentence id="2738" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Concomitant administration of pimozide and sertraline should be contraindicated.</SentenceText>
+<Mention id="M135" type="Trigger" span="64 15" str="contraindicated"/>
+<Mention id="M136" type="Precipitant" span="43 10" str="sertraline" code="QUC7NX6WMB"/>
+<Interaction id="I50" type="Unspecified interaction" trigger="M135" precipitant="M136"/>
+</Sentence>
+<Sentence id="2739" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Pharmacogenomics Individuals with genetic variations resulting in poor CYP 2D6 metabolism (approximately 5 to 10% of the population) exhibit higher pimozide concentrations than extensive CYP 2D6 metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="2740" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The concentrations observed in poor CYP 2D6 metabolizers are similar to those seen with strong CYP 2D6 inhibitors such as paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="2741" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The time to achieve steady state Pimozide concentrations is expected to be longer (approximately 2 weeks) in poor CYP 2D6 metabolizers because of the prolonged half-life.</SentenceText>
+</Sentence>
+<Sentence id="2742" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Alternative dosing strategies are recommended in patients who are genetically poor CYP 2D6 metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="2743" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Interaction with Food Patients should avoid grapefruit juice because it may inhibit the metabolism of pimozide by CYP 3A4.</SentenceText>
+<Mention id="M137" type="Trigger" span="76 22" str="inhibit the metabolism"/>
+<Mention id="M138" type="Precipitant" span="44 16" str="grapefruit juice" code="n0000164879"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M137" precipitant="M138" effect="C54355"/>
+</Sentence>
+<Sentence id="2744" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Pharmacodynamic Actions Pimozide tablets, USP is an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="2745" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity.</SentenceText>
+</Sentence>
+<Sentence id="2746" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>However, receptor blockade is often accompanied by a series of secondary alterations in central dopamine metabolism and function which may contribute to both pimozide’s therapeutic and untoward effects.</SentenceText>
+</Sentence>
+<Sentence id="2747" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>In addition, pimozide tablets, USP in common with other antipsychotic drugs, has various effects on other central nervous system receptor systems which are not fully characterized.</SentenceText>
+</Sentence>
+<Sentence id="2748" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Metabolism and Pharmacokinetics More than 50% of a dose of pimozide is absorbed after oral administration.</SentenceText>
+</Sentence>
+<Sentence id="2749" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Based on the pharmacokinetic and metabolic profile, pimozide appears to undergo significant first pass metabolism.</SentenceText>
+</Sentence>
+<Sentence id="2750" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Peak serum levels occur generally six to eight hours (range 4 to 12 hours) after dosing.</SentenceText>
+</Sentence>
+<Sentence id="2751" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Pimozide is extensively metabolized, primarily by N-dealkylation in the liver.</SentenceText>
+</Sentence>
+<Sentence id="2752" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>This metabolism is catalyzed mainly by the cytochrome P450 3A4 (CYP 3A4) enzymatic system and to a lesser extent, by cytochrome P450 1A2 (CYP 1A2) and cytochrome P450 2D6 (CYP 2D6).</SentenceText>
+</Sentence>
+<Sentence id="2753" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Two major metabolites have been identified, 1-(4-piperidyl)-2-benzimidazolinone and 4,4-bis(4-fluorophenyl) butyric acid.</SentenceText>
+</Sentence>
+<Sentence id="2754" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The antipsychotic activity of these metabolites is undetermined.</SentenceText>
+</Sentence>
+<Sentence id="2755" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The major route of elimination of pimozide and its metabolites is through the kidney.</SentenceText>
+</Sentence>
+<Sentence id="2756" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The mean serum elimination half-life of pimozide in schizophrenic patients was approximately 55 hours.</SentenceText>
+</Sentence>
+<Sentence id="2757" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>There was a 13-fold interindividual difference in the area under the serum pimozide level-time curve and an equivalent degree of variation in peak serum levels among patients studied.</SentenceText>
+</Sentence>
+<Sentence id="2758" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The significance of this is unclear since there are few correlations between plasma levels and clinical findings.</SentenceText>
+</Sentence>
+<Sentence id="2759" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Effects of food and disease upon the absorption, distribution, metabolism and elimination of pimozide are not known.</SentenceText>
+</Sentence>
+<Sentence id="2760" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Effects of concomitant medication and genetic variations on pimozide metabolism are described in the CONTRAINDICATIONS and PRECAUTIONS sections.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="tricyclic antidepressants" precipitantCode="N0000029148" effect="164956004: Electrocardiogram: Q-T interval abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs | which prolong the qt interval" precipitantCode="NONE" effect="164956004: Electrocardiogram: Q-T interval abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="164956004: Electrocardiogram: Q-T interval abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antiarrhythmic agents" precipitantCode="N0000178311" effect="164956004: Electrocardiogram: Q-T interval abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sotalol" precipitantCode="A6D97U294I" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="mesoridazine" precipitantCode="5XE4NWM740" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="mefloquine" precipitantCode="TML814419R" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tacrolimus" precipitantCode="WM0HAQ4WNM" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="class ia | anti-arrhythmics" precipitantCode="NONE" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="arsenic trioxide" precipitantCode="S7V92P67HO" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pentamidine" precipitantCode="673LC5J4LQ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="thioridazine" precipitantCode="N3D6TG58NI" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="class | iii anti-arrhythmics" precipitantCode="NONE" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="halofantrine" precipitantCode="Q2OS4303HZ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="dolasetron mesylate" precipitantCode="U3C8E5BWKR" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="dofetilide" precipitantCode="R4Z9X1N2ND" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="gatifloxacin" precipitantCode="L4618BD7KJ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="probucol" precipitantCode="P3CTH044XJ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="levomethadyl acetate" precipitantCode="R3B637Y991" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ziprasidone" precipitantCode="6UKA5VEJ6X" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chlorpromazine" precipitantCode="U42B7VYA4P" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="moxifloxacin" precipitantCode="U188XYD42P" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="quinidine" precipitantCode="N0000007728" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="droperidol" precipitantCode="O9U0F09D5X" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that have demonstrated qt prolongation as one of their pharmacodynamic effects" precipitantCode="NO MAP" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sparfloxacin" precipitantCode="Q90AGA787L" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="macrolide antibiotics" precipitantCode="N0000175431" effect="44103008: Ventricular arrhythmia (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp 3a4 | inhibitors" precipitantCode="n0000182141"/>
+<LabelInteraction type="Unspecified interaction" precipitant="azole antifungal agents" precipitantCode="n0000175487"/>
+<LabelInteraction type="Unspecified interaction" precipitant="protease inhibitor drugs" precipitantCode="n0000000076"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="celexa" precipitantCode="I1E9D14F36" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="celexa" precipitantCode="I1E9D14F36"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="citalopram" precipitantCode="0DHU5B8D6V" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="lexapro" precipitantCode="5U85DBW7LO"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="paroxetine" precipitantCode="41VRH5220H"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp 2d6 inhibitors" precipitantCode="N0000182137" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp 2d6 inhibitors" precipitantCode="N0000182137" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="strong cyp 2d6 inhibitors" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp 1a2 | inhibitors" precipitantCode="n0000182138"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="NO Map"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anxiolytics" precipitantCode="NO MAP" effect="NO Map"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143" effect="17971005: Sedated (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="analgesics" precipitantCode="N0000029133" effect="NO Map"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="48867003: Bradycardia (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="grapefruit juice" precipitantCode="n0000164879" effect="C54355"/>
+
+</LabelInteractions></Label>

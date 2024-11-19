@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="CLOMIPRAMINE HYDROCHLORIDE" setid="1809bcb4-5fcc-45ca-986a-4fa5edcd4b5e">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Pharmacodynamics  Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission. The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important.  Pharmacokinetics  Absorption/Bioavailability  CMI from clomipramine hydrochloride capsules is as bioavailable as CMI from a solution. The bioavailability of CMI from capsules is not significantly affected by food.  In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (C ss ) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI's major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although C ss and AUC are approximately linearly related to dose between 100 to 150 mg/day. The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher C ss and AUC even for patients dosed within the recommended range. This may pose a potential risk to some patients ( see  WARNINGS  and  PRECAUTIONS, Drug Interactions  ). After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL). After multiple daily doses of 150 mg of clomipramine hydrochloride, steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI. Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range. At a dose of Clomipramine Hydrochloride Capsules, 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both. Distribution  CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk. DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6. The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration. The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important ( see  PRECAUTIONS, Drug Interactions  ). Metabolism  CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates. DMI is pharmacologically active, but its effects on OCD behaviors are unknown. These metabolites are excreted in urine and feces, following biliary elimination. After a 25 mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were recovered in the urine and 32% and 24%, respectively, in feces. In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered. CMI does not induce drug-metabolizing enzymes, as measured by antipyrine half-life.  Elimination  Evidence that the C ss and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited. This fact must be considered in assessing the estimates of the pharmacokinetic parameters presented below, as these were obtained in individuals exposed to doses of 150 mg. If the pharmacokinetics of CMI and DMI are nonlinear at doses above 150 mg, their elimination half-lives may be considerably lengthened at doses near the upper end of the recommended dosing range (i.e., 200 mg/day to 250 mg/day). Consequently, CMI and DMI may accumulate, and this accumulation may increase the incidence of any dose- or plasma-concentration-dependent adverse reactions, in particular seizures ( see  WARNINGS  ). After a 150 mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean, 32 hr) and that of DMI ranges from 54 hours to 77 hours (mean, 69 hr). Steady-state levels after multiple dosing are typically reached within 7 to 14 days for CMI. Plasma concentrations of the metabolite exceed the parent drug on multiple dosing. After multiple dosing with 150 mg/day, the accumulation factor for CMI is approximately 2.5 and for DMI is 4.6. Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI ( see  DOSAGE AND ADMINISTRATION  ). The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride have not been determined. Interactions  Co-administration of haloperidol with CMI increases plasma concentrations of CMI. Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital ( see  PRECAUTIONS, Drug Interactions  ). Younger subjects (18 to 40 years of age) tolerated CMI better and had significantly lower steady-state plasma concentrations, compared with subjects over 65 years of age. Children under 15 years of age had significantly lower plasma concentration/dose ratios, compared with adults. Plasma concentrations of CMI were significantly lower in smokers than in nonsmokers.</Section>
+</Text><Sentences>
+<Sentence id="2796" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The risks of using clomipramine in combination with other drugs have not been systematically evaluated.</SentenceText>
+</Sentence>
+<Sentence id="2797" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Given the primary CNS effects of clomipramine, caution is advised in using it concomitantly with other CNS-active drugs.</SentenceText>
+</Sentence>
+<Sentence id="2798" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Clomipramine should not be used with MAO inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="2799" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of dosage are required when clomipramine is administered with anticholinergic or sympathomimetic drugs.</SentenceText>
+</Sentence>
+<Sentence id="2800" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Several tricyclic antidepressants have been reported to block the pharmacologic effects of guanethidine, clonidine, or similar agents, and such an effect may be anticipated with CMI because of its structural similarity to other tricyclic antidepressants.</SentenceText>
+</Sentence>
+<Sentence id="2801" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol; plasma levels of several closely related tricyclic antidepressants have been reported to be increased by the concomitant administration of methylphenidate or hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by the concomitant administration of hepatic enzyme inducers (e.g., barbiturates, phenytoin), and such an effect may be anticipated with CMI as well.</SentenceText>
+</Sentence>
+<Sentence id="2802" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly.</SentenceText>
+</Sentence>
+<Sentence id="2803" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="2804" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="2805" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="2806" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="2807" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="2808" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="2809" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, paroxetine, and fluvoxamine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="2810" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Fluvoxamine has also been shown to inhibit P450 1A2, an isoform also involved in TCA metabolism.</SentenceText>
+</Sentence>
+<Sentence id="2811" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+</Sentence>
+<Sentence id="2812" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+</Sentence>
+<Sentence id="2813" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+</Sentence>
+<Sentence id="2814" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Concomitant use of agents in tricyclic antidepressant class (which includes clomipramine) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.</SentenceText>
+</Sentence>
+<Sentence id="2815" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Furthermore, whenever one of these drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant agent may be required.</SentenceText>
+</Sentence>
+<Sentence id="2816" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic antidepressant class including clomipramine is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).</SentenceText>
+</Sentence>
+<Sentence id="2817" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Because clomipramine is highly bound to serum protein, the administration of clomipramine to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.</SentenceText>
+</Sentence>
+<Sentence id="2818" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Conversely, adverse effects may result from displacement of protein-bound clomipramine by other highly bound drugs.</SentenceText>
+</Sentence>
+<Sentence id="2821" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission.</SentenceText>
+</Sentence>
+<Sentence id="2822" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important.</SentenceText>
+</Sentence>
+<Sentence id="2823" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI from clomipramine hydrochloride capsules is as bioavailable as CMI from a solution.</SentenceText>
+</Sentence>
+<Sentence id="2824" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The bioavailability of CMI from capsules is not significantly affected by food.</SentenceText>
+</Sentence>
+<Sentence id="2825" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (Css) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI's major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although Css and AUC are approximately linearly related to dose between 100 to 150 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="2826" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher Css and AUC even for patients dosed within the recommended range.</SentenceText>
+</Sentence>
+<Sentence id="2827" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>This may pose a potential risk to some patients.</SentenceText>
+</Sentence>
+<Sentence id="2828" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL).</SentenceText>
+</Sentence>
+<Sentence id="2829" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After multiple daily doses of 150 mg of clomipramine hydrochloride, steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI.</SentenceText>
+</Sentence>
+<Sentence id="2830" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range.</SentenceText>
+</Sentence>
+<Sentence id="2831" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>At a dose of Clomipramine Hydrochloride Capsules, 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.</SentenceText>
+</Sentence>
+<Sentence id="2832" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk.</SentenceText>
+</Sentence>
+<Sentence id="2833" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6.</SentenceText>
+</Sentence>
+<Sentence id="2834" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration.</SentenceText>
+</Sentence>
+<Sentence id="2835" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important.</SentenceText>
+</Sentence>
+<Sentence id="2836" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.</SentenceText>
+</Sentence>
+<Sentence id="2837" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>DMI is pharmacologically active, but its effects on OCD behaviors are unknown.</SentenceText>
+</Sentence>
+<Sentence id="2838" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>These metabolites are excreted in urine and feces, following biliary elimination.</SentenceText>
+</Sentence>
+<Sentence id="2839" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After a 25 mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were recovered in the urine and 32% and 24%, respectively, in feces.</SentenceText>
+</Sentence>
+<Sentence id="2840" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered.</SentenceText>
+</Sentence>
+<Sentence id="2841" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI does not induce drug-metabolizing enzymes, as measured by antipyrine half-life.</SentenceText>
+</Sentence>
+<Sentence id="2842" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Evidence that the C ss and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited.</SentenceText>
+</Sentence>
+<Sentence id="2843" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>This fact must be considered in assessing the estimates of the pharmacokinetic parameters presented below, as these were obtained in individuals exposed to doses of 150 mg.</SentenceText>
+</Sentence>
+<Sentence id="2844" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>If the pharmacokinetics of CMI and DMI are nonlinear at doses above 150 mg, their elimination half-lives may be considerably lengthened at doses near the upper end of the recommended dosing range (i.e., 200 mg/day to 250 mg/day).</SentenceText>
+</Sentence>
+<Sentence id="2845" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Consequently, CMI and DMI may accumulate, and this accumulation may increase the incidence of any dose- or plasma-concentration-dependent adverse reactions, in particular seizures.</SentenceText>
+</Sentence>
+<Sentence id="2846" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After a 150 mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean, 32 hr) and that of DMI ranges from 54 hours to 77 hours (mean, 69 hr).</SentenceText>
+</Sentence>
+<Sentence id="2847" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Steady-state levels after multiple dosing are typically reached within 7 to 14 days for CMI.</SentenceText>
+</Sentence>
+<Sentence id="2848" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Plasma concentrations of the metabolite exceed the parent drug on multiple dosing.</SentenceText>
+</Sentence>
+<Sentence id="2849" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After multiple dosing with 150 mg/day, the accumulation factor for CMI is approximately 2.5 and for DMI is 4.6.</SentenceText>
+</Sentence>
+<Sentence id="2850" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI.</SentenceText>
+</Sentence>
+<Sentence id="2851" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride have not been determined.</SentenceText>
+</Sentence>
+<Sentence id="2852" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Co-administration of haloperidol with CMI increases plasma concentrations of CMI.</SentenceText>
+</Sentence>
+<Sentence id="2853" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital.</SentenceText>
+</Sentence>
+<Sentence id="2854" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Younger subjects (18 to 40 years of age) tolerated CMI better and had significantly lower steady-state plasma concentrations, compared with subjects over 65 years of age.</SentenceText>
+</Sentence>
+<Sentence id="2855" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Children under 15 years of age had significantly lower plasma concentration/dose ratios, compared with adults.</SentenceText>
+</Sentence>
+<Sentence id="2856" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Plasma concentrations of CMI were significantly lower in smokers than in nonsmokers.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

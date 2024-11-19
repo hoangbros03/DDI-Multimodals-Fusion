@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="CLOMIPRAMINE HYDROCHLORIDE" setid="1809bcb4-5fcc-45ca-986a-4fa5edcd4b5e">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Pharmacodynamics  Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission. The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important.  Pharmacokinetics  Absorption/Bioavailability  CMI from clomipramine hydrochloride capsules is as bioavailable as CMI from a solution. The bioavailability of CMI from capsules is not significantly affected by food.  In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (C ss ) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI's major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although C ss and AUC are approximately linearly related to dose between 100 to 150 mg/day. The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher C ss and AUC even for patients dosed within the recommended range. This may pose a potential risk to some patients ( see  WARNINGS  and  PRECAUTIONS, Drug Interactions  ). After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL). After multiple daily doses of 150 mg of clomipramine hydrochloride, steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI. Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range. At a dose of Clomipramine Hydrochloride Capsules, 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both. Distribution  CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk. DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6. The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration. The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important ( see  PRECAUTIONS, Drug Interactions  ). Metabolism  CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates. DMI is pharmacologically active, but its effects on OCD behaviors are unknown. These metabolites are excreted in urine and feces, following biliary elimination. After a 25 mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were recovered in the urine and 32% and 24%, respectively, in feces. In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered. CMI does not induce drug-metabolizing enzymes, as measured by antipyrine half-life.  Elimination  Evidence that the C ss and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited. This fact must be considered in assessing the estimates of the pharmacokinetic parameters presented below, as these were obtained in individuals exposed to doses of 150 mg. If the pharmacokinetics of CMI and DMI are nonlinear at doses above 150 mg, their elimination half-lives may be considerably lengthened at doses near the upper end of the recommended dosing range (i.e., 200 mg/day to 250 mg/day). Consequently, CMI and DMI may accumulate, and this accumulation may increase the incidence of any dose- or plasma-concentration-dependent adverse reactions, in particular seizures ( see  WARNINGS  ). After a 150 mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean, 32 hr) and that of DMI ranges from 54 hours to 77 hours (mean, 69 hr). Steady-state levels after multiple dosing are typically reached within 7 to 14 days for CMI. Plasma concentrations of the metabolite exceed the parent drug on multiple dosing. After multiple dosing with 150 mg/day, the accumulation factor for CMI is approximately 2.5 and for DMI is 4.6. Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI ( see  DOSAGE AND ADMINISTRATION  ). The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride have not been determined. Interactions  Co-administration of haloperidol with CMI increases plasma concentrations of CMI. Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital ( see  PRECAUTIONS, Drug Interactions  ). Younger subjects (18 to 40 years of age) tolerated CMI better and had significantly lower steady-state plasma concentrations, compared with subjects over 65 years of age. Children under 15 years of age had significantly lower plasma concentration/dose ratios, compared with adults. Plasma concentrations of CMI were significantly lower in smokers than in nonsmokers.</Section>
+</Text><Sentences>
+<Sentence id="2796" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The risks of using clomipramine in combination with other drugs have not been systematically evaluated.</SentenceText>
+</Sentence>
+<Sentence id="2797" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Given the primary CNS effects of clomipramine, caution is advised in using it concomitantly with other CNS-active drugs.</SentenceText>
+<Mention id="M1" type="Trigger" span="47 7" str="caution"/>
+<Mention id="M2" type="Precipitant" span="103 16" str="CNS-active drugs" code="N0000029132"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="2798" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Clomipramine should not be used with MAO inhibitors.</SentenceText>
+<Mention id="M3" type="Trigger" span="13 18" str="should not be used"/>
+<Mention id="M4" type="Precipitant" span="37 14" str="MAO inhibitors" code="N0000000184"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="2799" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of dosage are required when clomipramine is administered with anticholinergic or sympathomimetic drugs.</SentenceText>
+<Mention id="M8" type="Trigger" span="0 17" str="Close supervision "/>
+<Mention id="M9" type="Trigger" span="30 20" str=" adjustment of dosage"/>
+<Mention id="M7" type="Precipitant" span="103 15;138 5" str="anticholinergic | drugs" code="n0000175574"/>
+<Mention id="M10" type="Precipitant" span="122 21" str="sympathomimetic drugs" code="N0000029104"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M8;M9" precipitant="M7"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M8;M9" precipitant="M10"/>
+</Sentence>
+<Sentence id="2800" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Several tricyclic antidepressants have been reported to block the pharmacologic effects of guanethidine, clonidine, or similar agents, and such an effect may be anticipated with CMI because of its structural similarity to other tricyclic antidepressants.</SentenceText>
+<Mention id="M14" type="Trigger" span="56 5;80 7" str="block | effects"/>
+<Mention id="M12" type="Precipitant" span="105 9" str="clonidine" code="N0000006505"/>
+<Mention id="M13" type="SpecificInteraction" span="56 34;105 9" str="block the pharmacologic effects of | clonidine" code="NO MAP"/>
+<Mention id="M15" type="Precipitant" span="91 12" str="guanethidine" code="ZTI6C33Q2Q"/>
+<Mention id="M16" type="SpecificInteraction" span="56 47" str="block the pharmacologic effects of guanethidine" code="NO MAP"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M14" precipitant="M12" effect="M13"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M14" precipitant="M15" effect="M16"/>
+</Sentence>
+<Sentence id="2801" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol; plasma levels of several closely related tricyclic antidepressants have been reported to be increased by the concomitant administration of methylphenidate or hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by the concomitant administration of hepatic enzyme inducers (e.g., barbiturates, phenytoin), and such an effect may be anticipated with CMI as well.</SentenceText>
+<Mention id="M25" type="Trigger" span="116 13;335 9" str="plasma levels | decreased"/>
+<Mention id="M18" type="Precipitant" span="382 23" str="hepatic enzyme inducers" code="NO MAP"/>
+<Mention id="M31" type="Trigger" span="116 13;56 9" str="plasma levels | increased"/>
+<Mention id="M20" type="Precipitant" span="319 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M22" type="Precipitant" span="413 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M24" type="Precipitant" span="255 15" str="methylphenidate" code="207ZZ9QZ49"/>
+<Mention id="M26" type="Precipitant" span="427 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M27" type="Trigger" span="4 20;56 9" str="plasma concentration | increased"/>
+<Mention id="M28" type="Precipitant" span="103 11" str="haloperidol" code="N0000006048"/>
+<Mention id="M30" type="Precipitant" span="307 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M32" type="Precipitant" span="274 25" str="hepatic enzyme inhibitors" code="NONE"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M25" precipitant="M18" effect="C54356"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M31" precipitant="M20" effect="C54355"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M25" precipitant="M22" effect="C54356"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M31" precipitant="M24" effect="C54355"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M25" precipitant="M26" effect="C54356"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M27" precipitant="M28" effect="C54355"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M31" precipitant="M30" effect="C54355"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M31" precipitant="M32" effect="C54355"/>
+</Sentence>
+<Sentence id="2802" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly.</SentenceText>
+<Mention id="M33" type="Trigger" span="43 26" str="increase the plasma levels"/>
+<Mention id="M34" type="Precipitant" span="73 13" str="phenobarbital" code="N0000005893"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M33" precipitant="M34" effect="C54357"/>
+</Sentence>
+<Sentence id="2803" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="2804" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="2805" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="2806" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="2807" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="2808" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="2809" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, paroxetine, and fluvoxamine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="2810" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Fluvoxamine has also been shown to inhibit P450 1A2, an isoform also involved in TCA metabolism.</SentenceText>
+</Sentence>
+<Sentence id="2811" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+</Sentence>
+<Sentence id="2812" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+<Mention id="M35" type="Trigger" span="14 7" str="caution"/>
+<Mention id="M36" type="Precipitant" span="84 5" str="SSRIs" code="n0000175696"/>
+<Interaction id="I16" type="Unspecified interaction" trigger="M35" precipitant="M36"/>
+</Sentence>
+<Sentence id="2813" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+<Mention id="M37" type="Trigger" span="26 45" str="sufficient time must elapse before initiating"/>
+<Mention id="M38" type="Precipitant" span="120 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I17" type="Unspecified interaction" trigger="M37" precipitant="M38"/>
+</Sentence>
+<Sentence id="2814" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Concomitant use of agents in tricyclic antidepressant class (which includes clomipramine) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.</SentenceText>
+<Mention id="M39" type="Trigger" span="150 11;239 10" str="lower doses | other drug"/>
+<Mention id="M42" type="Precipitant" span="95 42" str="drugs that can inhibit cytochrome P450 2D6" code="N0000182137"/>
+<Mention id="M41" type="Trigger" span="150 11" str="lower doses"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M39" precipitant="M42" effect="C54357"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M41" precipitant="M42" effect="C54355"/>
+</Sentence>
+<Sentence id="2815" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Furthermore, whenever one of these drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant agent may be required.</SentenceText>
+</Sentence>
+<Sentence id="2816" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever an agent of the tricyclic antidepressant class including clomipramine is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).</SentenceText>
+<Mention id="M45" type="Trigger" span="19 7" str="monitor"/>
+<Mention id="M44" type="Precipitant" span="188 12;218 8" str="inhibitor of | P450 1A2" code="NONE"/>
+<Mention id="M46" type="Precipitant" span="188 21" str="inhibitor of P450 2D6" code="n0000182135"/>
+<Interaction id="I20" type="Unspecified interaction" trigger="M45" precipitant="M44"/>
+<Interaction id="I21" type="Unspecified interaction" trigger="M45" precipitant="M46"/>
+</Sentence>
+<Sentence id="2817" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Because clomipramine is highly bound to serum protein, the administration of clomipramine to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.</SentenceText>
+<Mention id="M51" type="Trigger" span="193 33" str="increase in plasma concentrations"/>
+<Mention id="M48" type="Precipitant" span="171 7" str="digoxin" code="N0000005903"/>
+<Mention id="M50" type="Precipitant" span="115 38" str="drugs that are highly bound to protein" code="NO MAP"/>
+<Mention id="M52" type="Precipitant" span="161 8" str="warfarin" code="N0000006403"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M51" precipitant="M48" effect="C54357"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M51" precipitant="M50" effect="C54357"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M51" precipitant="M52" effect="C54357"/>
+</Sentence>
+<Sentence id="2818" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34073-7">
+<SentenceText>Conversely, adverse effects may result from displacement of protein-bound clomipramine by other highly bound drugs.</SentenceText>
+<Mention id="M53" type="Trigger" span="12 15" str="adverse effects"/>
+<Mention id="M54" type="Precipitant" span="96 18" str="highly bound drugs" code="NONE"/>
+<Mention id="M55" type="SpecificInteraction" span="44 42" str="displacement of protein-bound clomipramine" code="NO MAP"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M53" precipitant="M54" effect="M55"/>
+</Sentence>
+<Sentence id="2821" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission.</SentenceText>
+</Sentence>
+<Sentence id="2822" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important.</SentenceText>
+</Sentence>
+<Sentence id="2823" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI from clomipramine hydrochloride capsules is as bioavailable as CMI from a solution.</SentenceText>
+</Sentence>
+<Sentence id="2824" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The bioavailability of CMI from capsules is not significantly affected by food.</SentenceText>
+</Sentence>
+<Sentence id="2825" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>In a dose proportionality study involving multiple CMI doses, steady-state plasma concentrations (Css) and area-under-plasma-concentration-time curves (AUC) of CMI and CMI's major active metabolite, desmethylclomipramine (DMI), were not proportional to dose over the ranges evaluated, i.e., between 25 to 100 mg/day and between 25 to 150 mg/day, although Css and AUC are approximately linearly related to dose between 100 to 150 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="2826" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The relationship between dose and CMI/DMI concentrations at higher daily doses has not been systematically assessed, but if there is significant dose dependency at doses above 150 mg/day, there is the potential for dramatically higher Css and AUC even for patients dosed within the recommended range.</SentenceText>
+</Sentence>
+<Sentence id="2827" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>This may pose a potential risk to some patients.</SentenceText>
+</Sentence>
+<Sentence id="2828" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After a single 50 mg oral dose, maximum plasma concentrations of CMI occur within 2 to 6 hours (mean, 4.7 hr) and range from 56 ng/mL to 154 ng/mL (mean, 92 ng/mL).</SentenceText>
+</Sentence>
+<Sentence id="2829" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After multiple daily doses of 150 mg of clomipramine hydrochloride, steady-state maximum plasma concentrations range from 94 ng/mL to 339 ng/mL (mean, 218 ng/mL) for CMI and from 134 ng/mL to 532 ng/mL (mean, 274 ng/mL) for DMI.</SentenceText>
+</Sentence>
+<Sentence id="2830" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Additional information from a rising dose study of doses up to 250 mg suggests that DMI may exhibit nonlinear pharmacokinetics over the usual dosing range.</SentenceText>
+</Sentence>
+<Sentence id="2831" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>At a dose of Clomipramine Hydrochloride Capsules, 200 mg, subjects who had a single blood sample taken approximately 9 to 22 hours, (median 16 hours), after the dose had plasma concentrations of up to 605 ng/mL for CMI, 781 ng/mL for DMI, and 1386 ng/mL for both.</SentenceText>
+</Sentence>
+<Sentence id="2832" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk.</SentenceText>
+</Sentence>
+<Sentence id="2833" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6.</SentenceText>
+</Sentence>
+<Sentence id="2834" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration.</SentenceText>
+</Sentence>
+<Sentence id="2835" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important.</SentenceText>
+<Mention id="M56" type="Trigger" span="4 11" str="interaction"/>
+<Mention id="M57" type="Precipitant" span="38 26" str="highly protein-bound drugs" code="NONE"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M56" precipitant="M57"/>
+</Sentence>
+<Sentence id="2836" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.</SentenceText>
+</Sentence>
+<Sentence id="2837" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>DMI is pharmacologically active, but its effects on OCD behaviors are unknown.</SentenceText>
+</Sentence>
+<Sentence id="2838" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>These metabolites are excreted in urine and feces, following biliary elimination.</SentenceText>
+</Sentence>
+<Sentence id="2839" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After a 25 mg radiolabeled dose of CMI in two subjects, 60% and 51%, respectively, of the dose were recovered in the urine and 32% and 24%, respectively, in feces.</SentenceText>
+</Sentence>
+<Sentence id="2840" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>In the same study, the combined urinary recoveries of CMI and DMI were only about 0.8% to 1.3% of the dose administered.</SentenceText>
+</Sentence>
+<Sentence id="2841" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>CMI does not induce drug-metabolizing enzymes, as measured by antipyrine half-life.</SentenceText>
+</Sentence>
+<Sentence id="2842" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Evidence that the C ss and AUC for CMI and DMI may increase disproportionately with increasing oral doses suggests that the metabolism of CMI and DMI may be capacity limited.</SentenceText>
+</Sentence>
+<Sentence id="2843" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>This fact must be considered in assessing the estimates of the pharmacokinetic parameters presented below, as these were obtained in individuals exposed to doses of 150 mg.</SentenceText>
+</Sentence>
+<Sentence id="2844" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>If the pharmacokinetics of CMI and DMI are nonlinear at doses above 150 mg, their elimination half-lives may be considerably lengthened at doses near the upper end of the recommended dosing range (i.e., 200 mg/day to 250 mg/day).</SentenceText>
+</Sentence>
+<Sentence id="2845" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Consequently, CMI and DMI may accumulate, and this accumulation may increase the incidence of any dose- or plasma-concentration-dependent adverse reactions, in particular seizures.</SentenceText>
+</Sentence>
+<Sentence id="2846" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After a 150 mg dose, the half-life of CMI ranges from 19 hours to 37 hours (mean, 32 hr) and that of DMI ranges from 54 hours to 77 hours (mean, 69 hr).</SentenceText>
+</Sentence>
+<Sentence id="2847" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Steady-state levels after multiple dosing are typically reached within 7 to 14 days for CMI.</SentenceText>
+</Sentence>
+<Sentence id="2848" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Plasma concentrations of the metabolite exceed the parent drug on multiple dosing.</SentenceText>
+</Sentence>
+<Sentence id="2849" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>After multiple dosing with 150 mg/day, the accumulation factor for CMI is approximately 2.5 and for DMI is 4.6.</SentenceText>
+</Sentence>
+<Sentence id="2850" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Importantly, it may take two weeks or longer to achieve this extent of accumulation at constant dosing because of the relatively long elimination half-lives of CMI and DMI.</SentenceText>
+</Sentence>
+<Sentence id="2851" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>The effects of hepatic and renal impairment on the disposition of clomipramine hydrochloride have not been determined.</SentenceText>
+</Sentence>
+<Sentence id="2852" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Co-administration of haloperidol with CMI increases plasma concentrations of CMI.</SentenceText>
+<Mention id="M58" type="Trigger" span="42 31" str="increases plasma concentrations"/>
+<Mention id="M59" type="Precipitant" span="21 11" str="haloperidol" code="N0000006048"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M58" precipitant="M59" effect="C54355"/>
+</Sentence>
+<Sentence id="2853" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Co-administration of CMI with phenobarbital increases plasma concentrations of phenobarbital.</SentenceText>
+<Mention id="M60" type="Trigger" span="44 31" str="increases plasma concentrations"/>
+<Mention id="M61" type="Precipitant" span="30 13" str="phenobarbital" code="N0000005893"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M60" precipitant="M61" effect="C54357"/>
+</Sentence>
+<Sentence id="2854" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Younger subjects (18 to 40 years of age) tolerated CMI better and had significantly lower steady-state plasma concentrations, compared with subjects over 65 years of age.</SentenceText>
+</Sentence>
+<Sentence id="2855" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Children under 15 years of age had significantly lower plasma concentration/dose ratios, compared with adults.</SentenceText>
+</Sentence>
+<Sentence id="2856" LabelDrug="CLOMIPRAMINE HYDROCHLORIDE" section="34090-1">
+<SentenceText>Plasma concentrations of CMI were significantly lower in smokers than in nonsmokers.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="cns-active drugs" precipitantCode="N0000029132"/>
+<LabelInteraction type="Unspecified interaction" precipitant="mao inhibitors" precipitantCode="N0000000184"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anticholinergic | drugs" precipitantCode="n0000175574"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sympathomimetic drugs" precipitantCode="N0000029104"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clonidine" precipitantCode="N0000006505" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="guanethidine" precipitantCode="ZTI6C33Q2Q" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic enzyme inducers" precipitantCode="NO MAP" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="barbiturates" precipitantCode="N0000008016" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="methylphenidate" precipitantCode="207ZZ9QZ49" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="N0000006023" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="haloperidol" precipitantCode="N0000006048" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic enzyme inhibitors" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenobarbital" precipitantCode="N0000005893" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssris" precipitantCode="n0000175696"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of | p450 1a2" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of p450 2d6" precipitantCode="n0000182135"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digoxin" precipitantCode="N0000005903" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that are highly bound to protein" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="warfarin" precipitantCode="N0000006403" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="highly bound drugs" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="highly protein-bound drugs" precipitantCode="NONE"/>
+
+</LabelInteractions></Label>

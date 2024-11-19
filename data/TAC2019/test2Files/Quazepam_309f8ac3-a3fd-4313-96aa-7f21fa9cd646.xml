@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Quazepam" setid="309f8ac3-a3fd-4313-96aa-7f21fa9cd646">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  Benzodiazepines, including QUAZEPAM, produce additive CNS depressant effects when co-administered with ethanol or other CNS depressants (e.g. psychotropic medications, anticonvulsants, antihistamines). Downward dose adjustment of QUAZEPAM and/or concomitant CNS depressants may be necessary because of additive effects.  CNS Depressants: downward dose adjustment may be necessary due to additive effects ( 7 )</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Quazepam, like other central nervous system agents of the 1,4-benzodiazepine class, presumably exerts its effects by binding to stereo-specific receptors at several sites within the central nervous system (CNS). The exact mechanism of action is unknown.  12.3 Pharmacokinetics  Absorption: Quazepam is rapidly (absorption half-life of about 30 minutes) and well absorbed from the gastrointestinal tract. The peak plasma concentration of quazepam is approximately 20 ng/mL after a 15 mg dose and occurs at about 2 hours.  Metabolism: Quazepam, the active parent compound, is extensively metabolized in the liver; two of the plasma metabolites are 2-oxoquazepam and N-desalkyl-2-oxoquazepam. All three compounds show CNS depressant activity.  Distribution: The degree of plasma protein binding for quazepam and its two major metabolites is greater than 95%.  Elimination: Following administration of 14 C-quazepam, 31% of the dose appeared in the urine and 23% in the feces over five days; only trace amounts of unchanged drug were present in the urine.  The mean elimination half-life of quazepam and 2-oxoquazepam is 39 hours and that of N-desalkyl-2-oxoquazepam is 73 hours. Steady-state levels of quazepam and 2-oxoquazepam are attained by the seventh daily dose and that of N-desalkyl-2-oxoquazepam by the thirteenth daily dose.  Special Populations:  Geriatrics: The pharmacokinetics of quazepam and 2-oxoquazepam in geriatric subjects are comparable to those seen in young adults; as with desalkyl metabolites of other benzodiazepines, the elimination half-life of N-desalkyl-2-oxoquazepam in geriatric patients is about twice that of young adults.  12.4 Drug Interactions  Bupropion (a CYP2B6 substrate): Co-administration of a single dose of 150 mg Bupropion Hydrochloride XL with steady state quazepam did not significantly affect the AUC and Cmax of bupropion or its primary metabolite, hydroxybupropion.</Section>
+</Text><Sentences>
+<Sentence id="1" LabelDrug="Quazepam" section="34073-7">
+<SentenceText>Benzodiazepines, including QUAZEPAM, produce additive CNS depressant effects when co-administered with ethanol or other CNS depressants (e.g. psychotropic medications, anticonvulsants, antihistamines).</SentenceText>
+<Mention id="M13" type="Trigger" span="45 8;69 7" str="additive | effects"/>
+<Mention id="M2" type="Precipitant" span="103 7" str="ethanol" code="3K9958V90M"/>
+<Mention id="M15" type="SpecificInteraction" span="45 31" str="additive CNS depressant effects" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M5" type="Precipitant" span="185 14" str="antihistamines" code="N0000029071"/>
+<Mention id="M8" type="Precipitant" span="168 15" str="anticonvulsants" code="N0000029145"/>
+<Mention id="M11" type="Precipitant" span="120 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M14" type="Precipitant" span="142 24" str="psychotropic medications" code="NO MAP"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M13" precipitant="M2" effect="M15"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M13" precipitant="M5" effect="M15"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M13" precipitant="M8" effect="M15"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M13" precipitant="M11" effect="M15"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M13" precipitant="M14" effect="M15"/>
+</Sentence>
+<Sentence id="2" LabelDrug="Quazepam" section="34073-7">
+<SentenceText>Downward dose adjustment of QUAZEPAM and/or concomitant CNS depressants may be necessary because of additive effects.</SentenceText>
+<Mention id="M16" type="Trigger" span="0 24" str="Downward dose adjustment"/>
+<Mention id="M21" type="Precipitant" span="56 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M18" type="Trigger" span="0 24;44 11" str="Downward dose adjustment | concomitant"/>
+<Mention id="M20" type="Trigger" span="100 16" str="additive effects"/>
+<Mention id="M22" type="SpecificInteraction" span="56 15;100 16" str="CNS depressants | additive effects" code="418072004: Central nervous system depression (disorder)"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M16" precipitant="M21" effect="C54355"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M18" precipitant="M21" effect="C54357"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M20" precipitant="M21" effect="M22"/>
+</Sentence>
+<Sentence id="3" LabelDrug="Quazepam" section="34073-7">
+<SentenceText>CNS Depressants: downward dose adjustment may be necessary due to additive effects (7)</SentenceText>
+<Mention id="M23" type="Trigger" span="66 16" str="additive effects"/>
+<Mention id="M27" type="Precipitant" span="0 15" str="CNS Depressants" code="N0000175758"/>
+<Mention id="M25" type="SpecificInteraction" span="0 15;66 16" str="CNS Depressants | additive effects" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M26" type="Trigger" span="17 24" str="downward dose adjustment"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M23" precipitant="M27" effect="M25"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M26" precipitant="M27" effect="C54357"/>
+</Sentence>
+<Sentence id="4" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Quazepam, like other central nervous system agents of the 1,4-benzodiazepine class, presumably exerts its effects by binding to stereo-specific receptors at several sites within the central nervous system (CNS).</SentenceText>
+</Sentence>
+<Sentence id="5" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>The exact mechanism of action is unknown.</SentenceText>
+</Sentence>
+<Sentence id="6" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Absorption: Quazepam is rapidly (absorption half-life of about 30 minutes) and well absorbed from the gastrointestinal tract.</SentenceText>
+</Sentence>
+<Sentence id="7" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>The peak plasma concentration of quazepam is approximately 20 ng/mL after a 15 mg dose and occurs at about 2 hours.</SentenceText>
+</Sentence>
+<Sentence id="8" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Metabolism: Quazepam, the active parent compound, is extensively metabolized in the liver; two of the plasma metabolites are 2-oxoquazepam and N-desalkyl-2-oxoquazepam.</SentenceText>
+</Sentence>
+<Sentence id="9" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>All three compounds show CNS depressant activity.</SentenceText>
+</Sentence>
+<Sentence id="10" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Distribution: The degree of plasma protein binding for quazepam and its two major metabolites is greater than 95%.</SentenceText>
+</Sentence>
+<Sentence id="11" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Elimination: Following administration of 14C-quazepam, 31% of the dose appeared in the urine and 23% in the feces over five days; only trace amounts of unchanged drug were present in the urine.</SentenceText>
+</Sentence>
+<Sentence id="12" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>The mean elimination half-life of quazepam and 2-oxoquazepam is 39 hours and that of N-desalkyl-2-oxoquazepam is 73 hours.</SentenceText>
+</Sentence>
+<Sentence id="13" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Steady-state levels of quazepam and 2-oxoquazepam are attained by the seventh daily dose and that of N-desalkyl-2-oxoquazepam by the thirteenth daily dose.</SentenceText>
+</Sentence>
+<Sentence id="14" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Special Populations: Geriatrics: The pharmacokinetics of quazepam and 2-oxoquazepam in geriatric subjects are comparable to those seen in young adults; as with desalkyl metabolites of other benzodiazepines, the elimination half-life of N-desalkyl-2-oxoquazepam in geriatric patients is about twice that of young adults.</SentenceText>
+</Sentence>
+<Sentence id="15" LabelDrug="Quazepam" section="34090-1">
+<SentenceText>Bupropion (a CYP2B6 substrate): Co-administration of a single dose of 150 mg Bupropion Hydrochloride XL with steady state quazepam did not significantly affect the AUC and Cmax of bupropion or its primary metabolite, hydroxybupropion.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="ethanol" precipitantCode="3K9958V90M" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antihistamines" precipitantCode="N0000029071" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticonvulsants" precipitantCode="N0000029145" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="psychotropic medications" precipitantCode="NO MAP" effect="418072004: Central nervous system depression (disorder)"/>
+
+</LabelInteractions></Label>

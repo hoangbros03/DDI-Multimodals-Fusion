@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="WELLBUTRIN" setid="a435da9d-f6e8-4ddc-897d-8cd2bf777b21">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  • CYP2B6 inducers: Dose increase may be necessary if coadministered with CYP2B6 inducers (e.g., ritonavir, lopinavir, efavirenz, carbamazepine, phenobarbital, and phenytoin) based on clinical exposure, but should not exceed the maximum recommended dose. ( 7.1 )  • Drugs metabolized by CYP2D6: Bupropion inhibits CYP2D6 and can increase concentrations of: antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide). Consider dose reduction when using with bupropion. ( 7.2 )  • Drugs that lower seizure threshold: Dose WELLBUTRIN XL with caution. ( 5.3 , 7.3 )  • Dopaminergic Drugs (levodopa and amantadine): CNS toxicity can occur when used concomitantly with WELLBUTRIN XL. ( 7.4 )  • MAOIs: Increased risk of hypertensive reactions can occur when used concomitantly with WELLBUTRIN XL. ( 7.6 )  • Drug-laboratory test interactions: WELLBUTRIN XL can cause false-positive urine test results for amphetamines. ( 7.7 )  7.1 Potential for Other Drugs to Affect WELLBUTRIN XL  Bupropion is primarily metabolized to hydroxybupropion by CYP2B6. Therefore, the potential exists for drug interactions between WELLBUTRIN XL and drugs that are inhibitors or inducers of CYP2B6.  Inhibitors of CYP2B6  Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure. Based on clinical response, dosage adjustment of WELLBUTRIN XL may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3) ].  Inducers of CYP2B6  Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure. Dosage increase of WELLBUTRIN XL may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3) ].  Carbamazepine, Phenobarbital, Phenytoin: While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology ( 12.3 )]. If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.  7.2 Potential for WELLBUTRIN XL to Affect Other Drugs  Drugs Metabolized by CYP2D6  Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors. Therefore, coadministration of WELLBUTRIN XL with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6. Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide). When used concomitantly with WELLBUTRIN XL, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.  Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen), theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion. Patients treated concomitantly with WELLBUTRIN XL and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3) ].  7.3 Drugs That Lower Seizure Threshold  Use extreme caution when coadministering WELLBUTRIN XL with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids). Use low initial doses of WELLBUTRIN XL and increase the dose gradually [see Warnings and Precautions (5.3) ].  7.4 Dopaminergic Drugs (Levodopa and Amantadine)  Bupropion, levodopa, and amantadine have dopamine agonist effects. CNS toxicity has been reported when bupropion was coadministered with levodopa or amantadine. Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness. It is presumed that the toxicity results from cumulative dopamine agonist effects. Use caution when administering WELLBUTRIN XL concomitantly with these drugs.  7.5 Use with Alcohol  In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN XL. The consumption of alcohol during treatment with WELLBUTRIN XL should be minimized or avoided.  7.6 MAO Inhibitors  Bupropion inhibits the reuptake of dopamine and norepinephrine. Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs. Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine. At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with WELLBUTRIN XL. Conversely, at least 14 days should be allowed after stopping WELLBUTRIN XL before starting an MAOI antidepressant [see Dosage and Administration ( 2.8 , 2.9 ) and Contraindications (4) ].  7.7 Drug-Laboratory Test Interactions  False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion. This is due to lack of specificity of some screening tests. False-positive test results may result even following discontinuation of bupropion therapy. Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  The mechanism of action of bupropion is unknown, as is the case with other antidepressants. However, it is presumed that this action is mediated by noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine and does not inhibit monoamine oxidase or the reuptake of serotonin.  12.3 Pharmacokinetics  Bupropion is a racemic mixture. The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.  Following chronic dosing, the mean steady-state plasma concentration of bupropion was reached within 8 days. The mean elimination half-life (±SD) of bupropion is 21 (±9) hours.  In a study comparing 14-day dosing with WELLBUTRIN XL, 300 mg once-daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion). Additionally, in a study comparing 14-day dosing with WELLBUTRIN XL 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites.  Absorption  Following single oral administration of WELLBUTRIN XL tablets to healthy volunteers, the median time to peak plasma concentrations for bupropion was approximately 5 hours. The presence of food did not affect the peak concentration or area under the curve of bupropion.  Distribution  In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL. The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion, whereas the extent of protein binding of the threohydrobupropion metabolite is about half that of bupropion.  Metabolism  Bupropion is extensively metabolized in humans. Three metabolites are active: hydroxybupropion, which is formed via hydroxylation of the tert -butyl group of bupropion, and the amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, which are formed via reduction of the carbonyl group. In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydrobupropion. Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite. The potency and toxicity of the metabolites relative to bupropion have not been fully characterized. However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion. This may be of clinical importance, because the plasma concentrations of the metabolites are as high or higher than those of bupropion.  At steady state, peak plasma concentration of hydroxybupropion occurred approximately 7 hours after administration of WELLBUTRIN XL, and it was approximately 7 times the peak level of the parent drug. The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 13 times that of bupropion. The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of hydroxybupropion. However, the elimination half-lives of erythrohydrobupropion and threohydrobupropion are longer, approximately 33 (±10) and 37 (±13) hours, respectively, and steady-state AUCs were 1.4 and 7 times that of bupropion, respectively.  Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 to 450 mg/day.  Elimination  Following oral administration of 200 mg of 14 C-bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively. Only 0.5% of the oral dose was excreted as unchanged bupropion.  Population Subgroups  Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion. The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function, because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.  Renal Impairment  There is limited information on the pharmacokinetics of bupropion in patients with renal impairment. An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug C max and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure. A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups. Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys. The elimination of the major metabolites of bupropion may be reduced by impaired renal function. WELLBUTRIN XL should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6 )].  Hepatic Impairment  The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild to severe cirrhosis. The first trial demonstrated that the half-life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32±14 hours versus 21±5 hours, respectively). Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in patients with alcoholic liver disease. The differences in half-life for bupropion and the other metabolites in the 2 groups were minimal.  The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 subjects with mild to moderate hepatic cirrhosis compared to 8 healthy volunteers. However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, C max , and T max ) and its active metabolites (t ½ ) in subjects with mild to moderate hepatic cirrhosis. In addition, in patients with severe hepatic cirrhosis, the bupropion C max and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in subjects with severe hepatic cirrhosis vs. 19 hours in healthy subjects). For the metabolite hydroxybupropion, the mean C max was approximately 69% lower. For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean C max was approximately 31% lower. The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion. The median T max was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion. The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7) ].  Left Ventricular Dysfunction  During a chronic dosing study with bupropion in 14 depressed patients with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared to healthy volunteers.  Age  The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion. A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that in younger subjects. These data suggest that there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetic study suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5) ].  Gender  A single-dose study involving 12 healthy male and 12 healthy female volunteers revealed no sex-related differences in the pharmacokinetic parameters of bupropion. In addition, pooled analysis of bupropion pharmacokinetic data from 90 healthy male and 90 healthy female volunteers revealed no sex-related differences in the peak plasma concentrations of bupropion. The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared to female volunteers.  Smokers  The effects of cigarette smoking on the pharmacokinetics of bupropion hydrochloride were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers. Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in C max , half-life, T max , AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.  Drug Interactions  Potential for Other Drugs to Affect WELLBUTRIN XL  In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6. Therefore, the potential exists for drug interactions between WELLBUTRIN XL and drugs that are inhibitors or inducers of CYP2B6. In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.  Inhibitors of CYP2B6  Ticlopidine and Clopidogrel: In a study in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (C max and AUC) of bupropion by 40% and 60% for clopidogrel, by 38% and 85% for ticlopidine, respectively. The exposures of hydroxybupropion were decreased.  Prasugrel: In healthy subjects, prasugrel increased bupropion C max and AUC values by 14% and 18%, respectively, and decreased C max and AUC values of hydroxybupropion by 32% and 24%, respectively.  Cimetidine: Following oral administration of bupropion 300 mg with and without cimetidine 800 mg in 24 healthy young male volunteers, the pharmacokinetics of bupropion and hydroxybupropion were unaffected. However, there were 16% and 32% increases in the AUC and C max , respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.  Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.  Inducers of CYP2B6  Ritonavir and Lopinavir: In a healthy volunteer study, ritonavir 100 mg twice daily reduced the AUC and C max of bupropion by 22% and 21%, respectively. The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%. In a second healthy volunteer study, ritonavir 600 mg twice daily decreased the AUC and C max of bupropion by 66% and 62%, respectively. The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.  In another healthy volunteer study, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and C max by 57%. The AUC and C max of hydroxybupropion metabolite were decreased by 50% and 31%, respectively.  Efavirenz: In a study of healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and C max of bupropion by approximately 55% and 34%, respectively. The AUC of hydroxybupropion was unchanged, whereas C max of hydroxybupropion was increased by 50%.  Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.  Potential for WELLBUTRIN XL to Affect Other Drugs  Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans. In a study of 8 healthy male volunteers, following a 14-day administration of bupropion 100 mg three times per day, there was no evidence of induction of its own metabolism. Nevertheless, there may be the potential for clinically important alterations of blood levels of coadministered drugs.  Drugs Metabolized by CYP2D6  In vitro , bupropion and hydroxybupropion are CYP2D6 inhibitors. In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the C max , AUC, and T 1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively. The effect was present for at least 7 days after the last dose of bupropion. Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.  Citalopram: Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the C max and AUC of citalopram by 30% and 40%, respectively.  Lamotrigine: Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.</Section>
+</Text><Sentences>
+<Sentence id="3846" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>•CYP2B6 inducers: Dose increase may be necessary if coadministered with CYP2B6 inducers (e.g., ritonavir, lopinavir, efavirenz, carbamazepine, phenobarbital, and phenytoin) based on clinical exposure, but should not exceed the maximum recommended dose.</SentenceText>
+<Mention id="M13" type="Trigger" span="18 13" str="Dose increase"/>
+<Mention id="M2" type="Precipitant" span="106 9" str="lopinavir" code="2494G1JF75"/>
+<Mention id="M4" type="Precipitant" span="143 13" str="phenobarbital" code="N0000005893"/>
+<Mention id="M6" type="Precipitant" span="117 9" str="efavirenz" code="JE6H2O27P8"/>
+<Mention id="M8" type="Precipitant" span="95 9" str="ritonavir" code="N0000007423"/>
+<Mention id="M10" type="Precipitant" span="162 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M12" type="Precipitant" span="1 15" str="CYP2B6 inducers" code="N0000187064"/>
+<Mention id="M14" type="Precipitant" span="128 13" str="carbamazepine" code="N0000007470"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M13" precipitant="M2" effect="C54356"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M13" precipitant="M4" effect="C54356"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M13" precipitant="M6" effect="C54356"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M13" precipitant="M8" effect="C54356"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M13" precipitant="M10" effect="C54356"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M13" precipitant="M12" effect="C54356"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M13" precipitant="M14" effect="C54356"/>
+</Sentence>
+<Sentence id="3847" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>•Drugs metabolized by CYP2D6: Bupropion inhibits CYP2D6 and can increase concentrations of: antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide).</SentenceText>
+<Mention id="M49" type="Trigger" span="64 23" str="increase concentrations"/>
+<Mention id="M16" type="Precipitant" span="205 14" str="antipsychotics" code="N0000029150"/>
+<Mention id="M18" type="Precipitant" span="155 11" str="desipramine" code="TG537D343B"/>
+<Mention id="M20" type="Precipitant" span="192 10" str="sertraline" code="QUC7NX6WMB"/>
+<Mention id="M22" type="Precipitant" span="180 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M24" type="Precipitant" span="253 12" str="thioridazine" code="N3D6TG58NI"/>
+<Mention id="M26" type="Precipitant" span="115 11" str="venlafaxine" code="GRZ5RCB1QG"/>
+<Mention id="M28" type="Precipitant" span="1 27" str="Drugs metabolized by CYP2D6" code="NO MAP"/>
+<Mention id="M30" type="Precipitant" span="92 15" str="antidepressants" code="N0000029147"/>
+<Mention id="M32" type="Precipitant" span="268 13" str="beta-blockers" code="N0000175556"/>
+<Mention id="M34" type="Precipitant" span="289 10" str="metoprolol" code="GEB06NHM23"/>
+<Mention id="M36" type="Precipitant" span="306 23" str="Type 1C antiarrhythmics" code="N0000029121"/>
+<Mention id="M38" type="Precipitant" span="143 10" str="imipramine" code="OGG85SX4E4"/>
+<Mention id="M40" type="Precipitant" span="128 13" str="nortriptyline" code="BL03SY4LXB"/>
+<Mention id="M42" type="Precipitant" span="337 11" str="propafenone" code="68IQX3T69U"/>
+<Mention id="M44" type="Precipitant" span="240 11" str="risperidone" code="L6UH7ZF8HC"/>
+<Mention id="M46" type="Precipitant" span="168 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M48" type="Precipitant" span="350 10" str="flecainide" code="N0000006966"/>
+<Mention id="M50" type="Precipitant" span="227 11" str="haloperidol" code="N0000006048"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M49" precipitant="M16" effect="C54357"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M49" precipitant="M18" effect="C54357"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M49" precipitant="M20" effect="C54357"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M49" precipitant="M22" effect="C54357"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M49" precipitant="M24" effect="C54357"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M49" precipitant="M26" effect="C54357"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M49" precipitant="M28" effect="C54357"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M49" precipitant="M30" effect="C54357"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M49" precipitant="M32" effect="C54357"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M49" precipitant="M34" effect="C54357"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M49" precipitant="M36" effect="C54357"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M49" precipitant="M38" effect="C54357"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M49" precipitant="M40" effect="C54357"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M49" precipitant="M42" effect="C54357"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M49" precipitant="M44" effect="C54357"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M49" precipitant="M46" effect="C54357"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M49" precipitant="M48" effect="C54357"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M49" precipitant="M50" effect="C54357"/>
+</Sentence>
+<Sentence id="3848" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Consider dose reduction when using with bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3849" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>•Drugs that lower seizure threshold: Dose WELLBUTRIN XL with caution.</SentenceText>
+<Mention id="M51" type="Trigger" span="61 7" str="caution"/>
+<Mention id="M52" type="Precipitant" span="1 34" str="Drugs that lower seizure threshold" code="NONE"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M51" precipitant="M52"/>
+</Sentence>
+<Sentence id="3850" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>•Dopaminergic Drugs (levodopa and amantadine): CNS toxicity can occur when used concomitantly with WELLBUTRIN XL.</SentenceText>
+<Mention id="M61" type="SpecificInteraction" span="47 12" str="CNS toxicity" code="23853001: Disorder of the central nervous system (disorder)"/>
+<Mention id="M54" type="Precipitant" span="34 10" str="amantadine" code="NONE"/>
+<Mention id="M57" type="Precipitant" span="21 8" str="levodopa" code="46627O600J"/>
+<Mention id="M60" type="Precipitant" span="1 18" str="Dopaminergic Drugs" code="NONE"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M61" precipitant="M54" effect="M61"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M61" precipitant="M57" effect="M61"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M61" precipitant="M60" effect="M61"/>
+</Sentence>
+<Sentence id="3851" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>•MAOIs: Increased risk of hypertensive reactions can occur when used concomitantly with WELLBUTRIN XL.</SentenceText>
+<Mention id="M62" type="Trigger" span="8 14" str="Increased risk"/>
+<Mention id="M63" type="Precipitant" span="1 5" str="MAOIs" code="n0000000184"/>
+<Mention id="M64" type="SpecificInteraction" span="26 22" str="hypertensive reactions" code="62275004: Hypertensive episode (disorder)"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M62" precipitant="M63" effect="M64"/>
+</Sentence>
+<Sentence id="3852" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>•Drug laboratory test interactions: WELLBUTRIN XL can cause false-positive urine test results for amphetamines.</SentenceText>
+</Sentence>
+<Sentence id="3853" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.</SentenceText>
+</Sentence>
+<Sentence id="3854" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Therefore, the potential exists for drug interactions between WELLBUTRIN XL and drugs that are inhibitors or inducers of CYP2B6.</SentenceText>
+<Mention id="M67" type="Trigger" span="36 17" str="drug interactions"/>
+<Mention id="M66" type="Precipitant" span="109 18" str="inducers of CYP2B6" code="NONE"/>
+<Mention id="M68" type="Precipitant" span="95 10;118 9" str="inhibitors | of CYP2B6" code="NONE"/>
+<Interaction id="I31" type="Unspecified interaction" trigger="M67" precipitant="M66"/>
+<Interaction id="I32" type="Unspecified interaction" trigger="M67" precipitant="M68"/>
+</Sentence>
+<Sentence id="3855" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Inhibitors of CYP2B6 Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure.</SentenceText>
+<Mention id="M73" type="Trigger" span="93 8;112 9" str="increase | exposures"/>
+<Mention id="M70" type="Precipitant" span="21 11" str="Ticlopidine" code="OM90ZUW7M1"/>
+<Mention id="M72" type="Precipitant" span="37 11" str="Clopidogrel" code="N0000007277"/>
+<Mention id="M74" type="Precipitant" span="0 20" str="Inhibitors of CYP2B6" code="NONE"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M73" precipitant="M70" effect="C54355"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M73" precipitant="M72" effect="C54355"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M73" precipitant="M74" effect="C54355"/>
+</Sentence>
+<Sentence id="3856" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Based on clinical response, dosage adjustment of WELLBUTRIN XL may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel).</SentenceText>
+<Mention id="M79" type="Trigger" span="28 17" str="dosage adjustment"/>
+<Mention id="M76" type="Precipitant" span="105 17" str="CYP2B6 inhibitors" code="NONE"/>
+<Mention id="M78" type="Precipitant" span="130 11" str="ticlopidine" code="OM90ZUW7M1"/>
+<Mention id="M80" type="Precipitant" span="145 11" str="clopidogrel" code="N0000007277"/>
+<Interaction id="I36" type="Unspecified interaction" trigger="M79" precipitant="M76"/>
+<Interaction id="I37" type="Unspecified interaction" trigger="M79" precipitant="M78"/>
+<Interaction id="I38" type="Unspecified interaction" trigger="M79" precipitant="M80"/>
+</Sentence>
+<Sentence id="3857" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Inducers of CYP2B6 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.</SentenceText>
+<Mention id="M87" type="Trigger" span="99 8;139 8" str="decrease | exposure"/>
+<Mention id="M82" type="Precipitant" span="19 9" str="Ritonavir" code="N0000007423"/>
+<Mention id="M84" type="Precipitant" span="45 9" str="Efavirenz" code="JE6H2O27P8"/>
+<Mention id="M86" type="Precipitant" span="0 18" str="Inducers of CYP2B6" code="NONE"/>
+<Mention id="M88" type="Precipitant" span="30 9" str="Lopinavir" code="2494G1JF75"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M87" precipitant="M82" effect="C54356"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M87" precipitant="M84" effect="C54356"/>
+<Interaction id="I41" type="Pharmacokinetic interaction" trigger="M87" precipitant="M86" effect="C54356"/>
+<Interaction id="I42" type="Pharmacokinetic interaction" trigger="M87" precipitant="M88" effect="C54356"/>
+</Sentence>
+<Sentence id="3858" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Dosage increase of WELLBUTRIN XL may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose.</SentenceText>
+<Mention id="M93" type="Trigger" span="0 15" str="Dosage increase"/>
+<Mention id="M90" type="Precipitant" span="86 9" str="lopinavir" code="2494G1JF75"/>
+<Mention id="M92" type="Precipitant" span="75 9" str="ritonavir" code="N0000007423"/>
+<Mention id="M94" type="Precipitant" span="100 9" str="efavirenz" code="JE6H2O27P8"/>
+<Interaction id="I43" type="Pharmacokinetic interaction" trigger="M93" precipitant="M90" effect="C54356"/>
+<Interaction id="I44" type="Pharmacokinetic interaction" trigger="M93" precipitant="M92" effect="C54356"/>
+<Interaction id="I45" type="Pharmacokinetic interaction" trigger="M93" precipitant="M94" effect="C54356"/>
+</Sentence>
+<Sentence id="3859" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Carbamazepine, Phenobarbital, Phenytoin: While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure.</SentenceText>
+<Mention id="M101" type="Trigger" span="89 17" str="induce metabolism "/>
+<Mention id="M102" type="Trigger" span="128 8;147 8" str=" decrease | exposure"/>
+<Mention id="M97" type="Precipitant" span="30 9" str="Phenytoin" code="N0000006023"/>
+<Mention id="M100" type="Precipitant" span="0 13" str="Carbamazepine" code="N0000007470"/>
+<Mention id="M103" type="Precipitant" span="15 13" str="Phenobarbital" code="N0000005893"/>
+<Interaction id="I46" type="Pharmacokinetic interaction" trigger="M101;M102" precipitant="M97" effect="C54356"/>
+<Interaction id="I47" type="Pharmacokinetic interaction" trigger="M101;M102" precipitant="M100" effect="C54356"/>
+<Interaction id="I48" type="Pharmacokinetic interaction" trigger="M101;M102" precipitant="M103" effect="C54356"/>
+</Sentence>
+<Sentence id="3860" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.</SentenceText>
+<Mention id="M104" type="Trigger" span="78 17" str="increase the dose"/>
+<Mention id="M105" type="Precipitant" span="42 11" str="CYP inducer" code="NONE"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M104" precipitant="M105" effect="C54356"/>
+</Sentence>
+<Sentence id="3861" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Drugs Metabolized by CYP2D6 Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="3862" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Therefore, coadministration of WELLBUTRIN XL with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.</SentenceText>
+<Mention id="M108" type="Trigger" span="91 22" str="increase the exposures"/>
+<Mention id="M107" type="Precipitant" span="50 36" str="drugs that are metabolized by CYP2D6" code="NONE"/>
+<Mention id="M109" type="Precipitant" span="132 20" str="substrates of CYP2D6" code="NO MAP"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M108" precipitant="M107" effect="C54357"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M108" precipitant="M109" effect="C54357"/>
+</Sentence>
+<Sentence id="3863" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Such drugs include antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g. haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g.</SentenceText>
+</Sentence>
+<Sentence id="3864" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>When used concomitantly with WELLBUTRIN XL, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.</SentenceText>
+<Mention id="M110" type="Trigger" span="67 17" str="decrease the dose"/>
+<Mention id="M111" type="Precipitant" span="94 17" str="CYP2D6 substrates" code="NO MAP"/>
+<Interaction id="I52" type="Pharmacokinetic interaction" trigger="M110" precipitant="M111" effect="C54357"/>
+</Sentence>
+<Sentence id="3865" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen), theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.</SentenceText>
+<Mention id="M115" type="Trigger" span="110 16" str="reduced efficacy"/>
+<Mention id="M113" type="Precipitant" span="0 65" str="Drugs that require metabolic activation by CYP2D6 to be effective" code="NONE"/>
+<Mention id="M114" type="SpecificInteraction" span="0 65;110 16" str="Drugs that require metabolic activation by CYP2D6 to be effective | reduced efficacy" code="NO MAP"/>
+<Mention id="M116" type="Precipitant" span="73 9" str="tamoxifen" code="094ZI81Y45"/>
+<Mention id="M117" type="SpecificInteraction" span="73 9;110 16" str="tamoxifen | reduced efficacy" code="NO MAP"/>
+<Interaction id="I53" type="Pharmacodynamic interaction" trigger="M115" precipitant="M113" effect="M114"/>
+<Interaction id="I54" type="Pharmacodynamic interaction" trigger="M115" precipitant="M116" effect="M117"/>
+</Sentence>
+<Sentence id="3866" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Patients treated concomitantly with WELLBUTRIN XL and such drugs may require increased doses of the drug.</SentenceText>
+</Sentence>
+<Sentence id="3867" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Use extreme caution when coadministering WELLBUTRIN XL with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).</SentenceText>
+<Mention id="M128" type="Trigger" span="0 19" str="Use extreme caution"/>
+<Mention id="M119" type="Precipitant" span="154 15" str="antidepressants" code="N0000029147"/>
+<Mention id="M121" type="Precipitant" span="66 38" str="drugs that lower the seizure threshold" code="n0000175753"/>
+<Mention id="M123" type="Precipitant" span="188 24" str="systemic corticosteroids" code="NONE"/>
+<Mention id="M125" type="Precipitant" span="171 12" str="theophylline" code="N0000007076"/>
+<Mention id="M127" type="Precipitant" span="138 14" str="antipsychotics" code="N0000029150"/>
+<Mention id="M129" type="Precipitant" span="118 18" str="bupropion products" code="NONE"/>
+<Interaction id="I55" type="Unspecified interaction" trigger="M128" precipitant="M119"/>
+<Interaction id="I56" type="Unspecified interaction" trigger="M128" precipitant="M121"/>
+<Interaction id="I57" type="Unspecified interaction" trigger="M128" precipitant="M123"/>
+<Interaction id="I58" type="Unspecified interaction" trigger="M128" precipitant="M125"/>
+<Interaction id="I59" type="Unspecified interaction" trigger="M128" precipitant="M127"/>
+<Interaction id="I60" type="Unspecified interaction" trigger="M128" precipitant="M129"/>
+</Sentence>
+<Sentence id="3868" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Use low initial doses of WELLBUTRIN XL and increase the dose gradually.</SentenceText>
+</Sentence>
+<Sentence id="3869" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Bupropion, levodopa, and amantadine have dopamine agonist effects.</SentenceText>
+</Sentence>
+<Sentence id="3870" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>CNS toxicity has been reported when bupropion was coadministered with levodopa or amantadine.</SentenceText>
+<Mention id="M135" type="SpecificInteraction" span="0 12" str="CNS toxicity" code="23853001: Disorder of the central nervous system (disorder)"/>
+<Mention id="M131" type="Precipitant" span="70 8" str="levodopa" code="46627O600J"/>
+<Mention id="M134" type="Precipitant" span="82 10" str="amantadine" code="NONE"/>
+<Interaction id="I61" type="Pharmacodynamic interaction" trigger="M135" precipitant="M131" effect="M135"/>
+<Interaction id="I62" type="Pharmacodynamic interaction" trigger="M135" precipitant="M134" effect="M135"/>
+</Sentence>
+<Sentence id="3871" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness.</SentenceText>
+</Sentence>
+<Sentence id="3872" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>It is presumed that the toxicity results from cumulative dopamine agonist effects.</SentenceText>
+</Sentence>
+<Sentence id="3873" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Use caution when administering WELLBUTRIN XL concomitantly with these drugs.</SentenceText>
+</Sentence>
+<Sentence id="3874" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN XL.</SentenceText>
+<Mention id="M136" type="Trigger" span="61 7;86 6" str="adverse | events "/>
+<Mention id="M137" type="Trigger" span="96 7;112 9" str=" reduced | tolerance"/>
+<Mention id="M138" type="Precipitant" span="104 7" str="alcohol" code="N0000007432"/>
+<Mention id="M139" type="SpecificInteraction" span="61 31" str="adverse neuropsychiatric events " code="NO MAP"/>
+<Mention id="M140" type="SpecificInteraction" span="96 25" str=" reduced alcohol tolerance" code=" 102612005: Alcohol intolerance (finding)"/>
+<Interaction id="I63" type="Pharmacodynamic interaction" trigger="M136;M137" precipitant="M138" effect="M139;M140"/>
+</Sentence>
+<Sentence id="3875" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>The consumption of alcohol during treatment with WELLBUTRIN XL should be minimized or avoided.</SentenceText>
+<Mention id="M141" type="Trigger" span="63 30" str="should be minimized or avoided"/>
+<Mention id="M142" type="Precipitant" span="19 7" str="alcohol" code="N0000007432"/>
+<Interaction id="I64" type="Unspecified interaction" trigger="M141" precipitant="M142"/>
+</Sentence>
+<Sentence id="3876" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Bupropion inhibits the reuptake of dopamine and norepinephrine.</SentenceText>
+</Sentence>
+<Sentence id="3877" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.</SentenceText>
+<Mention id="M143" type="Trigger" span="78 14" str="increased risk"/>
+<Mention id="M144" type="Precipitant" span="19 5" str="MAOIs" code="n0000000184"/>
+<Mention id="M145" type="SpecificInteraction" span="96 22" str="hypertensive reactions" code="62275004: Hypertensive episode (disorder)"/>
+<Interaction id="I65" type="Pharmacodynamic interaction" trigger="M143" precipitant="M144" effect="M145"/>
+</Sentence>
+<Sentence id="3878" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.</SentenceText>
+<Mention id="M146" type="Trigger" span="40 14;71 8" str="acute toxicity | enhanced"/>
+<Mention id="M147" type="Precipitant" span="101 10" str="phenelzine" code="O408N561GF"/>
+<Mention id="M148" type="SpecificInteraction" span="40 39" str="acute toxicity of bupropion is enhanced" code="NO MAP"/>
+<Interaction id="I66" type="Pharmacodynamic interaction" trigger="M146" precipitant="M147" effect="M148"/>
+</Sentence>
+<Sentence id="3879" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with WELLBUTRIN XL.</SentenceText>
+<Mention id="M149" type="Trigger" span="0 8;17 21" str="At least | should elapse between"/>
+<Mention id="M150" type="Precipitant" span="61 4" str="MAOI" code="n0000000184"/>
+<Interaction id="I67" type="Unspecified interaction" trigger="M149" precipitant="M150"/>
+</Sentence>
+<Sentence id="3880" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Conversely, at least 14 days should be allowed after stopping WELLBUTRIN XL before starting an MAOI antidepressant.</SentenceText>
+<Mention id="M151" type="Trigger" span="12 8;29 32" str="at least | should be allowed after stopping"/>
+<Mention id="M152" type="Precipitant" span="95 4" str="MAOI" code="n0000000184"/>
+<Interaction id="I68" type="Unspecified interaction" trigger="M151" precipitant="M152"/>
+</Sentence>
+<Sentence id="3881" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>False-positive urine immunoassay screening tests for amphetamines have been reported in patients taking bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3882" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>This is due to lack of specificity of some screening tests.</SentenceText>
+</Sentence>
+<Sentence id="3883" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>False-positive test results may result even following discontinuation of bupropion therapy.</SentenceText>
+</Sentence>
+<Sentence id="3884" LabelDrug="WELLBUTRIN" section="34073-7">
+<SentenceText>Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish bupropion from amphetamines.</SentenceText>
+</Sentence>
+<Sentence id="3885" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The mechanism of action of bupropion is unknown, as is the case with other antidepressants.</SentenceText>
+</Sentence>
+<Sentence id="3886" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>However, it is presumed that this action is mediated by noradrenergic and/or dopaminergic mechanisms.</SentenceText>
+</Sentence>
+<Sentence id="3887" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine and does not inhibit monoamine oxidase or the reuptake of serotonin.</SentenceText>
+</Sentence>
+<Sentence id="3888" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The pharmacologic activity and pharmacokinetics of the individual enantiomers have not been studied.</SentenceText>
+</Sentence>
+<Sentence id="3889" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Following chronic dosing, the mean steady-state plasma concentration of bupropion was reached within 8 days.</SentenceText>
+</Sentence>
+<Sentence id="3890" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The mean elimination half-life (+SD) of bupropion 21 (±9) hours.</SentenceText>
+</Sentence>
+<Sentence id="3891" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In a study comparing 14-day dosing with WELLBUTRIN XL, 300 mg once-daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).</SentenceText>
+</Sentence>
+<Sentence id="3892" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Additionally, in a study comparing 14-day dosing with WELLBUTRIN XL 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3893" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Absorption Following single oral administration of WELLBUTRIN XL tablets to healthy volunteers, the median time to peak plasma concentrations for bupropion was approximately 5 hours.</SentenceText>
+</Sentence>
+<Sentence id="3894" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The presence of food did not affect the peak concentration or area under the curve of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3895" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Distribution In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL.</SentenceText>
+</Sentence>
+<Sentence id="3896" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion, whereas the extent of protein binding of the threohydrobupropion metabolite is about half that of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3897" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Metabolism Bupropion is extensively metabolized in humans.</SentenceText>
+</Sentence>
+<Sentence id="3898" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Three metabolites are active: hydroxybupropion, which is formed via hydroxylation of the tert-butyl group of bupropion, and the amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, which are formed via reduction of the carbonyl group.</SentenceText>
+</Sentence>
+<Sentence id="3899" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydrobupropion.</SentenceText>
+</Sentence>
+<Sentence id="3900" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.</SentenceText>
+</Sentence>
+<Sentence id="3901" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.</SentenceText>
+</Sentence>
+<Sentence id="3902" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3903" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>This may be of clinical importance, because the plasma concentrations of the metabolites are as high or higher than those of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3904" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>At steady state, peak plasma concentration of hydroxybupropion occurred approximately 7 hours after administration of WELLBUTRIN XL, and it was approximately 7 times the peak level of the parent drug.</SentenceText>
+</Sentence>
+<Sentence id="3905" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 13 times that of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3906" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of hydroxybupropion.</SentenceText>
+</Sentence>
+<Sentence id="3907" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>However, the elimination half-lives of erythrohydrobupropion and threohydrobupropion are longer, approximately 33 (±10) and 37 (±13) hours, respectively and steady-state AUCs were 1.4 and 7 times that of bupropion, respectively.</SentenceText>
+</Sentence>
+<Sentence id="3908" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 to 450 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="3909" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Elimination Following oral administration of 200 mg of 14C-bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively.</SentenceText>
+</Sentence>
+<Sentence id="3910" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Only 0.5% of the oral dose was excreted as unchanged bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3911" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Population Subgroups: Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3912" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function, because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.</SentenceText>
+</Sentence>
+<Sentence id="3913" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Renal Impairment There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.</SentenceText>
+</Sentence>
+<Sentence id="3914" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>An inter-trial comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.</SentenceText>
+</Sentence>
+<Sentence id="3915" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.</SentenceText>
+</Sentence>
+<Sentence id="3916" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.</SentenceText>
+</Sentence>
+<Sentence id="3917" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The elimination of the major metabolites of bupropion may be reduced by impaired renal function.</SentenceText>
+</Sentence>
+<Sentence id="3918" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>WELLBUTRIN XL should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered.</SentenceText>
+</Sentence>
+<Sentence id="3919" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild to severe cirrhosis.</SentenceText>
+</Sentence>
+<Sentence id="3920" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The first trial demonstrated that the half-life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32±14 hours versus 21±5 hours, respectively).</SentenceText>
+</Sentence>
+<Sentence id="3921" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in patients with alcoholic liver disease.</SentenceText>
+</Sentence>
+<Sentence id="3922" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The differences in half-life for bupropion and the other metabolites in the 2 groups were minimal.</SentenceText>
+</Sentence>
+<Sentence id="3923" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 subjects with mild to moderate hepatic cirrhosis compared to 8 healthy volunteers.</SentenceText>
+</Sentence>
+<Sentence id="3924" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in subjects with mild to moderate hepatic cirrhosis.</SentenceText>
+</Sentence>
+<Sentence id="3925" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in patients with severe hepatic cirrhosis vs. 19 hours in healthy subjects).</SentenceText>
+</Sentence>
+<Sentence id="3926" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.</SentenceText>
+</Sentence>
+<Sentence id="3927" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.</SentenceText>
+</Sentence>
+<Sentence id="3928" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.</SentenceText>
+</Sentence>
+<Sentence id="3929" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.</SentenceText>
+</Sentence>
+<Sentence id="3930" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers.</SentenceText>
+</Sentence>
+<Sentence id="3931" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Left Ventricular Dysfunction During a chronic dosing study with bupropion in 14 depressed patients with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared to healthy volunteers.</SentenceText>
+</Sentence>
+<Sentence id="3932" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 to 750 mg/day, on a 3-times-a-day schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3933" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that in younger subjects.</SentenceText>
+</Sentence>
+<Sentence id="3934" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>These data suggest that there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetic study suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3935" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Gender A single-dose study involving 12 healthy male and 12 healthy female volunteers revealed no sex-related differences in the pharmacokinetic parameters of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3936" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In addition, pooled analysis of bupropion pharmacokinetic data from 90 healthy male and 90 healthy female volunteers revealed no sex-related differences in the peak plasma concentrations of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3937" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared to female volunteers.</SentenceText>
+</Sentence>
+<Sentence id="3938" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Smokers The effects of cigarette smoking on the pharmacokinetics of bupropion hydrochloride were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.</SentenceText>
+</Sentence>
+<Sentence id="3939" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.</SentenceText>
+</Sentence>
+<Sentence id="3940" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Drug Interactions Potential for Other Drugs to Affect WELLBUTRIN XL In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.</SentenceText>
+</Sentence>
+<Sentence id="3942" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.</SentenceText>
+<Mention id="M165" type="Trigger" span="110 25" str="inhibit the hydroxylation"/>
+<Mention id="M154" type="Precipitant" span="82 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Mention id="M167" type="SpecificInteraction" span="110 38" str="inhibit the hydroxylation of bupropion" code="NO MAP"/>
+<Mention id="M157" type="Precipitant" span="99 10" str="nelfinavir" code="N0000006047"/>
+<Mention id="M160" type="Precipitant" span="67 13" str="norfluoxetine" code="NONE"/>
+<Mention id="M163" type="Precipitant" span="43 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M166" type="Precipitant" span="55 10" str="sertraline" code="QUC7NX6WMB"/>
+<Interaction id="I69" type="Pharmacodynamic interaction" trigger="M165" precipitant="M154" effect="M167"/>
+<Interaction id="I70" type="Pharmacodynamic interaction" trigger="M165" precipitant="M157" effect="M167"/>
+<Interaction id="I71" type="Pharmacodynamic interaction" trigger="M165" precipitant="M160" effect="M167"/>
+<Interaction id="I72" type="Pharmacodynamic interaction" trigger="M165" precipitant="M163" effect="M167"/>
+<Interaction id="I73" type="Pharmacodynamic interaction" trigger="M165" precipitant="M166" effect="M167"/>
+</Sentence>
+<Sentence id="3943" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Inhibitors of CYP2B6 Ticlopidine, Clopidogrel: In a study in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (Cmax and AUC) of bupropion by 40% and 60% for clopidogrel, by 38% and 85% for ticlopidine, respectively.</SentenceText>
+<Mention id="M180" type="Trigger" span="149 19" str="increased exposures"/>
+<Mention id="M185" type="Precipitant" span="118 11" str="ticlopidine" code="OM90ZUW7M1"/>
+<Mention id="M184" type="Trigger" span="149 9;170 4" str="increased | Cmax"/>
+<Mention id="M179" type="Precipitant" span="86 11" str="clopidogrel" code="N0000007277"/>
+<Mention id="M178" type="Trigger" span="149 9;179 3" str="increased | AUC"/>
+<Mention id="M183" type="Precipitant" span="0 20" str="Inhibitors of CYP2B6" code="NONE"/>
+<Interaction id="I74" type="Pharmacokinetic interaction" trigger="M180" precipitant="M185" effect="C54355"/>
+<Interaction id="I75" type="Pharmacokinetic interaction" trigger="M184" precipitant="M179" effect="C54602"/>
+<Interaction id="I76" type="Pharmacokinetic interaction" trigger="M178" precipitant="M183" effect="C54605"/>
+<Interaction id="I77" type="Pharmacokinetic interaction" trigger="M180" precipitant="M179" effect="C54355"/>
+<Interaction id="I78" type="Pharmacokinetic interaction" trigger="M178" precipitant="M185" effect="C54605"/>
+<Interaction id="I79" type="Pharmacokinetic interaction" trigger="M178" precipitant="M179" effect="C54605"/>
+<Interaction id="I80" type="Pharmacokinetic interaction" trigger="M180" precipitant="M183" effect="C54355"/>
+<Interaction id="I81" type="Pharmacokinetic interaction" trigger="M184" precipitant="M183" effect="C54602"/>
+<Interaction id="I82" type="Pharmacokinetic interaction" trigger="M184" precipitant="M185" effect="C54602"/>
+</Sentence>
+<Sentence id="3944" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The exposures of hydroxybupropion were decreased.</SentenceText>
+</Sentence>
+<Sentence id="3945" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Prasugrel: In healthy subjects, prasugrel increased bupropion Cmax and AUC values by 14% and 18%, respectively, and decreased Cmax and AUC values of hydroxybupropion by 32% and 24%, respectively.</SentenceText>
+<Mention id="M186" type="Trigger" span="42 9;62 4" str="increased | Cmax"/>
+<Mention id="M189" type="Precipitant" span="32 9" str="prasugrel" code="NONE"/>
+<Mention id="M188" type="Trigger" span="42 9;71 3" str="increased | AUC"/>
+<Interaction id="I83" type="Pharmacokinetic interaction" trigger="M186" precipitant="M189" effect="C54602"/>
+<Interaction id="I84" type="Pharmacokinetic interaction" trigger="M188" precipitant="M189" effect="C54605"/>
+</Sentence>
+<Sentence id="3946" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Cimetidine: Following oral administration of bupropion 300 mg with and without cimetidine 800 mg in 24 healthy young male volunteers, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.</SentenceText>
+</Sentence>
+<Sentence id="3947" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>However, there were 16% and 32% increases in the AUC and Cmax, respectively, of the combined moieties of threohydrobupropion and erythrohydrobupropion.</SentenceText>
+</Sentence>
+<Sentence id="3948" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3949" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Inducers of CYP2B6 Ritonavir and Lopinavir: In a healthy volunteer study, ritonavir 100 mg twice daily reduced the AUC and Cmax of bupropion by 22% and 21%, respectively.</SentenceText>
+<Mention id="M190" type="Trigger" span="103 15" str="reduced the AUC"/>
+<Mention id="M193" type="Precipitant" span="74 9" str="ritonavir" code="N0000007423"/>
+<Mention id="M192" type="Trigger" span="103 7;123 4" str="reduced | Cmax"/>
+<Interaction id="I85" type="Pharmacokinetic interaction" trigger="M190" precipitant="M193" effect="C54609"/>
+<Interaction id="I86" type="Pharmacokinetic interaction" trigger="M192" precipitant="M193" effect="C54606"/>
+</Sentence>
+<Sentence id="3950" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.</SentenceText>
+</Sentence>
+<Sentence id="3951" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In a second healthy volunteer study, ritonavir 600 mg twice daily decreased the AUC and Cmax of bupropion by 66% and 62%, respectively.</SentenceText>
+<Mention id="M194" type="Trigger" span="66 17" str="decreased the AUC"/>
+<Mention id="M197" type="Precipitant" span="37 9" str="ritonavir" code="N0000007423"/>
+<Mention id="M196" type="Trigger" span="66 9;88 4" str="decreased | Cmax"/>
+<Interaction id="I87" type="Pharmacokinetic interaction" trigger="M194" precipitant="M197" effect="C54609"/>
+<Interaction id="I88" type="Pharmacokinetic interaction" trigger="M196" precipitant="M197" effect="C54606"/>
+</Sentence>
+<Sentence id="3952" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The exposure of the hydroxybupropion metabolite was decreased by 78%, the threohydrobupropion decreased by 50%, and the erythrohydrobupropion decreased by 68%.</SentenceText>
+</Sentence>
+<Sentence id="3953" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In another healthy volunteer study, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and Cmax by 57%.</SentenceText>
+<Mention id="M208" type="Trigger" span="82 9;102 3" str="decreased | AUC"/>
+<Mention id="M205" type="Precipitant" span="36 9" str="lopinavir" code="2494G1JF75"/>
+<Mention id="M203" type="Precipitant" span="53 9" str="ritonavir" code="N0000007423"/>
+<Mention id="M206" type="Trigger" span="82 9;110 4" str="decreased | Cmax"/>
+<Mention id="M209" type="Precipitant" span="36 9;53 9" str="lopinavir | ritonavir" code="NONE"/>
+<Interaction id="I89" type="Pharmacokinetic interaction" trigger="M208" precipitant="M205" effect="C54609"/>
+<Interaction id="I90" type="Pharmacokinetic interaction" trigger="M208" precipitant="M203" effect="C54609"/>
+<Interaction id="I91" type="Pharmacokinetic interaction" trigger="M206" precipitant="M203" effect="C54606"/>
+<Interaction id="I92" type="Pharmacokinetic interaction" trigger="M206" precipitant="M205" effect="C54606"/>
+<Interaction id="I93" type="Pharmacokinetic interaction" trigger="M206" precipitant="M209" effect="C54606"/>
+<Interaction id="I94" type="Pharmacokinetic interaction" trigger="M208" precipitant="M209" effect="C54609"/>
+</Sentence>
+<Sentence id="3954" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The AUC and Cmax of hydroxybupropion metabolite were decreased by 50% and 31%, respectively.</SentenceText>
+</Sentence>
+<Sentence id="3955" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Efavirenz: In a study of healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and Cmax of bupropion by approximately 55% and 34%, respectively.</SentenceText>
+<Mention id="M210" type="Trigger" span="85 15" str="reduced the AUC"/>
+<Mention id="M213" type="Precipitant" span="45 9" str="efavirenz" code="JE6H2O27P8"/>
+<Mention id="M212" type="Trigger" span="85 7;105 4" str="reduced | Cmax"/>
+<Interaction id="I95" type="Pharmacokinetic interaction" trigger="M210" precipitant="M213" effect="C54609"/>
+<Interaction id="I96" type="Pharmacokinetic interaction" trigger="M212" precipitant="M213" effect="C54606"/>
+</Sentence>
+<Sentence id="3956" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was increased by 50%.</SentenceText>
+</Sentence>
+<Sentence id="3957" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.</SentenceText>
+<Mention id="M218" type="Trigger" span="91 21" str="induce the metabolism"/>
+<Mention id="M215" type="Precipitant" span="0 13" str="Carbamazepine" code="N0000007470"/>
+<Mention id="M217" type="Precipitant" span="15 13" str="Phenobarbital" code="N0000005893"/>
+<Mention id="M219" type="Precipitant" span="30 9" str="Phenytoin" code="N0000006023"/>
+<Interaction id="I97" type="Pharmacokinetic interaction" trigger="M218" precipitant="M215" effect="C54356"/>
+<Interaction id="I98" type="Pharmacokinetic interaction" trigger="M218" precipitant="M217" effect="C54356"/>
+<Interaction id="I99" type="Pharmacokinetic interaction" trigger="M218" precipitant="M219" effect="C54356"/>
+</Sentence>
+<Sentence id="3958" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Potential for WELLBUTRIN XL to Affect Other Drugs Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.</SentenceText>
+</Sentence>
+<Sentence id="3959" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In a study of 8 healthy male volunteers, following a 14-day administration of bupropion 100 mg three times per day, there was no evidence of induction of its own metabolism.</SentenceText>
+</Sentence>
+<Sentence id="3960" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Nevertheless, there may be the potential for clinically important alterations of blood levels of coadministered drugs.</SentenceText>
+</Sentence>
+<Sentence id="3961" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Drugs Metabolized by CYP2D6 In vitro, bupropion and hydroxybupropion are CYP2D6 inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="3962" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.</SentenceText>
+<Mention id="M220" type="Trigger" span="190 18" str="increased the Cmax"/>
+<Mention id="M225" type="Precipitant" span="178 11" str="desipramine" code="TG537D343B"/>
+<Mention id="M222" type="Trigger" span="190 9;210 3" str="increased | AUC"/>
+<Mention id="M224" type="Trigger" span="190 9;219 4" str="increased | T1/2"/>
+<Interaction id="I100" type="Pharmacokinetic interaction" trigger="M220" precipitant="M225" effect="C54610"/>
+<Interaction id="I101" type="Pharmacokinetic interaction" trigger="M222" precipitant="M225" effect="C54613"/>
+<Interaction id="I102" type="Pharmacokinetic interaction" trigger="M224" precipitant="M225" effect="C54611"/>
+</Sentence>
+<Sentence id="3963" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>The effect was present for at least 7 days after the last dose of bupropion.</SentenceText>
+</Sentence>
+<Sentence id="3964" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.</SentenceText>
+</Sentence>
+<Sentence id="3965" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Citalopram: Although citalopram is not primarily metabolized by CYP2D6, in one study bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.</SentenceText>
+<Mention id="M226" type="Trigger" span="95 18" str="increased the Cmax"/>
+<Mention id="M229" type="Precipitant" span="21 10" str="citalopram" code="0DHU5B8D6V"/>
+<Mention id="M228" type="Trigger" span="95 9;118 3" str="increased | AUC"/>
+<Interaction id="I103" type="Pharmacokinetic interaction" trigger="M226" precipitant="M229" effect="C54610"/>
+<Interaction id="I104" type="Pharmacokinetic interaction" trigger="M228" precipitant="M229" effect="C54613"/>
+</Sentence>
+<Sentence id="3966" LabelDrug="WELLBUTRIN" section="34090-1">
+<SentenceText>Lamotrigine: Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="lopinavir" precipitantCode="2494G1JF75" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="lopinavir" precipitantCode="2494G1JF75" effect="C54606"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="lopinavir" precipitantCode="2494G1JF75" effect="C54609"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenobarbital" precipitantCode="N0000005893" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="efavirenz" precipitantCode="JE6H2O27P8" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="efavirenz" precipitantCode="JE6H2O27P8" effect="C54606"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="efavirenz" precipitantCode="JE6H2O27P8" effect="C54609"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ritonavir" precipitantCode="N0000007423" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ritonavir" precipitantCode="N0000007423" effect="C54606"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ritonavir" precipitantCode="N0000007423" effect="C54609"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="N0000006023" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2b6 inducers" precipitantCode="N0000187064" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="N0000007470" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="antipsychotics" precipitantCode="N0000029150" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="antipsychotics" precipitantCode="N0000029150"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="desipramine" precipitantCode="TG537D343B" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="desipramine" precipitantCode="TG537D343B" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="desipramine" precipitantCode="TG537D343B" effect="C54611"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="desipramine" precipitantCode="TG537D343B" effect="C54613"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="thioridazine" precipitantCode="N3D6TG58NI" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="venlafaxine" precipitantCode="GRZ5RCB1QG" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by cyp2d6" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="antidepressants" precipitantCode="N0000029147" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="antidepressants" precipitantCode="N0000029147"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="beta-blockers" precipitantCode="N0000175556" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="metoprolol" precipitantCode="GEB06NHM23" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="type 1c antiarrhythmics" precipitantCode="N0000029121" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="imipramine" precipitantCode="OGG85SX4E4" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nortriptyline" precipitantCode="BL03SY4LXB" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="propafenone" precipitantCode="68IQX3T69U" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="risperidone" precipitantCode="L6UH7ZF8HC" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="flecainide" precipitantCode="N0000006966" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="haloperidol" precipitantCode="N0000006048" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs that lower seizure threshold" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="amantadine" precipitantCode="NONE" effect="23853001: Disorder of the central nervous system (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="levodopa" precipitantCode="46627O600J" effect="23853001: Disorder of the central nervous system (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="dopaminergic drugs" precipitantCode="NONE" effect="23853001: Disorder of the central nervous system (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="maois" precipitantCode="n0000000184" effect="62275004: Hypertensive episode (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inducers of cyp2b6" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inducers of cyp2b6" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitors | of cyp2b6" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ticlopidine" precipitantCode="OM90ZUW7M1" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ticlopidine" precipitantCode="OM90ZUW7M1" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ticlopidine" precipitantCode="OM90ZUW7M1" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ticlopidine" precipitantCode="OM90ZUW7M1"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="clopidogrel" precipitantCode="N0000007277" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="clopidogrel" precipitantCode="N0000007277" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="clopidogrel" precipitantCode="N0000007277" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="clopidogrel" precipitantCode="N0000007277"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp2b6" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp2b6" precipitantCode="NONE" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp2b6" precipitantCode="NONE" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp2b6 inhibitors" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp inducer" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that are metabolized by cyp2d6" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="substrates of cyp2d6" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2d6 substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that require metabolic activation by cyp2d6 to be effective" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tamoxifen" precipitantCode="094ZI81Y45" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs that lower the seizure threshold" precipitantCode="n0000175753"/>
+<LabelInteraction type="Unspecified interaction" precipitant="systemic corticosteroids" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="theophylline" precipitantCode="N0000007076"/>
+<LabelInteraction type="Unspecified interaction" precipitant="bupropion products" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect=" 102612005: Alcohol intolerance (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="alcohol" precipitantCode="N0000007432"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenelzine" precipitantCode="O408N561GF" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="maoi" precipitantCode="n0000000184"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fluvoxamine" precipitantCode="O4L1XPO44W" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nelfinavir" precipitantCode="N0000006047" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="norfluoxetine" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="prasugrel" precipitantCode="NONE" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="prasugrel" precipitantCode="NONE" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="lopinavir | ritonavir" precipitantCode="NONE" effect="C54606"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="lopinavir | ritonavir" precipitantCode="NONE" effect="C54609"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="citalopram" precipitantCode="0DHU5B8D6V" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="citalopram" precipitantCode="0DHU5B8D6V" effect="C54613"/>
+
+</LabelInteractions></Label>

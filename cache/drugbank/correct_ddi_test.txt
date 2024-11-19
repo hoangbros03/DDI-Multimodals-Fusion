@@ -1,0 +1,52 @@
+DDI-DrugBank.d675.s2
+Examples of some of the more potent CYP 3A4 inhibitors include macrolide antibiotics (e.g., erythromycin, troleandomycin, clarithromycin), HIV protease inhibitors or reverse transcriptase inhibitors (e.g., ritonavir, indinavir, nelfinavir, delavirdine) or azole antifungals (e.g., ketoconazole, itraconazole, voriconazole). 
+{'@id': 'DDI-DrugBank.d675.s2.e0', '@charOffset': '63-83', '@type': 'group', '@text': 'macrolide antibiotics'}
+{'@id': 'DDI-DrugBank.d675.s2.e1', '@charOffset': '92-103', '@type': 'drug', '@text': 'erythromycin'}
+{'@id': 'DDI-DrugBank.d675.s2.e2', '@charOffset': '106-119', '@type': 'drug', '@text': 'troleandomycin'}
+{'@id': 'DDI-DrugBank.d675.s2.e3', '@charOffset': '122-135', '@type': 'drug', '@text': 'clarithromycin'}
+{'@id': 'DDI-DrugBank.d675.s2.e4', '@charOffset': '139-161', '@type': 'group', '@text': 'HIV protease inhibitors'}
+{'@id': 'DDI-DrugBank.d675.s2.e5', '@charOffset': '166-197', '@type': 'group', '@text': 'reverse transcriptase inhibitors'}
+{'@id': 'DDI-DrugBank.d675.s2.e6', '@charOffset': '206-214', '@type': 'drug', '@text': 'ritonavir'}
+{'@id': 'DDI-DrugBank.d675.s2.e7', '@charOffset': '217-225', '@type': 'drug', '@text': 'indinavir'}
+{'@id': 'DDI-DrugBank.d675.s2.e8', '@charOffset': '228-237', '@type': 'drug', '@text': 'nelfinavir'}
+{'@id': 'DDI-DrugBank.d675.s2.e9', '@charOffset': '240-250', '@type': 'drug', '@text': 'delavirdine'}
+{'@id': 'DDI-DrugBank.d675.s2.e10', '@charOffset': '256-272', '@type': 'group', '@text': 'azole antifungals'}
+{'@id': 'DDI-DrugBank.d675.s2.e11', '@charOffset': '281-292', '@type': 'drug', '@text': 'ketoconazole'}
+{'@id': 'DDI-DrugBank.d675.s2.e12', '@charOffset': '295-306', '@type': 'drug', '@text': 'itraconazole'}
+{'@id': 'DDI-DrugBank.d675.s2.e13', '@charOffset': '309-320', '@type': 'drug', '@text': 'voriconazole'}
+
+DDI-DrugBank.d736.s8
+Potentiation occurs with ganglionic adrenergic blocking drugs or peripheral adrenergic blocking drugs.
+{'@id': 'DDI-DrugBank.d736.s8.e0', '@charOffset': '25-60', '@type': 'group', '@text': 'ganglionic adrenergic blocking drugs'}
+{'@id': 'DDI-DrugBank.d736.s8.e1', '@charOffset': '65-100', '@type': 'group', '@text': 'peripheral adrenergic blocking drugs'}
+
+DDI-MedLine.d154.s2
+The objective of this study was to evaluate the effect of oral administration of ginseng stem-and-leaf saponins (GSLS) on the humoral immune responses of chickens to inactivated ND vaccines and inactivated AI vaccines. 
+{'@id': 'DDI-MedLine.d154.s2.e0', '@charOffset': '81-110', '@type': 'drug_n', '@text': 'ginseng stem-and-leaf saponins'}
+{'@id': 'DDI-MedLine.d154.s2.e1', '@charOffset': '113-116', '@type': 'drug_n', '@text': 'GSLS'}
+{'@id': 'DDI-MedLine.d154.s2.e2', '@charOffset': '166-188', '@type': 'drug', '@text': 'inactivated ND vaccines'}
+{'@id': 'DDI-MedLine.d154.s2.e3', '@charOffset': '194-216', '@type': 'drug', '@text': 'inactivated AI vaccines'}
+
+DDI-MedLine.d169.s0
+Calcium does not inhibit the absorption of 5 milligrams of nonheme iron or heme iron at doses less than 800 milligrams in nonpregnant women.
+{'@id': 'DDI-MedLine.d169.s0.e0', '@charOffset': '0-6', '@type': 'drug', '@text': 'Calcium'}
+{'@id': 'DDI-MedLine.d169.s0.e1', '@charOffset': '59-70', '@type': 'drug', '@text': 'nonheme iron'}
+{'@id': 'DDI-MedLine.d169.s0.e2', '@charOffset': '75-83', '@type': 'drug', '@text': 'heme iron'}
+
+DDI-MedLine.d169.s1
+Calcium is the only known component in the diet that may affect absorption of both nonheme iron and heme iron. 
+{'@id': 'DDI-MedLine.d169.s1.e0', '@charOffset': '0-6', '@type': 'drug', '@text': 'Calcium'}
+{'@id': 'DDI-MedLine.d169.s1.e1', '@charOffset': '83-94', '@type': 'drug', '@text': 'nonheme iron'}
+{'@id': 'DDI-MedLine.d169.s1.e2', '@charOffset': '100-108', '@type': 'drug', '@text': 'heme iron'}
+
+DDI-MedLine.d169.s10
+In conclusion, we demonstrated an isolated effect of calcium (as chloride) on absorption of 5 mg of iron provided as nonheme iron (as sulfate) and heme iron (as CRBC) iron. 
+{'@id': 'DDI-MedLine.d169.s10.e0', '@charOffset': '53-59', '@type': 'drug', '@text': 'calcium'}
+{'@id': 'DDI-MedLine.d169.s10.e1', '@charOffset': '117-128', '@type': 'drug', '@text': 'nonheme iron'}
+{'@id': 'DDI-MedLine.d169.s10.e2', '@charOffset': '147-155', '@type': 'drug', '@text': 'heme iron'}
+
+DDI-MedLine.d169.s3
+Our objective was to establish potential effects of calcium on absorption of nonheme iron and heme iron and the dose response for this effect in the absence of a meal. 
+{'@id': 'DDI-MedLine.d169.s3.e0', '@charOffset': '52-58', '@type': 'drug', '@text': 'calcium'}
+{'@id': 'DDI-MedLine.d169.s3.e1', '@charOffset': '77-88', '@type': 'drug', '@text': 'nonheme iron'}
+{'@id': 'DDI-MedLine.d169.s3.e2', '@charOffset': '94-102', '@type': 'drug', '@text': 'heme iron'}

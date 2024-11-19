@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="NATRECOR" setid="44c45bfe-461f-4398-8f20-ea771b2403ee">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+NATRECOR® is contraindicated in patients with:  Persistent systolic blood pressure &amp;lt;100 mm Hg prior to therapy because of an increased risk of symptomatic hypotension [see Warnings and Precautions (5.1)]  Known hypersensitivity to any of its components [see Warnings and Precautions (5.3)]  Cardiogenic shock        Persistent systolic blood pressure &amp;lt;100 mm Hg prior to therapy because of an increased risk of symptomatic hypotension. (4, 5.1) Known hypersensitivity to any of the components in the formulation. (4, 5.3) Cardiogenic shock (4)</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+NATRECOR® (nesiritide) is for intravenous (IV) use only. There is limited experience with administering NATRECOR® for longer than 96 hours. Monitor blood pressure closely during NATRECOR® administration.      Monitor blood pressure closely during NATRECOR® administration. (2) The recommended dose of NATRECOR® is an IV bolus of 2 mcg/kg followed by a continuous infusion of 0.01 mcg/kg/min. Do not initiate NATRECOR® at a dose that is above the recommended dose. The bolus dose may not be appropriate for those with low SBP &amp;lt;110 mm Hg or those recently treated with afterload reducers such as nitroglycerin. (2.1)         The recommended dose of NATRECOR® is an IV bolus of 2 mcg/kg followed by a continuous infusion of 0.01 mcg/kg/min. Do not initiate NATRECOR® at a dose that is above the recommended dose. The loading dose may not be appropriate for those with low systolic blood pressure (SBP) &amp;lt;110 mm Hg or for patients recently treated with afterload reducers. The administration of the recommended dose of NATRECOR® is a two step process: Step 1. Administration of the IV Bolus  After preparation of the infusion bag  [see Dosage and Administration (2.3)], withdraw the bolus volume (see Table 1) from the NATRECOR® infusion bag, and administer it over approximately 60 seconds through an IV port in the tubing. Bolus Volume (mL) = Patient Weight (kg) / 3  Table 1: NATRECOR® Weight-Adjusted Bolus Volume Administered Over 60 Seconds (Final Concentration = 6 mcg/mL)     Patient Weight (kg) Volume of Bolus (mL=kg/3)     60 20.0   70 23.3   80 26.7   90 30.0   100 33.3   110 36.7    Step 2. Administration of the Continuous Infusion Immediately following the administration of the bolus, infuse NATRECOR® at a flow rate of 0.1 mL/kg/hr. This will deliver a NATRECOR® infusion dose of 0.01 mcg/kg/min. To calculate the infusion flow rate to deliver a 0.01 mcg/kg/min dose, use the following formula (see Table 2): Infusion Flow Rate (mL/hr) = Patient Weight (kg) × 0.1  Table 2: NATRECOR® Weight-Adjusted Infusion Flow Rate for a 0.01 mcg/kg/min Dose Following Bolus (Final Concentration = 6 mcg/mL)     Patient Weight (kg) Infusion Flow Rate (mL/hr)     60 6   70 7   80 8   90 9   100 10   110 11             The dose-limiting side effect of NATRECOR® is hypotension. If hypotension occurs during the administration of NATRECOR®, reduce the dose of or discontinue NATRECOR® and initiate other measures to support blood pressure (IV fluids, changes in body position). When symptomatic hypotension occurs, discontinue NATRECOR®. Because hypotension caused by NATRECOR® may be prolonged (up to hours), a period of observation may be necessary before restarting the drug. NATRECOR® may be subsequently restarted at a dose that is reduced by 30% (with no bolus administration) once the patient has stabilized. Do not up-titrate NATRECOR® more frequently than every 3 hours. Use central hemodynamic monitoring and do not exceed 0.03 mcg/kg/min.           The NATRECOR® bolus must be drawn from the prepared infusion bag. Prime the IV tubing with 5 mL of the solution for infusion prior to connecting to the patient's vascular access port and prior to administering the bolus or starting the infusion.  Reconstitute one 1.5 mg vial of NATRECOR® by adding 5 mL of diluent removed from a pre-filled 250 mL plastic IV bag containing the diluent of choice. After reconstitution of the vial, each mL contains 0.32 mg of nesiritide. The following preservative-free diluents are recommended for reconstitution: 5% Dextrose Injection (D5W), USP; 0.9% Sodium Chloride Injection, USP; 5% Dextrose and 0.45% Sodium Chloride Injection, USP, or 5% Dextrose and 0.2% Sodium Chloride Injection, USP. Do not shake the vial. Rock the vial gently so that all surfaces, including the stopper, are in contact with the diluent to ensure complete reconstitution. Use only a clear, essentially colorless solution.  Withdraw the entire contents of the reconstituted NATRECOR® vial and add to the 250 mL plastic IV bag. This will yield a solution with a concentration of NATRECOR® of approximately 6 mcg/mL. Invert the IV bag several times to ensure complete mixing of the solution. Use the reconstituted solution within 24 hours, as NATRECOR® contains no antimicrobial preservative. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Reconstituted vials of NATRECOR® may be stored at 2 to 25°C (36 to 77°F) for up to 24 hours.           NATRECOR® is physically and/or chemically incompatible with injectable formulations of heparin, insulin, ethacrynate sodium, bumetanide, enalaprilat, hydralazine, and furosemide. Do not co-administer these drugs with NATRECOR® through the same IV catheter. The preservative sodium metabisulfite is incompatible with NATRECOR®. Do not administer injectable drugs that contain sodium metabisulfite in the same infusion line as NATRECOR®. Flush the catheter between administration of NATRECOR® and incompatible drugs. NATRECOR® binds to heparin and therefore could bind to the heparin lining of a heparin-coated catheter, decreasing the amount of NATRECOR® delivered to the patient for some period of time. Therefore, do not administer NATRECOR® through a central heparin-coated catheter. Concomitant administration of a heparin infusion through a separate catheter is acceptable.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+No trials specifically examining potential drug interactions with NATRECOR® were conducted, although many concomitant drugs (including IV nitroglycerin) were used in clinical trials [see Clinical Studies (14)]. No drug interactions were detected except for an increase in symptomatic hypotension in patients receiving afterload reducers or affecting the renin-angiotensin system (i.e., ARBs and/or ACE inhibitors). The co-administration of NATRECOR® with nitroprusside, milrinone, or IV ACE inhibitors has not been evaluated.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Hypotension: Not recommended for patients for whom vasodilating agents are not appropriate, or other conditions in which cardiac output is dependent upon venous return, or for patients suspected to have low cardiac filling pressures. (5.1) Worsening renal impairment. Monitor serum creatinine both during and after NATRECOR® administration. (5.2) Hypersensitivity: Serious hypersensitivity/allergic reactions have been reported. (5.3)          NATRECOR® may cause hypotension. In the ASCEND-HF trial, the incidence of symptomatic hypotension was 7.1% in NATRECOR®-treated patients compared to 4.0% in placebo-treated patients on a background of standard care. The risk of hypotension may be increased by the concomitant use of NATRECOR® with drugs affecting the renin-angiotensin system (i.e., angiotensin receptor blockers and/or angiotensin-converting enzyme inhibitors) or other afterload reducers. In the VMAC trial, in patients given the recommended dose (2 mcg/kg bolus followed by a 0.01 mcg/kg/min infusion) or the adjustable dose, the incidence of symptomatic hypotension in the first 24 hours was similar for NATRECOR® (4%) and IV nitroglycerin (5%). When hypotension occurred, however, the duration of symptomatic hypotension was longer with NATRECOR® (mean duration was 2.2 hours) than with nitroglycerin (mean duration was 0.7 hours). Administer NATRECOR® only in settings where blood pressure can be monitored closely and hypotension aggressively treated. Reduce the dose of or discontinue NATRECOR® in patients who develop hypotension [see Dosage and Administration (2.2)]. Avoid administration of NATRECOR® in patients suspected of having, or known to have, low cardiac filling pressures. NATRECOR® is not recommended for patients for whom vasodilating agents are not appropriate, such as patients with significant valvular stenosis, restrictive or obstructive cardiomyopathy, constrictive pericarditis, pericardial tamponade, or other conditions in which cardiac output is dependent upon venous return, or for patients suspected to have low cardiac filling pressures [see Contraindications (4)].          NATRECOR® may decrease renal function as judged by increases in serum creatinine. Monitor serum creatinine both during and after therapy has been completed. Monitor serum creatinine until values have stabilized. In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin aldosterone system, treatment with NATRECOR® may be associated with azotemia. When NATRECOR® was initiated at doses higher than 0.01 mcg/kg/min (0.015 and 0.03 mcg/kg/min), there was an increased rate of elevated serum creatinine over baseline compared with standard therapies, although the rate of acute renal failure and need for dialysis was not increased.          Serious hypersensitivity/allergic reactions following administration of NATRECOR® have been reported. These reactions are more likely to occur in individuals with a history of sensitivity to recombinant peptides. Before therapy with NATRECOR® is instituted, careful inquiry should be made to determine whether the patient has had a previous hypersensitivity reaction to other recombinant peptides. If an allergic reaction to NATRECOR® occurs, discontinue the drug. Some serious hypersensitivity/allergic reactions may require treatment with epinephrine, oxygen, IV fluids, antihistamines, corticosteroids, pressor amines and airway management, as clinically indicated.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Human BNP (hBNP) is secreted by the ventricular myocardium in response to stretch and exists in several isoforms in the human body. Elevated levels of BNP have been associated with advanced heart failure and are considered to be a compensatory mechanism in this disease. Human BNP binds to the particulate guanylate cyclase receptor of vascular smooth muscle and endothelial cells, leading to increased intracellular concentrations of guanosine 3'5'-cyclic monophosphate (cGMP) and smooth muscle cell relaxation. Cyclic GMP serves as a second messenger to dilate veins and arteries. Nesiritide has been shown to relax isolated human arterial and venous tissue preparations that were precontracted with either endothelin-1 or the alpha-adrenergic agonist, phenylephrine. In animals, nesiritide had no effects on cardiac contractility or on measures of cardiac electrophysiology such as atrial and ventricular effective refractory times or atrioventricular node conduction.          With a dosing regimen of NATRECOR® of 2 mcg/kg IV bolus followed by an intravenous infusion dose of 0.01 mcg/kg/min, Table 4 and Figure 3 summarize the changes in the VMAC trial in PCWP and other measures during the first 3 hours.  Table 4: Mean Hemodynamic Change from Baseline in the VMAC study       Effects at 3 Hours Placebo(n=62) Nitroglycerin(n=60) NATRECOR® (n=124)     Pulmonary capillary wedge pressure (mm Hg) -2.0 -3.8 -5.8    Right atrial pressure (mm Hg) 0.0 -2.6 -3.1    Cardiac index (L/min/M2) 0.0 0.2 0.1   Mean pulmonary artery pressure (mm Hg) -1.1 -2.5 -5.4    Systemic vascular resistance (dynes∙sec∙cm-5) -44 -105 -144   Systolic blood pressureBased on all treated patients: placebo n=142, nitroglycerin n=143, NATRECOR® n=204 (mm Hg) -2.5 -5.7  -5.6p &amp;lt;0.05 compared to placebo      Figure 3: PCWP through 3 Hours in VMAC   With this dosing regimen, 60% of the 3-hour effect on PCWP reduction is achieved within 15 minutes after the bolus, reaching 95% of the 3-hour effect within 1 hour. Approximately 70% of the 3-hour effect on SBP reduction is reached within 15 minutes. The pharmacodynamic (PD) half-life of the onset and offset of the hemodynamic effect of NATRECOR® is longer than what the PK half-life of 18 minutes would predict. Longer infusions may exaggerate the discrepancy from onset and offset effects. For example, in patients who developed symptomatic hypotension in the VMAC (Vasodilation in the Management of Acute Congestive Heart Failure) trial, half of the recovery of SBP toward the baseline value after discontinuation or reduction of the dose of NATRECOR® was observed in about 60 minutes. When higher doses of NATRECOR® were infused, the duration of hypotension was sometimes several hours. No rebound increase to levels above baseline state was observed. There was also no evidence of tachyphylaxis to the hemodynamic effects of NATRECOR® in the clinical trials. In the VMAC trial, in which the use of diuretics was not restricted, the mean change in volume status (output minus input) during the first 24 hours in the nitroglycerin and NATRECOR® groups was similar: 1279 ± 1455 mL and 1257 ± 1657 mL, respectively.     Figure 3                  Distribution In patients with heart failure (HF), NATRECOR® administered intravenously by infusion or bolus exhibits biphasic disposition from the plasma. The mean terminal elimination half-life (t1/2) of nesiritide is approximately 18 minutes and was associated with approximately 2/3 of the area-under-the-curve (AUC). The mean initial elimination phase was estimated to be approximately 2 minutes. In these patients, the mean volume of distribution of the central compartment (Vc) of nesiritide was estimated to be 0.073 L/kg, the mean steady-state volume of distribution (Vss) was 0.19 L/kg, and the mean clearance (CL) was approximately 9.2 mL/min/kg. At steady state, plasma BNP levels increase from baseline endogenous levels by approximately 3-fold to 6-fold with NATRECOR® infusion doses ranging from 0.01 to 0.03 mcg/kg/min.          Metabolism and Excretion The mechanism of elimination of nesiritide has not been studied specifically in humans.          Special Populations         Renal Impairment  Clinical data suggest that dose adjustment is not required in patients with renal impairment. The effects of nesiritide on PCWP, cardiac index (CI), and systolic blood pressure (SBP) were not significantly different in patients with chronic renal impairment (baseline serum creatinine ranging from 2 mg/dL to 4.3 mg/dL), and patients with normal renal function.           Body Weight  The population pharmacokinetic (PK) analyses carried out to determine the effects of demographics and clinical variables on PK parameters showed that clearance of nesiritide is proportional to body weight, supporting the administration of weight-adjusted dosing of nesiritide (i.e., administration on a mcg/kg/min basis).           Age, Gender, Race/Ethnicity  Nesiritide clearance was not influenced significantly by age, gender, or race/ethnicity.           Severity of HF  Nesiritide clearance was not influenced significantly by baseline endogenous hBNP concentration, severity of HF (as indicated by baseline PCWP, baseline CI, or New York Heart Association [NYHA] classification).            Effects of Concomitant Medications The co-administration of NATRECOR® with enalapril did not have significant effects on the PK of NATRECOR®. The PK effect of co-administration of NATRECOR® with other IV vasodilators such as nitroglycerin, nitroprusside, milrinone, or IV ACE inhibitors has not been evaluated. During clinical studies, NATRECOR® was administered concomitantly with other medications, including: diuretics, digoxin, oral ACE inhibitors, anticoagulants, oral nitrates, statins, class III antiarrhythmic agents, beta-blockers, dobutamine, calcium channel blockers, angiotensin II receptor antagonists, and dopamine. Although no PK interactions were specifically assessed, there did not appear to be evidence suggesting any clinically significant PK interaction.</Section>
+</Text><Sentences>
+<Sentence id="2891" LabelDrug="NATRECOR" section="34070-3">
+<SentenceText>NATRECOR® is contraindicated in patients with: Persistent systolic blood pressure &lt;100 mm Hg prior to therapy because of an increased risk of symptomatic hypotension Known hypersensitivity to any of its components Cardiogenic shock Persistent systolic blood pressure &lt;100 mm Hg prior to therapy because of an increased risk of symptomatic hypotension.</SentenceText>
+</Sentence>
+<Sentence id="2892" LabelDrug="NATRECOR" section="34070-3">
+<SentenceText>Known hypersensitivity to any of the components in the formulation.</SentenceText>
+</Sentence>
+<Sentence id="2893" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>NATRECOR® (nesiritide) is for intravenous (IV) use only.</SentenceText>
+</Sentence>
+<Sentence id="2894" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>There is limited experience with administering NATRECOR® for longer than 96 hours.</SentenceText>
+</Sentence>
+<Sentence id="2895" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Monitor blood pressure closely during NATRECOR® administration.</SentenceText>
+</Sentence>
+<Sentence id="2896" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The recommended dose of NATRECOR® is an IV bolus of 2 mcg/kg followed by a continuous infusion of 0.01 mcg/kg/min.</SentenceText>
+</Sentence>
+<Sentence id="2897" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Do not initiate NATRECOR® at a dose that is above the recommended dose.</SentenceText>
+</Sentence>
+<Sentence id="2898" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The bolus dose may not be appropriate for those with low SBP &lt;110 mm Hg or those recently treated with afterload reducers such as nitroglycerin.</SentenceText>
+<Mention id="M1" type="Trigger" span="4 33" str="bolus dose may not be appropriate"/>
+<Mention id="M2" type="Precipitant" span="130 13" str="nitroglycerin" code="G59M7S0WS3"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="2899" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The loading dose may not be appropriate for those with low systolic blood pressure (SBP) &lt;110 mm Hg or for patients recently treated with afterload reducers.</SentenceText>
+<Mention id="M3" type="Trigger" span="4 35" str="loading dose may not be appropriate"/>
+<Mention id="M4" type="Precipitant" span="138 18" str="afterload reducers" code="NO MAP"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="2900" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The administration of the recommended dose of NATRECOR® is a two step process: Step 1.</SentenceText>
+</Sentence>
+<Sentence id="2901" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Administration of the IV Bolus After preparation of the infusion bag, withdraw the bolus volume from the NATRECOR® infusion bag, and administer it over approximately 60 seconds through an IV port in the tubing.</SentenceText>
+</Sentence>
+<Sentence id="2902" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Bolus Volume (mL) = Patient Weight (kg) / 3 Table 1: NATRECOR® Weight-Adjusted Bolus Volume Administered Over 60 Seconds (Final Concentration = 6 mcg/mL) Patient Weight (kg) Volume of Bolus (mL=kg/3) 60 20.0 70 23.3 80 26.7 90 30.0 100 33.3 110 36.7 Step 2.</SentenceText>
+</Sentence>
+<Sentence id="2903" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Administration of the Continuous Infusion Immediately following the administration of the bolus, infuse NATRECOR® at a flow rate of 0.1 mL/kg/hr.</SentenceText>
+</Sentence>
+<Sentence id="2904" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>This will deliver a NATRECOR® infusion dose of 0.01 mcg/kg/min.</SentenceText>
+</Sentence>
+<Sentence id="2905" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>To calculate the infusion flow rate to deliver a 0.01 mcg/kg/min dose, use the following formula : Infusion Flow Rate (mL/hr) = Patient Weight (kg) × 0.1 Table 2: NATRECOR® Weight-Adjusted Infusion Flow Rate for a 0.01 mcg/kg/min Dose Following Bolus (Final Concentration = 6 mcg/mL) Patient Weight (kg) Infusion Flow Rate (mL/hr) 60 6 70 7 80 8 90 9 100 10 110 11 The dose-limiting side effect of NATRECOR® is hypotension.</SentenceText>
+</Sentence>
+<Sentence id="2906" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>If hypotension occurs during the administration of NATRECOR®, reduce the dose of or discontinue NATRECOR® and initiate other measures to support blood pressure (IV fluids, changes in body position).</SentenceText>
+</Sentence>
+<Sentence id="2907" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>When symptomatic hypotension occurs, discontinue NATRECOR®.</SentenceText>
+</Sentence>
+<Sentence id="2908" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Because hypotension caused by NATRECOR® may be prolonged (up to hours), a period of observation may be necessary before restarting the drug.</SentenceText>
+</Sentence>
+<Sentence id="2909" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>NATRECOR® may be subsequently restarted at a dose that is reduced by 30% (with no bolus administration) once the patient has stabilized.</SentenceText>
+</Sentence>
+<Sentence id="2910" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Do not up-titrate NATRECOR® more frequently than every 3 hours.</SentenceText>
+</Sentence>
+<Sentence id="2911" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Use central hemodynamic monitoring and do not exceed 0.03 mcg/kg/min.</SentenceText>
+</Sentence>
+<Sentence id="2912" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The NATRECOR® bolus must be drawn from the prepared infusion bag.</SentenceText>
+</Sentence>
+<Sentence id="2913" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Prime the IV tubing with 5 mL of the solution for infusion prior to connecting to the patient's vascular access port and prior to administering the bolus or starting the infusion.</SentenceText>
+</Sentence>
+<Sentence id="2914" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Reconstitute one 1.5 mg vial of NATRECOR® by adding 5 mL of diluent removed from a pre-filled 250 mL plastic IV bag containing the diluent of choice.</SentenceText>
+</Sentence>
+<Sentence id="2915" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>After reconstitution of the vial, each mL contains 0.32 mg of nesiritide.</SentenceText>
+</Sentence>
+<Sentence id="2916" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The following preservative-free diluents are recommended for reconstitution: 5% Dextrose Injection (D5W), USP; 0.9% Sodium Chloride Injection, USP; 5% Dextrose and 0.45% Sodium Chloride Injection, USP, or 5% Dextrose and 0.2% Sodium Chloride Injection, USP.</SentenceText>
+</Sentence>
+<Sentence id="2917" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Rock the vial gently so that all surfaces, including the stopper, are in contact with the diluent to ensure complete reconstitution.</SentenceText>
+</Sentence>
+<Sentence id="2918" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Use only a clear, essentially colorless solution.</SentenceText>
+</Sentence>
+<Sentence id="2919" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Withdraw the entire contents of the reconstituted NATRECOR® vial and add to the 250 mL plastic IV bag.</SentenceText>
+</Sentence>
+<Sentence id="2920" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>This will yield a solution with a concentration of NATRECOR® of approximately 6 mcg/mL.</SentenceText>
+</Sentence>
+<Sentence id="2921" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Invert the IV bag several times to ensure complete mixing of the solution.</SentenceText>
+</Sentence>
+<Sentence id="2922" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Use the reconstituted solution within 24 hours, as NATRECOR® contains no antimicrobial preservative.</SentenceText>
+</Sentence>
+<Sentence id="2923" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.</SentenceText>
+</Sentence>
+<Sentence id="2924" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Reconstituted vials of NATRECOR® may be stored at 2 to 25°C (36 to 77°F) for up to 24 hours.</SentenceText>
+</Sentence>
+<Sentence id="2925" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>NATRECOR® is physically and/or chemically incompatible with injectable formulations of heparin, insulin, ethacrynate sodium, bumetanide, enalaprilat, hydralazine, and furosemide.</SentenceText>
+<Mention id="M23" type="Trigger" span="42 12" str="incompatible"/>
+<Mention id="M6" type="Precipitant" span="125 10" str="bumetanide" code="0Y2S3XUQ5H"/>
+<Mention id="M25" type="SpecificInteraction" span="13 70" str="physically and/or chemically incompatible with injectable formulations" code="NO MAP"/>
+<Mention id="M9" type="Precipitant" span="137 11" str="enalaprilat" code="GV0O7ES0R3"/>
+<Mention id="M12" type="Precipitant" span="105 18" str="ethacrynate sodium" code="K41MYV7MPM"/>
+<Mention id="M15" type="Precipitant" span="167 10" str="furosemide" code="7LXU5N7ZO5"/>
+<Mention id="M18" type="Precipitant" span="87 7" str="heparin" code="T2410KM04A"/>
+<Mention id="M21" type="Precipitant" span="150 11" str="hydralazine" code="26NAK24LS8"/>
+<Mention id="M24" type="Precipitant" span="96 7" str="insulin" code="N0000175944"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M23" precipitant="M6" effect="M25"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M23" precipitant="M9" effect="M25"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M23" precipitant="M12" effect="M25"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M23" precipitant="M15" effect="M25"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M23" precipitant="M18" effect="M25"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M23" precipitant="M21" effect="M25"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M23" precipitant="M24" effect="M25"/>
+</Sentence>
+<Sentence id="2926" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Do not co-administer these drugs with NATRECOR® through the same IV catheter.</SentenceText>
+</Sentence>
+<Sentence id="2927" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>The preservative sodium metabisulfite is incompatible with NATRECOR®.</SentenceText>
+<Mention id="M26" type="Trigger" span="41 12" str="incompatible"/>
+<Mention id="M27" type="Precipitant" span="17 20" str="sodium metabisulfite" code="4VON5FNS3C"/>
+<Interaction id="I10" type="Unspecified interaction" trigger="M26" precipitant="M27"/>
+</Sentence>
+<Sentence id="2928" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Do not administer injectable drugs that contain sodium metabisulfite in the same infusion line as NATRECOR®.</SentenceText>
+<Mention id="M30" type="Trigger" span="0 17" str="Do not administer"/>
+<Mention id="M29" type="Precipitant" span="18 50" str="injectable drugs that contain sodium metabisulfite" code="4VON5FNS3C"/>
+<Mention id="M31" type="Precipitant" span="48 20" str="sodium metabisulfite" code="4VON5FNS3C"/>
+<Interaction id="I11" type="Unspecified interaction" trigger="M30" precipitant="M29"/>
+<Interaction id="I12" type="Unspecified interaction" trigger="M30" precipitant="M31"/>
+</Sentence>
+<Sentence id="2929" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Flush the catheter between administration of NATRECOR® and incompatible drugs.</SentenceText>
+</Sentence>
+<Sentence id="2930" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>NATRECOR® binds to heparin and therefore could bind to the heparin lining of a heparin-coated catheter, decreasing the amount of NATRECOR® delivered to the patient for some period of time.</SentenceText>
+<Mention id="M32" type="Trigger" span="104 21" str="decreasing the amount"/>
+<Mention id="M36" type="Precipitant" span="19 7" str="heparin" code="T2410KM04A"/>
+<Mention id="M34" type="SpecificInteraction" span="104 59" str="decreasing the amount of NATRECOR® delivered to the patient" code="NO MAP"/>
+<Mention id="M35" type="Trigger" span="10 5" str="binds"/>
+<Mention id="M37" type="SpecificInteraction" span="10 16" str="binds to heparin" code="NO MAP"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M32" precipitant="M36" effect="M34"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M35" precipitant="M36" effect="M37"/>
+</Sentence>
+<Sentence id="2931" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Therefore, do not administer NATRECOR® through a central heparin-coated catheter.</SentenceText>
+</Sentence>
+<Sentence id="2932" LabelDrug="NATRECOR" section="34068-7">
+<SentenceText>Concomitant administration of a heparin infusion through a separate catheter is acceptable.</SentenceText>
+</Sentence>
+<Sentence id="2933" LabelDrug="NATRECOR" section="34073-7">
+<SentenceText>No trials specifically examining potential drug interactions with NATRECOR® were conducted, although many concomitant drugs (including IV nitroglycerin) were used in clinical trials.</SentenceText>
+</Sentence>
+<Sentence id="2934" LabelDrug="NATRECOR" section="34073-7">
+<SentenceText>No drug interactions were detected except for an increase in symptomatic hypotension in patients receiving afterload reducers or affecting the renin-angiotensin system (i.e., ARBs and/or ACE inhibitors).</SentenceText>
+<Mention id="M49" type="SpecificInteraction" span="49 35" str="increase in symptomatic hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M39" type="Precipitant" span="187 14" str="ACE inhibitors" code="N0000175562"/>
+<Mention id="M42" type="Precipitant" span="107 18" str="afterload reducers" code="NO MAP"/>
+<Mention id="M45" type="Precipitant" span="175 4" str="ARBs" code="N0000175561"/>
+<Mention id="M48" type="Precipitant" span="3 4;129 38" str="drug | affecting the renin-angiotensin system" code="NO MAP"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M49" precipitant="M39" effect="M49"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M49" precipitant="M42" effect="M49"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M49" precipitant="M45" effect="M49"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M49" precipitant="M48" effect="M49"/>
+</Sentence>
+<Sentence id="2935" LabelDrug="NATRECOR" section="34073-7">
+<SentenceText>The co-administration of NATRECOR® with nitroprusside, milrinone, or IV ACE inhibitors has not been evaluated.</SentenceText>
+</Sentence>
+<Sentence id="2936" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Hypotension: Not recommended for patients for whom vasodilating agents are not appropriate, or other conditions in which cardiac output is dependent upon venous return, or for patients suspected to have low cardiac filling pressures.</SentenceText>
+</Sentence>
+<Sentence id="2937" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Monitor serum creatinine both during and after NATRECOR® administration.</SentenceText>
+</Sentence>
+<Sentence id="2938" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Hypersensitivity: Serious hypersensitivity/allergic reactions have been reported.</SentenceText>
+</Sentence>
+<Sentence id="2939" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>NATRECOR® may cause hypotension.</SentenceText>
+</Sentence>
+<Sentence id="2940" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>In the ASCEND-HF trial, the incidence of symptomatic hypotension was 7.1% in NATRECOR®-treated patients compared to 4.0% in placebo-treated patients on a background of standard care.</SentenceText>
+</Sentence>
+<Sentence id="2941" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>The risk of hypotension may be increased by the concomitant use of NATRECOR® with drugs affecting the renin-angiotensin system (i.e., angiotensin receptor blockers and/or angiotensin-converting enzyme inhibitors) or other afterload reducers.</SentenceText>
+<Mention id="M59" type="Trigger" span="4 4;31 9" str="risk | increased"/>
+<Mention id="M51" type="Precipitant" span="222 18" str="afterload reducers" code="NO MAP"/>
+<Mention id="M61" type="SpecificInteraction" span="12 11" str="hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M54" type="Precipitant" span="134 29" str="angiotensin receptor blockers" code="N0000175561"/>
+<Mention id="M57" type="Precipitant" span="171 40" str="angiotensin-converting enzyme inhibitors" code="N0000175562"/>
+<Mention id="M60" type="Precipitant" span="82 44" str="drugs affecting the renin-angiotensin system" code="NO MAP"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M59" precipitant="M51" effect="M61"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M59" precipitant="M54" effect="M61"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M59" precipitant="M57" effect="M61"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M59" precipitant="M60" effect="M61"/>
+</Sentence>
+<Sentence id="2942" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>In the VMAC trial, in patients given the recommended dose (2 mcg/kg bolus followed by a 0.01 mcg/kg/min infusion) or the adjustable dose, the incidence of symptomatic hypotension in the first 24 hours was similar for NATRECOR® (4%) and IV nitroglycerin (5%).</SentenceText>
+</Sentence>
+<Sentence id="2943" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>When hypotension occurred, however, the duration of symptomatic hypotension was longer with NATRECOR® (mean duration was 2.2 hours) than with nitroglycerin (mean duration was 0.7 hours).</SentenceText>
+</Sentence>
+<Sentence id="2944" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Administer NATRECOR® only in settings where blood pressure can be monitored closely and hypotension aggressively treated.</SentenceText>
+</Sentence>
+<Sentence id="2945" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Reduce the dose of or discontinue NATRECOR® in patients who develop hypotension.</SentenceText>
+</Sentence>
+<Sentence id="2946" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Avoid administration of NATRECOR® in patients suspected of having, or known to have, low cardiac filling pressures.</SentenceText>
+</Sentence>
+<Sentence id="2947" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>NATRECOR® is not recommended for patients for whom vasodilating agents are not appropriate, such as patients with significant valvular stenosis, restrictive or obstructive cardiomyopathy, constrictive pericarditis, pericardial tamponade, or other conditions in which cardiac output is dependent upon venous return, or for patients suspected to have low cardiac filling pressures.</SentenceText>
+</Sentence>
+<Sentence id="2948" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>NATRECOR® may decrease renal function as judged by increases in serum creatinine.</SentenceText>
+</Sentence>
+<Sentence id="2949" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Monitor serum creatinine both during and after therapy has been completed.</SentenceText>
+</Sentence>
+<Sentence id="2950" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Monitor serum creatinine until values have stabilized.</SentenceText>
+</Sentence>
+<Sentence id="2951" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin aldosterone system, treatment with NATRECOR® may be associated with azotemia.</SentenceText>
+</Sentence>
+<Sentence id="2952" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>When NATRECOR® was initiated at doses higher than 0.01 mcg/kg/min (0.015 and 0.03 mcg/kg/min), there was an increased rate of elevated serum creatinine over baseline compared with standard therapies, although the rate of acute renal failure and need for dialysis was not increased.</SentenceText>
+</Sentence>
+<Sentence id="2953" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Serious hypersensitivity/allergic reactions following administration of NATRECOR® have been reported.</SentenceText>
+</Sentence>
+<Sentence id="2954" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>These reactions are more likely to occur in individuals with a history of sensitivity to recombinant peptides.</SentenceText>
+</Sentence>
+<Sentence id="2955" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Before therapy with NATRECOR® is instituted, careful inquiry should be made to determine whether the patient has had a previous hypersensitivity reaction to other recombinant peptides.</SentenceText>
+</Sentence>
+<Sentence id="2956" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>If an allergic reaction to NATRECOR® occurs, discontinue the drug.</SentenceText>
+</Sentence>
+<Sentence id="2957" LabelDrug="NATRECOR" section="43685-7">
+<SentenceText>Some serious hypersensitivity/allergic reactions may require treatment with epinephrine, oxygen, IV fluids, antihistamines, corticosteroids, pressor amines and airway management, as clinically indicated.</SentenceText>
+</Sentence>
+<Sentence id="2958" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Human BNP (hBNP) is secreted by the ventricular myocardium in response to stretch and exists in several isoforms in the human body.</SentenceText>
+</Sentence>
+<Sentence id="2959" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Elevated levels of BNP have been associated with advanced heart failure and are considered to be a compensatory mechanism in this disease.</SentenceText>
+</Sentence>
+<Sentence id="2960" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Human BNP binds to the particulate guanylate cyclase receptor of vascular smooth muscle and endothelial cells, leading to increased intracellular concentrations of guanosine 3'5'-cyclic monophosphate (cGMP) and smooth muscle cell relaxation.</SentenceText>
+</Sentence>
+<Sentence id="2961" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Cyclic GMP serves as a second messenger to dilate veins and arteries.</SentenceText>
+</Sentence>
+<Sentence id="2962" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Nesiritide has been shown to relax isolated human arterial and venous tissue preparations that were precontracted with either endothelin-1 or the alpha-adrenergic agonist, phenylephrine.</SentenceText>
+</Sentence>
+<Sentence id="2963" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>In animals, nesiritide had no effects on cardiac contractility or on measures of cardiac electrophysiology such as atrial and ventricular effective refractory times or atrioventricular node conduction.</SentenceText>
+</Sentence>
+<Sentence id="2964" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>With a dosing regimen of NATRECOR® of 2 mcg/kg IV bolus followed by an intravenous infusion dose of 0.01 mcg/kg/min, Table 4 and Figure 3 summarize the changes in the VMAC trial in PCWP and other measures during the first 3 hours.</SentenceText>
+</Sentence>
+<Sentence id="2965" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Table 4: Mean Hemodynamic Change from Baseline in the VMAC study Effects at 3 Hours Placebo(n=62) Nitroglycerin(n=60) NATRECOR® (n=124) Pulmonary capillary wedge pressure (mm Hg) -2.0 -3.8 -5.8 Right atrial pressure (mm Hg) 0.0 -2.6 -3.1 Cardiac index (L/min/M2) 0.0 0.2 0.1 Mean pulmonary artery pressure (mm Hg) -1.1 -2.5 -5.4 Systemic vascular resistance (dynes∙sec∙cm-5) -44 -105 -144 Systolic blood pressureBased on all treated patients: placebo n=142, nitroglycerin n=143, NATRECOR® n=204 (mm Hg) -2.5 -5.7 -5.6p &lt;0.05 compared to placebo Figure 3: PCWP through 3 Hours in VMAC With this dosing regimen, 60% of the 3-hour effect on PCWP reduction is achieved within 15 minutes after the bolus, reaching 95% of the 3-hour effect within 1 hour.</SentenceText>
+</Sentence>
+<Sentence id="2966" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Approximately 70% of the 3-hour effect on SBP reduction is reached within 15 minutes.</SentenceText>
+</Sentence>
+<Sentence id="2967" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>The pharmacodynamic (PD) half-life of the onset and offset of the hemodynamic effect of NATRECOR® is longer than what the PK half-life of 18 minutes would predict.</SentenceText>
+</Sentence>
+<Sentence id="2968" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Longer infusions may exaggerate the discrepancy from onset and offset effects.</SentenceText>
+</Sentence>
+<Sentence id="2969" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>For example, in patients who developed symptomatic hypotension in the VMAC (Vasodilation in the Management of Acute Congestive Heart Failure) trial, half of the recovery of SBP toward the baseline value after discontinuation or reduction of the dose of NATRECOR® was observed in about 60 minutes.</SentenceText>
+</Sentence>
+<Sentence id="2970" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>When higher doses of NATRECOR® were infused, the duration of hypotension was sometimes several hours.</SentenceText>
+</Sentence>
+<Sentence id="2971" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>No rebound increase to levels above baseline state was observed.</SentenceText>
+</Sentence>
+<Sentence id="2972" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>There was also no evidence of tachyphylaxis to the hemodynamic effects of NATRECOR® in the clinical trials.</SentenceText>
+</Sentence>
+<Sentence id="2973" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>In the VMAC trial, in which the use of diuretics was not restricted, the mean change in volume status (output minus input) during the first 24 hours in the nitroglycerin and NATRECOR® groups was similar: 1279 ± 1455 mL and 1257 ± 1657 mL, respectively.</SentenceText>
+</Sentence>
+<Sentence id="2974" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Figure 3 Distribution In patients with heart failure (HF), NATRECOR® administered intravenously by infusion or bolus exhibits biphasic disposition from the plasma.</SentenceText>
+</Sentence>
+<Sentence id="2975" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>The mean terminal elimination half-life (t1/2) of nesiritide is approximately 18 minutes and was associated with approximately 2/3 of the area-under-the-curve (AUC).</SentenceText>
+</Sentence>
+<Sentence id="2976" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>The mean initial elimination phase was estimated to be approximately 2 minutes.</SentenceText>
+</Sentence>
+<Sentence id="2977" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>In these patients, the mean volume of distribution of the central compartment (Vc) of nesiritide was estimated to be 0.073 L/kg, the mean steady-state volume of distribution (Vss) was 0.19 L/kg, and the mean clearance (CL) was approximately 9.2 mL/min/kg.</SentenceText>
+</Sentence>
+<Sentence id="2978" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>At steady state, plasma BNP levels increase from baseline endogenous levels by approximately 3-fold to 6-fold with NATRECOR® infusion doses ranging from 0.01 to 0.03 mcg/kg/min.</SentenceText>
+</Sentence>
+<Sentence id="2979" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Metabolism and Excretion The mechanism of elimination of nesiritide has not been studied specifically in humans.</SentenceText>
+</Sentence>
+<Sentence id="2980" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Special Populations Renal Impairment Clinical data suggest that dose adjustment is not required in patients with renal impairment.</SentenceText>
+</Sentence>
+<Sentence id="2981" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>The effects of nesiritide on PCWP, cardiac index (CI), and systolic blood pressure (SBP) were not significantly different in patients with chronic renal impairment (baseline serum creatinine ranging from 2 mg/dL to 4.3 mg/dL), and patients with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="2982" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Body Weight The population pharmacokinetic (PK) analyses carried out to determine the effects of demographics and clinical variables on PK parameters showed that clearance of nesiritide is proportional to body weight, supporting the administration of weight-adjusted dosing of nesiritide (i.e., administration on a mcg/kg/min basis).</SentenceText>
+</Sentence>
+<Sentence id="2983" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Age, Gender, Race/Ethnicity Nesiritide clearance was not influenced significantly by age, gender, or race/ethnicity.</SentenceText>
+</Sentence>
+<Sentence id="2984" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Severity of HF Nesiritide clearance was not influenced significantly by baseline endogenous hBNP concentration, severity of HF (as indicated by baseline PCWP, baseline CI, or New York Heart Association [NYHA] classification).</SentenceText>
+</Sentence>
+<Sentence id="2985" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Effects of Concomitant Medications The co-administration of NATRECOR® with enalapril did not have significant effects on the PK of NATRECOR®.</SentenceText>
+</Sentence>
+<Sentence id="2986" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>The PK effect of co-administration of NATRECOR® with other IV vasodilators such as nitroglycerin, nitroprusside, milrinone, or IV ACE inhibitors has not been evaluated.</SentenceText>
+</Sentence>
+<Sentence id="2987" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>During clinical studies, NATRECOR® was administered concomitantly with other medications, including: diuretics, digoxin, oral ACE inhibitors, anticoagulants, oral nitrates, statins, class III antiarrhythmic agents, beta-blockers, dobutamine, calcium channel blockers, angiotensin II receptor antagonists, and dopamine.</SentenceText>
+</Sentence>
+<Sentence id="2988" LabelDrug="NATRECOR" section="34090-1">
+<SentenceText>Although no PK interactions were specifically assessed, there did not appear to be evidence suggesting any clinically significant PK interaction.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="nitroglycerin" precipitantCode="G59M7S0WS3"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="afterload reducers" precipitantCode="NO MAP" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="afterload reducers" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="bumetanide" precipitantCode="0Y2S3XUQ5H" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="enalaprilat" precipitantCode="GV0O7ES0R3" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ethacrynate sodium" precipitantCode="K41MYV7MPM" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="furosemide" precipitantCode="7LXU5N7ZO5" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="heparin" precipitantCode="T2410KM04A" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="hydralazine" precipitantCode="26NAK24LS8" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="insulin" precipitantCode="N0000175944" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sodium metabisulfite" precipitantCode="4VON5FNS3C"/>
+<LabelInteraction type="Unspecified interaction" precipitant="injectable drugs that contain sodium metabisulfite" precipitantCode="4VON5FNS3C"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ace inhibitors" precipitantCode="N0000175562" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="arbs" precipitantCode="N0000175561" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drug | affecting the renin-angiotensin system" precipitantCode="NO MAP" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="angiotensin receptor blockers" precipitantCode="N0000175561" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="angiotensin-converting enzyme inhibitors" precipitantCode="N0000175562" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs affecting the renin-angiotensin system" precipitantCode="NO MAP" effect="45007003: Low blood pressure (disorder)"/>
+
+</LabelInteractions></Label>

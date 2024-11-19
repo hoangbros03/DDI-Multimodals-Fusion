@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Arava" setid="320f63f2-fac3-4aee-aff8-85724e00ef52">
+<Text><Section name="BOXED WARNING SECTION" id="34066-1">
+WARNING: EMBRYO-FETAL TOXICITY and HEPATOTOXICITY See full prescribing information for complete boxed warning. Embryo-Fetal Toxicity Teratogenicity and embryo-lethality occurred in animals administered leflunomide. ( 5.1 , 8.1 ) Exclude pregnancy prior to initiating ARAVA therapy. ( 5.1 , 8.3 ) Advise use of effective contraception in females of reproductive potential during treatment and during a drug elimination procedure. ( 5.1 , 5.3 , 8.3 ) Stop ARAVA and use an accelerated drug elimination procedure if the patient becomes pregnant. ( 5.1 , 5.3 , 8.1 ) Hepatotoxicity Severe liver injury and fatal liver failure have been reported. ( 5.2 ) Avoid ARAVA use in patients with pre-existing liver disease, or those with serum alanine aminotransferase (ALT) &amp;gt;2×ULN. ( 5.2 , 8.6 ) Use caution when ARAVA is given with other potentially hepatotoxic drugs. ( 5.2 ) Monitor ALT levels. Interrupt ARAVA treatment if ALT elevation &amp;gt; 3 fold ULN. If likely leflunomide-induced, start accelerated drug elimination procedure and monitor liver tests weekly until normalized. ( 5.2 , 5.3 ) Embryo-Fetal Toxicity ARAVA is contraindicated for use in pregnant women because of the potential for fetal harm. Teratogenicity and embryo-lethality occurred in animals administered leflunomide at doses lower than the human exposure level. Exclude pregnancy before the start of treatment with ARAVA in females of reproductive potential. Advise females of reproductive potential to use effective contraception during ARAVA treatment and during an accelerated drug elimination procedure after ARAVA treatment. Stop ARAVA and use an accelerated drug elimination procedure if the patient becomes pregnant. [see Contraindications (4) , Warnings and Precautions (5.1 , 5.3) , Use in Special Populations (8.1 , 8.3) ], and Clinical Pharmacology (12.3) ] Hepatotoxicity Severe liver injury, including fatal liver failure, has been reported in patients treated with ARAVA. ARAVA is contraindicated in patients with severe hepatic impairment. Concomitant use of ARAVA with other potentially hepatotoxic drugs may increase the risk of liver injury. Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) &amp;gt;2×ULN before initiating treatment, are at increased risk and should not be treated with ARAVA. Monitor ALT levels at least monthly for six months after starting ARAVA, and thereafter every 6–8 weeks. If leflunomide-induced liver injury is suspected, stop ARAVA treatment, start an accelerated drug elimination procedure, and monitor liver tests weekly until normalized. [see Contraindications (4) , Warnings and Precautions (5.2 , 5.3) , Use in Special Populations (8.6) ]</Section>
+<Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+ARAVA is contraindicated in: Pregnant women. Arava may cause fetal harm. If a woman becomes pregnant while taking this drug, stop ARAVA, apprise the patient of the potential hazard to the fetus, and begin a drug elimination procedure [see Warnings and Precautions (5.1 and 5.3) and Use in Specific Populations (8.1) ]. Patients with severe hepatic impairment [see Warnings and Precautions (5.2) ]. Patients with known hypersensitivity to leflunomide or any of the other components of ARAVA. Known reactions include anaphylaxis [see Adverse Reactions (6.1) ]. Patients being treated with teriflunomide [see Drug Interactions (7) ]. Pregnancy. ( 4 , 5.1 , 8.1 ) Severe hepatic impairment. ( 4 , 5.2 ) Hypersensitivity to ARAVA or any of its inactive components. ( 4 ) Current teriflunomide treatment. ( 4 )</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+Loading dosage for patients at low risk for ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression: 100 mg daily for 3 days. ( 2.1 ) Maintenance dosage: 20 mg daily. ( 2.1 ) □ Maximum recommended daily dosage: 20 mg once daily. ( 2.1 ) □ If 20 mg once daily is not tolerated, may decrease dosage to 10 mg once daily. ( 2.1 ) Screen patients for active and latent tuberculosis, pregnancy test (females), blood pressure, and laboratory tests before starting ARAVA. ( 2.2 ) The recommended dosage of ARAVA is 20 mg once daily. Treatment may be initiated with or without a loading dose, depending upon the patient's risk of ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression. The loading dosage provides steady-state concentrations more rapidly. For patients who are at low risk for ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression the recommended ARAVA loading dosage is 100 mg once daily for 3 days. Subsequently administer 20 mg once daily. For patients at high risk for ARAVA-associated hepatotoxicity (e.g., those taking concomitant methotrexate) or ARAVA-associated myelosuppression (e.g., patients taking concomitant immunosuppressants), the recommended ARAVA dosage is 20 mg once daily without a loading dose [see Warnings and Precautions (5.2 , 5.4) ]. The maximum recommended daily dosage is 20 mg once per day. Consider dosage reduction to 10 mg once daily for patients who are not able to tolerate 20 mg daily (i.e., for patients who experience any adverse events listed in Table 1). Monitor patients carefully after dosage reduction and after stopping therapy with ARAVA, since the active metabolite of leflunomide, teriflunomide, is slowly eliminated from the plasma [see Clinical Pharmacology (12.3) ] . After stopping ARAVA treatment, an accelerated drug elimination procedure is recommended to reduce the plasma concentrations of the active metabolite, teriflunomide [see Warnings and Precautions (5.3) ] . Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach undetectable plasma teriflunomide concentrations after stopping ARAVA [see Clinical Pharmacology (12.3) ] . Prior to starting ARAVA treatment the following evaluations and tests are recommended: Evaluate patients for active tuberculosis and screen patients for latent tuberculosis infection [see Warnings and Precautions (5.4) ] Laboratory tests including serum alanine aminotransferase (ALT); and white blood cell, hemoglobin or hematocrit, and platelet counts [see Warnings and Precautions (5.2 , 5.4) ] For females of reproductive potential, pregnancy testing [see Warnings and Precautions (5.1) ] Check blood pressure [see Warnings and Precautions (5.10) ]</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Following oral administration, leflunomide is metabolized to an active metabolite, teriflunomide, which is responsible for essentially all of leflunomide's in vivo activity. Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects. Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs. ( 7 ) Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel. Choose an appropriate oral contraceptive. ( 7 ) Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs. ( 7 ) Warfarin: Monitor INR as teriflunomide may decrease INR. ( 7 ) Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs. ( 7 ) Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking ARAVA. ( 7 ) Effect of potent CYP and transporter inducers Leflunomide is metabolized by CYP450 metabolizing enzymes. Concomitant use of ARAVA and rifampin, a potent inducer of CYP and transporters, increased the plasma concentration of teriflunomide by 40%. However, when co-administered with the metabolite, teriflunomide, rifampin did not affect its pharmacokinetics. No dosage adjustment is recommended for ARAVA when coadministered with rifampin. Because of the potential for ARAVA concentrations to continue to increase with multiple dosing, caution should be used if patients are to be receiving both ARAVA and rifampin [see Clinical Pharmacology (12.3) ] . Effect on CYP2C8 substrates Teriflunomide is an inhibitor of CYP2C8 in vivo . In patients taking ARAVA, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3) ] . Effect on warfarin Coadministration of ARAVA with warfarin requires close monitoring of the international normalized ratio (INR) because teriflunomide, the active metabolite of ARAVA, may decrease peak INR by approximately 25%. Effect on oral contraceptives Teriflunomide may increase the systemic exposures of ethinylestradiol and levonorgestrel. Consideration should be given to the type or dose of contraceptives used in combination with ARAVA [see Clinical Pharmacology (12.3) ] . Effect on CYP1A2 substrates Teriflunomide, the active metabolite of ARAVA, may be a weak inducer of CYP1A2 in vivo . In patients taking ARAVA, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3) ] . Effect on organic anion transporter 3 (OAT3) substrates Teriflunomide inhibits the activity of OAT3 in vivo . In patients taking ARAVA, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3) ] . Effect on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo . For a patient taking ARAVA, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking ARAVA [see Clinical Pharmacology (12.3) ] .</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+After stopping ARAVA, it is recommended that an accelerated drug elimination procedure be used to reduce the plasma concentrations of the active metabolite, teriflunomide. ( 5.3 ) Severe infections (including sepsis), pancytopenia, agranulocytosis and thrombocytopenia: Stop ARAVA and use accelerated elimination procedure. Do not start ARAVA in patients with active infection. Monitor CBCs during treatment with ARAVA. ( 5.4 ) Stevens-Johnson syndrome and toxic epidermal necrolysis: Stop ARAVA and use accelerated elimination procedure. ( 5.5 ) Peripheral neuropathy: If patient develops symptoms consistent with peripheral neuropathy, evaluate patient and consider discontinuing ARAVA. ( 5.7 ) Interstitial lung disease: May be fatal. New onset or worsening symptoms may necessitate discontinuation of Arava and initiation of accelerated elimination procedure. ( 5.8 ) Increased blood pressure: Monitor and treat. ( 5.10 ) ARAVA may cause fetal harm when administered to a pregnant woman. Teratogenicity and embryo-lethality occurred in animal reproduction studies with leflunomide at doses lower than the human exposure level [see Use in Specific Populations (8.1) ]. ARAVA is contraindicated for use in pregnant women [see Contraindications (4) ] . Exclude pregnancy before starting treatment with ARAVA in females of reproductive potential [see Dosage and Administration (2.2) ] . Advise females of reproductive potential to use effective contraception during ARAVA treatment and during an accelerated drug elimination procedure after ARAVA treatment [see Use in Specific Populations (8.3) ] . If a woman becomes pregnant while taking ARAVA, stop treatment with ARAVA, apprise the patient of the potential risk to a fetus, and perform an accelerated drug elimination procedure to achieve non-detectable plasma concentrations of teriflunomide, the active metabolite of leflunomide [see Warnings and Precautions (5.3) ]. Upon discontinuing ARAVA, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure. Women receiving ARAVA treatment who wish to become pregnant must discontinue ARAVA and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of the active metabolite of leflunomide, teriflunomide, are less than 0.02 mg/L (0.02 mcg/mL). Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryo-fetal risk [see Contraindications (4) , Warnings and Precautions (5.3) , and Use in Specific Populations (8.1) ] . Severe liver injury, including fatal liver failure, has been reported in some patients treated with ARAVA. Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) of greater than twice the upper limits of normal (&amp;gt;2×ULN) before initiating treatment, should not be treated with ARAVA. Use caution when ARAVA is given with other potentially hepatotoxic drugs. Monitoring of ALT levels is recommended at least monthly for six months after starting ARAVA, and thereafter every 6–8 weeks. If ALT elevation &amp;gt; 3 fold ULN occurs, interrupt ARAVA therapy and investigate the cause. If likely ARAVA-induced, perform the accelerated drug elimination procedure and monitor liver tests weekly until normalized [see Warnings and Precautions (5.3) ]. If ARAVA-induced liver injury is unlikely because some other cause has been found, resumption of ARAVA therapy may be considered. If ARAVA and methotrexate are given concomitantly, follow the American College of Rheumatology (ACR) guidelines for monitoring methotrexate liver toxicity with ALT, AST, and serum albumin testing. The active metabolite of leflunomide, teriflunomide, is eliminated slowly from the plasma [see Clinical Pharmacology (12.3) ] . Use of an accelerated drug elimination procedure will rapidly reduce plasma concentrations of leflunomide and its active metabolite, teriflunomide. Therefore, an accelerated elimination procedure should be considered at any time after discontinuation of ARAVA, and in particular, when a patient has experienced a severe adverse reaction (e.g., hepatotoxicity, serious infection, bone marrow suppression, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral neuropathy, interstitial lung disease), suspected hypersensitivity, or has become pregnant. It is recommended that all women of childbearing potential undergo an accelerated elimination procedure after stopping ARAVA treatment. Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, the plasma concentration not associated with embryo-fetal toxicity in animals. Elimination can be accelerated by the following procedures: 1) Administer cholestyramine 8 grams orally 3 times daily for 11 days. 2) Alternatively, administer 50 grams of activated charcoal powder (made into a suspension) orally every 12 hours for 11 days. Verify plasma teriflunomide concentrations of less than 0.02 mg/L (0.02 µg/mL) by two separate tests at least 14 days apart. If plasma teriflunomide concentrations are higher than 0.02 mg/L, repeat cholestyramine and/or activated charcoal treatment. The duration of accelerated drug elimination treatment may be modified based on the clinical status and tolerability of the elimination procedure. The procedure may be repeated as needed, based on teriflunomide concentrations and clinical status. Use of the accelerated drug elimination procedure may potentially result in return of disease activity if the patient had been responding to ARAVA treatment. ARAVA is not recommended for patients with severe immunodeficiency, bone marrow dysplasia, or severe, uncontrolled infections. If a serious infection occurs, consider interrupting ARAVA therapy and initiating the accelerated drug elimination procedure [see Warnings and Precautions (5.3) ]. Medications like ARAVA that have immunosuppression potential may cause patients to be more susceptible to infections, including opportunistic infections, especially Pneumocystis jiroveci pneumonia, tuberculosis (including extra-pulmonary tuberculosis), and aspergillosis. Severe infections including sepsis, which may be fatal, have been reported in patients receiving ARAVA, especially Pneumocystis jiroveci pneumonia and aspergillosis. Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid arthritis, may predispose patients to infection. Cases of tuberculosis were observed in clinical studies with teriflunomide, the metabolite of ARAVA. Prior to initiating ARAVA, all patients should be screened for active and inactive ("latent") tuberculosis infection as per commonly used diagnostic tests. ARAVA has not been studied in patients with a positive tuberculosis screen, and the safety of ARAVA in individuals with latent tuberculosis infection is unknown. Patients testing positive in tuberculosis screening should be treated by standard medical practice prior to therapy with ARAVA and monitored carefully during ARAVA treatment for possible reactivation of the infection. Pancytopenia, agranulocytosis and thrombocytopenia have been reported in patients receiving ARAVA alone. These events have been reported most frequently in patients who received concomitant treatment with methotrexate or other immunosuppressive agents, or who had recently discontinued these therapies; in some cases, patients had a prior history of a significant hematologic abnormality. Patients taking ARAVA should have platelet, white blood cell count and hemoglobin or hematocrit monitored at baseline and monthly for six months following initiation of therapy and every 6 to 8 weeks thereafter. If used with concomitant methotrexate and/or other potential immunosuppressive agents, chronic monitoring should be monthly. If evidence of bone marrow suppression occurs in a patient taking ARAVA, stop treatment with ARAVA, and perform an accelerated drug elimination procedure to reduce the plasma concentration of the ARAVA active metabolite, teriflunomide [see Warnings and Precautions (5.3) ]. In any situation in which the decision is made to switch from ARAVA to another anti-rheumatic agent with a known potential for hematologic suppression, it would be prudent to monitor for hematologic toxicity, because there will be overlap of systemic exposure to both compounds. Rare cases of Stevens-Johnson syndrome and toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving ARAVA. If a patient taking ARAVA develops any of these conditions, stop ARAVA treatment and perform an accelerated drug elimination procedure [see Warnings and Precautions (5.3) ]. The risk of malignancy, particularly lymphoproliferative disorders, is increased with the use of some immunosuppression medications. There is a potential for immunosuppression with ARAVA. No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the clinical trials of ARAVA, but larger dosages and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with ARAVA. Cases of peripheral neuropathy have been reported in patients receiving ARAVA and in clinical studies with teriflunomide, the active metabolite of leflunomide. Most patients recovered after discontinuation of treatment, but some patients had persistent symptoms. Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy. If a patient taking ARAVA develops a peripheral neuropathy, consider discontinuing ARAVA therapy and performing an accelerated drug elimination procedure [ see Dosage and Administration (5.3) ]. Interstitial lung disease and worsening of pre-existing interstitial lung disease have been reported during treatment with ARAVA and has been associated with fatal outcomes [see Adverse Reactions (6.2) ]. The risk of ARAVA-associated interstitial lung disease is increased in patients with a history of interstitial lung disease. Interstitial lung disease is a potentially fatal disorder that may occur acutely at any time during therapy and has a variable clinical presentation. New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of ARAVA therapy and for further investigation as appropriate. If discontinuation of ARAVA is necessary, consider performing an accelerated drug elimination procedure [see Warnings and Precautions (5.3) ]. No clinical data are available on the efficacy and safety of vaccinations during ARAVA treatment. Vaccination with live vaccines is, however, not recommended. The long half-life of the active metabolite of ARAVA should be considered when contemplating administration of a live vaccine after stopping ARAVA. In placebo-controlled studies with the active metabolite of ARAVA, teriflunomide, elevations in blood pressure were observed in some subjects. Blood pressure should be checked before starting treatment with ARAVA and monitored periodically thereafter [ See Adverse Reactions (6.1) ].</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect. Following oral administration, leflunomide is metabolized to an active metabolite, teriflunomide, which is responsible for essentially all of leflunomide's in vivo activity. Plasma concentrations of the parent drug, leflunomide, have been occasionally seen at very low concentrations. Studies of the pharmacokinetics of leflunomide have primarily examined the plasma concentrations of the active metabolite, teriflunomide. Absorption Following oral administration, peak teriflunomide concentrations occurred between 6 –12 hours after dosing. Due to the very long half-life of teriflunomide (18–19 days), a loading dose of 100 mg for 3 days was used in clinical studies to facilitate the rapid attainment of steady-state teriflunomide concentrations. Without a loading dose, it is estimated that attainment of steady-state plasma concentrations would require about two months of dosing. The resulting plasma concentrations following both loading doses and continued clinical dosing indicate that plasma teriflunomide concentrations are dose proportional. Effect of Food Co-administration of leflunomide tablets with a high fat meal did not have a significant impact on teriflunomide plasma concentrations. Distribution Teriflunomide is extensively bound to plasma protein (&amp;gt;99%) and is mainly distributed in plasma. The volume of distribution is 11 L after a single intravenous (IV) administration. Elimination Teriflunomide, the active metabolite of leflunomide, has a median half-life of 18–19 days in healthy volunteers. The elimination of teriflunomide can be accelerated by administration of cholestyramine or activated charcoal . Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, due to individual variation in drug clearance [see Warnings and Precautions (5.3) ] . After a single IV administration of the metabolite (teriflunomide), the total body clearance of teriflunomide was 30.5 mL/h. Metabolism In vitro inhibition studies in human liver microsomes suggest that cytochrome P450 (CYP) 1A2, 2C19 and 3A4 are involved in leflunomide metabolism. In vivo, leflunomide is metabolized to one primary (teriflunomide) and many minor metabolites. In vitro, teriflunomide is not metabolized by CYP450 or flavin monoamine oxidase enzymes. The parent compound is rarely detectable in plasma. Excretion Teriflunomide, the active metabolite of leflunomide, is eliminated by direct biliary excretion of unchanged drug as well as renal excretion of metabolites. Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%). After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces). Studies with both hemodialysis and CAPD (chronic ambulatory peritoneal dialysis) indicate that teriflunomide is not dialyzable. Specific Populations Gender. Gender has not been shown to cause a consistent change in the in vivo pharmacokinetics of teriflunomide. Smoking. A population based pharmacokinetic analysis of the clinical trial data indicates that smokers have a 38% increase in clearance over non-smokers; however, no difference in clinical efficacy was seen between smokers and nonsmokers. Drug Interaction Studies Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects. The Potential Effect of Other Drugs on ARAVA Potent CYP and transporter inducers: Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin, teriflunomide peak concentrations were increased (~40%) over those seen when ARAVA was given alone [see Drug Interactions (7) ]. An in vivo interaction study with ARAVA and cimetidine (non-specific weak CYP inhibitor) has demonstrated a lack of a significant impact on teriflunomide exposure. The Potential Effect of ARAVA on Other Drugs CYP2C8 Substrates There was an increase in mean repaglinide C max and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7) ]. CYP1A2 Substrates Repeated doses of teriflunomide decreased mean C max and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo . OAT3 Substrates There was an increase in mean cefaclor C max and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7) ]. BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin C max and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7) ]. Oral Contraceptives There was an increase in mean ethinylestradiol C max and AUC 0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel C max and AUC 0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7) ]. Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate). Chemical Structure</Section>
+</Text><Sentences>
+<Sentence id="407" LabelDrug="Arava" section="34066-1">
+<SentenceText>WARNING: EMBRYO-FETAL TOXICITY and HEPATOTOXICITY See full prescribing information for complete boxed warning.</SentenceText>
+</Sentence>
+<Sentence id="408" LabelDrug="Arava" section="34066-1">
+<SentenceText>Embryo-Fetal Toxicity Teratogenicity and embryo-lethality occurred in animals administered leflunomide.</SentenceText>
+</Sentence>
+<Sentence id="409" LabelDrug="Arava" section="34066-1">
+<SentenceText>Exclude pregnancy prior to initiating ARAVA therapy.</SentenceText>
+</Sentence>
+<Sentence id="410" LabelDrug="Arava" section="34066-1">
+<SentenceText>Advise use of effective contraception in females of reproductive potential during treatment and during a drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="411" LabelDrug="Arava" section="34066-1">
+<SentenceText>Stop ARAVA and use an accelerated drug elimination procedure if the patient becomes pregnant.</SentenceText>
+</Sentence>
+<Sentence id="412" LabelDrug="Arava" section="34066-1">
+<SentenceText>Hepatotoxicity Severe liver injury and fatal liver failure have been reported.</SentenceText>
+</Sentence>
+<Sentence id="413" LabelDrug="Arava" section="34066-1">
+<SentenceText>Avoid ARAVA use in patients with pre-existing liver disease, or those with serum alanine aminotransferase (ALT) &gt;2Ã—ULN.</SentenceText>
+</Sentence>
+<Sentence id="414" LabelDrug="Arava" section="34066-1">
+<SentenceText>Use caution when ARAVA is given with other potentially hepatotoxic drugs.</SentenceText>
+<Mention id="M1" type="Trigger" span="4 7" str="caution"/>
+<Mention id="M2" type="Precipitant" span="43 29" str="potentially hepatotoxic drugs" code="NO MAP"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="415" LabelDrug="Arava" section="34066-1">
+<SentenceText>Interrupt ARAVA treatment if ALT elevation &gt; 3 fold ULN.</SentenceText>
+</Sentence>
+<Sentence id="416" LabelDrug="Arava" section="34066-1">
+<SentenceText>If likely leflunomide-induced, start accelerated drug elimination procedure and monitor liver tests weekly until normalized.</SentenceText>
+</Sentence>
+<Sentence id="417" LabelDrug="Arava" section="34066-1">
+<SentenceText>Embryo-Fetal Toxicity ARAVA is contraindicated for use in pregnant women because of the potential for fetal harm.</SentenceText>
+</Sentence>
+<Sentence id="418" LabelDrug="Arava" section="34066-1">
+<SentenceText>Teratogenicity and embryo-lethality occurred in animals administered leflunomide at doses lower than the human exposure level.</SentenceText>
+</Sentence>
+<Sentence id="419" LabelDrug="Arava" section="34066-1">
+<SentenceText>Exclude pregnancy before the start of treatment with ARAVA in females of reproductive potential.</SentenceText>
+</Sentence>
+<Sentence id="420" LabelDrug="Arava" section="34066-1">
+<SentenceText>Advise females of reproductive potential to use effective contraception during ARAVA treatment and during an accelerated drug elimination procedure after ARAVA treatment.</SentenceText>
+</Sentence>
+<Sentence id="421" LabelDrug="Arava" section="34066-1">
+<SentenceText>, and Clinical Pharmacology (12.3)] Hepatotoxicity Severe liver injury, including fatal liver failure, has been reported in patients treated with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="422" LabelDrug="Arava" section="34066-1">
+<SentenceText>ARAVA is contraindicated in patients with severe hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="423" LabelDrug="Arava" section="34066-1">
+<SentenceText>Concomitant use of ARAVA with other potentially hepatotoxic drugs may increase the risk of liver injury.</SentenceText>
+<Mention id="M3" type="Trigger" span="70 17" str="increase the risk"/>
+<Mention id="M4" type="Precipitant" span="36 29" str="potentially hepatotoxic drugs" code="NO MAP"/>
+<Mention id="M5" type="SpecificInteraction" span="91 12" str="liver injury" code="39400004: Injury of liver (disorder)"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M3" precipitant="M4" effect="M5" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="424" LabelDrug="Arava" section="34066-1">
+<SentenceText>Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) &gt;2Ã—ULN before initiating treatment, are at increased risk and should not be treated with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="425" LabelDrug="Arava" section="34066-1">
+<SentenceText>Monitor ALT levels at least monthly for six months after starting ARAVA, and thereafter every 6–8 weeks.</SentenceText>
+</Sentence>
+<Sentence id="426" LabelDrug="Arava" section="34066-1">
+<SentenceText>If leflunomide-induced liver injury is suspected, stop ARAVA treatment, start an accelerated drug elimination procedure, and monitor liver tests weekly until normalized.</SentenceText>
+</Sentence>
+<Sentence id="427" LabelDrug="Arava" section="34070-3">
+<SentenceText>ARAVA is contraindicated in: Pregnant women.</SentenceText>
+</Sentence>
+<Sentence id="428" LabelDrug="Arava" section="34070-3">
+<SentenceText>If a woman becomes pregnant while taking this drug, stop ARAVA, apprise the patient of the potential hazard to the fetus, and begin a drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="429" LabelDrug="Arava" section="34070-3">
+<SentenceText>Patients with severe hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="430" LabelDrug="Arava" section="34070-3">
+<SentenceText>Patients with known hypersensitivity to leflunomide or any of the other components of ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="431" LabelDrug="Arava" section="34070-3">
+<SentenceText>Known reactions include anaphylaxis.</SentenceText>
+</Sentence>
+<Sentence id="432" LabelDrug="Arava" section="34070-3">
+<SentenceText>Patients being treated with teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="433" LabelDrug="Arava" section="34070-3">
+<SentenceText>Severe hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="434" LabelDrug="Arava" section="34070-3">
+<SentenceText>Hypersensitivity to ARAVA or any of its inactive components.</SentenceText>
+</Sentence>
+<Sentence id="435" LabelDrug="Arava" section="34068-7">
+<SentenceText>Loading dosage for patients at low risk for ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression: 100 mg daily for 3 days.</SentenceText>
+</Sentence>
+<Sentence id="436" LabelDrug="Arava" section="34068-7">
+<SentenceText>□Maximum recommended daily dosage: 20 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="437" LabelDrug="Arava" section="34068-7">
+<SentenceText>□If 20 mg once daily is not tolerated, may decrease dosage to 10 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="438" LabelDrug="Arava" section="34068-7">
+<SentenceText>Screen patients for active and latent tuberculosis, pregnancy test (females), blood pressure, and laboratory tests before starting ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="439" LabelDrug="Arava" section="34068-7">
+<SentenceText>The recommended dosage of ARAVA is 20 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="440" LabelDrug="Arava" section="34068-7">
+<SentenceText>Treatment may be initiated with or without a loading dose, depending upon the patient's risk of ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression.</SentenceText>
+</Sentence>
+<Sentence id="441" LabelDrug="Arava" section="34068-7">
+<SentenceText>The loading dosage provides steady-state concentrations more rapidly.</SentenceText>
+</Sentence>
+<Sentence id="442" LabelDrug="Arava" section="34068-7">
+<SentenceText>For patients who are at low risk for ARAVA-associated hepatotoxicity and ARAVA-associated myelosuppression the recommended ARAVA loading dosage is 100 mg once daily for 3 days.</SentenceText>
+</Sentence>
+<Sentence id="443" LabelDrug="Arava" section="34068-7">
+<SentenceText>Subsequently administer 20 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="444" LabelDrug="Arava" section="34068-7">
+<SentenceText>For patients at high risk for ARAVA-associated hepatotoxicity (e.g., those taking concomitant methotrexate) or ARAVA-associated myelosuppression (e.g., patients taking concomitant immunosuppressants), the recommended ARAVA dosage is 20 mg once daily without a loading dose.</SentenceText>
+<Mention id="M10" type="Trigger" span="16 9" str="high risk "/>
+<Mention id="M11" type="Trigger" span="36 10" str=" associated"/>
+<Mention id="M8" type="Precipitant" span="180 18" str="immunosuppressants" code="N0000029316 | N0000175550"/>
+<Mention id="M9" type="SpecificInteraction" span="128 16" str="myelosuppression" code="370569000: Myelosuppression (finding)"/>
+<Mention id="M12" type="Precipitant" span="94 12" str="methotrexate" code="N0000007370 | YL5FZ2Y5U1"/>
+<Mention id="M13" type="SpecificInteraction" span="47 14" str="hepatotoxicity" code="427399008: Drug-induced disorder of liver (disorder)"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M10;M11" precipitant="M8" effect="M9" effectCodeMatch="Exact Match"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M10;M11" precipitant="M12" effect="M13" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="445" LabelDrug="Arava" section="34068-7">
+<SentenceText>The maximum recommended daily dosage is 20 mg once per day.</SentenceText>
+</Sentence>
+<Sentence id="446" LabelDrug="Arava" section="34068-7">
+<SentenceText>Consider dosage reduction to 10 mg once daily for patients who are not able to tolerate 20 mg daily (i.e., for patients who experience any adverse events listed in Table 1).</SentenceText>
+</Sentence>
+<Sentence id="447" LabelDrug="Arava" section="34068-7">
+<SentenceText>Monitor patients carefully after dosage reduction and after stopping therapy with ARAVA, since the active metabolite of leflunomide, teriflunomide, is slowly eliminated from the plasma.</SentenceText>
+</Sentence>
+<Sentence id="448" LabelDrug="Arava" section="34068-7">
+<SentenceText>After stopping ARAVA treatment, an accelerated drug elimination procedure is recommended to reduce the plasma concentrations of the active metabolite, teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="449" LabelDrug="Arava" section="34068-7">
+<SentenceText>Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach undetectable plasma teriflunomide concentrations after stopping ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="450" LabelDrug="Arava" section="34068-7">
+<SentenceText>Prior to starting ARAVA treatment the following evaluations and tests are recommended: Evaluate patients for active tuberculosis and screen patients for latent tuberculosis infection Laboratory tests including serum alanine aminotransferase (ALT); and white blood cell, hemoglobin or hematocrit, and platelet counts For females of reproductive potential, pregnancy testing Check blood pressure</SentenceText>
+</Sentence>
+<Sentence id="451" LabelDrug="Arava" section="34073-7">
+<SentenceText>Following oral administration, leflunomide is metabolized to an active metabolite, teriflunomide, which is responsible for essentially all of leflunomide's in vivo activity.</SentenceText>
+</Sentence>
+<Sentence id="452" LabelDrug="Arava" section="34073-7">
+<SentenceText>Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects.</SentenceText>
+</Sentence>
+<Sentence id="453" LabelDrug="Arava" section="34073-7">
+<SentenceText>Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs.</SentenceText>
+<Mention id="M16" type="Trigger" span="94 17" str="increase exposure"/>
+<Mention id="M15" type="Precipitant" span="0 20;32 17" str="Drugs metabolized by | OAT3 transporters" code="NO MAP"/>
+<Mention id="M17" type="Precipitant" span="0 27" str="Drugs metabolized by CYP2C8" code="NO MAP"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M16" precipitant="M15" effect="C54357"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M16" precipitant="M17" effect="C54357"/>
+</Sentence>
+<Sentence id="454" LabelDrug="Arava" section="34073-7">
+<SentenceText>Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel.</SentenceText>
+<Mention id="M20" type="Trigger" span="18 17" str="increase exposure"/>
+<Mention id="M19" type="Precipitant" span="39 16" str="ethinylestradiol" code="423D2T571U"/>
+<Mention id="M21" type="Precipitant" span="60 14" str="levonorgestrel" code="5W7SIA7YZW"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M20" precipitant="M19" effect="C54357"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M20" precipitant="M21" effect="C54357"/>
+</Sentence>
+<Sentence id="455" LabelDrug="Arava" section="34073-7">
+<SentenceText>Choose an appropriate oral contraceptive.</SentenceText>
+</Sentence>
+<Sentence id="456" LabelDrug="Arava" section="34073-7">
+<SentenceText>Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs.</SentenceText>
+<Mention id="M22" type="Trigger" span="72 17" str="decrease exposure"/>
+<Mention id="M23" type="Precipitant" span="0 27" str="Drugs metabolized by CYP1A2" code="NO MAP"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M22" precipitant="M23" effect="C54358"/>
+</Sentence>
+<Sentence id="457" LabelDrug="Arava" section="34073-7">
+<SentenceText>Warfarin: Monitor INR as teriflunomide may decrease INR.</SentenceText>
+<Mention id="M24" type="Trigger" span="10 7" str="Monitor "/>
+<Mention id="M25" type="Trigger" span="43 8" str=" decrease"/>
+<Mention id="M26" type="Precipitant" span="0 8" str="Warfarin" code="5Q7ZVV76EI | N0000006403"/>
+<Mention id="M27" type="SpecificInteraction" span="43 12" str="decrease INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M24;M25" precipitant="M26" effect="M27" effectCodeMatch="Close to Exact Match"/>
+</Sentence>
+<Sentence id="458" LabelDrug="Arava" section="34073-7">
+<SentenceText>Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs.</SentenceText>
+<Mention id="M30" type="Trigger" span="98 17" str="increase exposure"/>
+<Mention id="M29" type="Precipitant" span="0 20;30 23" str="Drugs metabolized by | OATP1B1/B3 transporters" code="NO MAP"/>
+<Mention id="M31" type="Precipitant" span="0 25" str="Drugs metabolized by BCRP" code="NO MAP"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M30" precipitant="M29" effect="C54357"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M30" precipitant="M31" effect="C54357"/>
+</Sentence>
+<Sentence id="459" LabelDrug="Arava" section="34073-7">
+<SentenceText>Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking ARAVA.</SentenceText>
+<Mention id="M32" type="Trigger" span="18 4;39 17" str="dose | should not exceed"/>
+<Mention id="M33" type="Precipitant" span="0 12" str="rosuvastatin" code="413KH5ZJ73"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M32" precipitant="M33" effect="C54357"/>
+</Sentence>
+<Sentence id="460" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect of potent CYP and transporter inducers Leflunomide is metabolized by CYP450 metabolizing enzymes.</SentenceText>
+</Sentence>
+<Sentence id="461" LabelDrug="Arava" section="34073-7">
+<SentenceText>Concomitant use of ARAVA and rifampin, a potent inducer of CYP and transporters, increased the plasma concentration of teriflunomide by 40%.</SentenceText>
+<Mention id="M36" type="Trigger" span="81 34" str="increased the plasma concentration"/>
+<Mention id="M35" type="Precipitant" span="41 38" str="potent inducer of CYP and transporters" code="NO MAP"/>
+<Mention id="M37" type="Precipitant" span="29 8" str="rifampin" code="VJT6J7R4TR | N0000006026"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M36" precipitant="M35" effect="C54355"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M36" precipitant="M37" effect="C54355"/>
+</Sentence>
+<Sentence id="462" LabelDrug="Arava" section="34073-7">
+<SentenceText>However, when co-administered with the metabolite, teriflunomide, rifampin did not affect its pharmacokinetics.</SentenceText>
+</Sentence>
+<Sentence id="463" LabelDrug="Arava" section="34073-7">
+<SentenceText>No dosage adjustment is recommended for ARAVA when coadministered with rifampin.</SentenceText>
+</Sentence>
+<Sentence id="464" LabelDrug="Arava" section="34073-7">
+<SentenceText>Because of the potential for ARAVA concentrations to continue to increase with multiple dosing, caution should be used if patients are to be receiving both ARAVA and rifampin.</SentenceText>
+<Mention id="M38" type="Trigger" span="35 14;65 8" str="concentrations | increase"/>
+<Mention id="M39" type="Precipitant" span="166 8" str="rifampin" code="VJT6J7R4TR | N0000006026"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M38" precipitant="M39" effect="C54355"/>
+</Sentence>
+<Sentence id="465" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect on CYP2C8 substrates Teriflunomide is an inhibitor of CYP2C8 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="466" LabelDrug="Arava" section="34073-7">
+<SentenceText>In patients taking ARAVA, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased.</SentenceText>
+<Mention id="M48" type="Trigger" span="26 8;134 9" str="exposure | increased"/>
+<Mention id="M41" type="Precipitant" span="38 27" str="drugs metabolized by CYP2C8" code="NO MAP"/>
+<Mention id="M43" type="Precipitant" span="73 10" str="paclitaxel" code="P88XT4IS4D"/>
+<Mention id="M45" type="Precipitant" span="85 12" str="pioglitazone" code="X4OV71U42S"/>
+<Mention id="M47" type="Precipitant" span="99 11" str="repaglinide" code="668Z8C33LU"/>
+<Mention id="M49" type="Precipitant" span="112 13" str="rosiglitazone" code="05V02F2KDG"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M48" precipitant="M41" effect="C54357"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M48" precipitant="M43" effect="C54357"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M48" precipitant="M45" effect="C54357"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M48" precipitant="M47" effect="C54357"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M48" precipitant="M49" effect="C54357"/>
+</Sentence>
+<Sentence id="467" LabelDrug="Arava" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required.</SentenceText>
+<Mention id="M50" type="Trigger" span="27 15" str="adjust the dose"/>
+<Mention id="M51" type="Precipitant" span="62 29" str="drug(s) metabolized by CYP2C8" code="NO MAP"/>
+<Interaction id="I22" type="Unspecified interaction" trigger="M50" precipitant="M51"/>
+</Sentence>
+<Sentence id="468" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect on warfarin Coadministration of ARAVA with warfarin requires close monitoring of the international normalized ratio (INR) because teriflunomide, the active metabolite of ARAVA, may decrease peak INR by approximately 25%.</SentenceText>
+<Mention id="M52" type="Trigger" span="188 8" str="decrease"/>
+<Mention id="M53" type="Precipitant" span="10 8" str="warfarin" code="5Q7ZVV76EI | N0000006403"/>
+<Mention id="M54" type="SpecificInteraction" span="188 17" str="decrease peak INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M52" precipitant="M53" effect="M54" effectCodeMatch="Close to Exact Match"/>
+</Sentence>
+<Sentence id="469" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect on oral contraceptives Teriflunomide may increase the systemic exposures of ethinylestradiol and levonorgestrel.</SentenceText>
+<Mention id="M57" type="Trigger" span="48 31" str="increase the systemic exposures"/>
+<Mention id="M56" type="Precipitant" span="83 16" str="ethinylestradiol" code="423D2T571U"/>
+<Mention id="M58" type="Precipitant" span="104 14" str="levonorgestrel" code="5W7SIA7YZW"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M57" precipitant="M56" effect="C54357"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M57" precipitant="M58" effect="C54357"/>
+</Sentence>
+<Sentence id="470" LabelDrug="Arava" section="34073-7">
+<SentenceText>Consideration should be given to the type or dose of contraceptives used in combination with ARAVA.</SentenceText>
+<Mention id="M59" type="Trigger" span="0 29" str="Consideration should be given"/>
+<Mention id="M60" type="Precipitant" span="53 14" str="contraceptives" code="NO MAP"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M59" precipitant="M60"/>
+</Sentence>
+<Sentence id="471" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect on CYP1A2 substrates Teriflunomide, the active metabolite of ARAVA, may be a weak inducer of CYP1A2 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="472" LabelDrug="Arava" section="34073-7">
+<SentenceText>In patients taking ARAVA, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced.</SentenceText>
+<Mention id="M69" type="Trigger" span="26 8;129 7" str="exposure | reduced"/>
+<Mention id="M62" type="Precipitant" span="73 9" str="alosetron" code="13Z9HTH115"/>
+<Mention id="M64" type="Precipitant" span="38 27" str="drugs metabolized by CYP1A2" code="NO MAP"/>
+<Mention id="M66" type="Precipitant" span="84 10" str="duloxetine" code="O5TNM5N07U"/>
+<Mention id="M68" type="Precipitant" span="96 12" str="theophylline" code="N0000007076 | C137DTR5RG"/>
+<Mention id="M70" type="Precipitant" span="110 10" str="tizanidine" code="6AI06C00GW"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M69" precipitant="M62" effect="C54358"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M69" precipitant="M64" effect="C54358"/>
+<Interaction id="I29" type="Pharmacokinetic interaction" trigger="M69" precipitant="M66" effect="C54358"/>
+<Interaction id="I30" type="Pharmacokinetic interaction" trigger="M69" precipitant="M68" effect="C54358"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M69" precipitant="M70" effect="C54358"/>
+</Sentence>
+<Sentence id="473" LabelDrug="Arava" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required.</SentenceText>
+<Mention id="M71" type="Trigger" span="0 7" str="Monitor "/>
+<Mention id="M72" type="Trigger" span="27 15" str=" adjust the dose"/>
+<Mention id="M73" type="Precipitant" span="62 29" str="drug(s) metabolized by CYP1A2" code="NO MAP"/>
+<Interaction id="I32" type="Unspecified interaction" trigger="M71;M72" precipitant="M73"/>
+</Sentence>
+<Sentence id="474" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect on organic anion transporter 3 (OAT3) substrates Teriflunomide inhibits the activity of OAT3 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="475" LabelDrug="Arava" section="34073-7">
+<SentenceText>In patients taking ARAVA, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.</SentenceText>
+<Mention id="M92" type="Trigger" span="26 8;185 9" str="exposure | increased"/>
+<Mention id="M75" type="Precipitant" span="77 8" str="cefaclor" code="69K7K19H4L"/>
+<Mention id="M77" type="Precipitant" span="87 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M79" type="Precipitant" span="99 13" str="ciprofloxacin" code="5E8K9I0O4U"/>
+<Mention id="M81" type="Precipitant" span="38 31" str="drugs which are OAT3 substrates" code="NO MAP"/>
+<Mention id="M83" type="Precipitant" span="140 10" str="furosemide" code="7LXU5N7ZO5 | N0000007175"/>
+<Mention id="M85" type="Precipitant" span="128 10" str="ketoprofen" code="90Y4QC304K"/>
+<Mention id="M87" type="Precipitant" span="152 12" str="methotrexate" code="N0000007370 | YL5FZ2Y5U1"/>
+<Mention id="M89" type="Precipitant" span="54 15" str="OAT3 substrates" code="NO MAP"/>
+<Mention id="M91" type="Precipitant" span="114 12" str="penicillin G" code="Q42T66VG0C"/>
+<Mention id="M93" type="Precipitant" span="166 10" str="zidovudine" code="4B9XT59T7S"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M92" precipitant="M75" effect="C54357"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M92" precipitant="M77" effect="C54357"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M92" precipitant="M79" effect="C54357"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M92" precipitant="M81" effect="C54357"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M92" precipitant="M83" effect="C54357"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M92" precipitant="M85" effect="C54357"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M92" precipitant="M87" effect="C54357"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M92" precipitant="M89" effect="C54357"/>
+<Interaction id="I41" type="Pharmacokinetic interaction" trigger="M92" precipitant="M91" effect="C54357"/>
+<Interaction id="I42" type="Pharmacokinetic interaction" trigger="M92" precipitant="M93" effect="C54357"/>
+</Sentence>
+<Sentence id="476" LabelDrug="Arava" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required.</SentenceText>
+<Mention id="M94" type="Trigger" span="0 7" str="Monitor "/>
+<Mention id="M95" type="Trigger" span="27 15" str=" adjust the dose"/>
+<Mention id="M96" type="Precipitant" span="80 15" str="OAT3 substrates" code="NO MAP"/>
+<Interaction id="I43" type="Unspecified interaction" trigger="M94;M95" precipitant="M96"/>
+</Sentence>
+<Sentence id="477" LabelDrug="Arava" section="34073-7">
+<SentenceText>Effect on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="478" LabelDrug="Arava" section="34073-7">
+<SentenceText>For a patient taking ARAVA, the dose of rosuvastatin should not exceed 10 mg once daily.</SentenceText>
+<Mention id="M97" type="Trigger" span="32 4;53 17" str="dose | should not exceed"/>
+<Mention id="M98" type="Precipitant" span="40 12" str="rosuvastatin" code="413KH5ZJ73"/>
+<Interaction id="I44" type="Pharmacokinetic interaction" trigger="M97" precipitant="M98" effect="C54357"/>
+</Sentence>
+<Sentence id="479" LabelDrug="Arava" section="34073-7">
+<SentenceText>For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking ARAVA.</SentenceText>
+<Mention id="M129" type="Trigger" span="237 17" str="reducing the dose "/>
+<Mention id="M130" type="Trigger" span="325 19" str=" increased exposures"/>
+<Mention id="M101" type="Precipitant" span="157 12" str="atorvastatin" code="A0JWA85V8F | N0000022046"/>
+<Mention id="M104" type="Precipitant" span="54 24" str="drugs in the OATP family" code="N0000000132"/>
+<Mention id="M107" type="Precipitant" span="122 27" str="HMG-Co reductase inhibitors" code="N0000000121"/>
+<Mention id="M110" type="Precipitant" span="86 12" str="methotrexate" code="N0000007370 | YL5FZ2Y5U1"/>
+<Mention id="M113" type="Precipitant" span="36 12" str="mitoxantrone" code="BZ114NVM5P"/>
+<Mention id="M116" type="Precipitant" span="171 11" str="nateglinide" code="41X3PWK4O2"/>
+<Mention id="M119" type="Precipitant" span="184 11" str="pravastatin" code="KXO2KT9N0G"/>
+<Mention id="M122" type="Precipitant" span="197 11" str="repaglinide" code="668Z8C33LU"/>
+<Mention id="M125" type="Precipitant" span="100 8" str="rifampin" code="VJT6J7R4TR | N0000006026"/>
+<Mention id="M128" type="Precipitant" span="214 11" str="simvastatin" code="AGG2FN16EV | N0000005842"/>
+<Mention id="M131" type="Precipitant" span="10 18" str="substrates of BCRP" code="NO MAP"/>
+<Interaction id="I45" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M101" effect="C54357"/>
+<Interaction id="I46" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M104" effect="C54357"/>
+<Interaction id="I47" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M107" effect="C54357"/>
+<Interaction id="I48" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M110" effect="C54357"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M113" effect="C54357"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M116" effect="C54357"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M119" effect="C54357"/>
+<Interaction id="I52" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M122" effect="C54357"/>
+<Interaction id="I53" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M125" effect="C54357"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M128" effect="C54357"/>
+<Interaction id="I55" type="Pharmacokinetic interaction" trigger="M129;M130" precipitant="M131" effect="C54357"/>
+</Sentence>
+<Sentence id="480" LabelDrug="Arava" section="43685-7">
+<SentenceText>After stopping ARAVA, it is recommended that an accelerated drug elimination procedure be used to reduce the plasma concentrations of the active metabolite, teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="481" LabelDrug="Arava" section="43685-7">
+<SentenceText>Severe infections (including sepsis), pancytopenia, agranulocytosis and thrombocytopenia: Stop ARAVA and use accelerated elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="482" LabelDrug="Arava" section="43685-7">
+<SentenceText>Do not start ARAVA in patients with active infection.</SentenceText>
+</Sentence>
+<Sentence id="483" LabelDrug="Arava" section="43685-7">
+<SentenceText>Monitor CBCs during treatment with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="484" LabelDrug="Arava" section="43685-7">
+<SentenceText>Stevens-Johnson syndrome and toxic epidermal necrolysis: Stop ARAVA and use accelerated elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="485" LabelDrug="Arava" section="43685-7">
+<SentenceText>Peripheral neuropathy: If patient develops symptoms consistent with peripheral neuropathy, evaluate patient and consider discontinuing ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="486" LabelDrug="Arava" section="43685-7">
+<SentenceText>Interstitial lung disease: May be fatal.</SentenceText>
+</Sentence>
+<Sentence id="487" LabelDrug="Arava" section="43685-7">
+<SentenceText>New onset or worsening symptoms may necessitate discontinuation of Arava and initiation of accelerated elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="488" LabelDrug="Arava" section="43685-7">
+<SentenceText>Increased blood pressure: Monitor and treat.</SentenceText>
+</Sentence>
+<Sentence id="489" LabelDrug="Arava" section="43685-7">
+<SentenceText>ARAVA may cause fetal harm when administered to a pregnant woman.</SentenceText>
+</Sentence>
+<Sentence id="490" LabelDrug="Arava" section="43685-7">
+<SentenceText>Teratogenicity and embryo-lethality occurred in animal reproduction studies with leflunomide at doses lower than the human exposure level.</SentenceText>
+</Sentence>
+<Sentence id="491" LabelDrug="Arava" section="43685-7">
+<SentenceText>ARAVA is contraindicated for use in pregnant women.</SentenceText>
+</Sentence>
+<Sentence id="492" LabelDrug="Arava" section="43685-7">
+<SentenceText>Exclude pregnancy before starting treatment with ARAVA in females of reproductive potential.</SentenceText>
+</Sentence>
+<Sentence id="493" LabelDrug="Arava" section="43685-7">
+<SentenceText>If a woman becomes pregnant while taking ARAVA, stop treatment with ARAVA, apprise the patient of the potential risk to a fetus, and perform an accelerated drug elimination procedure to achieve non-detectable plasma concentrations of teriflunomide, the active metabolite of leflunomide.</SentenceText>
+</Sentence>
+<Sentence id="494" LabelDrug="Arava" section="43685-7">
+<SentenceText>Upon discontinuing ARAVA, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="495" LabelDrug="Arava" section="43685-7">
+<SentenceText>Women receiving ARAVA treatment who wish to become pregnant must discontinue ARAVA and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of the active metabolite of leflunomide, teriflunomide, are less than 0.02 mg/L (0.02 mcg/mL).</SentenceText>
+</Sentence>
+<Sentence id="496" LabelDrug="Arava" section="43685-7">
+<SentenceText>Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryo-fetal risk.</SentenceText>
+</Sentence>
+<Sentence id="497" LabelDrug="Arava" section="43685-7">
+<SentenceText>Severe liver injury, including fatal liver failure, has been reported in some patients treated with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="498" LabelDrug="Arava" section="43685-7">
+<SentenceText>Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) of greater than twice the upper limits of normal (&gt;2Ã—ULN) before initiating treatment, should not be treated with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="499" LabelDrug="Arava" section="43685-7">
+<SentenceText>Monitoring of ALT levels is recommended at least monthly for six months after starting ARAVA, and thereafter every 6–8 weeks.</SentenceText>
+</Sentence>
+<Sentence id="500" LabelDrug="Arava" section="43685-7">
+<SentenceText>If ALT elevation &gt; 3 fold ULN occurs, interrupt ARAVA therapy and investigate the cause.</SentenceText>
+</Sentence>
+<Sentence id="501" LabelDrug="Arava" section="43685-7">
+<SentenceText>If likely ARAVA-induced, perform the accelerated drug elimination procedure and monitor liver tests weekly until normalized.</SentenceText>
+</Sentence>
+<Sentence id="502" LabelDrug="Arava" section="43685-7">
+<SentenceText>If ARAVA-induced liver injury is unlikely because some other cause has been found, resumption of ARAVA therapy may be considered.</SentenceText>
+</Sentence>
+<Sentence id="503" LabelDrug="Arava" section="43685-7">
+<SentenceText>If ARAVA and methotrexate are given concomitantly, follow the American College of Rheumatology (ACR) guidelines for monitoring methotrexate liver toxicity with ALT, AST, and serum albumin testing.</SentenceText>
+<Mention id="M132" type="Trigger" span="116 10" str="monitoring"/>
+<Mention id="M133" type="Precipitant" span="13 12" str="methotrexate" code="N0000007370 | YL5FZ2Y5U1"/>
+<Mention id="M134" type="SpecificInteraction" span="140 14" str="liver toxicity" code="197354009: Toxic liver disease (disorder)"/>
+<Interaction id="I56" type="Pharmacodynamic interaction" trigger="M132" precipitant="M133" effect="M134" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="504" LabelDrug="Arava" section="43685-7">
+<SentenceText>The active metabolite of leflunomide, teriflunomide, is eliminated slowly from the plasma.</SentenceText>
+</Sentence>
+<Sentence id="505" LabelDrug="Arava" section="43685-7">
+<SentenceText>Use of an accelerated drug elimination procedure will rapidly reduce plasma concentrations of leflunomide and its active metabolite, teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="506" LabelDrug="Arava" section="43685-7">
+<SentenceText>Therefore, an accelerated elimination procedure should be considered at any time after discontinuation of ARAVA, and in particular, when a patient has experienced a severe adverse reaction (e.g., hepatotoxicity, serious infection, bone marrow suppression, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral neuropathy, interstitial lung disease), suspected hypersensitivity, or has become pregnant.</SentenceText>
+</Sentence>
+<Sentence id="507" LabelDrug="Arava" section="43685-7">
+<SentenceText>It is recommended that all women of childbearing potential undergo an accelerated elimination procedure after stopping ARAVA treatment.</SentenceText>
+</Sentence>
+<Sentence id="508" LabelDrug="Arava" section="43685-7">
+<SentenceText>Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, the plasma concentration not associated with embryo-fetal toxicity in animals.</SentenceText>
+</Sentence>
+<Sentence id="509" LabelDrug="Arava" section="43685-7">
+<SentenceText>Elimination can be accelerated by the following procedures: 1)Administer cholestyramine 8 grams orally 3 times daily for 11 days.</SentenceText>
+<Mention id="M135" type="Trigger" span="0 11;19 11" str="Elimination | accelerated"/>
+<Mention id="M136" type="Precipitant" span="73 14" str="cholestyramine" code="4B33BGI082 | N0000007079"/>
+<Interaction id="I57" type="Pharmacokinetic interaction" trigger="M135" precipitant="M136" effect="C54356"/>
+</Sentence>
+<Sentence id="510" LabelDrug="Arava" section="43685-7">
+<SentenceText>2)Alternatively, administer 50 grams of activated charcoal powder (made into a suspension) orally every 12 hours for 11 days.</SentenceText>
+</Sentence>
+<Sentence id="511" LabelDrug="Arava" section="43685-7">
+<SentenceText>Verify plasma teriflunomide concentrations of less than 0.02 mg/L (0.02 µg/mL) by two separate tests at least 14 days apart.</SentenceText>
+</Sentence>
+<Sentence id="512" LabelDrug="Arava" section="43685-7">
+<SentenceText>If plasma teriflunomide concentrations are higher than 0.02 mg/L, repeat cholestyramine and/or activated charcoal treatment.</SentenceText>
+<Mention id="M139" type="Trigger" span="0 9;24 30;66 6;114 9" str="If plasma | concentrations are higher than | repeat | treatment"/>
+<Mention id="M138" type="Precipitant" span="95 18" str="activated charcoal" code="2P3VWU3H10"/>
+<Mention id="M140" type="Precipitant" span="73 14" str="cholestyramine" code="4B33BGI082 | N0000007079"/>
+<Interaction id="I58" type="Pharmacokinetic interaction" trigger="M139" precipitant="M138" effect="C54356"/>
+<Interaction id="I59" type="Pharmacokinetic interaction" trigger="M139" precipitant="M140" effect="C54356"/>
+</Sentence>
+<Sentence id="513" LabelDrug="Arava" section="43685-7">
+<SentenceText>The duration of accelerated drug elimination treatment may be modified based on the clinical status and tolerability of the elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="514" LabelDrug="Arava" section="43685-7">
+<SentenceText>The procedure may be repeated as needed, based on teriflunomide concentrations and clinical status.</SentenceText>
+</Sentence>
+<Sentence id="515" LabelDrug="Arava" section="43685-7">
+<SentenceText>Use of the accelerated drug elimination procedure may potentially result in return of disease activity if the patient had been responding to ARAVA treatment.</SentenceText>
+</Sentence>
+<Sentence id="516" LabelDrug="Arava" section="43685-7">
+<SentenceText>ARAVA is not recommended for patients with severe immunodeficiency, bone marrow dysplasia, or severe, uncontrolled infections.</SentenceText>
+</Sentence>
+<Sentence id="517" LabelDrug="Arava" section="43685-7">
+<SentenceText>If a serious infection occurs, consider interrupting ARAVA therapy and initiating the accelerated drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="518" LabelDrug="Arava" section="43685-7">
+<SentenceText>Medications like ARAVA that have immunosuppression potential may cause patients to be more susceptible to infections, including opportunistic infections, especially Pneumocystis jiroveci pneumonia, tuberculosis (including extra-pulmonary tuberculosis), and aspergillosis.</SentenceText>
+</Sentence>
+<Sentence id="519" LabelDrug="Arava" section="43685-7">
+<SentenceText>Severe infections including sepsis, which may be fatal, have been reported in patients receiving ARAVA, especially Pneumocystis jiroveci pneumonia and aspergillosis.</SentenceText>
+</Sentence>
+<Sentence id="520" LabelDrug="Arava" section="43685-7">
+<SentenceText>Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid arthritis, may predispose patients to infection.</SentenceText>
+</Sentence>
+<Sentence id="521" LabelDrug="Arava" section="43685-7">
+<SentenceText>Cases of tuberculosis were observed in clinical studies with teriflunomide, the metabolite of ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="522" LabelDrug="Arava" section="43685-7">
+<SentenceText>Prior to initiating ARAVA, all patients should be screened for active and inactive (latent) tuberculosis infection as per commonly used diagnostic tests.</SentenceText>
+</Sentence>
+<Sentence id="523" LabelDrug="Arava" section="43685-7">
+<SentenceText>ARAVA has not been studied in patients with a positive tuberculosis screen, and the safety of ARAVA in individuals with latent tuberculosis infection is unknown.</SentenceText>
+</Sentence>
+<Sentence id="524" LabelDrug="Arava" section="43685-7">
+<SentenceText>Patients testing positive in tuberculosis screening should be treated by standard medical practice prior to therapy with ARAVA and monitored carefully during ARAVA treatment for possible reactivation of the infection.</SentenceText>
+</Sentence>
+<Sentence id="525" LabelDrug="Arava" section="43685-7">
+<SentenceText>Pancytopenia, agranulocytosis and thrombocytopenia have been reported in patients receiving ARAVA alone.</SentenceText>
+</Sentence>
+<Sentence id="526" LabelDrug="Arava" section="43685-7">
+<SentenceText>These events have been reported most frequently in patients who received concomitant treatment with methotrexate or other immunosuppressive agents, or who had recently discontinued these therapies; in some cases, patients had a prior history of a significant hematologic abnormality.</SentenceText>
+<Mention id="M143" type="Trigger" span="6 6" str="events"/>
+<Mention id="M142" type="Precipitant" span="122 24" str="immunosuppressive agents" code="N0000175550"/>
+<Mention id="M144" type="Precipitant" span="100 12" str="methotrexate" code="N0000007370 | YL5FZ2Y5U1"/>
+<Interaction id="I60" type="Unspecified interaction" trigger="M143" precipitant="M142"/>
+<Interaction id="I61" type="Unspecified interaction" trigger="M143" precipitant="M144"/>
+</Sentence>
+<Sentence id="527" LabelDrug="Arava" section="43685-7">
+<SentenceText>Patients taking ARAVA should have platelet, white blood cell count and hemoglobin or hematocrit monitored at baseline and monthly for six months following initiation of therapy and every 6 to 8 weeks thereafter.</SentenceText>
+</Sentence>
+<Sentence id="528" LabelDrug="Arava" section="43685-7">
+<SentenceText>If used with concomitant methotrexate and/or other potential immunosuppressive agents, chronic monitoring should be monthly.</SentenceText>
+<Mention id="M147" type="Trigger" span="87 18" str="chronic monitoring"/>
+<Mention id="M146" type="Precipitant" span="61 24" str="immunosuppressive agents" code="N0000175550"/>
+<Mention id="M148" type="Precipitant" span="25 12" str="methotrexate" code="N0000007370 | YL5FZ2Y5U1"/>
+<Interaction id="I62" type="Unspecified interaction" trigger="M147" precipitant="M146"/>
+<Interaction id="I63" type="Unspecified interaction" trigger="M147" precipitant="M148"/>
+</Sentence>
+<Sentence id="529" LabelDrug="Arava" section="43685-7">
+<SentenceText>If evidence of bone marrow suppression occurs in a patient taking ARAVA, stop treatment with ARAVA, and perform an accelerated drug elimination procedure to reduce the plasma concentration of the ARAVA active metabolite, teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="530" LabelDrug="Arava" section="43685-7">
+<SentenceText>In any situation in which the decision is made to switch from ARAVA to another anti-rheumatic agent with a known potential for hematologic suppression, it would be prudent to monitor for hematologic toxicity, because there will be overlap of systemic exposure to both compounds.</SentenceText>
+<Mention id="M149" type="Trigger" span="113 13" str="potential for"/>
+<Mention id="M153" type="Precipitant" span="79 20" str="anti-rheumatic agent" code="N0000178308"/>
+<Mention id="M151" type="SpecificInteraction" span="127 23" str="hematologic suppression" code="362965005: Disorder of body system (disorder)"/>
+<Mention id="M152" type="Trigger" span="175 7" str="monitor"/>
+<Mention id="M154" type="SpecificInteraction" span="187 20" str="hematologic toxicity" code="362965005: Disorder of body system (disorder)"/>
+<Interaction id="I64" type="Pharmacodynamic interaction" trigger="M149" precipitant="M153" effect="M151" effectCodeMatch="Exact Match"/>
+<Interaction id="I65" type="Pharmacodynamic interaction" trigger="M152" precipitant="M153" effect="M154" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="531" LabelDrug="Arava" section="43685-7">
+<SentenceText>Rare cases of Stevens-Johnson syndrome and toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="532" LabelDrug="Arava" section="43685-7">
+<SentenceText>If a patient taking ARAVA develops any of these conditions, stop ARAVA treatment and perform an accelerated drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="533" LabelDrug="Arava" section="43685-7">
+<SentenceText>The risk of malignancy, particularly lymphoproliferative disorders, is increased with the use of some immunosuppression medications.</SentenceText>
+</Sentence>
+<Sentence id="534" LabelDrug="Arava" section="43685-7">
+<SentenceText>There is a potential for immunosuppression with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="535" LabelDrug="Arava" section="43685-7">
+<SentenceText>No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the clinical trials of ARAVA, but larger dosages and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with ARAVA.</SentenceText>
+</Sentence>
+<Sentence id="536" LabelDrug="Arava" section="43685-7">
+<SentenceText>Cases of peripheral neuropathy have been reported in patients receiving ARAVA and in clinical studies with teriflunomide, the active metabolite of leflunomide.</SentenceText>
+</Sentence>
+<Sentence id="537" LabelDrug="Arava" section="43685-7">
+<SentenceText>Most patients recovered after discontinuation of treatment, but some patients had persistent symptoms.</SentenceText>
+</Sentence>
+<Sentence id="538" LabelDrug="Arava" section="43685-7">
+<SentenceText>Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy.</SentenceText>
+<Mention id="M155" type="Trigger" span="78 17" str="increase the risk"/>
+<Mention id="M156" type="Precipitant" span="37 22" str="neurotoxic medications" code="NO MAP"/>
+<Mention id="M157" type="SpecificInteraction" span="100 21" str="peripheral neuropathy" code="302226006: Peripheral nerve disease (disorder)"/>
+<Interaction id="I66" type="Pharmacodynamic interaction" trigger="M155" precipitant="M156" effect="M157" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="539" LabelDrug="Arava" section="43685-7">
+<SentenceText>If a patient taking ARAVA develops a peripheral neuropathy, consider discontinuing ARAVA therapy and performing an accelerated drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="540" LabelDrug="Arava" section="43685-7">
+<SentenceText>Interstitial lung disease and worsening of pre-existing interstitial lung disease have been reported during treatment with ARAVA and has been associated with fatal outcomes.</SentenceText>
+</Sentence>
+<Sentence id="541" LabelDrug="Arava" section="43685-7">
+<SentenceText>The risk of ARAVA-associated interstitial lung disease is increased in patients with a history of interstitial lung disease.</SentenceText>
+</Sentence>
+<Sentence id="542" LabelDrug="Arava" section="43685-7">
+<SentenceText>Interstitial lung disease is a potentially fatal disorder that may occur acutely at any time during therapy and has a variable clinical presentation.</SentenceText>
+</Sentence>
+<Sentence id="543" LabelDrug="Arava" section="43685-7">
+<SentenceText>New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of ARAVA therapy and for further investigation as appropriate.</SentenceText>
+</Sentence>
+<Sentence id="544" LabelDrug="Arava" section="43685-7">
+<SentenceText>If discontinuation of ARAVA is necessary, consider performing an accelerated drug elimination procedure.</SentenceText>
+</Sentence>
+<Sentence id="545" LabelDrug="Arava" section="43685-7">
+<SentenceText>No clinical data are available on the efficacy and safety of vaccinations during ARAVA treatment.</SentenceText>
+</Sentence>
+<Sentence id="546" LabelDrug="Arava" section="43685-7">
+<SentenceText>Vaccination with live vaccines is, however, not recommended.</SentenceText>
+<Mention id="M158" type="Trigger" span="44 15" str="not recommended"/>
+<Mention id="M159" type="Precipitant" span="17 13" str="live vaccines" code="NO MAP"/>
+<Interaction id="I67" type="Unspecified interaction" trigger="M158" precipitant="M159"/>
+</Sentence>
+<Sentence id="547" LabelDrug="Arava" section="43685-7">
+<SentenceText>The long half-life of the active metabolite of ARAVA should be considered when contemplating administration of a live vaccine after stopping ARAVA.</SentenceText>
+<Mention id="M160" type="Trigger" span="4 14;53 20" str="long half-life | should be considered"/>
+<Mention id="M161" type="Precipitant" span="113 12" str="live vaccine" code="NO MAP"/>
+<Interaction id="I68" type="Unspecified interaction" trigger="M160" precipitant="M161"/>
+</Sentence>
+<Sentence id="548" LabelDrug="Arava" section="43685-7">
+<SentenceText>In placebo-controlled studies with the active metabolite of ARAVA, teriflunomide, elevations in blood pressure were observed in some subjects.</SentenceText>
+</Sentence>
+<Sentence id="549" LabelDrug="Arava" section="43685-7">
+<SentenceText>Blood pressure should be checked before starting treatment with ARAVA and monitored periodically thereafter.</SentenceText>
+</Sentence>
+<Sentence id="550" LabelDrug="Arava" section="34090-1">
+<SentenceText>Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity.</SentenceText>
+</Sentence>
+<Sentence id="551" LabelDrug="Arava" section="34090-1">
+<SentenceText>Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect.</SentenceText>
+</Sentence>
+<Sentence id="552" LabelDrug="Arava" section="34090-1">
+<SentenceText>Plasma concentrations of the parent drug, leflunomide, have been occasionally seen at very low concentrations.</SentenceText>
+</Sentence>
+<Sentence id="553" LabelDrug="Arava" section="34090-1">
+<SentenceText>Studies of the pharmacokinetics of leflunomide have primarily examined the plasma concentrations of the active metabolite, teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="554" LabelDrug="Arava" section="34090-1">
+<SentenceText>Absorption Following oral administration, peak teriflunomide concentrations occurred between 6 –12 hours after dosing.</SentenceText>
+</Sentence>
+<Sentence id="555" LabelDrug="Arava" section="34090-1">
+<SentenceText>Due to the very long half-life of teriflunomide (18–19 days), a loading dose of 100 mg for 3 days was used in clinical studies to facilitate the rapid attainment of steady-state teriflunomide concentrations.</SentenceText>
+</Sentence>
+<Sentence id="556" LabelDrug="Arava" section="34090-1">
+<SentenceText>Without a loading dose, it is estimated that attainment of steady-state plasma concentrations would require about two months of dosing.</SentenceText>
+</Sentence>
+<Sentence id="557" LabelDrug="Arava" section="34090-1">
+<SentenceText>The resulting plasma concentrations following both loading doses and continued clinical dosing indicate that plasma teriflunomide concentrations are dose proportional.</SentenceText>
+</Sentence>
+<Sentence id="558" LabelDrug="Arava" section="34090-1">
+<SentenceText>Effect of Food Co-administration of leflunomide tablets with a high fat meal did not have a significant impact on teriflunomide plasma concentrations.</SentenceText>
+</Sentence>
+<Sentence id="559" LabelDrug="Arava" section="34090-1">
+<SentenceText>Distribution Teriflunomide is extensively bound to plasma protein (&gt;99%) and is mainly distributed in plasma.</SentenceText>
+</Sentence>
+<Sentence id="560" LabelDrug="Arava" section="34090-1">
+<SentenceText>The volume of distribution is 11 L after a single intravenous (IV) administration.</SentenceText>
+</Sentence>
+<Sentence id="561" LabelDrug="Arava" section="34090-1">
+<SentenceText>Elimination Teriflunomide, the active metabolite of leflunomide, has a median half-life of 18–19 days in healthy volunteers.</SentenceText>
+</Sentence>
+<Sentence id="562" LabelDrug="Arava" section="34090-1">
+<SentenceText>The elimination of teriflunomide can be accelerated by administration of cholestyramine or activated charcoal.</SentenceText>
+<Mention id="M164" type="Trigger" span="4 11;40 11" str="elimination | accelerated"/>
+<Mention id="M163" type="Precipitant" span="91 18" str="activated charcoal" code="2P3VWU3H10"/>
+<Mention id="M165" type="Precipitant" span="73 14" str="cholestyramine" code="4B33BGI082 | N0000007079"/>
+<Interaction id="I69" type="Pharmacokinetic interaction" trigger="M164" precipitant="M163" effect="C54356"/>
+<Interaction id="I70" type="Pharmacokinetic interaction" trigger="M164" precipitant="M165" effect="C54356"/>
+</Sentence>
+<Sentence id="563" LabelDrug="Arava" section="34090-1">
+<SentenceText>Without use of an accelerated drug elimination procedure, it may take up to 2 years to reach plasma teriflunomide concentrations of less than 0.02 mg/L, due to individual variation in drug clearance.</SentenceText>
+</Sentence>
+<Sentence id="564" LabelDrug="Arava" section="34090-1">
+<SentenceText>After a single IV administration of the metabolite (teriflunomide), the total body clearance of teriflunomide was 30.5 mL/h.</SentenceText>
+</Sentence>
+<Sentence id="565" LabelDrug="Arava" section="34090-1">
+<SentenceText>Metabolism In vitro inhibition studies in human liver microsomes suggest that cytochrome P450 (CYP) 1A2, 2C19 and 3A4 are involved in leflunomide metabolism.</SentenceText>
+</Sentence>
+<Sentence id="566" LabelDrug="Arava" section="34090-1">
+<SentenceText>In vivo, leflunomide is metabolized to one primary (teriflunomide) and many minor metabolites.</SentenceText>
+</Sentence>
+<Sentence id="567" LabelDrug="Arava" section="34090-1">
+<SentenceText>In vitro, teriflunomide is not metabolized by CYP450 or flavin monoamine oxidase enzymes.</SentenceText>
+</Sentence>
+<Sentence id="568" LabelDrug="Arava" section="34090-1">
+<SentenceText>The parent compound is rarely detectable in plasma.</SentenceText>
+</Sentence>
+<Sentence id="569" LabelDrug="Arava" section="34090-1">
+<SentenceText>Excretion Teriflunomide, the active metabolite of leflunomide, is eliminated by direct biliary excretion of unchanged drug as well as renal excretion of metabolites.</SentenceText>
+</Sentence>
+<Sentence id="570" LabelDrug="Arava" section="34090-1">
+<SentenceText>Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%).</SentenceText>
+</Sentence>
+<Sentence id="571" LabelDrug="Arava" section="34090-1">
+<SentenceText>After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces).</SentenceText>
+<Mention id="M166" type="Trigger" span="9 23" str="accelerated elimination"/>
+<Mention id="M167" type="Precipitant" span="48 14" str="cholestyramine" code="4B33BGI082 | N0000007079"/>
+<Interaction id="I71" type="Pharmacokinetic interaction" trigger="M166" precipitant="M167" effect="C54356"/>
+</Sentence>
+<Sentence id="572" LabelDrug="Arava" section="34090-1">
+<SentenceText>Studies with both hemodialysis and CAPD (chronic ambulatory peritoneal dialysis) indicate that teriflunomide is not dialyzable.</SentenceText>
+</Sentence>
+<Sentence id="573" LabelDrug="Arava" section="34090-1">
+<SentenceText>Specific Populations Gender.</SentenceText>
+</Sentence>
+<Sentence id="574" LabelDrug="Arava" section="34090-1">
+<SentenceText>Gender has not been shown to cause a consistent change in the in vivo pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="575" LabelDrug="Arava" section="34090-1">
+<SentenceText>A population based pharmacokinetic analysis of the clinical trial data indicates that smokers have a 38% increase in clearance over non-smokers; however, no difference in clinical efficacy was seen between smokers and nonsmokers.</SentenceText>
+</Sentence>
+<Sentence id="576" LabelDrug="Arava" section="34090-1">
+<SentenceText>Drug Interaction Studies Drug interaction studies have been conducted with both ARAVA (leflunomide) and with its active metabolite, teriflunomide, where the metabolite was directly administered to the test subjects.</SentenceText>
+</Sentence>
+<Sentence id="577" LabelDrug="Arava" section="34090-1">
+<SentenceText>The Potential Effect of Other Drugs on ARAVA Potent CYP and transporter inducers: Following concomitant administration of a single dose of ARAVA to subjects receiving multiple doses of rifampin, teriflunomide peak concentrations were increased (~40%) over those seen when ARAVA was given alone.</SentenceText>
+<Mention id="M168" type="Trigger" span="209 34" str="peak concentrations were increased"/>
+<Mention id="M169" type="Precipitant" span="185 8" str="rifampin" code="VJT6J7R4TR | N0000006026"/>
+<Interaction id="I72" type="Pharmacokinetic interaction" trigger="M168" precipitant="M169" effect="C54602"/>
+</Sentence>
+<Sentence id="578" LabelDrug="Arava" section="34090-1">
+<SentenceText>An in vivo interaction study with ARAVA and cimetidine (non-specific weak CYP inhibitor) has demonstrated a lack of a significant impact on teriflunomide exposure.</SentenceText>
+</Sentence>
+<Sentence id="579" LabelDrug="Arava" section="34090-1">
+<SentenceText>The Potential Effect of ARAVA on Other Drugs CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.</SentenceText>
+<Mention id="M170" type="Trigger" span="76 8;114 3" str="increase | AUC"/>
+<Mention id="M173" type="Precipitant" span="93 11" str="repaglinide" code="668Z8C33LU"/>
+<Mention id="M172" type="Trigger" span="76 8;105 4" str="increase | Cmax"/>
+<Interaction id="I73" type="Pharmacokinetic interaction" trigger="M170" precipitant="M173" effect="C54613"/>
+<Interaction id="I74" type="Pharmacokinetic interaction" trigger="M172" precipitant="M173" effect="C54610"/>
+</Sentence>
+<Sentence id="580" LabelDrug="Arava" section="34090-1">
+<SentenceText>The magnitude of interaction could be higher at the recommended repaglinide dose.</SentenceText>
+<Mention id="M174" type="Trigger" span="17 11" str="interaction"/>
+<Mention id="M175" type="Precipitant" span="64 11" str="repaglinide" code="668Z8C33LU"/>
+<Interaction id="I75" type="Unspecified interaction" trigger="M174" precipitant="M175"/>
+</Sentence>
+<Sentence id="581" LabelDrug="Arava" section="34090-1">
+<SentenceText>CYP1A2 Substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo.</SentenceText>
+<Mention id="M176" type="Trigger" span="50 9;74 3" str="decreased | AUC"/>
+<Mention id="M179" type="Precipitant" span="81 8" str="caffeine" code="N0000006506 | 3G6A5W338E"/>
+<Mention id="M178" type="Trigger" span="50 9;65 4" str="decreased | Cmax"/>
+<Interaction id="I76" type="Pharmacokinetic interaction" trigger="M176" precipitant="M179" effect="C54614"/>
+<Interaction id="I77" type="Pharmacokinetic interaction" trigger="M178" precipitant="M179" effect="C54615"/>
+</Sentence>
+<Sentence id="582" LabelDrug="Arava" section="34090-1">
+<SentenceText>OAT3 Substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo.</SentenceText>
+<Mention id="M180" type="Trigger" span="29 8;64 3" str="increase | AUC"/>
+<Mention id="M183" type="Precipitant" span="46 8" str="cefaclor" code="69K7K19H4L"/>
+<Mention id="M182" type="Trigger" span="29 8;55 4" str="increase | Cmax"/>
+<Interaction id="I78" type="Pharmacokinetic interaction" trigger="M180" precipitant="M183" effect="C54613"/>
+<Interaction id="I79" type="Pharmacokinetic interaction" trigger="M182" precipitant="M183" effect="C54610"/>
+</Sentence>
+<Sentence id="583" LabelDrug="Arava" section="34090-1">
+<SentenceText>BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3).</SentenceText>
+<Mention id="M184" type="Trigger" span="45 8;84 3" str="increase | AUC"/>
+<Mention id="M187" type="Precipitant" span="62 12" str="rosuvastatin" code="413KH5ZJ73"/>
+<Mention id="M186" type="Trigger" span="45 8;75 4" str="increase | Cmax"/>
+<Interaction id="I80" type="Pharmacokinetic interaction" trigger="M184" precipitant="M187" effect="C54613"/>
+<Interaction id="I81" type="Pharmacokinetic interaction" trigger="M186" precipitant="M187" effect="C54610"/>
+</Sentence>
+<Sentence id="584" LabelDrug="Arava" section="34090-1">
+<SentenceText>Oral Contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide.</SentenceText>
+<Mention id="M194" type="Trigger" span="33 8;76 3" str="increase | AUC"/>
+<Mention id="M191" type="Precipitant" span="50 16" str="ethinylestradiol" code="423D2T571U"/>
+<Mention id="M192" type="Trigger" span="33 8;67 4" str="increase | Cmax"/>
+<Mention id="M195" type="Precipitant" span="124 14" str="levonorgestrel" code="5W7SIA7YZW"/>
+<Interaction id="I82" type="Pharmacokinetic interaction" trigger="M194" precipitant="M191" effect="C54613"/>
+<Interaction id="I83" type="Pharmacokinetic interaction" trigger="M192" precipitant="M191" effect="C54610"/>
+<Interaction id="I84" type="Pharmacokinetic interaction" trigger="M192" precipitant="M195" effect="C54610"/>
+<Interaction id="I85" type="Pharmacokinetic interaction" trigger="M194" precipitant="M195" effect="C54613"/>
+</Sentence>
+<Sentence id="585" LabelDrug="Arava" section="34090-1">
+<SentenceText>Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="potentially hepatotoxic drugs" precipitantCode="NO MAP" effect="39400004: Injury of liver (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="potentially hepatotoxic drugs" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="immunosuppressants" precipitantCode="N0000029316 | N0000175550" effect="370569000: Myelosuppression (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="methotrexate" precipitantCode="N0000007370 | YL5FZ2Y5U1" effect="197354009: Toxic liver disease (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="methotrexate" precipitantCode="N0000007370 | YL5FZ2Y5U1" effect="427399008: Drug-induced disorder of liver (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="methotrexate" precipitantCode="N0000007370 | YL5FZ2Y5U1" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="methotrexate" precipitantCode="N0000007370 | YL5FZ2Y5U1"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by | oat3 transporters" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by cyp2c8" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ethinylestradiol" precipitantCode="423D2T571U" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ethinylestradiol" precipitantCode="423D2T571U" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ethinylestradiol" precipitantCode="423D2T571U" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levonorgestrel" precipitantCode="5W7SIA7YZW" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levonorgestrel" precipitantCode="5W7SIA7YZW" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levonorgestrel" precipitantCode="5W7SIA7YZW" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by cyp1a2" precipitantCode="NO MAP" effect="C54358"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI | N0000006403" effect="165583001: International normalized ratio abnormal (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by | oatp1b1/b3 transporters" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by bcrp" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosuvastatin" precipitantCode="413KH5ZJ73" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosuvastatin" precipitantCode="413KH5ZJ73" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosuvastatin" precipitantCode="413KH5ZJ73" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="potent inducer of cyp and transporters" precipitantCode="NO MAP" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR | N0000006026" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR | N0000006026" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR | N0000006026" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paclitaxel" precipitantCode="P88XT4IS4D" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="pioglitazone" precipitantCode="X4OV71U42S" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU" effect="C54613"/>
+<LabelInteraction type="Unspecified interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosiglitazone" precipitantCode="05V02F2KDG" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drug(s) metabolized by cyp2c8" precipitantCode="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="contraceptives" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="alosetron" precipitantCode="13Z9HTH115" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="duloxetine" precipitantCode="O5TNM5N07U" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="theophylline" precipitantCode="N0000007076 | C137DTR5RG" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tizanidine" precipitantCode="6AI06C00GW" effect="C54358"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drug(s) metabolized by cyp1a2" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cefaclor" precipitantCode="69K7K19H4L" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cefaclor" precipitantCode="69K7K19H4L" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cefaclor" precipitantCode="69K7K19H4L" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ciprofloxacin" precipitantCode="5E8K9I0O4U" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs which are oat3 substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="furosemide" precipitantCode="7LXU5N7ZO5 | N0000007175" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoprofen" precipitantCode="90Y4QC304K" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oat3 substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="oat3 substrates" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="penicillin g" precipitantCode="Q42T66VG0C" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="zidovudine" precipitantCode="4B9XT59T7S" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="atorvastatin" precipitantCode="A0JWA85V8F | N0000022046" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs in the oatp family" precipitantCode="N0000000132" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hmg-co reductase inhibitors" precipitantCode="N0000000121" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="mitoxantrone" precipitantCode="BZ114NVM5P" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nateglinide" precipitantCode="41X3PWK4O2" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="pravastatin" precipitantCode="KXO2KT9N0G" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="simvastatin" precipitantCode="AGG2FN16EV | N0000005842" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="substrates of bcrp" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cholestyramine" precipitantCode="4B33BGI082 | N0000007079" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="activated charcoal" precipitantCode="2P3VWU3H10" effect="C54356"/>
+<LabelInteraction type="Unspecified interaction" precipitant="immunosuppressive agents" precipitantCode="N0000175550"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anti-rheumatic agent" precipitantCode="N0000178308" effect="362965005: Disorder of body system (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neurotoxic medications" precipitantCode="NO MAP" effect="302226006: Peripheral nerve disease (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="live vaccines" precipitantCode="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="live vaccine" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="caffeine" precipitantCode="N0000006506 | 3G6A5W338E" effect="C54614"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="caffeine" precipitantCode="N0000006506 | 3G6A5W338E" effect="C54615"/>
+
+</LabelInteractions></Label>

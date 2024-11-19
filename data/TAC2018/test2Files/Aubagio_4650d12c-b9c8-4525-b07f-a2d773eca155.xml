@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Aubagio" setid="4650d12c-b9c8-4525-b07f-a2d773eca155">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs ( 7 )  Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel. Choose an appropriate oral contraceptive ( 7 )  Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs ( 7 )  Warfarin: Monitor INR as teriflunomide may decrease INR ( 7 )  Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs ( 7 )  Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking AUBAGIO ( 7 )  Effect of AUBAGIO on CYP2C8 substrates  Teriflunomide is an inhibitor of CYP2C8 in vivo . In patients taking AUBAGIO, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on warfarin  Coadministration of AUBAGIO with warfarin requires close monitoring of the international normalized ratio (INR) because AUBAGIO may decrease peak INR by approximately 25%.  Effect of AUBAGIO on oral contraceptives  AUBAGIO may increase the systemic exposures of ethinylestradiol and levonorgestrel. Consideration should be given to the type or dose of contraceptives used in combination with AUBAGIO [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on CYP1A2 substrates  Teriflunomide may be a weak inducer of CYP1A2 in vivo . In patients taking AUBAGIO, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on organic anion transporter 3 (OAT3) substrates  Teriflunomide inhibits the activity of OAT3 in vivo . In patients taking AUBAGIO, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates  Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo . For a patient taking AUBAGIO, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking AUBAGIO [see Clinical Pharmacology (12.3) ] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Teriflunomide, an immunomodulatory agent with anti-inflammatory properties, inhibits dihydroorotate dehydrogenase, a mitochondrial enzyme involved in de novo pyrimidine synthesis. The exact mechanism by which teriflunomide exerts its therapeutic effect in multiple sclerosis is unknown but may involve a reduction in the number of activated lymphocytes in CNS.  12.2 Pharmacodynamics  Potential to prolong the QT interval  In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).  12.3 Pharmacokinetics  Teriflunomide is the principal active metabolite of leflunomide and is responsible for leflunomide's activity in vivo . At recommended doses, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.  Based on a population analysis of teriflunomide in healthy volunteers and MS patients, median t 1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively. It takes approximately 3 months respectively to reach steady-state concentrations. The estimated AUC accumulation ratio is approximately 30 after repeated doses of 7 or 14 mg.  Absorption  Median time to reach maximum plasma concentrations is between 1 to 4 hours post dose following oral administration of teriflunomide.  Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.  Distribution  Teriflunomide is extensively bound to plasma protein (&gt;99%) and is mainly distributed in plasma. The volume of distribution is 11 L after a single intravenous (IV) administration.  Metabolism  Teriflunomide is the major circulating moiety detected in plasma. The primary biotransformation pathway to minor metabolites of teriflunomide is hydrolysis, with oxidation being a minor pathway. Secondary pathways involve oxidation, N-acetylation and sulfate conjugation.  Elimination  Teriflunomide is eliminated mainly through direct biliary excretion of unchanged drug as well as renal excretion of metabolites. Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%). After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces). After a single IV administration, the total body clearance of teriflunomide is 30.5 mL/h.  Drug Interaction Studies  Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.  The Potential Effect of AUBAGIO on Other Drugs  CYP2C8 Substrates  There was an increase in mean repaglinide C max and AUC (1.7- and 2.4-fold, respectively) following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7) ] .  CYP1A2 Substrates  Repeated doses of teriflunomide decreased mean C max and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo  [see Drug Interactions (7) ].  OAT3 Substrates  There was an increase in mean cefaclor C max and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7) ] .  BCRP and OATP1B1/1B3 Substrates  There was an increase in mean rosuvastatin C max and AUC (2.65- and 2.51-fold, respectively) following repeated doses of teriflunomide , suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7) ] .  Oral Contraceptives  There was an increase in mean ethinylestradiol C max and AUC 0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel C max and AUC 0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7) ] .  Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).  The Potential Effect of Other Drugs on AUBAGIO  Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.  Specific populations  Hepatic Impairment  Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide. The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated [see Contraindications (4) , Warnings and Precautions (5.1) , and Use in Specific Populations (8.6) ] .  Renal Impairment  Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7) ] .  Gender  In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.  Race  Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.</Section>
+</Text><Sentences>
+<Sentence id="3148" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs (7) Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel.</SentenceText>
+</Sentence>
+<Sentence id="3149" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Choose an appropriate oral contraceptive (7) Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs (7) Warfarin: Monitor INR as teriflunomide may decrease INR (7) Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs (7) Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking AUBAGIO (7) Effect of AUBAGIO on CYP2C8 substrates Teriflunomide is an inhibitor of CYP2C8 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3150" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>In patients taking AUBAGIO, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased.</SentenceText>
+</Sentence>
+<Sentence id="3151" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required.</SentenceText>
+</Sentence>
+<Sentence id="3152" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on warfarin Coadministration of AUBAGIO with warfarin requires close monitoring of the international normalized ratio (INR) because AUBAGIO may decrease peak INR by approximately 25%.</SentenceText>
+</Sentence>
+<Sentence id="3153" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on oral contraceptives AUBAGIO may increase the systemic exposures of ethinylestradiol and levonorgestrel.</SentenceText>
+</Sentence>
+<Sentence id="3154" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Consideration should be given to the type or dose of contraceptives used in combination with AUBAGIO.</SentenceText>
+</Sentence>
+<Sentence id="3155" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on CYP1A2 substrates Teriflunomide may be a weak inducer of CYP1A2 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3156" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>In patients taking AUBAGIO, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced.</SentenceText>
+</Sentence>
+<Sentence id="3157" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required.</SentenceText>
+</Sentence>
+<Sentence id="3158" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on organic anion transporter 3 (OAT3) substrates Teriflunomide inhibits the activity of OAT3 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3159" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>In patients taking AUBAGIO, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.</SentenceText>
+</Sentence>
+<Sentence id="3160" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required.</SentenceText>
+</Sentence>
+<Sentence id="3161" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3162" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>For a patient taking AUBAGIO, the dose of rosuvastatin should not exceed 10 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="3163" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking AUBAGIO.</SentenceText>
+</Sentence>
+<Sentence id="3164" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Teriflunomide, an immunomodulatory agent with anti-inflammatory properties, inhibits dihydroorotate dehydrogenase, a mitochondrial enzyme involved in de novo pyrimidine synthesis.</SentenceText>
+</Sentence>
+<Sentence id="3165" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The exact mechanism by which teriflunomide exerts its therapeutic effect in multiple sclerosis is unknown but may involve a reduction in the number of activated lymphocytes in CNS.</SentenceText>
+</Sentence>
+<Sentence id="3166" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Potential to prolong the QT interval In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).</SentenceText>
+</Sentence>
+<Sentence id="3167" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Teriflunomide is the principal active metabolite of leflunomide and is responsible for leflunomide's activity in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3168" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>At recommended doses, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3169" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Based on a population analysis of teriflunomide in healthy volunteers and MS patients, median t1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively.</SentenceText>
+</Sentence>
+<Sentence id="3170" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>It takes approximately 3 months respectively to reach steady-state concentrations.</SentenceText>
+</Sentence>
+<Sentence id="3171" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The estimated AUC accumulation ratio is approximately 30 after repeated doses of 7 or 14 mg. Absorption Median time to reach maximum plasma concentrations is between 1 to 4 hours post dose following oral administration of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3172" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.</SentenceText>
+</Sentence>
+<Sentence id="3173" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Distribution Teriflunomide is extensively bound to plasma protein (&gt;99%) and is mainly distributed in plasma.</SentenceText>
+</Sentence>
+<Sentence id="3174" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The volume of distribution is 11 L after a single intravenous (IV) administration.</SentenceText>
+</Sentence>
+<Sentence id="3175" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Metabolism Teriflunomide is the major circulating moiety detected in plasma.</SentenceText>
+</Sentence>
+<Sentence id="3176" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The primary biotransformation pathway to minor metabolites of teriflunomide is hydrolysis, with oxidation being a minor pathway.</SentenceText>
+</Sentence>
+<Sentence id="3177" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Secondary pathways involve oxidation, N-acetylation and sulfate conjugation.</SentenceText>
+</Sentence>
+<Sentence id="3178" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Elimination Teriflunomide is eliminated mainly through direct biliary excretion of unchanged drug as well as renal excretion of metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3179" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%).</SentenceText>
+</Sentence>
+<Sentence id="3180" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces).</SentenceText>
+</Sentence>
+<Sentence id="3181" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>After a single IV administration, the total body clearance of teriflunomide is 30.5 mL/h.</SentenceText>
+</Sentence>
+<Sentence id="3182" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Drug Interaction Studies Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.</SentenceText>
+</Sentence>
+<Sentence id="3183" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The Potential Effect of AUBAGIO on Other Drugs CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3184" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The magnitude of interaction could be higher at the recommended repaglinide dose.</SentenceText>
+</Sentence>
+<Sentence id="3185" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>CYP1A2 Substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3186" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>OAT3 Substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3187" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide , suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3).</SentenceText>
+</Sentence>
+<Sentence id="3188" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Oral Contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3189" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).</SentenceText>
+</Sentence>
+<Sentence id="3190" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The Potential Effect of Other Drugs on AUBAGIO Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3191" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Specific populations Hepatic Impairment Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3192" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated.</SentenceText>
+</Sentence>
+<Sentence id="3193" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Renal Impairment Severe renal impairment had no impact on the pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3194" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.</SentenceText>
+</Sentence>
+<Sentence id="3195" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

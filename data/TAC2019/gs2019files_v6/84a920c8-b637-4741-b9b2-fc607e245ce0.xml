@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Propantheline Bromide" setid="84a920c8-b637-4741-b9b2-fc607e245ce0">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Propantheline is contraindicated in patients with: 1. Glaucoma, since mydriasis is to be avoided. 2. Obstructive disease of the gastrointestinal tract (pyloroduodenal stenosis, achalasia, paralytic ileus, etc.). 3. Obstructive uropathy (e.g., bladder-neck obstruction due to prostatic hypertrophy). 4. Intestinal atony of elderly or debilitated patients. 5. Severe ulcerative colitis or toxic megacolon complicating ulcerative colitis. 6. Unstable cardiovascular adjustment in acute hemorrhage. 7. Myasthenia gravis.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+The usual initial adult dose of propantheline bromide tablets is 15 mg taken 30 minutes before each meal and 30 mg at bedtime (a total of 75 mg daily). Subsequent dosage adjustment should be made according to the patient’s individual response and tolerance.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Anticholinergics may delay absorption of other medication given concomitantly. Excessive cholinergic blockade may occur if propantheline is given concomitantly with belladonna alkaloids or synthetic and semisynthetic anticholinergic agents, narcotic analgesics such as meperidine, Type 1 antiarrhythmic drugs (e.g., disopyramide, procainamide, or quinidine), antihistamines, phenothiazines, tricyclic antidepressants, or other psychoactive drugs. Propantheline may also potentiate the sedative effect of phenothiazines. Increased intraocular pressure may result from concurrent administration of anticholinergics and corticosteroids. Concurrent use of propantheline with slow-dissolving tablets of digoxin may cause increased serum digoxin levels. This interaction can be avoided by using only those digoxin tablets that rapidly dissolve by USP standards.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Propantheline should be used with caution in the elderly and in all patients with autonomic neuropathy, hepatic or renal disease, hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, hypertension, or hiatal hernia associated with reflux esophagitis, since anticholinergics may aggravate this condition. In patients with ulcerative colitis, large doses of propantheline may suppress intestinal motility to the point of producing paralytic ileus and, for this reason, may precipitate or aggravate toxic megacolon, a serious complication of the disease. Propantheline may produce drowsiness or blurred vision. The patient should be cautioned regarding activities requiring mental alertness, such as operating a motor vehicle or other machinery or performing hazardous work, while taking this drug. Anticholinergics may delay absorption of other medication given concomitantly. Excessive cholinergic blockade may occur if propantheline is given concomitantly with belladonna alkaloids or synthetic and semisynthetic anticholinergic agents, narcotic analgesics such as meperidine, Type 1 antiarrhythmic drugs (e.g., disopyramide, procainamide, or quinidine), antihistamines, phenothiazines, tricyclic antidepressants, or other psychoactive drugs. Propantheline may also potentiate the sedative effect of phenothiazines. Increased intraocular pressure may result from concurrent administration of anticholinergics and corticosteroids. Concurrent use of propantheline with slow-dissolving tablets of digoxin may cause increased serum digoxin levels. This interaction can be avoided by using only those digoxin tablets that rapidly dissolve by USP standards. No long-term fertility, carcinogenicity, or mutagenicity studies have been done with propantheline. Animal reproduction studies have not been conducted with propantheline. It is also not known whether propantheline can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Propantheline should be given to a pregnant woman only if clearly needed. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when propantheline is administered to a nursing woman. Suppression of lactation may occur with anticholinergic drugs. Safety and effectiveness in children have not been established.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+In the presence of a high environmental temperature, heat prostration (fever and heat stroke due to decreased sweating) can occur with the use of propantheline. Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy. In this instance treatment with this drug would be inappropriate and possibly harmful. With overdose, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis). Propantheline may cause increased heart rate and therefore, should be used with caution in patients with heart disease.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Propantheline bromide inhibits gastrointestinal motility and diminishes gastric acid secretion. The drug also inhibits the action of acetylcholine at the postganglionic nerve endings of the parasympathetic nervous system. Propantheline bromide is extensively metabolized in man primarily by hydrolysis to the inactive materials xanthene-9-carboxylic acid and (2-hydroxyethyl) diisopropylmethylammonium bromide. In a bioavailability study, peak plasma concentrations of propantheline were achieved in about one hour, following a single oral dose. The plasma elimination half-life of propantheline is about 1.6 hours. Approximately 70% of the dose is excreted in the urine, mostly as metabolites. The urinary excretion of propantheline is about 3% after oral tablet administration.</Section>
+</Text><Sentences>
+<Sentence id="8684" LabelDrug="Propantheline Bromide" section="34070-3">
+<SentenceText>Propantheline is contraindicated in patients with: 1.Glaucoma, since mydriasis is to be avoided.</SentenceText>
+</Sentence>
+<Sentence id="8685" LabelDrug="Propantheline Bromide" section="34070-3">
+<SentenceText>2.Obstructive disease of the gastrointestinal tract (pyloroduodenal stenosis, achalasia, paralytic ileus, etc.</SentenceText>
+</Sentence>
+<Sentence id="8686" LabelDrug="Propantheline Bromide" section="34070-3">
+<SentenceText>3.Obstructive uropathy (e.g., bladder-neck obstruction due to prostatic hypertrophy).</SentenceText>
+</Sentence>
+<Sentence id="8687" LabelDrug="Propantheline Bromide" section="34070-3">
+<SentenceText>4.Intestinal atony of elderly or debilitated patients.</SentenceText>
+</Sentence>
+<Sentence id="8688" LabelDrug="Propantheline Bromide" section="34070-3">
+<SentenceText>5.Severe ulcerative colitis or toxic megacolon complicating ulcerative colitis.</SentenceText>
+</Sentence>
+<Sentence id="8689" LabelDrug="Propantheline Bromide" section="34070-3">
+<SentenceText>6.Unstable cardiovascular adjustment in acute hemorrhage.</SentenceText>
+</Sentence>
+<Sentence id="8690" LabelDrug="Propantheline Bromide" section="34068-7">
+<SentenceText>The usual initial adult dose of propantheline bromide tablets is 15 mg taken 30 minutes before each meal and 30 mg at bedtime (a total of 75 mg daily).</SentenceText>
+</Sentence>
+<Sentence id="8691" LabelDrug="Propantheline Bromide" section="34068-7">
+<SentenceText>Subsequent dosage adjustment should be made according to the patient’s individual response and tolerance.</SentenceText>
+</Sentence>
+<Sentence id="8692" LabelDrug="Propantheline Bromide" section="34073-7">
+<SentenceText>Anticholinergics may delay absorption of other medication given concomitantly.</SentenceText>
+</Sentence>
+<Sentence id="8693" LabelDrug="Propantheline Bromide" section="34073-7">
+<SentenceText>Excessive cholinergic blockade may occur if propantheline is given concomitantly with belladonna alkaloids or synthetic and semisynthetic anticholinergic agents, narcotic analgesics such as meperidine, Type 1 antiarrhythmic drugs (e.g., disopyramide, procainamide, or quinidine), antihistamines, phenothiazines, tricyclic antidepressants, or other psychoactive drugs.</SentenceText>
+<Mention id="M34" type="Trigger" span="35 5" str="occur"/>
+<Mention id="M2" type="Precipitant" span="138 22" str="anticholinergic agents" code="N0000175574"/>
+<Mention id="M36" type="SpecificInteraction" span="0 30" str="Excessive cholinergic blockade" code="NO MAP"/>
+<Mention id="M5" type="Precipitant" span="280 14" str="antihistamines" code="N0000175750 | N0000029071"/>
+<Mention id="M8" type="Precipitant" span="86 20" str="belladonna alkaloids" code="WQZ3G9PF0H"/>
+<Mention id="M11" type="Precipitant" span="237 12" str="disopyramide" code="GFO928U8MQ"/>
+<Mention id="M14" type="Precipitant" span="190 10" str="meperidine" code="9E338QE28F"/>
+<Mention id="M17" type="Precipitant" span="162 19" str="narcotic analgesics" code="N0000175440"/>
+<Mention id="M20" type="Precipitant" span="296 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M23" type="Precipitant" span="251 12" str="procainamide" code="N0000005813 | L39WTC366D"/>
+<Mention id="M26" type="Precipitant" span="348 18" str="psychoactive drugs" code="NO MAP"/>
+<Mention id="M29" type="Precipitant" span="268 9" str="quinidine" code="N0000007728 | ITX08688JL"/>
+<Mention id="M32" type="Precipitant" span="312 25" str="tricyclic antidepressants" code="N0000029148 | N0000175752"/>
+<Mention id="M35" type="Precipitant" span="202 27" str="Type 1 antiarrhythmic drugs" code="N0000175426"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M34" precipitant="M2" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M34" precipitant="M5" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M34" precipitant="M8" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M34" precipitant="M11" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M34" precipitant="M14" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M34" precipitant="M17" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M34" precipitant="M20" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M34" precipitant="M23" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M34" precipitant="M26" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M34" precipitant="M29" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M34" precipitant="M32" effect="M36" effectCodeMatch="NULL"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M34" precipitant="M35" effect="M36" effectCodeMatch="NULL"/>
+</Sentence>
+<Sentence id="8694" LabelDrug="Propantheline Bromide" section="34073-7">
+<SentenceText>Propantheline may also potentiate the sedative effect of phenothiazines.</SentenceText>
+<Mention id="M37" type="Trigger" span="23 10;47 6" str="potentiate | effect"/>
+<Mention id="M38" type="Precipitant" span="57 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M39" type="SpecificInteraction" span="23 30" str="potentiate the sedative effect" code="17971005: Sedated (finding)"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M37" precipitant="M38" effect="M39" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="8695" LabelDrug="Propantheline Bromide" section="34073-7">
+<SentenceText>Increased intraocular pressure may result from concurrent administration of anticholinergics and corticosteroids.</SentenceText>
+<Mention id="M40" type="Trigger" span="35 11" str="result from"/>
+<Mention id="M41" type="Precipitant" span="97 15" str="corticosteroids" code="N0000011309 | N0000175576"/>
+<Mention id="M42" type="SpecificInteraction" span="0 30" str="Increased intraocular pressure" code="112222000: Raised intraocular pressure (finding)"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M40" precipitant="M41" effect="M42" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="8696" LabelDrug="Propantheline Bromide" section="34073-7">
+<SentenceText>Concurrent use of propantheline with slow-dissolving tablets of digoxin may cause increased serum digoxin levels.</SentenceText>
+<Mention id="M43" type="Trigger" span="82 15;106 6" str="increased serum | levels"/>
+<Mention id="M44" type="Precipitant" span="64 7" str="digoxin" code="73K4184T59 | N0000005903"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M43" precipitant="M44" effect="C54357"/>
+</Sentence>
+<Sentence id="8697" LabelDrug="Propantheline Bromide" section="34073-7">
+<SentenceText>This interaction can be avoided by using only those digoxin tablets that rapidly dissolve by USP standards.</SentenceText>
+</Sentence>
+<Sentence id="8698" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Propantheline should be used with caution in the elderly and in all patients with autonomic neuropathy, hepatic or renal disease, hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, hypertension, or hiatal hernia associated with reflux esophagitis, since anticholinergics may aggravate this condition.</SentenceText>
+</Sentence>
+<Sentence id="8699" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>In patients with ulcerative colitis, large doses of propantheline may suppress intestinal motility to the point of producing paralytic ileus and, for this reason, may precipitate or aggravate toxic megacolon, a serious complication of the disease.</SentenceText>
+</Sentence>
+<Sentence id="8700" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Propantheline may produce drowsiness or blurred vision.</SentenceText>
+</Sentence>
+<Sentence id="8701" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>The patient should be cautioned regarding activities requiring mental alertness, such as operating a motor vehicle or other machinery or performing hazardous work, while taking this drug.</SentenceText>
+</Sentence>
+<Sentence id="8702" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>No long-term fertility, carcinogenicity, or mutagenicity studies have been done with propantheline.</SentenceText>
+</Sentence>
+<Sentence id="8703" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Animal reproduction studies have not been conducted with propantheline.</SentenceText>
+</Sentence>
+<Sentence id="8704" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>It is also not known whether propantheline can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.</SentenceText>
+</Sentence>
+<Sentence id="8705" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Propantheline should be given to a pregnant woman only if clearly needed.</SentenceText>
+</Sentence>
+<Sentence id="8706" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>It is not known whether this drug is excreted in human milk.</SentenceText>
+</Sentence>
+<Sentence id="8707" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Because many drugs are excreted in human milk, caution should be exercised when propantheline is administered to a nursing woman.</SentenceText>
+</Sentence>
+<Sentence id="8708" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Suppression of lactation may occur with anticholinergic drugs.</SentenceText>
+</Sentence>
+<Sentence id="8709" LabelDrug="Propantheline Bromide" section="42232-9">
+<SentenceText>Safety and effectiveness in children have not been established.</SentenceText>
+</Sentence>
+<Sentence id="8710" LabelDrug="Propantheline Bromide" section="34071-1">
+<SentenceText>In the presence of a high environmental temperature, heat prostration (fever and heat stroke due to decreased sweating) can occur with the use of propantheline.</SentenceText>
+</Sentence>
+<Sentence id="8711" LabelDrug="Propantheline Bromide" section="34071-1">
+<SentenceText>Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.</SentenceText>
+</Sentence>
+<Sentence id="8712" LabelDrug="Propantheline Bromide" section="34071-1">
+<SentenceText>In this instance treatment with this drug would be inappropriate and possibly harmful.</SentenceText>
+</Sentence>
+<Sentence id="8713" LabelDrug="Propantheline Bromide" section="34071-1">
+<SentenceText>With overdose, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).</SentenceText>
+</Sentence>
+<Sentence id="8714" LabelDrug="Propantheline Bromide" section="34071-1">
+<SentenceText>Propantheline may cause increased heart rate and therefore, should be used with caution in patients with heart disease.</SentenceText>
+</Sentence>
+<Sentence id="8715" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>Propantheline bromide inhibits gastrointestinal motility and diminishes gastric acid secretion.</SentenceText>
+</Sentence>
+<Sentence id="8716" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>The drug also inhibits the action of acetylcholine at the postganglionic nerve endings of the parasympathetic nervous system.</SentenceText>
+</Sentence>
+<Sentence id="8717" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>Propantheline bromide is extensively metabolized in man primarily by hydrolysis to the inactive materials xanthene-9-carboxylic acid and (2-hydroxyethyl) diisopropylmethylammonium bromide.</SentenceText>
+</Sentence>
+<Sentence id="8718" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>In a bioavailability study, peak plasma concentrations of propantheline were achieved in about one hour, following a single oral dose.</SentenceText>
+</Sentence>
+<Sentence id="8719" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>The plasma elimination half-life of propantheline is about 1.6 hours.</SentenceText>
+</Sentence>
+<Sentence id="8720" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>Approximately 70% of the dose is excreted in the urine, mostly as metabolites.</SentenceText>
+</Sentence>
+<Sentence id="8721" LabelDrug="Propantheline Bromide" section="34090-1">
+<SentenceText>The urinary excretion of propantheline is about 3% after oral tablet administration.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic agents" precipitantCode="N0000175574" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antihistamines" precipitantCode="N0000175750 | N0000029071" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="belladonna alkaloids" precipitantCode="WQZ3G9PF0H" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="disopyramide" precipitantCode="GFO928U8MQ" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="meperidine" precipitantCode="9E338QE28F" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="narcotic analgesics" precipitantCode="N0000175440" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="17971005: Sedated (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="procainamide" precipitantCode="N0000005813 | L39WTC366D" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="psychoactive drugs" precipitantCode="NO MAP" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="quinidine" precipitantCode="N0000007728 | ITX08688JL" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tricyclic antidepressants" precipitantCode="N0000029148 | N0000175752" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="type 1 antiarrhythmic drugs" precipitantCode="N0000175426" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="corticosteroids" precipitantCode="N0000011309 | N0000175576" effect="112222000: Raised intraocular pressure (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digoxin" precipitantCode="73K4184T59 | N0000005903" effect="C54357"/>
+
+</LabelInteractions></Label>

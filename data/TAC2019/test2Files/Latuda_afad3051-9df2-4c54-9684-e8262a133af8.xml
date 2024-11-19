@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Latuda" setid="afad3051-9df2-4c54-9684-e8262a133af8">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS 7.1 Drugs Having Clinically Important Interactions with LATUDA Table 34: Clinically Important Drug Interactions with LATUDA Strong CYP3A4 Inhibitors  Clinical Impact: Concomitant use of LATUDA with strong CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of LATUDA alone [ see Clinical Pharmacology ( 12.3 ) ]. Intervention: LATUDA should not be used concomitantly with strong CYP3A4 inhibitors [ see Contraindications ( 4 ) ]. Examples: Ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil Moderate CYP3A4 Inhibitors  Clinical Impact: Concomitant use of LATUDA with moderate CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of LATUDA alone [ see Clinical Pharmacology ( 12.3 ) ]. Intervention: LATUDA dose should be reduced to half of the original level when used concomitantly with moderate inhibitors of CYP3A4 [ see Dosage and Administration ( 2.6 ) ]. Examples: Diltiazem, atazanavir, erythromycin, fluconazole, verapamil Strong CYP3A4 Inducers  Clinical Impact: Concomitant use of LATUDA with strong CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone [ see Clinical Pharmacology ( 12.3 ) ]. Intervention: LATUDA should not be used concomitantly with strong CYP3A4 inducers [ see Contraindications ( 4 ) ]. Examples: Rifampin, avasimibe, St. John's wort, phenytoin, carbamazepine Moderate CYP3A4 Inducers  Clinical Impact: Concomitant use of LATUDA with moderate CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone [ see Clinical Pharmacology ( 12.3 ) ]. Intervention: LATUDA dose should be increased when used concomitantly with moderate inducers of CYP3A4 [ see Dosage and Administration ( 2.6 ) ]. Examples: Bosentan, efavirenz, etravirine, modafinil, nafcillin 7.2 Drugs Having No Clinically Important Interactions with LATUDA Based on pharmacokinetic studies, no dosage adjustment of LATUDA is required when administered concomitantly with lithium, valproate, or substrates of P-gp or CYP3A4 [see Clinical Pharmacology ( 12.3 )] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unclear. However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D 2 and serotonin Type 2 (5HT 2A ) receptor antagonism. 12.2 Pharmacodynamics Lurasidone is an antagonist with high affinity binding at the dopamine D 2 receptors (Ki of 1 nM) and the serotonin 5-HT 2A (Ki of 0.5 nM) and 5-HT 7 (Ki of 0.5 nM) receptors. It also binds with moderate affinity to the human α 2C adrenergic receptors (Ki of 11 nM), is a partial agonist at serotonin 5-HT 1A (Ki of 6.4 nM) receptors, and is an antagonist at the α 2A adrenergic receptors (Ki of 41 nM). Lurasidone exhibits little or no affinity for histamine H 1 and muscarinic M 1 receptors (IC 50 &gt; 1,000 nM). ECG Changes  The effects of LATUDA on the QTc interval were evaluated in a randomized, double-blind, multiple-dose, parallel-dedicated thorough QT study in 43 patients with schizophrenia or schizoaffective disorder, who were treated with LATUDA doses of 120 mg daily, 600 mg daily and completed the study. The maximum mean (upper 1-sided, 95% CI) increase in baseline-adjusted QTc intervals based on individual correction method (QTcI) was 7.5 (11.7) ms and 4.6 (9.5) ms, for the 120 mg and 600 mg dose groups respectively, observed at 2 to 4 hours after dosing. In this study, there was no apparent dose (exposure)-response relationship. In short-term, placebo-controlled studies in schizophrenia and bipolar depression, no post-baseline QT prolongations exceeding 500 msec were reported in patients treated with LATUDA or placebo. 12.3 Pharmacokinetics Adults  The activity of LATUDA is primarily due to the parent drug. The pharmacokinetics of LATUDA is dose-proportional within a total daily dose range of 20 mg to 160 mg. Steady-state concentrations of LATUDA are reached within 7 days of starting LATUDA. Following administration of 40 mg of LATUDA, the mean (%CV) elimination half-life was 18 ( 7 ) hours. Absorption and Distribution: LATUDA is absorbed and reaches peak serum concentrations in approximately 1-3 hours. It is estimated that 9-19% of an administered dose is absorbed. Following administration of 40 mg of LATUDA, the mean (%CV) apparent volume of distribution was 6173 (17.2) L. LATUDA is highly bound (~99%) to serum proteins. In a food effect study, LATUDA mean C max and AUC were about 3-times and 2-times, respectively, when administered with food compared to the levels observed under fasting conditions. LATUDA exposure was not affected as meal size was increased from 350 to 1000 calories and was independent of meal fat content [ see Dosage and Administration ( 2.3 )] . In clinical studies, establishing the safety and efficacy of LATUDA, patients were instructed to take their daily dose with food [see Dosage and Administration ( 2.3 )] . Metabolism and Elimination: LATUDA is metabolized mainly via CYP3A4. The major biotransformation pathways are oxidative N -dealkylation, hydroxylation of norbornane ring, and S -oxidation. LATUDA is metabolized into two active metabolites (ID-14283 and ID-14326) and two major non-active metabolites (ID-20219 and ID-20220). Based on in vitro studies, LATUDA is not a substrate of CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP2E1 enzymes. Because LATUDA is not a substrate for CYP1A2, smoking is not expected to have an effect on the pharmacokinetics of LATUDA. Transporter proteins: In vitro studies suggest LATUDA is not a substrate of OATP1B1 or OATP1B3, however, is probably a substrate of P-gp and BCRP. In vitro studies indicate that LATUDA is not expected to inhibit transporters OATP1B1, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1, MATE2-K and BSEP at clinically relevant concentrations. LATUDA is not a clinically significant inhibitor of P-gp. However, it may inhibit BCRP. Total excretion of radioactivity in urine and feces combined was approximately 89%, with about 80% recovered in feces and 9% recovered in urine, after a single dose of [ 14 C]-labeled LATUDA. Following administration of 40 mg of LATUDA, the mean (%CV) apparent clearance was 3902 (18.0) mL/min. Drug Interaction Studies  Effects of other drugs on the exposure of lurasidone are summarized in Figure 1 . A population PK analyses concluded that coadministration of lithium 300-2400 mg/day or valproate 300-2000 mg/day with lurasidone for up to 6 weeks has minimal effect on lurasidone exposure. And the effects of LATUDA on the exposures of other drugs are summarized in Figure 2 . A population PK analyses concluded that coadministration of lurasidone has minimal effect on lithium and valproate exposure when it is coadministered with lithium 300-2400 mg/day or valproate 300-2000 mg/day. Figure 1: Impact of Other Drugs on LATUDA Pharmacokinetics  Figure 2: Impact of LATUDA on Other Drugs  Figure 1 Figure 2 Studies in Specific Populations  The effect of intrinsic patient factors on the pharmacokinetics of LATUDA is presented in Figure 3 . Pediatric Patients  LATUDA exposure (i.e., steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 to 160 mg, without adjusting for body weight. Figure 3: Impact of Other Patient Factors on LATUDA Pharmacokinetics  Figure 3</Section>
+</Text><Sentences>
+<Sentence id="3677" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Table 34: Clinically Important Drug Interactions with LATUDA Strong CYP3A4 Inhibitors Clinical Impact: Concomitant use of LATUDA with strong CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of LATUDA alone.</SentenceText>
+<Mention id="M1" type="Trigger" span="159 22" str="increased the exposure"/>
+<Mention id="M2" type="Precipitant" span="134 24" str="strong CYP3A4 inhibitors" code="n0000182141"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M1" precipitant="M2" effect="C54355"/>
+</Sentence>
+<Sentence id="3678" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Intervention: LATUDA should not be used concomitantly with strong CYP3A4 inhibitors.</SentenceText>
+<Mention id="M3" type="Trigger" span="21 18" str="should not be used"/>
+<Mention id="M4" type="Precipitant" span="59 24" str="strong CYP3A4 inhibitors" code="n0000182141"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="3679" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Examples: Ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil Moderate CYP3A4 Inhibitors Clinical Impact: Concomitant use of LATUDA with moderate CYP3A4 inhibitors increased the exposure of lurasidone compared to the use of LATUDA alone.</SentenceText>
+<Mention id="M5" type="Trigger" span="178 22" str="increased the exposure"/>
+<Mention id="M6" type="Precipitant" span="151 26" str="moderate CYP3A4 inhibitors" code="n0000182141"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M5" precipitant="M6" effect="C54355"/>
+</Sentence>
+<Sentence id="3680" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Intervention: LATUDA dose should be reduced to half of the original level when used concomitantly with moderate inhibitors of CYP3A4.</SentenceText>
+<Mention id="M7" type="Trigger" span="21 22" str="dose should be reduced"/>
+<Mention id="M8" type="Precipitant" span="103 29" str="moderate inhibitors of CYP3A4" code="NONE"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M7" precipitant="M8" effect="C54355"/>
+</Sentence>
+<Sentence id="3681" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Examples: Diltiazem, atazanavir, erythromycin, fluconazole, verapamil Strong CYP3A4 Inducers Clinical Impact: Concomitant use of LATUDA with strong CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone.</SentenceText>
+<Mention id="M9" type="Trigger" span="164 22" str="decreased the exposure"/>
+<Mention id="M10" type="Precipitant" span="141 22" str="strong CYP3A4 inducers" code="n0000185506"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M9" precipitant="M10" effect="C54356"/>
+</Sentence>
+<Sentence id="3682" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Intervention: LATUDA should not be used concomitantly with strong CYP3A4 inducers.</SentenceText>
+<Mention id="M11" type="Trigger" span="21 18" str="should not be used"/>
+<Mention id="M12" type="Precipitant" span="59 22" str="strong CYP3A4 inducers" code="n0000185506"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M11" precipitant="M12"/>
+</Sentence>
+<Sentence id="3683" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Examples: Rifampin, avasimibe, St. John’s wort, phenytoin, carbamazepine Moderate CYP3A4 Inducers Clinical Impact: Concomitant use of LATUDA with moderate CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone.</SentenceText>
+<Mention id="M13" type="Trigger" span="171 22" str="decreased the exposure"/>
+<Mention id="M14" type="Precipitant" span="146 24" str="moderate CYP3A4 inducers" code="NONE"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M13" precipitant="M14" effect="C54356"/>
+</Sentence>
+<Sentence id="3684" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Intervention: LATUDA dose should be increased when used concomitantly with moderate inducers of CYP3A4.</SentenceText>
+<Mention id="M15" type="Trigger" span="21 24" str="dose should be increased"/>
+<Mention id="M16" type="Precipitant" span="75 27" str="moderate inducers of CYP3A4" code="NONE"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M15" precipitant="M16" effect="C54356"/>
+</Sentence>
+<Sentence id="3685" LabelDrug="Latuda" section="34073-7">
+<SentenceText>Examples: Bosentan, efavirenz, etravirine, modafinil, nafcillin Based on pharmacokinetic studies, no dosage adjustment of LATUDA is required when administered concomitantly with lithium, valproate, or substrates of P-gp or CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="3686" LabelDrug="Latuda" section="34090-1">
+<SentenceText>The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unclear.</SentenceText>
+</Sentence>
+<Sentence id="3687" LabelDrug="Latuda" section="34090-1">
+<SentenceText>However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D2 and serotonin Type 2 (5HT2A) receptor antagonism.</SentenceText>
+</Sentence>
+<Sentence id="3688" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Lurasidone is an antagonist with high affinity binding at the dopamine D2 receptors (Ki of 1 nM) and the serotonin 5-HT2A (Ki of 0.5 nM) and 5-HT7 (Ki of 0.5 nM) receptors.</SentenceText>
+</Sentence>
+<Sentence id="3689" LabelDrug="Latuda" section="34090-1">
+<SentenceText>It also binds with moderate affinity to the human α2C adrenergic receptors (Ki=11 nM), is a partial agonist at serotonin 5-HT1A (Ki=6.4 nM) receptors, and is an antagonist at the α2A adrenergic receptors (Ki=41 nM).</SentenceText>
+</Sentence>
+<Sentence id="3690" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Lurasidone exhibits little or no affinity for histamine H1 and muscarinic M1 receptors (IC50 &gt; 1,000 nM).</SentenceText>
+</Sentence>
+<Sentence id="3691" LabelDrug="Latuda" section="34090-1">
+<SentenceText>ECG Changes The effects of LATUDA on the QTc interval were evaluated in a randomized, double-blind, multiple-dose, parallel-dedicated thorough QT study in 43 patients with schizophrenia or schizoaffective disorder, who were treated with LATUDA doses of 120 mg daily, 600 mg daily and completed the study.</SentenceText>
+</Sentence>
+<Sentence id="3692" LabelDrug="Latuda" section="34090-1">
+<SentenceText>The maximum mean (upper 1-sided, 95% CI) increase in baseline-adjusted QTc intervals based on individual correction method (QTcI) was 7.5 (11.7) ms and 4.6 (9.5) ms, for the 120 mg and 600 mg dose groups respectively, observed at 2 to 4 hours after dosing.</SentenceText>
+</Sentence>
+<Sentence id="3693" LabelDrug="Latuda" section="34090-1">
+<SentenceText>In this study, there was no apparent dose (exposure)-response relationship.</SentenceText>
+</Sentence>
+<Sentence id="3694" LabelDrug="Latuda" section="34090-1">
+<SentenceText>In short-term, placebo-controlled studies in schizophrenia and bipolar depression, no post-baseline QT prolongations exceeding 500 msec were reported in patients treated with LATUDA or placebo.</SentenceText>
+</Sentence>
+<Sentence id="3695" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Adults The activity of LATUDA is primarily due to the parent drug.</SentenceText>
+</Sentence>
+<Sentence id="3696" LabelDrug="Latuda" section="34090-1">
+<SentenceText>The pharmacokinetics of LATUDA is dose-proportional within a total daily dose range of 20 mg to 160 mg. Steady-state concentrations of LATUDA are reached within 7 days of starting LATUDA.</SentenceText>
+</Sentence>
+<Sentence id="3697" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Following administration of 40 mg of LATUDA, the mean (%CV) elimination half-life was 18 (7) hours.</SentenceText>
+</Sentence>
+<Sentence id="3698" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Absorption and Distribution: LATUDA is absorbed and reaches peak serum concentrations in approximately 1-3 hours.</SentenceText>
+</Sentence>
+<Sentence id="3699" LabelDrug="Latuda" section="34090-1">
+<SentenceText>It is estimated that 9-19% of an administered dose is absorbed.</SentenceText>
+</Sentence>
+<Sentence id="3700" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Following administration of 40 mg of LATUDA, the mean (%CV) apparent volume of distribution was 6173 (17.2) L. LATUDA is highly bound (~99%) to serum proteins.</SentenceText>
+</Sentence>
+<Sentence id="3701" LabelDrug="Latuda" section="34090-1">
+<SentenceText>In a food effect study, LATUDA mean Cmax and AUC were about 3-times and 2-times, respectively, when administered with food compared to the levels observed under fasting conditions.</SentenceText>
+<Mention id="M17" type="Trigger" span="36 4;60 7" str="Cmax | 3-times"/>
+<Mention id="M20" type="Precipitant" span="5 4" str="food" code="NOT_DRUG"/>
+<Mention id="M19" type="Trigger" span="45 3;72 7" str="AUC | 2-times"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M17" precipitant="M20" effect="C54610"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M19" precipitant="M20" effect="C54605"/>
+</Sentence>
+<Sentence id="3702" LabelDrug="Latuda" section="34090-1">
+<SentenceText>LATUDA exposure was not affected as meal size was increased from 350 to 1000 calories and was independent of meal fat content.</SentenceText>
+</Sentence>
+<Sentence id="3703" LabelDrug="Latuda" section="34090-1">
+<SentenceText>In clinical studies, establishing the safety and efficacy of LATUDA, patients were instructed to take their daily dose with food.</SentenceText>
+</Sentence>
+<Sentence id="3704" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Metabolism and Elimination: LATUDA is metabolized mainly via CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="3705" LabelDrug="Latuda" section="34090-1">
+<SentenceText>The major biotransformation pathways are oxidative N-dealkylation, hydroxylation of norbornane ring, and S-oxidation.</SentenceText>
+</Sentence>
+<Sentence id="3706" LabelDrug="Latuda" section="34090-1">
+<SentenceText>LATUDA is metabolized into two active metabolites (ID-14283 and ID-14326) and two major non-active metabolites (ID-20219 and ID-20220).</SentenceText>
+</Sentence>
+<Sentence id="3707" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Based on in vitro studies, LATUDA is not a substrate of CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP2E1 enzymes.</SentenceText>
+</Sentence>
+<Sentence id="3708" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Because LATUDA is not a substrate for CYP1A2, smoking is not expected to have an effect on the pharmacokinetics of LATUDA.</SentenceText>
+</Sentence>
+<Sentence id="3709" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Transporter proteins: In vitro studies suggest LATUDA is not a substrate of OATP1B1 or OATP1B3, however, is probably a substrate of P-gp and BCRP.</SentenceText>
+</Sentence>
+<Sentence id="3710" LabelDrug="Latuda" section="34090-1">
+<SentenceText>In vitro studies indicate that LATUDA is not expected to inhibit transporters OATP1B1, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1, MATE2-K and BSEP at clinically relevant concentrations.</SentenceText>
+</Sentence>
+<Sentence id="3711" LabelDrug="Latuda" section="34090-1">
+<SentenceText>LATUDA is not a clinically significant inhibitor of P-gp.</SentenceText>
+</Sentence>
+<Sentence id="3712" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Total excretion of radioactivity in urine and feces combined was approximately 89%, with about 80% recovered in feces and 9% recovered in urine, after a single dose of [14C]-labeled LATUDA.</SentenceText>
+</Sentence>
+<Sentence id="3713" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Following administration of 40 mg of LATUDA, the mean (%CV) apparent clearance was 3902 (18.0) mL/min.</SentenceText>
+</Sentence>
+<Sentence id="3714" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Drug Interaction Studies: Effects of other drugs on the exposure of asenapine are summarized in Figure 1.</SentenceText>
+</Sentence>
+<Sentence id="3715" LabelDrug="Latuda" section="34090-1">
+<SentenceText>A population PK analyses concluded that coadministration of lithium 300-2400 mg/day or valproate 300-2000 mg/day with lurasidone for up to 6 weeks has minimal effect on lurasidone exposure.</SentenceText>
+</Sentence>
+<Sentence id="3716" LabelDrug="Latuda" section="34090-1">
+<SentenceText>And the effects of Latuda on the exposures of other drugs are summarized in Figure2.</SentenceText>
+</Sentence>
+<Sentence id="3717" LabelDrug="Latuda" section="34090-1">
+<SentenceText>A population PK analyses concluded that coadministration of lurasidone has minimal effect on lithium and valproate exposure when it is coadministered with lithium 300-2400 mg/day or valproate 300-2000 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="3718" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Figure1: Impact of Other Drugs on LATUDA Pharmacokinetics</SentenceText>
+</Sentence>
+<Sentence id="3719" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Pediatric Patients LATUDA exposure (i.e., steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 to 160 mg, without adjusting for body weight.</SentenceText>
+</Sentence>
+<Sentence id="3720" LabelDrug="Latuda" section="34090-1">
+<SentenceText>Figure 3: Impact of Other Patient Factors on Latuda Pharmacokinetics</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp3a4 inhibitors" precipitantCode="n0000182141" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="strong cyp3a4 inhibitors" precipitantCode="n0000182141"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp3a4 inhibitors" precipitantCode="n0000182141" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate inhibitors of cyp3a4" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp3a4 inducers" precipitantCode="n0000185506" effect="C54356"/>
+<LabelInteraction type="Unspecified interaction" precipitant="strong cyp3a4 inducers" precipitantCode="n0000185506"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp3a4 inducers" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate inducers of cyp3a4" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="food" precipitantCode="NOT_DRUG" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="food" precipitantCode="NOT_DRUG" effect="C54610"/>
+
+</LabelInteractions></Label>

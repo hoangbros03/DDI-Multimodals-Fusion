@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Thiothixene" setid="827cf470-485d-4925-85f2-8933a6dea830">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Thiothixene is an antipsychotic of the thioxanthene series. Thiothixene possesses certain chemical and pharmacological similarities to the piperazine phenothiazines and differences from the aliphatic group of phenothiazines.</Section>
+</Text><Sentences>
+<Sentence id="3064" LabelDrug="Thiothixene" section="34073-7">
+<SentenceText>Hepatic microsomal enzyme inducing agents, such as carbamazepine, were found to significantly increase the clearance of thiothixene.</SentenceText>
+<Mention id="M3" type="Trigger" span="94 22" str="increase the clearance"/>
+<Mention id="M2" type="Precipitant" span="51 13" str="carbamazepine" code="N0000007470"/>
+<Mention id="M4" type="Precipitant" span="0 41" str="Hepatic microsomal enzyme inducing agents" code="NONE"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M3" precipitant="M2" effect="C54356"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M3" precipitant="M4" effect="C54356"/>
+</Sentence>
+<Sentence id="3065" LabelDrug="Thiothixene" section="34073-7">
+<SentenceText>Patients receiving these drugs should be observed for signs of reduced thiothixene effectiveness4,5.</SentenceText>
+</Sentence>
+<Sentence id="3066" LabelDrug="Thiothixene" section="34073-7">
+<SentenceText>Due to a possible additive effect with hypotensive agents, patients receiving these drugs should be observed closely for signs of excessive hypotension when thiothixene is added to their drug regimen6.</SentenceText>
+</Sentence>
+<Sentence id="3067" LabelDrug="Thiothixene" section="34090-1">
+<SentenceText>Thiothixene is an antipsychotic of the thioxanthene series.</SentenceText>
+</Sentence>
+<Sentence id="3068" LabelDrug="Thiothixene" section="34090-1">
+<SentenceText>Thiothixene possesses certain chemical and pharmacological similarities to the piperazine phenothiazines and differences from the aliphatic group of phenothiazines.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="N0000007470" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic microsomal enzyme inducing agents" precipitantCode="NONE" effect="C54356"/>
+
+</LabelInteractions></Label>

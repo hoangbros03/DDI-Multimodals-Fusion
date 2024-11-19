@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Norvasc" setid="abd6a2ca-40c2-485c-bc53-db1c652505ed">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+NORVASC is contraindicated in patients with known sensitivity to amlodipine.       Known sensitivity to amlodipine (4)</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+Adult recommended starting dose: 5 mg once daily with maximum dose 10 mg once daily. (2.1)  Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily. (2.1)   Pediatric starting dose: 2.5 mg to 5 mg once daily. (2.2)   Important Limitation: Doses in excess of 5 mg daily have not been studied in pediatric patients. (2.2)         The usual initial antihypertensive oral dose of NORVASC is 5 mg once daily, and the maximum dose is 10 mg once daily.  Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding NORVASC to other antihypertensive therapy. Adjust dosage according to blood pressure goals. In general, wait 7 to 14 days between titration steps. Titrate more rapidly, however, if clinically warranted, provided the patient is assessed frequently.         Angina: The recommended dose for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency. Most patients will require 10 mg for adequate effect.           Coronary artery disease: The recommended dose range for patients with coronary artery disease is 5–10 mg once daily. In clinical studies, the majority of patients required 10 mg [see Clinical Studies (14.4)].            The effective antihypertensive oral dose in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily. Doses in excess of 5 mg daily have not been studied in pediatric patients [see Clinical Pharmacology (12.4), Clinical Studies (14.1)].</Section>
+<Section name="DRUG &amp;amp; OR LABORATORY TEST INTERACTIONS SECTION" id="34074-5">
+None known.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Do not exceed doses greater than 20 mg daily of simvastatin. (7.7)            In vitro data indicate that NORVASC has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.          Co-administration of NORVASC with cimetidine did not alter the pharmacokinetics of NORVASC.          Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.          Co-administration of a magnesium and aluminum hydroxide antacid with a single dose of NORVASC had no significant effect on the pharmacokinetics of NORVASC.          A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of NORVASC. When NORVASC and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.          Co-administration of multiple 10 mg doses of NORVASC with 80 mg of atorvastatin resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.          Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.          Co-administration of NORVASC with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.          Single and multiple 10 mg doses of NORVASC had no significant effect on the pharmacokinetics of ethanol.          Co-administration of NORVASC with warfarin did not change the warfarin prothrombin response time.          Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure. Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure. However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A4 inhibitors.          No information is available on the quantitative effects of CYP3A4 inducers on amlodipine. Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A4 inducers.          A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.          None known.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. However, acute hypotension is unlikely. (5.1) Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of NORVASC, particularly in patients with severe obstructive coronary artery disease. (5.2)  Titrate slowly in patients with severe hepatic impairment. (5.3)          Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis. Because of the gradual onset of action, acute hypotension is unlikely.           Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of NORVASC, particularly in patients with severe obstructive coronary artery disease.          Because NORVASC is extensively metabolized by the liver and the plasma elimination half-life (t 1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering NORVASC to patients with severe hepatic impairment.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels. Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells. Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses. Serum calcium concentration is not affected by amlodipine. Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect. Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure. The precise mechanisms by which amlodipine relieves angina have not been fully delineated, but are thought to include the following:        Exertional Angina: In patients with exertional angina, NORVASC reduces the total peripheral resistance (afterload) against which the heart works and reduces the rate pressure product, and thus myocardial oxygen demand, at any given level of exercise.          Vasospastic Angina: NORVASC has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro. This inhibition of coronary spasm is responsible for the effectiveness of NORVASC in vasospastic (Prinzmetal's or variant) angina.                 Hemodynamics: Following administration of therapeutic doses to patients with hypertension, NORVASC produces vasodilation resulting in a reduction of supine and standing blood pressures. These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing. Although the acute intravenous administration of amlodipine decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina. With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours. Plasma concentrations correlate with effect in both young and elderly patients. The magnitude of reduction in blood pressure with NORVASC is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105–114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90–104 mmHg). Normotensive subjects experienced no clinically significant change in blood pressures (+1/–2 mmHg). In hypertensive patients with normal renal function, therapeutic doses of NORVASC resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria. As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with NORVASC have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume. In hemodynamic studies, NORVASC has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man. Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.          Electrophysiologic Effects: NORVASC does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man. In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing. Similar results were obtained in patients receiving NORVASC and concomitant beta-blockers. In clinical studies in which NORVASC was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed. In clinical trials with angina patients alone, NORVASC therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.            After oral administration of therapeutic doses of NORVASC, absorption produces peak plasma concentrations between 6 and 12 hours. Absolute bioavailability has been estimated to be between 64 and 90%. The bioavailability of NORVASC is not altered by the presence of food. Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine. Ex vivo studies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients. Elimination from the plasma is biphasic with a terminal elimination half-life of about 30–50 hours. Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing. The pharmacokinetics of amlodipine are not significantly influenced by renal impairment. Patients with renal failure may therefore receive the usual initial dose. Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose may be required. A similar increase in AUC was observed in patients with moderate to severe heart failure.          Sixty-two hypertensive patients aged 6 to 17 years received doses of NORVASC between 1.25 mg and 20 mg. Weight-adjusted clearance and volume of distribution were similar to values in adults.</Section>
+</Text><Sentences>
+<Sentence id="4937" LabelDrug="Norvasc" section="34070-3">
+<SentenceText>NORVASC is contraindicated in patients with known sensitivity to amlodipine.</SentenceText>
+</Sentence>
+<Sentence id="4938" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Adult recommended starting dose: 5 mg once daily with maximum dose 10 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="4939" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="4940" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Pediatric starting dose: 2.5 mg to 5 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="4941" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Important Limitation: Doses in excess of 5 mg daily have not been studied in pediatric patients.</SentenceText>
+</Sentence>
+<Sentence id="4942" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>The usual initial antihypertensive oral dose of NORVASC is 5 mg once daily, and the maximum dose is 10 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="4943" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding NORVASC to other antihypertensive therapy.</SentenceText>
+</Sentence>
+<Sentence id="4944" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Adjust dosage according to blood pressure goals.</SentenceText>
+</Sentence>
+<Sentence id="4945" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>In general, wait 7 to 14 days between titration steps.</SentenceText>
+</Sentence>
+<Sentence id="4946" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Titrate more rapidly, however, if clinically warranted, provided the patient is assessed frequently.</SentenceText>
+</Sentence>
+<Sentence id="4947" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Angina: The recommended dose for chronic stable or vasospastic angina is 5–10 mg, with the lower dose suggested in the elderly and in patients with hepatic insufficiency.</SentenceText>
+</Sentence>
+<Sentence id="4948" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Most patients will require 10 mg for adequate effect.</SentenceText>
+</Sentence>
+<Sentence id="4949" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Coronary artery disease: The recommended dose range for patients with coronary artery disease is 5–10 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="4950" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>In clinical studies, the majority of patients required 10 mg.</SentenceText>
+</Sentence>
+<Sentence id="4951" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>The effective antihypertensive oral dose in pediatric patients ages 6–17 years is 2.5 mg to 5 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="4952" LabelDrug="Norvasc" section="34068-7">
+<SentenceText>Doses in excess of 5 mg daily have not been studied in pediatric patients.</SentenceText>
+</Sentence>
+<Sentence id="4953" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Do not exceed doses greater than 20 mg daily of simvastatin.</SentenceText>
+</Sentence>
+<Sentence id="4954" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.</SentenceText>
+<Mention id="M1" type="Trigger" span="90 27;148 14" str="increased systemic exposure | dose reduction"/>
+<Mention id="M2" type="Precipitant" span="40 16" str="CYP3A inhibitors" code="N0000191001"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M1" precipitant="M2" effect="C54355"/>
+</Sentence>
+<Sentence id="4955" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment.</SentenceText>
+<Mention id="M6" type="Trigger" span="0 7" str="Monitor"/>
+<Mention id="M7" type="Precipitant" span="86 16" str="CYP3A inhibitors" code="N0000191001"/>
+<Mention id="M5" type="SpecificInteraction" span="40 5" str="edema" code="267038008: Edema (finding)"/>
+<Mention id="M8" type="SpecificInteraction" span="24 11" str="hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M6" precipitant="M7" effect="M5"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M6" precipitant="M7" effect="M8"/>
+</Sentence>
+<Sentence id="4956" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>CYP3A Inducers No information is available on the quantitative effects of CYP3A inducers on amlodipine.</SentenceText>
+</Sentence>
+<Sentence id="4957" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.</SentenceText>
+<Mention id="M9" type="Trigger" span="15 27" str="should be closely monitored"/>
+<Mention id="M10" type="Precipitant" span="83 14" str="CYP3A inducers" code="N0000190118"/>
+<Mention id="M11" type="SpecificInteraction" span="0 14" str="Blood pressure" code="38936003: Abnormal blood pressure (finding)"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M9" precipitant="M10" effect="M11"/>
+</Sentence>
+<Sentence id="4958" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Sildenafil Monitor for hypotension when sildenafil is co-administered with amlodipine.</SentenceText>
+<Mention id="M12" type="Trigger" span="11 7" str="Monitor"/>
+<Mention id="M13" type="Precipitant" span="40 10" str="sildenafil" code="3M7OB98Y7H"/>
+<Mention id="M14" type="SpecificInteraction" span="23 11" str="hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M12" precipitant="M13" effect="M14"/>
+</Sentence>
+<Sentence id="4959" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Simvastatin Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.</SentenceText>
+<Mention id="M15" type="Trigger" span="61 31" str="increases the systemic exposure"/>
+<Mention id="M16" type="Precipitant" span="33 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M15" precipitant="M16" effect="C54357"/>
+</Sentence>
+<Sentence id="4960" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.</SentenceText>
+<Mention id="M17" type="Trigger" span="0 14" str="Limit the dose"/>
+<Mention id="M18" type="Precipitant" span="18 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M17" precipitant="M18" effect="C54357"/>
+</Sentence>
+<Sentence id="4961" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Immunosuppressants Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.</SentenceText>
+<Mention id="M21" type="Trigger" span="34 30" str="increase the systemic exposure"/>
+<Mention id="M20" type="Precipitant" span="68 12" str="cyclosporine" code="83HN0GTJ6D"/>
+<Mention id="M22" type="Precipitant" span="84 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M21" precipitant="M20" effect="C54357"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M21" precipitant="M22" effect="C54357"/>
+</Sentence>
+<Sentence id="4962" LabelDrug="Norvasc" section="34073-7">
+<SentenceText>Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate.</SentenceText>
+<Mention id="M26" type="Trigger" span="0 19" str="Frequent monitoring "/>
+<Mention id="M27" type="Trigger" span="93 15" str=" adjust the dose"/>
+<Mention id="M25" type="Precipitant" span="46 12" str="cyclosporine" code="83HN0GTJ6D"/>
+<Mention id="M28" type="Precipitant" span="63 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Interaction id="I10" type="Unspecified interaction" trigger="M26;M27" precipitant="M25"/>
+<Interaction id="I11" type="Unspecified interaction" trigger="M26;M27" precipitant="M28"/>
+</Sentence>
+<Sentence id="4963" LabelDrug="Norvasc" section="43685-7">
+<SentenceText>Symptomatic hypotension is possible, particularly in patients with severe aortic stenosis.</SentenceText>
+</Sentence>
+<Sentence id="4964" LabelDrug="Norvasc" section="43685-7">
+<SentenceText>Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of NORVASC, particularly in patients with severe obstructive coronary artery disease.</SentenceText>
+</Sentence>
+<Sentence id="4965" LabelDrug="Norvasc" section="43685-7">
+<SentenceText>Titrate slowly in patients with severe hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="4966" LabelDrug="Norvasc" section="43685-7">
+<SentenceText>Because of the gradual onset of action, acute hypotension is unlikely.</SentenceText>
+</Sentence>
+<Sentence id="4967" LabelDrug="Norvasc" section="43685-7">
+<SentenceText>Because NORVASC is extensively metabolized by the liver and the plasma elimination half-life (t 1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering NORVASC to patients with severe hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="4968" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle.</SentenceText>
+</Sentence>
+<Sentence id="4969" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites.</SentenceText>
+</Sentence>
+<Sentence id="4970" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels.</SentenceText>
+</Sentence>
+<Sentence id="4971" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells.</SentenceText>
+</Sentence>
+<Sentence id="4972" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses.</SentenceText>
+</Sentence>
+<Sentence id="4973" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Serum calcium concentration is not affected by amlodipine.</SentenceText>
+</Sentence>
+<Sentence id="4974" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.</SentenceText>
+</Sentence>
+<Sentence id="4975" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure.</SentenceText>
+</Sentence>
+<Sentence id="4976" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>The precise mechanisms by which amlodipine relieves angina have not been fully delineated, but are thought to include the following: Exertional Angina: In patients with exertional angina, NORVASC reduces the total peripheral resistance (afterload) against which the heart works and reduces the rate pressure product, and thus myocardial oxygen demand, at any given level of exercise.</SentenceText>
+</Sentence>
+<Sentence id="4977" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Vasospastic Angina: NORVASC has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro.</SentenceText>
+</Sentence>
+<Sentence id="4978" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>This inhibition of coronary spasm is responsible for the effectiveness of NORVASC in vasospastic (Prinzmetal's or variant) angina.</SentenceText>
+</Sentence>
+<Sentence id="4979" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Hemodynamics: Following administration of therapeutic doses to patients with hypertension, NORVASC produces vasodilation resulting in a reduction of supine and standing blood pressures.</SentenceText>
+</Sentence>
+<Sentence id="4980" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.</SentenceText>
+</Sentence>
+<Sentence id="4981" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Although the acute intravenous administration of amlodipine decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.</SentenceText>
+</Sentence>
+<Sentence id="4982" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.</SentenceText>
+</Sentence>
+<Sentence id="4983" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Plasma concentrations correlate with effect in both young and elderly patients.</SentenceText>
+</Sentence>
+<Sentence id="4984" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>The magnitude of reduction in blood pressure with NORVASC is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105–114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90–104 mmHg).</SentenceText>
+</Sentence>
+<Sentence id="4985" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Normotensive subjects experienced no clinically significant change in blood pressures (+1/–2 mmHg).</SentenceText>
+</Sentence>
+<Sentence id="4986" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>In hypertensive patients with normal renal function, therapeutic doses of NORVASC resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.</SentenceText>
+</Sentence>
+<Sentence id="4987" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with NORVASC have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.</SentenceText>
+</Sentence>
+<Sentence id="4988" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>In hemodynamic studies, NORVASC has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.</SentenceText>
+</Sentence>
+<Sentence id="4989" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.</SentenceText>
+</Sentence>
+<Sentence id="4990" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Electrophysiologic Effects: NORVASC does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.</SentenceText>
+</Sentence>
+<Sentence id="4991" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.</SentenceText>
+</Sentence>
+<Sentence id="4992" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Similar results were obtained in patients receiving NORVASC and concomitant beta-blockers.</SentenceText>
+</Sentence>
+<Sentence id="4993" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>In clinical studies in which NORVASC was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.</SentenceText>
+</Sentence>
+<Sentence id="4994" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>In clinical trials with angina patients alone, NORVASC therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.</SentenceText>
+</Sentence>
+<Sentence id="4995" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Drug interactions Sildenafil : When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.</SentenceText>
+</Sentence>
+<Sentence id="4996" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>After oral administration of therapeutic doses of NORVASC, absorption produces peak plasma concentrations between 6 and 12 hours.</SentenceText>
+</Sentence>
+<Sentence id="4997" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Absolute bioavailability has been estimated to be between 64 and 90%.</SentenceText>
+</Sentence>
+<Sentence id="4998" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>The bioavailability of NORVASC is not altered by the presence of food.</SentenceText>
+</Sentence>
+<Sentence id="4999" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.</SentenceText>
+</Sentence>
+<Sentence id="5000" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Ex vivo studies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.</SentenceText>
+</Sentence>
+<Sentence id="5001" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Elimination from the plasma is biphasic with a terminal elimination half-life of about 30–50 hours.</SentenceText>
+</Sentence>
+<Sentence id="5002" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.</SentenceText>
+</Sentence>
+<Sentence id="5003" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.</SentenceText>
+</Sentence>
+<Sentence id="5004" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Patients with renal failure may therefore receive the usual initial dose.</SentenceText>
+</Sentence>
+<Sentence id="5005" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose may be required.</SentenceText>
+</Sentence>
+<Sentence id="5006" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>A similar increase in AUC was observed in patients with moderate to severe heart failure.</SentenceText>
+</Sentence>
+<Sentence id="5007" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Drug interactions In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.</SentenceText>
+</Sentence>
+<Sentence id="5008" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Impact of other drugs on amlodipine Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.</SentenceText>
+</Sentence>
+<Sentence id="5009" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.</SentenceText>
+<Mention id="M31" type="Trigger" span="144 8;167 17" str="increase | systemic exposure"/>
+<Mention id="M30" type="Precipitant" span="0 16" str="CYP3A inhibitors" code="N0000191001"/>
+<Mention id="M32" type="Precipitant" span="62 9" str="diltiazem" code="EE92BBP03H"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M31" precipitant="M30" effect="C54355"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M31" precipitant="M32" effect="C54355"/>
+</Sentence>
+<Sentence id="5010" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.</SentenceText>
+</Sentence>
+<Sentence id="5011" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent.</SentenceText>
+<Mention id="M37" type="Trigger" span="77 34" str="increase the plasma concentrations"/>
+<Mention id="M34" type="Precipitant" span="57 14" str="clarithromycin" code="H1250JIK0A"/>
+<Mention id="M36" type="Precipitant" span="43 12" str="itraconazole" code="304NUG5GF4"/>
+<Mention id="M38" type="Precipitant" span="9 26" str="strong inhibitors of CYP3A" code="N0000191001"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M37" precipitant="M34" effect="C54355"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M37" precipitant="M36" effect="C54355"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M37" precipitant="M38" effect="C54355"/>
+</Sentence>
+<Sentence id="5012" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Impact of amlodipine on other drugs Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates.</SentenceText>
+<Mention id="M39" type="Trigger" span="84 17" str="increase exposure"/>
+<Mention id="M40" type="Precipitant" span="105 16" str="CYP3A substrates" code="NO MAP"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M39" precipitant="M40" effect="C54355"/>
+</Sentence>
+<Sentence id="5013" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.</SentenceText>
+</Sentence>
+<Sentence id="5014" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.</SentenceText>
+<Mention id="M41" type="Trigger" span="113 20" str="increase in exposure"/>
+<Mention id="M42" type="Precipitant" span="83 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M41" precipitant="M42" effect="C54357"/>
+</Sentence>
+<Sentence id="5015" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine.</SentenceText>
+<Mention id="M43" type="Trigger" span="98 18;130 6" str="increase in trough | levels"/>
+<Mention id="M44" type="Precipitant" span="117 12" str="cyclosporine" code="83HN0GTJ6D"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M43" precipitant="M44" effect="C54357"/>
+</Sentence>
+<Sentence id="5016" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.</SentenceText>
+<Mention id="M45" type="Trigger" span="115 8;138 8" str="increase | exposure"/>
+<Mention id="M46" type="Precipitant" span="127 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M45" precipitant="M46" effect="C54357"/>
+</Sentence>
+<Sentence id="5017" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>This finding was not observed in CYP3A5 non-expressers (N= 6).</SentenceText>
+</Sentence>
+<Sentence id="5018" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.</SentenceText>
+<Mention id="M47" type="Trigger" span="18 27" str="increase in plasma exposure "/>
+<Mention id="M48" type="Trigger" span="206 9;230 4" str=" reduction | dose"/>
+<Mention id="M49" type="Precipitant" span="49 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M47;M48" precipitant="M49" effect="C54357"/>
+</Sentence>
+<Sentence id="5019" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs.</SentenceText>
+</Sentence>
+<Sentence id="5020" LabelDrug="Norvasc" section="34090-1">
+<SentenceText>Sixty-two hypertensive patients aged 6 to 17 years received doses of NORVASC between 1.25 mg and 20 mg. Weight-adjusted clearance and volume of distribution were similar to values in adults.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp3a inhibitors" precipitantCode="N0000191001" effect="267038008: Edema (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp3a inhibitors" precipitantCode="N0000191001" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a inhibitors" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp3a inducers" precipitantCode="N0000190118" effect="38936003: Abnormal blood pressure (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sildenafil" precipitantCode="3M7OB98Y7H" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="simvastatin" precipitantCode="AGG2FN16EV" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyclosporine" precipitantCode="83HN0GTJ6D" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyclosporine" precipitantCode="83HN0GTJ6D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tacrolimus" precipitantCode="WM0HAQ4WNM" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="tacrolimus" precipitantCode="WM0HAQ4WNM"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="diltiazem" precipitantCode="EE92BBP03H" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="clarithromycin" precipitantCode="H1250JIK0A" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="itraconazole" precipitantCode="304NUG5GF4" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong inhibitors of cyp3a" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a substrates" precipitantCode="NO MAP" effect="C54355"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Amoxapine" setid="a16297df-3158-48db-85e5-5cd506885556">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Amoxapine is an antidepressant with a mild sedative component to its action. The mechanism of its clinical action in man is not well understood. In animals, amoxapine reduced the uptake of norepinephrine and serotonin and blocked the response of dopamine receptors to dopamine. Amoxapine is not a monoamine oxidase inhibitor.  Amoxapine is absorbed rapidly and reaches peak blood levels approximately 90 minutes after ingestion. It is almost completely metabolized. The main route of excretion is the kidney. In vitro tests show that amoxapine binding to human serum is approximately 90%.  In man, amoxapine serum concentration declines with a half-life of eight hours. However, the major metabolite, 8-hydroxyamoxapine, has a biologic half-life of 30 hours. Metabolites are excreted in the urine in conjugated form as glucuronides.  Clinical studies have demonstrated that amoxapine has a more rapid onset of action than either amitriptyline or imipramine. The initial clinical effect may occur within four to seven days and occurs within two weeks in over 80% of responders.</Section>
+</Text><Sentences>
+<Sentence id="3401" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>See CONTRAINDICATIONS about concurrent usage of tricyclic antidepressants and monoamine oxidase inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="3402" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic drugs.</SentenceText>
+</Sentence>
+<Sentence id="3403" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Amoxapine may enhance the response to alcohol and the effects of barbiturates and other CNS depressants.</SentenceText>
+</Sentence>
+<Sentence id="3404" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Serum levels of several tricyclic antidepressants have been reported to be significantly increased when cimetidine is administered concurrently.</SentenceText>
+</Sentence>
+<Sentence id="3405" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Although such an interaction has not been reported to date with amoxapine, specific interaction studies have not been done, and the possibility should be considered.</SentenceText>
+</Sentence>
+<Sentence id="3406" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="3407" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="3408" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="3409" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="3410" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="3411" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="3412" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="3413" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+</Sentence>
+<Sentence id="3414" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+</Sentence>
+<Sentence id="3415" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+</Sentence>
+<Sentence id="3416" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+</Sentence>
+<Sentence id="3417" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="3418" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+</Sentence>
+<Sentence id="3419" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Amoxapine is an antidepressant with a mild sedative component to its action.</SentenceText>
+</Sentence>
+<Sentence id="3420" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>The mechanism of its clinical action in man is not well understood.</SentenceText>
+</Sentence>
+<Sentence id="3421" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>In animals, amoxapine reduced the uptake of norepinephrine and serotonin and blocked the response of dopamine receptors to dopamine.</SentenceText>
+</Sentence>
+<Sentence id="3422" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Amoxapine is not a monoamine oxidase inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="3423" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Amoxapine is absorbed rapidly and reaches peak blood levels approximately 90 minutes after ingestion.</SentenceText>
+</Sentence>
+<Sentence id="3424" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>The main route of excretion is the kidney.</SentenceText>
+</Sentence>
+<Sentence id="3425" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>In vitro tests show that amoxapine binding to human serum is approximately 90%.</SentenceText>
+</Sentence>
+<Sentence id="3426" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>In man, amoxapine serum concentration declines with a half-life of eight hours.</SentenceText>
+</Sentence>
+<Sentence id="3427" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>However, the major metabolite, 8-hydroxyamoxapine, has a biologic half-life of 30 hours.</SentenceText>
+</Sentence>
+<Sentence id="3428" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Metabolites are excreted in the urine in conjugated form as glucuronides.</SentenceText>
+</Sentence>
+<Sentence id="3429" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Clinical studies have demonstrated that amoxapine has a more rapid onset of action than either amitriptyline or imipramine.</SentenceText>
+</Sentence>
+<Sentence id="3430" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>The initial clinical effect may occur within four to seven days and occurs within two weeks in over 80% of responders.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

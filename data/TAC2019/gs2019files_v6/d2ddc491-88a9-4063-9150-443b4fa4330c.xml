@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Actos" setid="d2ddc491-88a9-4063-9150-443b4fa4330c">
+<Text><Section name="Boxed Warning section" id="34066-1">
+• Thiazolidinediones, including ACTOS, cause or exacerbate congestive heart failure in some patients [see Warnings and Precautions (5.1) ] . • After initiation of ACTOS, and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema). If heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOS must be considered. • ACTOS is not recommended in patients with symptomatic heart failure. • Initiation of ACTOS in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1) ] . WARNING: CONGESTIVE HEART FAILURE See full prescribing information for complete boxed warning. • Thiazolidinediones, including ACTOS, cause or exacerbate congestive heart failure in some patients. ( 5.1 ) • After initiation of ACTOS, and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema). If heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOS must be considered. ( 5.1 ) • ACTOS is not recommended in patients with symptomatic heart failure. ( 5.1 ) • Initiation of ACTOS in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated. ( 4 , 5.1 )</Section>
+<Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+• Initiation in patients with established NYHA Class III or IV heart failure [see Boxed Warning ] . • Use in patients with known hypersensitivity to pioglitazone or any other component of ACTOS. • Initiation in patients with established New York Heart Association (NYHA) Class III or IV heart failure [see Boxed Warning ] . ( 4 ) • Use in patients with known hypersensitivity to pioglitazone or any other component of ACTOS. ( 4 )</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+• Initiate ACTOS at 15 mg or 30 mg once daily. Limit initial dose to 15 mg once daily in patients with NYHA Class I or II heart failure. ( 2.1 ) • If there is inadequate glycemic control, the dose can be increased in 15 mg increments up to a maximum of 45 mg once daily. ( 2.1 ) • Obtain liver tests before starting ACTOS. If abnormal, use caution when treating with ACTOS, investigate the probable cause, treat (if possible) and follow appropriately. Monitoring liver tests while on ACTOS is not recommended in patients without liver disease. ( 5.3 ) ACTOS should be taken once daily and can be taken without regard to meals. The recommended starting dose for patients without congestive heart failure is 15 mg or 30 mg once daily. The recommended starting dose for patients with congestive heart failure (NYHA Class I or II) is 15 mg once daily. The dose can be titrated in increments of 15 mg up to a maximum of 45 mg once daily based on glycemic response as determined by HbA1c. After initiation of ACTOS or with dose increase, monitor patients carefully for adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure [see Boxed Warning and Warnings and Precautions (5.5) ] . Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating ACTOS. Routine periodic monitoring of liver tests during treatment with ACTOS is not recommended in patients without liver disease. Patients who have liver test abnormalities prior to initiation of ACTOS or who are found to have abnormal liver tests while taking ACTOS should be managed as described under Warnings and Precautions [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3) ] . If hypoglycemia occurs in a patient co-administered ACTOS and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced. If hypoglycemia occurs in a patient co-administered ACTOS and insulin, the dose of insulin should be decreased by 10% to 25%. Further adjustments to the insulin dose should be individualized based on glycemic response. Coadministration of ACTOS and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold. Therefore, the maximum recommended dose of ACTOS is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Drug Interactions (7.1) and Clinical Pharmacology (12.3) ].</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+• Strong CYP2C8 inhibitors (e.g., gemfibrozil) increase pioglitazone concentrations. Limit ACTOS dose to 15 mg daily. ( 2.3 , 7.1 ) • CYP2C8 inducers (e.g., rifampin) may decrease pioglitazone concentrations. ( 7.2 ) • Topiramate may decrease pioglitazone concentrations. ( 7.3 ) An inhibitor of CYP2C8 (e.g., gemfibrozil) significantly increases the exposure (area under the serum concentration-time curve or AUC) and half-life (t 1/2 ) of pioglitazone. Therefore, the maximum recommended dose of ACTOS is 15 mg daily if used in combination with gemfibrozil or other strong CYP2C8 inhibitors [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3) ]. An inducer of CYP2C8 (e.g., rifampin) may significantly decrease the exposure (AUC) of pioglitazone. Therefore, if an inducer of CYP2C8 is started or stopped during treatment with ACTOS, changes in diabetes treatment may be needed based on clinical response without exceeding the maximum recommended daily dose of 45 mg for ACTOS [see Clinical Pharmacology (12.3) ] . A decrease in the exposure of pioglitazone and its active metabolites were noted with concomitant administration of pioglitazone and topiramate [see Clinical Pharmacology (12.3) ] . The clinical relevance of this decrease is unknown; however, when ACTOS and topiramate are used concomitantly, monitor patients for adequate glycemic control.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+• Congestive heart failure: Fluid retention may occur and can exacerbate or lead to congestive heart failure. Combination use with insulin and use in congestive heart failure NYHA Class I and II may increase risk. Monitor patients for signs and symptoms. ( 5.1 ) • Hypoglycemia: When used with insulin or an insulin secretagogue, a lower dose of the insulin or insulin secretagogue may be needed to reduce the risk of hypoglycemia. ( 5.2 ) • Hepatic effects: Postmarketing reports of hepatic failure, sometimes fatal. Causality cannot be excluded. If liver injury is detected, promptly interrupt ACTOS and assess patient for probable cause, then treat cause if possible, to resolution or stabilization. Do not restart ACTOS if liver injury is confirmed and no alternate etiology can be found. ( 5.3 ) • Bladder cancer: May increase the risk of bladder cancer. Do not use in patients with active bladder cancer. Use caution when using in patients with a prior history of bladder cancer. ( 5.4 ) • Edema: Dose-related edema may occur. ( 5.5 ) • Fractures: Increased incidence in female patients. Apply current standards of care for assessing and maintaining bone health. ( 5.6 ) • Macular edema: Postmarketing reports. Recommend regular eye exams in all patients with diabetes according to current standards of care with prompt evaluation for acute visual changes. ( 5.7 ) • Macrovascular outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS. ( 5.8 ) ACTOS, like other thiazolidinediones, can cause dose-related fluid retention when used alone or in combination with other antidiabetic medications and is most common when ACTOS is used in combination with insulin. Fluid retention may lead to or exacerbate congestive heart failure. Patients should be observed for signs and symptoms of congestive heart failure. If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOS must be considered [see Boxed Warning , Contraindications (4) , and Adverse Reactions (6.1) ] . Patients receiving ACTOS in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia. A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia [see Dosage and Administration (2.2) ] . There have been postmarketing reports of fatal and non-fatal hepatic failure in patients taking ACTOS, although the reports contain insufficient information necessary to establish the probable cause. There has been no evidence of drug-induced hepatotoxicity in the ACTOS controlled clinical trial database to date [see Adverse Reactions (6.1) ] . Patients with type 2 diabetes may have fatty liver disease or cardiac disease with episodic congestive heart failure, both of which may cause liver test abnormalities, and they may also have other forms of liver disease, many of which can be treated or managed. Therefore, obtaining a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) and assessing the patient is recommended before initiating ACTOS therapy. In patients with abnormal liver tests, ACTOS should be initiated with caution. Measure liver tests promptly in patients who report symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice. In this clinical context, if the patient is found to have abnormal liver tests (ALT greater than 3 times the upper limit of the reference range), ACTOS treatment should be interrupted and investigation done to establish the probable cause. ACTOS should not be restarted in these patients without another explanation for the liver test abnormalities. Patients who have serum ALT greater than three times the reference range with serum total bilirubin greater than two times the reference range without alternative etiologies are at risk for severe drug-induced liver injury, and should not be restarted on ACTOS. For patients with lesser elevations of serum ALT or bilirubin and with an alternate probable cause, treatment with ACTOS can be used with caution. Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [ see Nonclinical Toxicology (13.1) ] . In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to ACTOS and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer. After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on ACTOS and two (0.08%) cases on placebo. After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to ACTOS. During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to ACTOS or placebo (HR =1.00; [95% CI: 0.59−1.72]). Findings regarding the risk of bladder cancer in patients exposed to ACTOS vary among observational studies; some did not find an increased risk of bladder cancer associated with ACTOS, while others did. A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to ACTOS, compared to those never exposed to ACTOS (HR =1.06 [95% CI 0.89−1.26]). A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to ACTOS and bladder cancer (HR: 1.63; [95% CI: 1.22−2.19]). Associations between cumulative dose or cumulative duration of exposure to ACTOS and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others. Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data. ACTOS may be associated with an increase in the risk of urinary bladder tumors. There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors. Consequently, ACTOS should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOS should be considered in patients with a prior history of bladder cancer. In controlled clinical trials, edema was reported more frequently in patients treated with ACTOS than in placebo-treated patients and is dose-related [see Adverse Reactions (6.1 )] . In postmarketing experience, reports of new onset or worsening edema have been received. ACTOS should be used with caution in patients with edema. Because thiazolidinediones, including ACTOS, can cause fluid retention, which can exacerbate or lead to congestive heart failure, ACTOS should be used with caution in patients at risk for congestive heart failure. Patients treated with ACTOS should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1) and Patient Counseling Information (17) ] . In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to ACTOS (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care. During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for ACTOS versus 2.5% (23/905) for placebo. This difference was noted after the first year of treatment and persisted during the course of the study. The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb. No increase in the incidence of fracture was observed in men treated with ACTOS (1.7%) versus placebo (2.1%). The risk of fracture should be considered in the care of patients, especially female patients, treated with ACTOS and attention should be given to assessing and maintaining bone health according to current standards of care. Macular edema has been reported in postmarketing experience in diabetic patients who were taking ACTOS or another thiazolidinedione. Some patients presented with blurred vision or decreased visual acuity, but others were diagnosed on routine ophthalmologic examination. Most patients had peripheral edema at the time macular edema was diagnosed. Some patients had improvement in their macular edema after discontinuation of the thiazolidinedione. Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care. Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings [see Adverse Reactions (6.1) ] . There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. Pioglitazone is not an insulin secretagogue. Pioglitazone is an agonist for peroxisome proliferator-activated receptor-gamma (PPARγ). PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle, and liver. Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin responsive genes involved in the control of glucose and lipid metabolism. In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia, and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes. The metabolic changes produced by pioglitazone result in increased responsiveness of insulin-dependent tissues and are observed in numerous animal models of insulin resistance. Because pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin. Clinical studies demonstrate that ACTOS improves insulin sensitivity in insulin-resistant patients. ACTOS enhances cellular responsiveness to insulin, increases insulin-dependent glucose disposal and improves hepatic sensitivity to insulin. In patients with type 2 diabetes, the decreased insulin resistance produced by ACTOS results in lower plasma glucose concentrations, lower plasma insulin concentrations, and lower HbA1c values. In controlled clinical trials, ACTOS had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin, or insulin [see Clinical Studies (14.2) ] . Patients with lipid abnormalities were included in clinical trials with ACTOS. Overall, patients treated with ACTOS had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol. There is no conclusive evidence of macrovascular benefit with ACTOS [see Warnings and Precautions (5.8) and Adverse Reactions (6.1) ] . In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg ACTOS dose groups compared to a mean increase in the placebo group. Mean HDL cholesterol increased to a greater extent in patients treated with ACTOS than in the placebo-treated patients. There were no consistent differences for LDL and total cholesterol in patients treated with ACTOS compared to placebo (see Table 14) . Table 14. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study Placebo ACTOS 15 mg Once Daily ACTOS 30 mg Once Daily ACTOS 45 mg Once Daily Triglycerides (mg/dL) N=79 N=79 N=84 N=77 Baseline (mean) 263 284 261 260 Percent change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction ) 4.8% -9.0% p&amp;lt;0.05 versus placebo -9.6% -9.3% HDL Cholesterol (mg/dL) N=79 N=79 N=83 N=77 Baseline (mean) 42 40 41 41 Percent change from baseline (adjusted mean ) 8.1% 14.1% 12.2% 19.1% LDL Cholesterol (mg/dL) N=65 N=63 N=74 N=62 Baseline (mean) 139 132 136 127 Percent change from baseline (adjusted mean ) 4.8% 7.2% 5.2% 6.0% Total Cholesterol (mg/dL) N=79 N=79 N=84 N=77 Baseline (mean) 225 220 223 214 Percent change from baseline (adjusted mean ) 4.4% 4.6% 3.3% 6.4% In the two other monotherapy studies (16 weeks and 24 weeks) and in combination therapy studies with sulfonylurea (16 weeks and 24 weeks), metformin (16 weeks and 24 weeks) or insulin (16 weeks and 24 weeks), the results were generally consistent with the data above. Following once-daily administration of ACTOS, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days. At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone. At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC. C max , AUC, and trough serum concentrations (C min ) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day. Absorption Following oral administration of pioglitazone, T max of pioglitazone was within two hours. Food delays the T max to three to four hours but does not alter the extent of absorption (AUC). Distribution The mean apparent volume of distribution (Vd/F) of pioglitazone following single-dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight. Pioglitazone is extensively protein bound (&amp;gt;99%) in human serum, principally to serum albumin. Pioglitazone also binds to other serum proteins, but with lower affinity. M-III and M-IV are also extensively bound (&amp;gt;98%) to serum albumin. Metabolism Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates. Metabolites M-III and M-IV are the major circulating active metabolites in humans. In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone, which include CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1. In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate [see Dosage and Administration (2.3) and Drug Interactions (7) ] . Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with ACTOS showed that pioglitazone is not a strong CYP3A4 enzyme inducer. Excretion and Elimination Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine. Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates. It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces. The mean serum half-life (t 1/2 ) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively. Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr. Renal Impairment The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance [CLcr] 30 to 50 mL/min) and severe (CLcr &amp;lt;30 mL/min) renal impairment when compared to subjects with normal renal function. Therefore, no dose adjustment in patients with renal impairment is required. Hepatic Impairment Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean C max but no change in the mean AUC values. Therefore, no dose adjustment in patients with hepatic impairment is required. There are postmarketing reports of liver failure with ACTOS and clinical trials have generally excluded patients with serum ALT &amp;gt;2.5 times the upper limit of the reference range. Use caution in patients with liver disease [see Warnings and Precautions (5.3) ] . Geriatric Patients In healthy elderly subjects, C max of pioglitazone was not significantly different, but AUC values were approximately 21% higher than those achieved in younger subjects. The mean t 1/2 of pioglitazone was also prolonged in elderly subjects (about ten hours) as compared to younger subjects (about seven hours). These changes were not of a magnitude that would be considered clinically relevant. Pediatric Patients Safety and efficacy of pioglitazone in pediatric patients have not been established. ACTOS is not recommended for use in pediatric patients [see Use in Specific Populations (8.4) ] . Gender The mean C max and AUC values of pioglitazone were increased 20% to 60% in women compared to men. In controlled clinical trials, HbA1c decreases from baseline were generally greater for females than for males (average mean difference in HbA1c 0.5%). Because therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone. Ethnicity Pharmacokinetic data among various ethnic groups are not available. Drug-Drug Interactions Table 15. Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs Coadministered Drug Pioglitazone Dosage Regimen (mg) Daily for 7 days unless otherwise noted Name and Dose Regimens Change in AUC % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively Change in C max 45 mg (N = 12) Warfarin Pioglitazone had no clinically significant effect on prothrombin time Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% R-Warfarin ↓3% R-Warfarin ↓2% S-Warfarin ↓1% S-Warfarin ↑1% 45 mg (N = 12) Digoxin 0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) ↑15% ↑17% 45 mg daily for 21 days (N = 35) Oral Contraceptive [Ethinyl Estradiol (EE) 0.035 mg plus Norethindrone (NE) 1 mg] for 21 days EE ↓11% EE ↓13% NE ↑3% NE ↓7% 45 mg (N = 23) Fexofenadine 60 mg twice daily for 7 days ↑30% ↑37% 45 mg (N = 14) Glipizide 5 mg daily for 7 days ↓3% ↓8% 45 mg daily for 8 days (N = 16) Metformin 1000 mg single dose on Day 8 ↓3% ↓5% 45 mg (N = 21) Midazolam 7.5 mg single dose on Day 15 ↓26% ↓26% 45 mg (N = 24) Ranitidine 150 mg twice daily for 7 days ↑1% ↓1% 45 mg daily for 4 days (N = 24) Nifedipine ER 30 mg daily for 4 days ↓13% ↓17% 45 mg (N = 25) Atorvastatin Ca 80 mg daily for 7 days ↓14% ↓23% 45 mg (N = 22) Theophylline 400 mg twice daily for 7 days ↑2% ↑5% Table 16. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure Coadministered Drug and Dosage Regimen Pioglitazone Dose Regimen (mg) Daily for 7 days unless otherwise noted Change in AUC Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively Change in C max Gemfibrozil 600 mg twice daily for 2 days (N = 12) 15 mg single dose ↑3.2-fold The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7.1) ] ↑6% Ketoconazole 200 mg twice daily for 7 days (N = 28) 45 mg ↑34% ↑14% Rifampin 600 mg daily for 5 days (N = 10) 30 mg single dose ↓54% ↓5% Fexofenadine 60 mg twice daily for 7 days (N = 23) 45 mg ↑1% 0% Ranitidine 150 mg twice daily for 4 days (N = 23) 45 mg ↓13% ↓16% Nifedipine ER 30 mg daily for 7 days (N = 23) 45 mg ↑5% ↑4% Atorvastatin Ca 80 mg daily for 7 days (N = 24) 45 mg ↓24% ↓31% Theophylline 400 mg twice daily for 7 days (N = 22) 45 mg ↓4% ↓2% Topiramate 96 mg twice daily for 7 days Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study (N = 26) 30 mg ↓15% Additional decrease in active metabolites; 60% for M-III and 16% for M-IV 0%</Section>
+</Text><Sentences>
+<Sentence id="8722" LabelDrug="Actos" section="34066-1">
+<SentenceText>Thiazolidinediones, including ACTOS, cause or exacerbate congestive heart failure in some patients.</SentenceText>
+</Sentence>
+<Sentence id="8723" LabelDrug="Actos" section="34066-1">
+<SentenceText>After initiation of ACTOS, and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema).</SentenceText>
+</Sentence>
+<Sentence id="8724" LabelDrug="Actos" section="34066-1">
+<SentenceText>If heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOS must be considered.</SentenceText>
+</Sentence>
+<Sentence id="8725" LabelDrug="Actos" section="34066-1">
+<SentenceText>ACTOS is not recommended in patients with symptomatic heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8726" LabelDrug="Actos" section="34066-1">
+<SentenceText>Initiation of ACTOS in patients with established New York Heart Association (NYHA) Class III or IV heart failure is contraindicated.</SentenceText>
+</Sentence>
+<Sentence id="8727" LabelDrug="Actos" section="34066-1">
+<SentenceText>WARNING: CONGESTIVE HEART FAILURE See full prescribing information for complete boxed warning.</SentenceText>
+</Sentence>
+<Sentence id="8728" LabelDrug="Actos" section="34070-3">
+<SentenceText>Initiation in patients with established NYHA Class III or IV heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8729" LabelDrug="Actos" section="34070-3">
+<SentenceText>Use in patients with known hypersensitivity to pioglitazone or any other component of ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8730" LabelDrug="Actos" section="34070-3">
+<SentenceText>Initiation in patients with established New York Heart Association (NYHA) Class III or IV heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8731" LabelDrug="Actos" section="34068-7">
+<SentenceText>Initiate ACTOS at 15 mg or 30 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="8732" LabelDrug="Actos" section="34068-7">
+<SentenceText>Limit initial dose to 15 mg once daily in patients with NYHA Class I or II heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8733" LabelDrug="Actos" section="34068-7">
+<SentenceText>If there is inadequate glycemic control, the dose can be increased in 15 mg increments up to a maximum of 45 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="8734" LabelDrug="Actos" section="34068-7">
+<SentenceText>Obtain liver tests before starting ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8735" LabelDrug="Actos" section="34068-7">
+<SentenceText>If abnormal, use caution when treating with ACTOS, investigate the probable cause, treat (if possible) and follow appropriately.</SentenceText>
+</Sentence>
+<Sentence id="8736" LabelDrug="Actos" section="34068-7">
+<SentenceText>Monitoring liver tests while on ACTOS is not recommended in patients without liver disease.</SentenceText>
+</Sentence>
+<Sentence id="8737" LabelDrug="Actos" section="34068-7">
+<SentenceText>ACTOS should be taken once daily and can be taken without regard to meals.</SentenceText>
+</Sentence>
+<Sentence id="8738" LabelDrug="Actos" section="34068-7">
+<SentenceText>The recommended starting dose for patients without congestive heart failure is 15 mg or 30 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="8739" LabelDrug="Actos" section="34068-7">
+<SentenceText>The recommended starting dose for patients with congestive heart failure (NYHA Class I or II) is 15 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="8740" LabelDrug="Actos" section="34068-7">
+<SentenceText>The dose can be titrated in increments of 15 mg up to a maximum of 45 mg once daily based on glycemic response as determined by HbA1c.</SentenceText>
+</Sentence>
+<Sentence id="8741" LabelDrug="Actos" section="34068-7">
+<SentenceText>After initiation of ACTOS or with dose increase, monitor patients carefully for adverse reactions related to fluid retention such as weight gain, edema, and signs and symptoms of congestive heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8742" LabelDrug="Actos" section="34068-7">
+<SentenceText>Liver tests (serum alanine and aspartate aminotransferases, alkaline phosphatase, and total bilirubin) should be obtained prior to initiating ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8743" LabelDrug="Actos" section="34068-7">
+<SentenceText>Routine periodic monitoring of liver tests during treatment with ACTOS is not recommended in patients without liver disease.</SentenceText>
+</Sentence>
+<Sentence id="8744" LabelDrug="Actos" section="34068-7">
+<SentenceText>Patients who have liver test abnormalities prior to initiation of ACTOS or who are found to have abnormal liver tests while taking ACTOS should be managed as described under Warnings and Precautions.</SentenceText>
+</Sentence>
+<Sentence id="8745" LabelDrug="Actos" section="34068-7">
+<SentenceText>If hypoglycemia occurs in a patient co-administered ACTOS and an insulin secretagogue (e.g., sulfonylurea), the dose of the insulin secretagogue should be reduced.</SentenceText>
+<Mention id="M5" type="Trigger" span="112 4;155 7" str="dose | reduced "/>
+<Mention id="M6" type="Trigger" span="16 6" str=" occurs"/>
+<Mention id="M3" type="Precipitant" span="65 20" str="insulin secretagogue" code="N0000009360"/>
+<Mention id="M8" type="SpecificInteraction" span="3 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M7" type="Precipitant" span="93 12" str="sulfonylurea" code="N0000175608 | N0000008054"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M5;M6" precipitant="M3" effect="M8" effectCodeMatch="Exact"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M5;M6" precipitant="M7" effect="M8" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8746" LabelDrug="Actos" section="34068-7">
+<SentenceText>If hypoglycemia occurs in a patient co-administered ACTOS and insulin, the dose of insulin should be decreased by 10% to 25%.</SentenceText>
+<Mention id="M9" type="Trigger" span="16 6" str="occurs "/>
+<Mention id="M10" type="Trigger" span="75 4;101 9" str=" dose | decreased"/>
+<Mention id="M11" type="Precipitant" span="62 7" str="insulin" code="N0000004931 | N0000175944"/>
+<Mention id="M12" type="SpecificInteraction" span="3 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M9;M10" precipitant="M11" effect="M12" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8747" LabelDrug="Actos" section="34068-7">
+<SentenceText>Further adjustments to the insulin dose should be individualized based on glycemic response.</SentenceText>
+</Sentence>
+<Sentence id="8748" LabelDrug="Actos" section="34068-7">
+<SentenceText>Coadministration of ACTOS and gemfibrozil, a strong CYP2C8 inhibitor, increases pioglitazone exposure approximately 3-fold.</SentenceText>
+<Mention id="M15" type="Trigger" span="70 9;93 8" str="increases | exposure"/>
+<Mention id="M14" type="Precipitant" span="30 11" str="gemfibrozil" code="Q8X02027X3 | N0000007039"/>
+<Mention id="M16" type="Precipitant" span="45 23" str="strong CYP2C8 inhibitor" code="N0000187062"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M15" precipitant="M14" effect="C54355"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M15" precipitant="M16" effect="C54355"/>
+</Sentence>
+<Sentence id="8749" LabelDrug="Actos" section="34068-7">
+<SentenceText>Therefore, the maximum recommended dose of ACTOS is 15 mg daily when used in combination with gemfibrozil or other strong CYP2C8 inhibitors.</SentenceText>
+<Mention id="M19" type="Trigger" span="15 7;35 4" str="maximum | dose"/>
+<Mention id="M18" type="Precipitant" span="94 11" str="gemfibrozil" code="Q8X02027X3 | N0000007039"/>
+<Mention id="M20" type="Precipitant" span="115 24" str="strong CYP2C8 inhibitors" code="N0000187062"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M19" precipitant="M18" effect="C54355"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M19" precipitant="M20" effect="C54355"/>
+</Sentence>
+<Sentence id="8750" LabelDrug="Actos" section="34073-7">
+<SentenceText>Strong CYP2C8 inhibitors (e.g., gemfibrozil) increase pioglitazone concentrations.</SentenceText>
+<Mention id="M23" type="Trigger" span="45 8;67 14" str="increase | concentrations"/>
+<Mention id="M22" type="Precipitant" span="32 11" str="gemfibrozil" code="Q8X02027X3 | N0000007039"/>
+<Mention id="M24" type="Precipitant" span="0 24" str="Strong CYP2C8 inhibitors" code="N0000187062"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M23" precipitant="M22" effect="C54355"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M23" precipitant="M24" effect="C54355"/>
+</Sentence>
+<Sentence id="8751" LabelDrug="Actos" section="34073-7">
+<SentenceText>CYP2C8 inducers (e.g., rifampin) may decrease pioglitazone concentrations.</SentenceText>
+<Mention id="M27" type="Trigger" span="37 8;59 14" str="decrease | concentrations"/>
+<Mention id="M26" type="Precipitant" span="0 15" str="CYP2C8 inducers" code="N0000187063"/>
+<Mention id="M28" type="Precipitant" span="23 8" str="rifampin" code="VJT6J7R4TR | N0000006026"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M27" precipitant="M26" effect="C54356"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M27" precipitant="M28" effect="C54356"/>
+</Sentence>
+<Sentence id="8752" LabelDrug="Actos" section="34073-7">
+<SentenceText>Topiramate may decrease pioglitazone concentrations.</SentenceText>
+<Mention id="M29" type="Trigger" span="15 8;37 14" str="decrease | concentrations"/>
+<Mention id="M30" type="Precipitant" span="0 10" str="Topiramate" code="0H73WJJ391"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M29" precipitant="M30" effect="C54356"/>
+</Sentence>
+<Sentence id="8753" LabelDrug="Actos" section="34073-7">
+<SentenceText>An inhibitor of CYP2C8 (e.g., gemfibrozil) significantly increases the exposure (area under the serum concentration-time curve or AUC) and half-life (t1/2) of pioglitazone.</SentenceText>
+<Mention id="M49" type="Trigger" span="57 9;81 10;102 24" str="increases | area under | concentration-time curve"/>
+<Mention id="M40" type="Precipitant" span="30 11" str="gemfibrozil" code="Q8X02027X3 | N0000007039"/>
+<Mention id="M47" type="Trigger" span="57 9;150 4" str="increases | t1/2"/>
+<Mention id="M45" type="Trigger" span="57 9;130 3" str="increases | AUC"/>
+<Mention id="M43" type="Trigger" span="57 9;139 9" str="increases | half-life"/>
+<Mention id="M41" type="Trigger" span="57 22" str="increases the exposure"/>
+<Mention id="M50" type="Precipitant" span="3 19" str="inhibitor of CYP2C8" code="N0000187062"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M49" precipitant="M40" effect="C54605"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M47" precipitant="M40" effect="C54603"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M45" precipitant="M40" effect="C54605"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M43" precipitant="M40" effect="C54603"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M41" precipitant="M40" effect="C54355"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M41" precipitant="M50" effect="C54355"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M43" precipitant="M50" effect="C54603"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M45" precipitant="M50" effect="C54605"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M47" precipitant="M50" effect="C54603"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M49" precipitant="M50" effect="C54605"/>
+</Sentence>
+<Sentence id="8754" LabelDrug="Actos" section="34073-7">
+<SentenceText>Therefore, the maximum recommended dose of ACTOS is 15 mg daily if used in combination with gemfibrozil or other strong CYP2C8 inhibitors.</SentenceText>
+<Mention id="M53" type="Trigger" span="15 7;35 4" str="maximum | dose"/>
+<Mention id="M52" type="Precipitant" span="92 11" str="gemfibrozil" code="Q8X02027X3 | N0000007039"/>
+<Mention id="M54" type="Precipitant" span="113 24" str="strong CYP2C8 inhibitors" code="N0000187062"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M53" precipitant="M52" effect="C54355"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M53" precipitant="M54" effect="C54355"/>
+</Sentence>
+<Sentence id="8755" LabelDrug="Actos" section="34073-7">
+<SentenceText>An inducer of CYP2C8 (e.g., rifampin) may significantly decrease the exposure (AUC) of pioglitazone.</SentenceText>
+<Mention id="M61" type="Trigger" span="56 8;79 3" str="decrease | AUC"/>
+<Mention id="M58" type="Precipitant" span="3 17" str="inducer of CYP2C8" code="N0000187063"/>
+<Mention id="M59" type="Trigger" span="56 21" str="decrease the exposure"/>
+<Mention id="M62" type="Precipitant" span="28 8" str="rifampin" code="VJT6J7R4TR | N0000006026"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M61" precipitant="M58" effect="C54609"/>
+<Interaction id="I26" type="Pharmacokinetic interaction" trigger="M59" precipitant="M58" effect="C54356"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M59" precipitant="M62" effect="C54356"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M61" precipitant="M62" effect="C54609"/>
+</Sentence>
+<Sentence id="8756" LabelDrug="Actos" section="34073-7">
+<SentenceText>Therefore, if an inducer of CYP2C8 is started or stopped during treatment with ACTOS, changes in diabetes treatment may be needed based on clinical response without exceeding the maximum recommended daily dose of 45 mg for ACTOS.</SentenceText>
+<Mention id="M63" type="Trigger" span="86 7;205 4" str="changes | dose"/>
+<Mention id="M64" type="Precipitant" span="17 17" str="inducer of CYP2C8" code="N0000187063"/>
+<Interaction id="I29" type="Unspecified interaction" trigger="M63" precipitant="M64"/>
+</Sentence>
+<Sentence id="8757" LabelDrug="Actos" section="34073-7">
+<SentenceText>A decrease in the exposure of pioglitazone and its active metabolites were noted with concomitant administration of pioglitazone and topiramate.</SentenceText>
+<Mention id="M65" type="Trigger" span="2 8;18 8" str="decrease | exposure"/>
+<Mention id="M66" type="Precipitant" span="133 10" str="topiramate" code="0H73WJJ391"/>
+<Interaction id="I30" type="Pharmacokinetic interaction" trigger="M65" precipitant="M66" effect="C54356"/>
+</Sentence>
+<Sentence id="8758" LabelDrug="Actos" section="34073-7">
+<SentenceText>The clinical relevance of this decrease is unknown; however, when ACTOS and topiramate are used concomitantly, monitor patients for adequate glycemic control.</SentenceText>
+<Mention id="M67" type="Trigger" span="111 7" str="monitor"/>
+<Mention id="M68" type="Precipitant" span="76 10" str="topiramate" code="0H73WJJ391"/>
+<Mention id="M69" type="SpecificInteraction" span="141 16" str="glycemic control" code="237622006: Poor glycemic control (disorder)"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M67" precipitant="M68" effect="M69" effectCodeMatch="Close to Exact Match"/>
+</Sentence>
+<Sentence id="8759" LabelDrug="Actos" section="43685-7">
+<SentenceText>Congestive heart failure: Fluid retention may occur and can exacerbate or lead to congestive heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8760" LabelDrug="Actos" section="43685-7">
+<SentenceText>Combination use with insulin and use in congestive heart failure NYHA Class I and II may increase risk.</SentenceText>
+<Mention id="M70" type="Trigger" span="89 13" str="increase risk"/>
+<Mention id="M71" type="Precipitant" span="21 7" str="insulin" code="N0000004931 | N0000175944"/>
+<Mention id="M72" type="SpecificInteraction" span="40 24" str="congestive heart failure" code="42343007: Congestive heart failure (disorder)"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M70" precipitant="M71" effect="M72" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8761" LabelDrug="Actos" section="43685-7">
+<SentenceText>Hypoglycemia: When used with insulin or an insulin secretagogue, a lower dose of the insulin or insulin secretagogue may be needed to reduce the risk of hypoglycemia.</SentenceText>
+<Mention id="M77" type="Trigger" span="67 10" str="lower dose "/>
+<Mention id="M78" type="Trigger" span="145 7" str=" risk of"/>
+<Mention id="M75" type="Precipitant" span="29 7" str="insulin" code="N0000004931 | N0000175944"/>
+<Mention id="M80" type="SpecificInteraction" span="0 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M79" type="Precipitant" span="43 20" str="insulin secretagogue" code="N0000009360"/>
+<Interaction id="I33" type="Pharmacodynamic interaction" trigger="M77;M78" precipitant="M75" effect="M80" effectCodeMatch="Exact"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M77;M78" precipitant="M79" effect="M80" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8762" LabelDrug="Actos" section="43685-7">
+<SentenceText>Hepatic effects: Postmarketing reports of hepatic failure, sometimes fatal.</SentenceText>
+</Sentence>
+<Sentence id="8763" LabelDrug="Actos" section="43685-7">
+<SentenceText>If liver injury is detected, promptly interrupt ACTOS and assess patient for probable cause, then treat cause if possible, to resolution or stabilization.</SentenceText>
+</Sentence>
+<Sentence id="8764" LabelDrug="Actos" section="43685-7">
+<SentenceText>Do not restart ACTOS if liver injury is confirmed and no alternate etiology can be found.</SentenceText>
+</Sentence>
+<Sentence id="8765" LabelDrug="Actos" section="43685-7">
+<SentenceText>Bladder cancer: May increase the risk of bladder cancer.</SentenceText>
+</Sentence>
+<Sentence id="8766" LabelDrug="Actos" section="43685-7">
+<SentenceText>Do not use in patients with active bladder cancer.</SentenceText>
+</Sentence>
+<Sentence id="8767" LabelDrug="Actos" section="43685-7">
+<SentenceText>Use caution when using in patients with a prior history of bladder cancer.</SentenceText>
+</Sentence>
+<Sentence id="8768" LabelDrug="Actos" section="43685-7">
+<SentenceText>Edema: Dose-related edema may occur.</SentenceText>
+</Sentence>
+<Sentence id="8769" LabelDrug="Actos" section="43685-7">
+<SentenceText>Fractures: Increased incidence in female patients.</SentenceText>
+</Sentence>
+<Sentence id="8770" LabelDrug="Actos" section="43685-7">
+<SentenceText>Apply current standards of care for assessing and maintaining bone health.</SentenceText>
+</Sentence>
+<Sentence id="8771" LabelDrug="Actos" section="43685-7">
+<SentenceText>Macular edema: Postmarketing reports.</SentenceText>
+</Sentence>
+<Sentence id="8772" LabelDrug="Actos" section="43685-7">
+<SentenceText>Recommend regular eye exams in all patients with diabetes according to current standards of care with prompt evaluation for acute visual changes.</SentenceText>
+</Sentence>
+<Sentence id="8773" LabelDrug="Actos" section="43685-7">
+<SentenceText>Macrovascular outcomes: There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8774" LabelDrug="Actos" section="43685-7">
+<SentenceText>ACTOS, like other thiazolidinediones, can cause dose-related fluid retention when used alone or in combination with other antidiabetic medications and is most common when ACTOS is used in combination with insulin.</SentenceText>
+<Mention id="M84" type="Trigger" span="42 18" str="cause dose-related"/>
+<Mention id="M82" type="Precipitant" span="122 24" str="antidiabetic medications" code="NO MAP"/>
+<Mention id="M86" type="SpecificInteraction" span="61 15" str="Fluid Retention" code="43498006: Body fluid retention (disorder)"/>
+<Mention id="M85" type="Precipitant" span="205 7" str="insulin" code="N0000004931 | N0000175944"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M84" precipitant="M82" effect="M86" effectCodeMatch="Exact"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M84" precipitant="M85" effect="M86" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8775" LabelDrug="Actos" section="43685-7">
+<SentenceText>Fluid retention may lead to or exacerbate congestive heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8776" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients should be observed for signs and symptoms of congestive heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8777" LabelDrug="Actos" section="43685-7">
+<SentenceText>If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of ACTOS must be considered.</SentenceText>
+</Sentence>
+<Sentence id="8778" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients receiving ACTOS in combination with insulin or other antidiabetic medications (particularly insulin secretagogues such as sulfonylureas) may be at risk for hypoglycemia.</SentenceText>
+<Mention id="M96" type="Trigger" span="156 8" str="risk for"/>
+<Mention id="M88" type="Precipitant" span="62 24" str="antidiabetic medications" code="NO MAP"/>
+<Mention id="M98" type="SpecificInteraction" span="165 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M91" type="Precipitant" span="45 7" str="insulin" code="N0000004931 | N0000175944"/>
+<Mention id="M94" type="Precipitant" span="101 21" str="insulin secretagogues" code="N0000009360"/>
+<Mention id="M97" type="Precipitant" span="131 13" str="sulfonylureas" code="N0000175608 | N0000008054"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M96" precipitant="M88" effect="M98" effectCodeMatch="Exact"/>
+<Interaction id="I38" type="Pharmacodynamic interaction" trigger="M96" precipitant="M91" effect="M98" effectCodeMatch="Exact"/>
+<Interaction id="I39" type="Pharmacodynamic interaction" trigger="M96" precipitant="M94" effect="M98" effectCodeMatch="Exact"/>
+<Interaction id="I40" type="Pharmacodynamic interaction" trigger="M96" precipitant="M97" effect="M98" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8779" LabelDrug="Actos" section="43685-7">
+<SentenceText>A reduction in the dose of the concomitant antidiabetic medication may be necessary to reduce the risk of hypoglycemia.</SentenceText>
+<Mention id="M99" type="Trigger" span="2 9;19 4" str="reduction | dose "/>
+<Mention id="M100" type="Trigger" span="98 7" str=" risk of"/>
+<Mention id="M101" type="Precipitant" span="43 23" str="antidiabetic medication" code="NO MAP"/>
+<Mention id="M102" type="SpecificInteraction" span="106 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Interaction id="I41" type="Pharmacodynamic interaction" trigger="M99;M100" precipitant="M101" effect="M102" effectCodeMatch="Exact"/>
+</Sentence>
+<Sentence id="8780" LabelDrug="Actos" section="43685-7">
+<SentenceText>There have been postmarketing reports of fatal and non-fatal hepatic failure in patients taking ACTOS, although the reports contain insufficient information necessary to establish the probable cause.</SentenceText>
+</Sentence>
+<Sentence id="8781" LabelDrug="Actos" section="43685-7">
+<SentenceText>There has been no evidence of drug-induced hepatotoxicity in the ACTOS controlled clinical trial database to date.</SentenceText>
+</Sentence>
+<Sentence id="8782" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients with type 2 diabetes may have fatty liver disease or cardiac disease with episodic congestive heart failure, both of which may cause liver test abnormalities, and they may also have other forms of liver disease, many of which can be treated or managed.</SentenceText>
+</Sentence>
+<Sentence id="8783" LabelDrug="Actos" section="43685-7">
+<SentenceText>Therefore, obtaining a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) and assessing the patient is recommended before initiating ACTOS therapy.</SentenceText>
+</Sentence>
+<Sentence id="8784" LabelDrug="Actos" section="43685-7">
+<SentenceText>In patients with abnormal liver tests, ACTOS should be initiated with caution.</SentenceText>
+</Sentence>
+<Sentence id="8785" LabelDrug="Actos" section="43685-7">
+<SentenceText>Measure liver tests promptly in patients who report symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.</SentenceText>
+</Sentence>
+<Sentence id="8786" LabelDrug="Actos" section="43685-7">
+<SentenceText>In this clinical context, if the patient is found to have abnormal liver tests (ALT greater than 3 times the upper limit of the reference range), ACTOS treatment should be interrupted and investigation done to establish the probable cause.</SentenceText>
+</Sentence>
+<Sentence id="8787" LabelDrug="Actos" section="43685-7">
+<SentenceText>ACTOS should not be restarted in these patients without another explanation for the liver test abnormalities.</SentenceText>
+</Sentence>
+<Sentence id="8788" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients who have serum ALT greater than three times the reference range with serum total bilirubin greater than two times the reference range without alternative etiologies are at risk for severe drug-induced liver injury, and should not be restarted on ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8789" LabelDrug="Actos" section="43685-7">
+<SentenceText>For patients with lesser elevations of serum ALT or bilirubin and with an alternate probable cause, treatment with ACTOS can be used with caution.</SentenceText>
+</Sentence>
+<Sentence id="8790" LabelDrug="Actos" section="43685-7">
+<SentenceText>Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study.</SentenceText>
+</Sentence>
+<Sentence id="8791" LabelDrug="Actos" section="43685-7">
+<SentenceText>In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to ACTOS and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.</SentenceText>
+</Sentence>
+<Sentence id="8792" LabelDrug="Actos" section="43685-7">
+<SentenceText>After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on ACTOS and two (0.08%) cases on placebo.</SentenceText>
+</Sentence>
+<Sentence id="8793" LabelDrug="Actos" section="43685-7">
+<SentenceText>After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8794" LabelDrug="Actos" section="43685-7">
+<SentenceText>During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to ACTOS or placebo (HR =1.00; [95% CI: 0.59−1.72]).</SentenceText>
+</Sentence>
+<Sentence id="8795" LabelDrug="Actos" section="43685-7">
+<SentenceText>Findings regarding the risk of bladder cancer in patients exposed to ACTOS vary among observational studies; some did not find an increased risk of bladder cancer associated with ACTOS, while others did.</SentenceText>
+</Sentence>
+<Sentence id="8796" LabelDrug="Actos" section="43685-7">
+<SentenceText>A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to ACTOS, compared to those never exposed to ACTOS (HR =1.06 [95% CI 0.89−1.26]).</SentenceText>
+</Sentence>
+<Sentence id="8797" LabelDrug="Actos" section="43685-7">
+<SentenceText>A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to ACTOS and bladder cancer (HR: 1.63; [95% CI: 1.22−2.19]).</SentenceText>
+</Sentence>
+<Sentence id="8798" LabelDrug="Actos" section="43685-7">
+<SentenceText>Associations between cumulative dose or cumulative duration of exposure to ACTOS and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others.</SentenceText>
+</Sentence>
+<Sentence id="8799" LabelDrug="Actos" section="43685-7">
+<SentenceText>Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.</SentenceText>
+</Sentence>
+<Sentence id="8800" LabelDrug="Actos" section="43685-7">
+<SentenceText>ACTOS may be associated with an increase in the risk of urinary bladder tumors.</SentenceText>
+</Sentence>
+<Sentence id="8801" LabelDrug="Actos" section="43685-7">
+<SentenceText>There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.</SentenceText>
+</Sentence>
+<Sentence id="8802" LabelDrug="Actos" section="43685-7">
+<SentenceText>Consequently, ACTOS should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with ACTOS should be considered in patients with a prior history of bladder cancer.</SentenceText>
+</Sentence>
+<Sentence id="8803" LabelDrug="Actos" section="43685-7">
+<SentenceText>In controlled clinical trials, edema was reported more frequently in patients treated with ACTOS than in placebo-treated patients and is dose-related.</SentenceText>
+</Sentence>
+<Sentence id="8804" LabelDrug="Actos" section="43685-7">
+<SentenceText>In postmarketing experience, reports of new onset or worsening edema have been received.</SentenceText>
+</Sentence>
+<Sentence id="8805" LabelDrug="Actos" section="43685-7">
+<SentenceText>ACTOS should be used with caution in patients with edema.</SentenceText>
+</Sentence>
+<Sentence id="8806" LabelDrug="Actos" section="43685-7">
+<SentenceText>Because thiazolidinediones, including ACTOS, can cause fluid retention, which can exacerbate or lead to congestive heart failure, ACTOS should be used with caution in patients at risk for congestive heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8807" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients treated with ACTOS should be monitored for signs and symptoms of congestive heart failure.</SentenceText>
+</Sentence>
+<Sentence id="8808" LabelDrug="Actos" section="43685-7">
+<SentenceText>In PROactive (the Prospective Pioglitazone Clinical Trial in Macrovascular Events), 5238 patients with type 2 diabetes and a history of macrovascular disease were randomized to ACTOS (N=2605), force-titrated up to 45 mg daily or placebo (N=2633) in addition to standard of care.</SentenceText>
+</Sentence>
+<Sentence id="8809" LabelDrug="Actos" section="43685-7">
+<SentenceText>During a mean follow-up of 34.5 months, the incidence of bone fracture in females was 5.1% (44/870) for ACTOS versus 2.5% (23/905) for placebo.</SentenceText>
+</Sentence>
+<Sentence id="8810" LabelDrug="Actos" section="43685-7">
+<SentenceText>This difference was noted after the first year of treatment and persisted during the course of the study.</SentenceText>
+</Sentence>
+<Sentence id="8811" LabelDrug="Actos" section="43685-7">
+<SentenceText>The majority of fractures observed in female patients were nonvertebral fractures including lower limb and distal upper limb.</SentenceText>
+</Sentence>
+<Sentence id="8812" LabelDrug="Actos" section="43685-7">
+<SentenceText>No increase in the incidence of fracture was observed in men treated with ACTOS (1.7%) versus placebo (2.1%).</SentenceText>
+</Sentence>
+<Sentence id="8813" LabelDrug="Actos" section="43685-7">
+<SentenceText>The risk of fracture should be considered in the care of patients, especially female patients, treated with ACTOS and attention should be given to assessing and maintaining bone health according to current standards of care.</SentenceText>
+</Sentence>
+<Sentence id="8814" LabelDrug="Actos" section="43685-7">
+<SentenceText>Macular edema has been reported in postmarketing experience in diabetic patients who were taking ACTOS or another thiazolidinedione.</SentenceText>
+</Sentence>
+<Sentence id="8815" LabelDrug="Actos" section="43685-7">
+<SentenceText>Some patients presented with blurred vision or decreased visual acuity, but others were diagnosed on routine ophthalmologic examination.</SentenceText>
+</Sentence>
+<Sentence id="8816" LabelDrug="Actos" section="43685-7">
+<SentenceText>Most patients had peripheral edema at the time macular edema was diagnosed.</SentenceText>
+</Sentence>
+<Sentence id="8817" LabelDrug="Actos" section="43685-7">
+<SentenceText>Some patients had improvement in their macular edema after discontinuation of the thiazolidinedione.</SentenceText>
+</Sentence>
+<Sentence id="8818" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients with diabetes should have regular eye exams by an ophthalmologist according to current standards of care.</SentenceText>
+</Sentence>
+<Sentence id="8819" LabelDrug="Actos" section="43685-7">
+<SentenceText>Patients with diabetes who report any visual symptoms should be promptly referred to an ophthalmologist, regardless of the patient's underlying medications or other physical findings.</SentenceText>
+</Sentence>
+<Sentence id="8820" LabelDrug="Actos" section="43685-7">
+<SentenceText>There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8821" LabelDrug="Actos" section="34090-1">
+<SentenceText>ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action.</SentenceText>
+</Sentence>
+<Sentence id="8822" LabelDrug="Actos" section="34090-1">
+<SentenceText>ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output.</SentenceText>
+</Sentence>
+<Sentence id="8823" LabelDrug="Actos" section="34090-1">
+<SentenceText>Pioglitazone is not an insulin secretagogue.</SentenceText>
+</Sentence>
+<Sentence id="8824" LabelDrug="Actos" section="34090-1">
+<SentenceText>Pioglitazone is an agonist for peroxisome proliferator-activated receptor-gamma (PPARγ).</SentenceText>
+</Sentence>
+<Sentence id="8825" LabelDrug="Actos" section="34090-1">
+<SentenceText>PPAR receptors are found in tissues important for insulin action such as adipose tissue, skeletal muscle, and liver.</SentenceText>
+</Sentence>
+<Sentence id="8826" LabelDrug="Actos" section="34090-1">
+<SentenceText>Activation of PPARγ nuclear receptors modulates the transcription of a number of insulin responsive genes involved in the control of glucose and lipid metabolism.</SentenceText>
+</Sentence>
+<Sentence id="8827" LabelDrug="Actos" section="34090-1">
+<SentenceText>In animal models of diabetes, pioglitazone reduces the hyperglycemia, hyperinsulinemia, and hypertriglyceridemia characteristic of insulin-resistant states such as type 2 diabetes.</SentenceText>
+</Sentence>
+<Sentence id="8828" LabelDrug="Actos" section="34090-1">
+<SentenceText>The metabolic changes produced by pioglitazone result in increased responsiveness of insulin-dependent tissues and are observed in numerous animal models of insulin resistance.</SentenceText>
+</Sentence>
+<Sentence id="8829" LabelDrug="Actos" section="34090-1">
+<SentenceText>Because pioglitazone enhances the effects of circulating insulin (by decreasing insulin resistance), it does not lower blood glucose in animal models that lack endogenous insulin.</SentenceText>
+</Sentence>
+<Sentence id="8830" LabelDrug="Actos" section="34090-1">
+<SentenceText>Clinical studies demonstrate that ACTOS improves insulin sensitivity in insulin-resistant patients.</SentenceText>
+</Sentence>
+<Sentence id="8831" LabelDrug="Actos" section="34090-1">
+<SentenceText>ACTOS enhances cellular responsiveness to insulin, increases insulin-dependent glucose disposal and improves hepatic sensitivity to insulin.</SentenceText>
+</Sentence>
+<Sentence id="8832" LabelDrug="Actos" section="34090-1">
+<SentenceText>In patients with type 2 diabetes, the decreased insulin resistance produced by ACTOS results in lower plasma glucose concentrations, lower plasma insulin concentrations, and lower HbA1c values.</SentenceText>
+</Sentence>
+<Sentence id="8833" LabelDrug="Actos" section="34090-1">
+<SentenceText>In controlled clinical trials, ACTOS had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin, or insulin.</SentenceText>
+</Sentence>
+<Sentence id="8834" LabelDrug="Actos" section="34090-1">
+<SentenceText>Patients with lipid abnormalities were included in clinical trials with ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8835" LabelDrug="Actos" section="34090-1">
+<SentenceText>Overall, patients treated with ACTOS had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.</SentenceText>
+</Sentence>
+<Sentence id="8836" LabelDrug="Actos" section="34090-1">
+<SentenceText>There is no conclusive evidence of macrovascular benefit with ACTOS.</SentenceText>
+</Sentence>
+<Sentence id="8837" LabelDrug="Actos" section="34090-1">
+<SentenceText>In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg ACTOS dose groups compared to a mean increase in the placebo group.</SentenceText>
+</Sentence>
+<Sentence id="8838" LabelDrug="Actos" section="34090-1">
+<SentenceText>Mean HDL cholesterol increased to a greater extent in patients treated with ACTOS than in the placebo-treated patients.</SentenceText>
+</Sentence>
+<Sentence id="8839" LabelDrug="Actos" section="34090-1">
+<SentenceText>There were no consistent differences for LDL and total cholesterol in patients treated with ACTOS compared to placebo.</SentenceText>
+</Sentence>
+<Sentence id="8840" LabelDrug="Actos" section="34090-1">
+<SentenceText>Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study Placebo ACTOS 15 mg Once Daily ACTOS 30 mg Once Daily ACTOS 45 mg Once Daily Triglycerides (mg/dL) N=79 N=79 N=84 N=77 Baseline (mean) 263 284 261 260 Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) 4.8% -9.0%p&lt;0.05 versus placebo -9.6% -9.3% HDL Cholesterol (mg/dL) N=79 N=79 N=83 N=77 Baseline (mean) 42 40 41 41 Percent change from baseline (adjusted mean) 8.1% 14.1% 12.2% 19.1% LDL Cholesterol (mg/dL) N=65 N=63 N=74 N=62 Baseline (mean) 139 132 136 127 Percent change from baseline (adjusted mean) 4.8% 7.2% 5.2% 6.0% Total Cholesterol (mg/dL) N=79 N=79 N=84 N=77 Baseline (mean) 225 220 223 214 Percent change from baseline (adjusted mean) 4.4% 4.6% 3.3% 6.4% In the two other monotherapy studies (16 weeks and 24 weeks) and in combination therapy studies with sulfonylurea (16 weeks and 24 weeks), metformin (16 weeks and 24 weeks) or insulin (16 weeks and 24 weeks), the results were generally consistent with the data above.</SentenceText>
+</Sentence>
+<Sentence id="8841" LabelDrug="Actos" section="34090-1">
+<SentenceText>Following once-daily administration of ACTOS, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within seven days.</SentenceText>
+</Sentence>
+<Sentence id="8842" LabelDrug="Actos" section="34090-1">
+<SentenceText>At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.</SentenceText>
+</Sentence>
+<Sentence id="8843" LabelDrug="Actos" section="34090-1">
+<SentenceText>At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.</SentenceText>
+</Sentence>
+<Sentence id="8844" LabelDrug="Actos" section="34090-1">
+<SentenceText>Cmax, AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.</SentenceText>
+</Sentence>
+<Sentence id="8845" LabelDrug="Actos" section="34090-1">
+<SentenceText>Absorption Following oral administration of pioglitazone, Tmax of pioglitazone was within two hours.</SentenceText>
+</Sentence>
+<Sentence id="8846" LabelDrug="Actos" section="34090-1">
+<SentenceText>Food delays the Tmax to three to four hours but does not alter the extent of absorption (AUC).</SentenceText>
+<Mention id="M103" type="Trigger" span="5 15" str="delays the Tmax"/>
+<Mention id="M104" type="Precipitant" span="0 4" str="Food" code="NO MAP"/>
+<Interaction id="I42" type="Pharmacokinetic interaction" trigger="M103" precipitant="M104" effect="C54604"/>
+</Sentence>
+<Sentence id="8847" LabelDrug="Actos" section="34090-1">
+<SentenceText>Distribution The mean apparent volume of distribution (Vd/F) of pioglitazone following single-dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight.</SentenceText>
+</Sentence>
+<Sentence id="8848" LabelDrug="Actos" section="34090-1">
+<SentenceText>Pioglitazone is extensively protein bound (&gt;99%) in human serum, principally to serum albumin.</SentenceText>
+</Sentence>
+<Sentence id="8849" LabelDrug="Actos" section="34090-1">
+<SentenceText>Pioglitazone also binds to other serum proteins, but with lower affinity.</SentenceText>
+</Sentence>
+<Sentence id="8850" LabelDrug="Actos" section="34090-1">
+<SentenceText>M-III and M-IV are also extensively bound (&gt;98%) to serum albumin.</SentenceText>
+</Sentence>
+<Sentence id="8851" LabelDrug="Actos" section="34090-1">
+<SentenceText>Metabolism Pioglitazone is extensively metabolized by hydroxylation and oxidation; the metabolites also partly convert to glucuronide or sulfate conjugates.</SentenceText>
+</Sentence>
+<Sentence id="8852" LabelDrug="Actos" section="34090-1">
+<SentenceText>Metabolites M-III and M-IV are the major circulating active metabolites in humans.</SentenceText>
+</Sentence>
+<Sentence id="8853" LabelDrug="Actos" section="34090-1">
+<SentenceText>In vitro data demonstrate that multiple CYP isoforms are involved in the metabolism of pioglitazone, which include CYP2C8 and, to a lesser degree, CYP3A4 with additional contributions from a variety of other isoforms including the mainly extrahepatic CYP1A1.</SentenceText>
+</Sentence>
+<Sentence id="8854" LabelDrug="Actos" section="34090-1">
+<SentenceText>In vivo study of pioglitazone in combination with gemfibrozil, a strong CYP2C8 inhibitor, showed that pioglitazone is a CYP2C8 substrate.</SentenceText>
+</Sentence>
+<Sentence id="8855" LabelDrug="Actos" section="34090-1">
+<SentenceText>Urinary 6ÃŸ-hydroxycortisol/cortisol ratios measured in patients treated with ACTOS showed that pioglitazone is not a strong CYP3A4 enzyme inducer.</SentenceText>
+</Sentence>
+<Sentence id="8856" LabelDrug="Actos" section="34090-1">
+<SentenceText>Excretion and Elimination Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine.</SentenceText>
+</Sentence>
+<Sentence id="8857" LabelDrug="Actos" section="34090-1">
+<SentenceText>Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates.</SentenceText>
+</Sentence>
+<Sentence id="8858" LabelDrug="Actos" section="34090-1">
+<SentenceText>It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.</SentenceText>
+</Sentence>
+<Sentence id="8859" LabelDrug="Actos" section="34090-1">
+<SentenceText>The mean serum half-life (t1/2) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.</SentenceText>
+</Sentence>
+<Sentence id="8860" LabelDrug="Actos" section="34090-1">
+<SentenceText>Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr.</SentenceText>
+</Sentence>
+<Sentence id="8861" LabelDrug="Actos" section="34090-1">
+<SentenceText>Renal Impairment The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance [CLcr] 30 to 50 mL/min) and severe (CLcr &lt;30 mL/min) renal impairment when compared to subjects with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="8862" LabelDrug="Actos" section="34090-1">
+<SentenceText>Therefore, no dose adjustment in patients with renal impairment is required.</SentenceText>
+</Sentence>
+<Sentence id="8863" LabelDrug="Actos" section="34090-1">
+<SentenceText>Hepatic Impairment Compared with healthy controls, subjects with impaired hepatic function (Child-Turcotte-Pugh Grade B/C) have an approximate 45% reduction in pioglitazone and total pioglitazone (pioglitazone, M-III, and M-IV) mean Cmax but no change in the mean AUC values.</SentenceText>
+</Sentence>
+<Sentence id="8864" LabelDrug="Actos" section="34090-1">
+<SentenceText>Therefore, no dose adjustment in patients with hepatic impairment is required.</SentenceText>
+</Sentence>
+<Sentence id="8865" LabelDrug="Actos" section="34090-1">
+<SentenceText>There are postmarketing reports of liver failure with ACTOS and clinical trials have generally excluded patients with serum ALT &gt;2.5 times the upper limit of the reference range.</SentenceText>
+</Sentence>
+<Sentence id="8866" LabelDrug="Actos" section="34090-1">
+<SentenceText>Use caution in patients with liver disease.</SentenceText>
+</Sentence>
+<Sentence id="8867" LabelDrug="Actos" section="34090-1">
+<SentenceText>Geriatric Patients In healthy elderly subjects, Cmax of pioglitazone was not significantly different, but AUC values were approximately 21% higher than those achieved in younger subjects.</SentenceText>
+</Sentence>
+<Sentence id="8868" LabelDrug="Actos" section="34090-1">
+<SentenceText>The mean t1/2 of pioglitazone was also prolonged in elderly subjects (about ten hours) as compared to younger subjects (about seven hours).</SentenceText>
+</Sentence>
+<Sentence id="8869" LabelDrug="Actos" section="34090-1">
+<SentenceText>These changes were not of a magnitude that would be considered clinically relevant.</SentenceText>
+</Sentence>
+<Sentence id="8870" LabelDrug="Actos" section="34090-1">
+<SentenceText>Pediatric Patients Safety and efficacy of pioglitazone in pediatric patients have not been established.</SentenceText>
+</Sentence>
+<Sentence id="8871" LabelDrug="Actos" section="34090-1">
+<SentenceText>ACTOS is not recommended for use in pediatric patients.</SentenceText>
+</Sentence>
+<Sentence id="8872" LabelDrug="Actos" section="34090-1">
+<SentenceText>Gender The mean Cmax and AUC values of pioglitazone were increased 20% to 60% in women compared to men.</SentenceText>
+</Sentence>
+<Sentence id="8873" LabelDrug="Actos" section="34090-1">
+<SentenceText>In controlled clinical trials, HbA1c decreases from baseline were generally greater for females than for males (average mean difference in HbA1c 0.5%).</SentenceText>
+</Sentence>
+<Sentence id="8874" LabelDrug="Actos" section="34090-1">
+<SentenceText>Because therapy should be individualized for each patient to achieve glycemic control, no dose adjustment is recommended based on gender alone.</SentenceText>
+</Sentence>
+<Sentence id="8875" LabelDrug="Actos" section="34090-1">
+<SentenceText>Ethnicity Pharmacokinetic data among various ethnic groups are not available.</SentenceText>
+</Sentence>
+<Sentence id="8876" LabelDrug="Actos" section="34090-1">
+<SentenceText>Drug-Drug Interactions Table 15.</SentenceText>
+</Sentence>
+<Sentence id="8877" LabelDrug="Actos" section="34090-1">
+<SentenceText>Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs Coadministered Drug Pioglitazone Dosage Regimen (mg) Daily for 7 days unless otherwise noted Name and Dose Regimens Change in AUC % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively Change in Cmax 45 mg(N = 12) Warfarin Pioglitazone had no clinically significant effect on prothrombin time Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% R-Warfarin ↓3% R-Warfarin ↓2% S-Warfarin ↓1% S-Warfarin ↑1% 45 mg(N = 12) Digoxin 0.200 mg twice daily (loading dose) then 0.250 mg daily (maintenance dose, 7 days) ↑15% ↑17% 45 mg dailyfor 21 days(N = 35) Oral Contraceptive [Ethinyl Estradiol (EE) 0.035 mg plusNorethindrone (NE) 1 mg] for 21 days EE ↓11% EE ↓13% NE ↑3% NE ↓7% 45 mg(N = 23) Fexofenadine 60 mg twice daily for 7 days ↑30% ↑37% 45 mg(N = 14) Glipizide 5 mg daily for 7 days ↓3% ↓8% 45 mg dailyfor 8 days(N = 16) Metformin 1000 mg single dose on Day 8 ↓3% ↓5% 45 mg(N = 21) Midazolam 7.5 mg single dose on Day 15 ↓26% ↓26% 45 mg(N = 24) Ranitidine 150 mg twice daily for 7 days ↑1% ↓1% 45 mg dailyfor 4 days(N = 24) Nifedipine ER 30 mg daily for 4 days ↓13% ↓17% 45 mg(N = 25) Atorvastatin Ca 80 mg daily for 7 days ↓14% ↓23% 45 mg(N = 22) Theophylline 400 mg twice daily for 7 days ↑2% ↑5% Table 16.</SentenceText>
+</Sentence>
+<Sentence id="8878" LabelDrug="Actos" section="34090-1">
+<SentenceText>Effect of Coadministered Drugs on Pioglitazone Systemic Exposure Coadministered Drug and Dosage Regimen Pioglitazone Dose Regimen (mg) Daily for 7 days unless otherwise noted Change in AUC Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively Change in Cmax Gemfibrozil 600 mgtwice daily for 2 days(N = 12) 15 mgsingle dose ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil ↑6% Ketoconazole 200 mgtwice daily for 7 days(N = 28) 45 mg ↑34% ↑14% Rifampin 600 mgdaily for 5 days(N = 10) 30 mgsingle dose ↓54% ↓5% Fexofenadine 60 mgtwice daily for 7 days(N = 23) 45 mg ↑1% 0% Ranitidine 150 mgtwice daily for 4 days(N = 23) 45 mg ↓13% ↓16% Nifedipine ER 30 mgdaily for 7 days(N = 23) 45 mg ↑5% ↑4% Atorvastatin Ca 80 mgdaily for 7 days(N = 24) 45 mg ↓24% ↓31% Theophylline 400 mgtwice daily for 7 days(N = 22) 45 mg ↓4% ↓2% Topiramate 96 mgtwice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study (N = 26) 30 mg ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV 0%</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="insulin secretagogue" precipitantCode="N0000009360" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sulfonylurea" precipitantCode="N0000175608 | N0000008054" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="insulin" precipitantCode="N0000004931 | N0000175944" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="insulin" precipitantCode="N0000004931 | N0000175944" effect="42343007: Congestive heart failure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="insulin" precipitantCode="N0000004931 | N0000175944" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="gemfibrozil" precipitantCode="Q8X02027X3 | N0000007039" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="gemfibrozil" precipitantCode="Q8X02027X3 | N0000007039" effect="C54603"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="gemfibrozil" precipitantCode="Q8X02027X3 | N0000007039" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp2c8 inhibitor" precipitantCode="N0000187062" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp2c8 inhibitors" precipitantCode="N0000187062" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2c8 inducers" precipitantCode="N0000187063" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR | N0000006026" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR | N0000006026" effect="C54609"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="topiramate" precipitantCode="0H73WJJ391" effect="237622006: Poor glycemic control (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="topiramate" precipitantCode="0H73WJJ391" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitor of cyp2c8" precipitantCode="N0000187062" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitor of cyp2c8" precipitantCode="N0000187062" effect="C54603"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitor of cyp2c8" precipitantCode="N0000187062" effect="C54605"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inducer of cyp2c8" precipitantCode="N0000187063" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inducer of cyp2c8" precipitantCode="N0000187063" effect="C54609"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inducer of cyp2c8" precipitantCode="N0000187063"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antidiabetic medications" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antidiabetic medications" precipitantCode="NO MAP" effect="43498006: Body fluid retention (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="insulin secretagogues" precipitantCode="N0000009360" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sulfonylureas" precipitantCode="N0000175608 | N0000008054" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antidiabetic medication" precipitantCode="NO MAP" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="food" precipitantCode="NO MAP" effect="C54604"/>
+
+</LabelInteractions></Label>

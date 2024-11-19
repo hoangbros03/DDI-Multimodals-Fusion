@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Clozapine" setid="5f0c6f5f-b906-4c8f-8580-3939a476a1c1">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7     DRUG INTERACTIONS  Concomitant use of Strong CYP1A2 Inhibitors: Reduce CLOZARIL dose to one-third when coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, enoxacin). ( 2.6 , 7.1 )  Concomitant use of Strong CYP3A4 Inducers is not recommended. ( 2.6 , 7.1 )  Discontinuation of CYP1A2 or CYP3A4 Inducers: Consider reducing CLOZARIL dose when CYP1A2 inducers (e.g., tobacco smoke) or CYP3A4 inducers (e.g., carbamazepine) are discontinued. ( 2.6 , 7.1 )  7.1     Potential for Other Drugs to Affect CLOZARIL  Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP3A4, and CYP2D6. Use caution when administering CLOZARIL concomitantly with drugs that are inducers or inhibitors of these enzymes.  CYP1A2 Inhibitors  Concomitant use of CLOZARIL and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions. Reduce the CLOZARIL dose to one-third of the original dose when CLOZARIL is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin). The CLOZARIL dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)] .  Moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine. Monitor patients closely when CLOZARIL is coadministered with these inhibitors. Consider reducing the CLOZARIL dosage if necessary [see Dosage and Administration (2.6)] .  CYP2D6 and CYP3A4 Inhibitors  Concomitant treatment with CLOZARIL and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase clozapine levels and lead to adverse reactions [see Clinical Pharmacology (12.3)] . Use caution and monitor patients closely when using such inhibitors. Consider reducing the CLOZARIL dose [see Dosage and Administration (2.6)] .  CYP1A2 and CYP3A4 Inducers  Concomitant treatment with drugs that induce CYP1A2 or CYP3A4 can decrease the plasma concentration of clozapine, resulting in decreased effectiveness of CLOZARIL. Tobacco smoke is a moderate inducer of CYP1A2. Strong CYP3A4 inducers include carbamazepine, phenytoin, St. John’s wort, and rifampin. It may be necessary to increase the CLOZARIL dose if used concomitantly with inducers of these enzymes. However, concomitant use of CLOZARIL and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.6)] .  Consider reducing the CLOZARIL dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.6)] .  Drugs that Cause QT Interval Prolongation  Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine. Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.8)] .  7.2     Potential for CLOZARIL to Affect Other Drugs  Concomitant use of CLOZARIL with other drugs metabolized by CYP2D6 can increase levels of these CYP2D6 substrates. Use caution when coadministering CLOZARIL with other drugs that are metabolized by CYP2D6. It may be necessary to use lower doses of such drugs than usually prescribed. Such drugs include specific antidepressants, phenothiazines, carbamazepine, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide).</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12     CLINICAL PHARMACOLOGY  12.1     Mechanism of Action  The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors. CLOZARIL also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.  12.2     Pharmacodynamics  Clozapine demonstrated binding affinity to the following receptors: histamine H 1 (K i 1.1 nM), adrenergic α 1A (K i 1.6 nM), serotonin 5-HT 6 (K i 4 nM), serotonin 5-HT 2A (K i 5.4 nM), muscarinic M 1 (K i 6.2 nM), serotonin 5-HT 7 (K i 6.3 nM), serotonin 5-HT 2C (K i 9.4 nM), dopamine D 4 (K i 24 nM), adrenergic α 2A (K i 90 nM), serotonin 5-HT 3 (K i 95 nM), serotonin 5-HT 1A (K i 120 nM), dopamine D 2 (K i 160 nM), dopamine D 1 (K i 270 nM), dopamine D 5 (K i 454 nM), and dopamine D 3 (K i 555 nM).  Clozapine causes little or no prolactin elevation.  Clinical electroencephalogram (EEG) studies demonstrated that clozapine increases delta and theta activity and slows dominant alpha frequencies. Enhanced synchronization occurs. Sharp wave activity and spike and wave complexes may also develop. Patients have reported an intensification of dream activity during clozapine therapy. REM sleep was found to be increased to 85% of the total sleep time. In these patients, the onset of REM sleep occurred almost immediately after falling asleep.  12.3     Pharmacokinetics  Absorption  In humans, CLOZARIL tablets (25 mg and 100 mg) are equally bioavailable relative to a CLOZARIL solution. Following oral administration of CLOZARIL 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing. The average minimum concentration at steady state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing. Food does not appear to affect the systemic bioavailability of CLOZARIL. Thus, CLOZARIL may be administered with or without food.  Distribution  Clozapine is approximately 97% bound to serum proteins. The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important [see Drug Interactions (7)] .  Metabolism and Excretion  Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces. Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4. Approximately 50% of the administered dose is excreted in the urine and 30% in the feces. The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces. Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N- oxide derivatives were inactive. The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.  A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics. However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.  Drug-Drug Interaction Studies  Fluvoxamine  A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions. After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N -desmethylclozapine and clozapine N -oxide, were elevated about 3-fold compared to baseline steady-state concentrations.  Paroxetine, Fluoxetine, and Sertraline  In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites. However, other published reports describe modest elevations (less than 2-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.  Specific Population Studies  Renal or Hepatic Impairment  No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine. Higher clozapine plasma concentrations are likely in patients with significant renal or hepatic impairment when given usual doses.  CYP2D6 Poor Metabolizers  A subset (3%–10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers). These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.</Section>
+</Text><Sentences>
+<Sentence id="2980" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Concomitant use of Strong CYP1A2 Inhibitors: Reduce CLOZARIL dose to one-third when coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, enoxacin).</SentenceText>
+<Mention id="M7" type="Trigger" span="45 6;61 4" str="Reduce | dose"/>
+<Mention id="M2" type="Precipitant" span="136 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Mention id="M4" type="Precipitant" span="164 8" str="enoxacin" code="NONE"/>
+<Mention id="M6" type="Precipitant" span="149 13" str="ciprofloxacin" code="5E8K9I0O4U"/>
+<Mention id="M8" type="Precipitant" span="104 24" str="strong CYP1A2 inhibitors" code="NONE"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M7" precipitant="M2" effect="C54355"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M7" precipitant="M4" effect="C54355"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M7" precipitant="M6" effect="C54355"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M7" precipitant="M8" effect="C54355"/>
+</Sentence>
+<Sentence id="2981" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Concomitant use of Strong CYP3A4 Inducers is not recommended.</SentenceText>
+<Mention id="M9" type="Trigger" span="45 15" str="not recommended"/>
+<Mention id="M10" type="Precipitant" span="19 22" str="Strong CYP3A4 Inducers" code="n0000185506"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M9" precipitant="M10"/>
+</Sentence>
+<Sentence id="2982" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Discontinuation of CYP1A2 or CYP3A4 Inducers: Consider reducing CLOZARIL dose when CYP1A2 inducers (e.g., tobacco smoke) or CYP3A4 inducers (e.g., carbamazepine) are discontinued.</SentenceText>
+<Mention id="M20" type="Trigger" span="0 15;55 8;73 4" str="Discontinuation | reducing | dose "/>
+<Mention id="M21" type="Trigger" span="55 8;73 9;166 12" str=" reducing | dose when | discontinued"/>
+<Mention id="M13" type="Precipitant" span="124 15" str="CYP3A4 inducers" code="N0000185506"/>
+<Mention id="M16" type="Precipitant" span="83 15" str="CYP1A2 inducers" code="NONE"/>
+<Mention id="M19" type="Precipitant" span="147 13" str="carbamazepine" code="N0000007470"/>
+<Mention id="M22" type="Precipitant" span="106 13" str="tobacco smoke" code="NONE"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M20;M21" precipitant="M13" effect="C54356"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M20;M21" precipitant="M16" effect="C54356"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M20;M21" precipitant="M19" effect="C54356"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M20;M21" precipitant="M22" effect="C54356"/>
+</Sentence>
+<Sentence id="2983" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP3A4, and CYP2D6.</SentenceText>
+</Sentence>
+<Sentence id="2984" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Use caution when administering CLOZARIL concomitantly with drugs that are inducers or inhibitors of these enzymes.</SentenceText>
+</Sentence>
+<Sentence id="2985" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>CYP1A2 Inhibitors Concomitant use of CLOZARIL and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions.</SentenceText>
+<Mention id="M23" type="Trigger" span="72 22" str="increase plasma levels"/>
+<Mention id="M24" type="Precipitant" span="50 17" str="CYP1A2 inhibitors" code="n0000182138"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M23" precipitant="M24" effect="C54355"/>
+</Sentence>
+<Sentence id="2986" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Reduce the CLOZARIL dose to one-third of the original dose when CLOZARIL is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).</SentenceText>
+<Mention id="M31" type="Trigger" span="0 6;20 4" str="Reduce | dose"/>
+<Mention id="M26" type="Precipitant" span="141 13" str="ciprofloxacin" code="5E8K9I0O4U"/>
+<Mention id="M28" type="Precipitant" span="159 8" str="enoxacin" code="NONE"/>
+<Mention id="M30" type="Precipitant" span="96 24" str="strong CYP1A2 inhibitors" code="NONE"/>
+<Mention id="M32" type="Precipitant" span="128 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M31" precipitant="M26" effect="C54355"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M31" precipitant="M28" effect="C54355"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M31" precipitant="M30" effect="C54355"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M31" precipitant="M32" effect="C54355"/>
+</Sentence>
+<Sentence id="2987" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>The CLOZARIL dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued.</SentenceText>
+<Mention id="M33" type="Trigger" span="13 24;59 4;112 12" str="dose should be increased | when | discontinued"/>
+<Mention id="M34" type="Precipitant" span="84 24" str="strong CYP1A2 inhibitors" code="NONE"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M33" precipitant="M34" effect="C54355"/>
+</Sentence>
+<Sentence id="2988" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine.</SentenceText>
+</Sentence>
+<Sentence id="2989" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Monitor patients closely when CLOZARIL is coadministered with these inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="2990" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Consider reducing the CLOZARIL dosage if necessary.</SentenceText>
+</Sentence>
+<Sentence id="2991" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>CYP2D6 and CYP3A4 Inhibitors Concomitant treatment with CLOZARIL and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase clozapine levels and lead to adverse reactions.</SentenceText>
+<Mention id="M57" type="Trigger" span="234 8;253 6" str="increase | levels"/>
+<Mention id="M36" type="Precipitant" span="116 12" str="escitalopram" code="NONE"/>
+<Mention id="M38" type="Precipitant" span="190 10" str="duloxetine" code="NONE"/>
+<Mention id="M40" type="Precipitant" span="0 6;86 10" str="CYP2D6 | inhibitors" code="NONE"/>
+<Mention id="M42" type="Precipitant" span="156 9" str="bupropion" code="01ZG3TPX31"/>
+<Mention id="M44" type="Precipitant" span="167 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M46" type="Precipitant" span="218 10" str="sertraline" code="QUC7NX6WMB"/>
+<Mention id="M48" type="Precipitant" span="202 11" str="terbinafine" code="NONE"/>
+<Mention id="M50" type="Precipitant" span="130 12" str="erythromycin" code="N0000007133"/>
+<Mention id="M52" type="Precipitant" span="144 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M54" type="Precipitant" span="179 9" str="quinidine" code="N0000007728"/>
+<Mention id="M56" type="Precipitant" span="104 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M58" type="Precipitant" span="79 17" str="CYP3A4 inhibitors" code="N0000182141"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M57" precipitant="M36" effect="C54355"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M57" precipitant="M38" effect="C54355"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M57" precipitant="M40" effect="C54355"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M57" precipitant="M42" effect="C54355"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M57" precipitant="M44" effect="C54355"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M57" precipitant="M46" effect="C54355"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M57" precipitant="M48" effect="C54355"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M57" precipitant="M50" effect="C54355"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M57" precipitant="M52" effect="C54355"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M57" precipitant="M54" effect="C54355"/>
+<Interaction id="I26" type="Pharmacokinetic interaction" trigger="M57" precipitant="M56" effect="C54355"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M57" precipitant="M58" effect="C54355"/>
+</Sentence>
+<Sentence id="2992" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Use caution and monitor patients closely when using such inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="2993" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Consider reducing the CLOZARIL dose.</SentenceText>
+</Sentence>
+<Sentence id="2994" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>CYP1A2 and CYP3A4 Inducers Concomitant treatment with drugs that induce CYP1A2 or CYP3A4 can decrease the plasma concentration of clozapine, resulting in decreased effectiveness of CLOZARIL.</SentenceText>
+<Mention id="M65" type="Trigger" span="93 33" str="decrease the plasma concentration"/>
+<Mention id="M60" type="Precipitant" span="54 17;11 6" str="drugs that induce | CYP3A4" code="NONE"/>
+<Mention id="M62" type="Precipitant" span="54 24" str="drugs that induce CYP1A2" code="NONE"/>
+<Mention id="M64" type="Precipitant" span="0 6;18 8" str="CYP1A2 | Inducers" code="NONE"/>
+<Mention id="M66" type="Precipitant" span="11 15" str="CYP3A4 Inducers" code="N0000185506"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M65" precipitant="M60" effect="C54356"/>
+<Interaction id="I29" type="Pharmacokinetic interaction" trigger="M65" precipitant="M62" effect="C54356"/>
+<Interaction id="I30" type="Pharmacokinetic interaction" trigger="M65" precipitant="M64" effect="C54356"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M65" precipitant="M66" effect="C54356"/>
+</Sentence>
+<Sentence id="2995" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Tobacco smoke is a moderate inducer of CYP1A2.</SentenceText>
+</Sentence>
+<Sentence id="2996" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Strong CYP3A4 inducers include carbamazepine, phenytoin, St. John’s wort, and rifampin.</SentenceText>
+</Sentence>
+<Sentence id="2997" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>It may be necessary to increase the CLOZARIL dose if used concomitantly with inducers of these enzymes.</SentenceText>
+</Sentence>
+<Sentence id="2998" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>However, concomitant use of CLOZARIL and strong CYP3A4 inducers is not recommended.</SentenceText>
+<Mention id="M67" type="Trigger" span="67 15" str="not recommended"/>
+<Mention id="M68" type="Precipitant" span="41 22" str="strong CYP3A4 inducers" code="n0000185506"/>
+<Interaction id="I32" type="Unspecified interaction" trigger="M67" precipitant="M68"/>
+</Sentence>
+<Sentence id="2999" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Consider reducing the CLOZARIL dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions.</SentenceText>
+</Sentence>
+<Sentence id="3000" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Drugs that Cause QT Interval Prolongation Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.</SentenceText>
+<Mention id="M73" type="Trigger" span="42 11" str="Use caution"/>
+<Mention id="M70" type="Precipitant" span="85 16;129 22" str="medications that | inhibit the metabolism" code="NONE"/>
+<Mention id="M72" type="Precipitant" span="85 40" str="medications that prolong the QT interval" code="NONE"/>
+<Mention id="M74" type="Precipitant" span="0 41" str="Drugs that Cause QT Interval Prolongation" code="NONE"/>
+<Interaction id="I33" type="Unspecified interaction" trigger="M73" precipitant="M70"/>
+<Interaction id="I34" type="Unspecified interaction" trigger="M73" precipitant="M72"/>
+<Interaction id="I35" type="Unspecified interaction" trigger="M73" precipitant="M74"/>
+</Sentence>
+<Sentence id="3001" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).</SentenceText>
+</Sentence>
+<Sentence id="3002" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Concomitant use of CLOZARIL with other drugs metabolized by CYP2D6 can increase levels of these CYP2D6 substrates.</SentenceText>
+<Mention id="M77" type="Trigger" span="71 15" str="increase levels"/>
+<Mention id="M76" type="Precipitant" span="96 17" str="CYP2D6 substrates" code="NO MAP"/>
+<Mention id="M78" type="Precipitant" span="39 27" str="drugs metabolized by CYP2D6" code="NO MAP"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M77" precipitant="M76" effect="C54357"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M77" precipitant="M78" effect="C54357"/>
+</Sentence>
+<Sentence id="3003" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Use caution when coadministering CLOZARIL with other drugs that are metabolized by CYP2D6.</SentenceText>
+<Mention id="M79" type="Trigger" span="0 11" str="Use caution"/>
+<Mention id="M80" type="Precipitant" span="53 36" str="drugs that are metabolized by CYP2D6" code="NONE"/>
+<Interaction id="I38" type="Unspecified interaction" trigger="M79" precipitant="M80"/>
+</Sentence>
+<Sentence id="3004" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>It may be necessary to use lower doses of such drugs than usually prescribed.</SentenceText>
+</Sentence>
+<Sentence id="3005" LabelDrug="Clozapine" section="34073-7">
+<SentenceText>Such drugs include specific antidepressants, phenothiazines, carbamazepine, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide).</SentenceText>
+</Sentence>
+<Sentence id="3006" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>The mechanism of action of clozapine is unknown.</SentenceText>
+</Sentence>
+<Sentence id="3007" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.</SentenceText>
+</Sentence>
+<Sentence id="3008" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>CLOZARIL also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.</SentenceText>
+</Sentence>
+<Sentence id="3009" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Clozapine demonstrated binding affinity to the following receptors: histamine H1 (Ki 1.1 nM), adrenergic α1A (Ki 1.6 nM), serotonin 5-HT6 (Ki 4 nM), serotonin 5-HT2A (Ki 5.4 nM), muscarinic M1 (Ki 6.2 nM), serotonin 5-HT7 (Ki 6.3 nM), serotonin 5-HT2C (Ki 9.4 nM), dopamine D4 (Ki 24 nM), adrenergic α2A (Ki 90 nM), serotonin 5-HT3 (Ki 95 nM), serotonin 5-HT1A (Ki 120 nM), dopamine D2 (Ki 160 nM), dopamine D1 (Ki 270 nM), dopamine D5 (Ki 454 nM), and dopamine D3 (Ki 555 nM).</SentenceText>
+</Sentence>
+<Sentence id="3010" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Clozapine causes little or no prolactin elevation.</SentenceText>
+</Sentence>
+<Sentence id="3011" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Clinical electroencephalogram (EEG) studies demonstrated that clozapine increases delta and theta activity and slows dominant alpha frequencies.</SentenceText>
+</Sentence>
+<Sentence id="3012" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Sharp wave activity and spike and wave complexes may also develop.</SentenceText>
+</Sentence>
+<Sentence id="3013" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Patients have reported an intensification of dream activity during clozapine therapy.</SentenceText>
+</Sentence>
+<Sentence id="3014" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>REM sleep was found to be increased to 85% of the total sleep time.</SentenceText>
+</Sentence>
+<Sentence id="3015" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>In these patients, the onset of REM sleep occurred almost immediately after falling asleep.</SentenceText>
+</Sentence>
+<Sentence id="3016" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Absorption In humans, CLOZARIL tablets (25 mg and 100 mg) are equally bioavailable relative to a CLOZARIL solution.</SentenceText>
+</Sentence>
+<Sentence id="3017" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Following oral administration of CLOZARIL 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing.</SentenceText>
+</Sentence>
+<Sentence id="3018" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>The average minimum concentration at steady state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing.</SentenceText>
+</Sentence>
+<Sentence id="3019" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Food does not appear to affect the systemic bioavailability of CLOZARIL.</SentenceText>
+</Sentence>
+<Sentence id="3020" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Thus, CLOZARIL may be administered with or without food.</SentenceText>
+</Sentence>
+<Sentence id="3021" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Distribution Clozapine is approximately 97% bound to serum proteins.</SentenceText>
+</Sentence>
+<Sentence id="3022" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important.</SentenceText>
+<Mention id="M81" type="Trigger" span="4 11" str="interaction"/>
+<Mention id="M82" type="Precipitant" span="44 26" str="highly protein-bound drugs" code="NONE"/>
+<Interaction id="I39" type="Unspecified interaction" trigger="M81" precipitant="M82"/>
+</Sentence>
+<Sentence id="3023" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Metabolism and Excretion Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces.</SentenceText>
+</Sentence>
+<Sentence id="3024" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="3025" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.</SentenceText>
+</Sentence>
+<Sentence id="3026" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.</SentenceText>
+</Sentence>
+<Sentence id="3027" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.</SentenceText>
+</Sentence>
+<Sentence id="3028" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.</SentenceText>
+</Sentence>
+<Sentence id="3029" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.</SentenceText>
+</Sentence>
+<Sentence id="3030" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="3031" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Drug-Drug Interaction Studies Fluvoxamine A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.</SentenceText>
+</Sentence>
+<Sentence id="3032" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about 3-fold compared to baseline steady-state concentrations.</SentenceText>
+<Mention id="M83" type="Trigger" span="63 14;161 8" str="concentrations | elevated"/>
+<Mention id="M84" type="Precipitant" span="26 11" str="fluvoxamine" code="O4L1XPO44W"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M83" precipitant="M84" effect="C54355"/>
+</Sentence>
+<Sentence id="3033" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Paroxetine, Fluoxetine, and Sertraline In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3034" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>However, other published reports describe modest elevations (less than 2-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.</SentenceText>
+<Mention id="M89" type="Trigger" span="49 10" str="elevations"/>
+<Mention id="M86" type="Precipitant" span="164 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M88" type="Precipitant" span="152 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M90" type="Precipitant" span="180 10" str="sertraline" code="QUC7NX6WMB"/>
+<Interaction id="I41" type="Pharmacokinetic interaction" trigger="M89" precipitant="M86" effect="C54355"/>
+<Interaction id="I42" type="Pharmacokinetic interaction" trigger="M89" precipitant="M88" effect="C54355"/>
+<Interaction id="I43" type="Pharmacokinetic interaction" trigger="M89" precipitant="M90" effect="C54355"/>
+</Sentence>
+<Sentence id="3035" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Specific Population Studies Renal or Hepatic Impairment No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine.</SentenceText>
+</Sentence>
+<Sentence id="3036" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>Higher clozapine plasma concentrations are likely in patients with significant renal or hepatic impairment when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="3037" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>CYP2D6 Poor Metabolizers A subset (3%–10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).</SentenceText>
+</Sentence>
+<Sentence id="3038" LabelDrug="Clozapine" section="34090-1">
+<SentenceText>These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="fluvoxamine" precipitantCode="O4L1XPO44W" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="enoxacin" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ciprofloxacin" precipitantCode="5E8K9I0O4U" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp1a2 inhibitors" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="strong cyp3a4 inducers" precipitantCode="n0000185506"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a4 inducers" precipitantCode="N0000185506" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp1a2 inducers" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="N0000007470" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tobacco smoke" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp1a2 inhibitors" precipitantCode="n0000182138" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="escitalopram" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="duloxetine" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2d6 | inhibitors" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="bupropion" precipitantCode="01ZG3TPX31" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="terbinafine" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="erythromycin" precipitantCode="N0000007133" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="quinidine" precipitantCode="N0000007728" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a4 inhibitors" precipitantCode="N0000182141" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that induce | cyp3a4" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that induce cyp1a2" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp1a2 | inducers" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Unspecified interaction" precipitant="medications that | inhibit the metabolism" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="medications that prolong the qt interval" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs that cause qt interval prolongation" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2d6 substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by cyp2d6" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs that are metabolized by cyp2d6" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="highly protein-bound drugs" precipitantCode="NONE"/>
+
+</LabelInteractions></Label>

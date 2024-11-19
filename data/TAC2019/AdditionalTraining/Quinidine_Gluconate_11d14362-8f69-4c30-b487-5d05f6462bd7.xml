@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Quinidine Gluconate" setid="11d14362-8f69-4c30-b487-5d05f6462bd7">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Quinidine iscontraindicated in patients who are known to be allergic to it, or who havedeveloped thrombocytopenic purpura during prior therapy with quinidine orquinine.          In the absence of a functioning artificial pacemaker, quinidine isalso contraindicated in any patient whose cardiac rhythm is dependent upona junctional or idioventricular pacemaker, including patients in completeatrioventricular block.          Quinidine isalso contraindicated in patients who, like those with myasthenia gravis, mightbe adversely affected by an anticholinergic agent.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+Because the kinetics of absorption may vary with the patient'speripheral perfusion, intramuscular injection of quinidine gluconate isnot recommended.           Treatmentof P. falciparum malaria — Tworegimens have each been shown to be effective, with or without concomitantexchange transfusion. There are no data indicating that either should be preferredto the other. In RegimenA, each patient received a loading dose of 15 mg/kg of quinidine base(that is, 24 mg/kg of quinidine gluconate)in 250 mL of normal saline infused over 4 hours. Thereafter, each patient received a maintenanceregimen of 7.5 mg/kg of base (12 mg/kg of quinidine gluconate) infused over 4 hours every 8 hours, starting 8 hours after the beginning of the loading dose. This regimen was continued for 7 days, except that in patientsable to swallow, the maintenance infusions were discontinued, and approximatelythe same daily doses of quinidine were supplied orally, using 300–mg tablets of quinidine sulfate. In RegimenB, each patient received a loading dose of 6.25 mg/kg of quinidine base(that is, 10 mg/kg of quinidine gluconate) in approximately 5 mL/kg of normal saline over 1–2 hours. Thereafter, each patient received a maintenance infusion of 12.5 μg/kg/min of base (that is, 20 μg/kg/minof quinidine gluconate). In patients able to swallow, the maintenance infusion was discontinued, and eight–hourly oral quinine sulfate was administered to provide approximately as much daily quinine base as the patient had been receiving quinidine base (for example, each adult patient received 650 mg of quinine sulfate every eight hours). Quinidine/quinine therapy was continued for 72 hours or until parasitemia had decreased to 1% or less, whichever came first. After completion of quinidine/quininetherapy, adults able to swallow received a single 1500–mg/75–mg dose of sulfadoxine/pyrimethamine (FANSIDAR®, Roche Laboratories) or a seven–day course of tetracycline (250 mg fourtimes daily), while those unable to swallow received seven–day coursesof intravenous doxycycline hyclate (VIBRAMYCIN®,Roerig), 100 mg twice daily. Most of the patients described as having beentreated with this regimen also underwent exchange transfusion. Small childrenhave received this regimen without dose adjustment and with apparent goodresults, notwithstanding the known differences in quinidine pharmacokineticsbetween pediatric patients and adults (see ClinicalPharmacology). Even in patients without preexisting cardiac disease, antimalarialuse of quinidine hasoccasionally been associated with hypotension, QTc prolongation,and cinchonism; see Warnings.           Treatmentof symptomatic atrial fibrillation/flutter — Apatient receiving an intravenous infusion of quinidine mustbe carefully monitored, with frequent or continuous electrocardiography andblood–pressure measurement. The infusion should be discontinued as soonas sinus rhythm is restored: the QRS complex widens to 130% ofits pre–treatment duration; the QTc intervalwidens to 130% of its pre–treatment duration, and is then longer than500 ms; P waves disappear; or the patient develops significant tachycardia,symptomatic bradycardia, or hypotension. To prepare quinidine for infusion, the contents of the supplied vial (80 mg/mL) should be dilutedto 50 mL (16 mg/mL) with 5% dextrose. The resulting solution may be storedfor up to 24 hours at room temperature or up to 48 hours at 4°C (40°F). Because quinidine may be absorbed to PVC tubing, tubing length should be minimized. In onestudy (Am J HealthSyst Pharm. 1996; 53:655–8), use of 112 inches of tubingresulted in 30% loss of quinidine, but drug loss was less than 3% when only 12 inches of tubing was used. An infusion of quinidine must be delivered slowly, preferable under control of a volumetric pump,no faster than 0.25 mg/kg/min (that is, no faster than 1 mL/kg/hour). Duringthe first few minutes of the infusion, the patient should be monitored especiallyclosely for possible hypersensitive or idiosyncratic reactions. Most arrhythmias that will respond to intravenous quinidine willrespond to a total dose of less than 5 mg/kg, but some patients may requireas much as 10 mg/kg. If conversion to sinus rhythm has not been achieved afterinfusion of 10 mg/kg, then the infusion should be discontinued, and othermeans of conversion (eg, direct–current cardioversion) should be considered.           Treatmentof life–threatening ventricular arrhythmias — Dosingregimens for the use of intravenous quinidine gluconate incontrolling life–threatening ventricular arrhythmias have not been adequatelystudied. Described regimens have generally been similar to the regimen describedjust above for the treatment of symptomatic atrial fibrillation/flutter.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Drug interactions — Altered pharmacokinetics of quinidine: Drugs that alkalinize the urine (carbonic–anhydraseinhibitors, sodiumbicarbonate, thiazidediuretics) reduce renal elimination of quinidine.          By pharmacokinetic mechanisms that are not well understood, quinidine levelsare increased by coadministration of amiodarone or cimetidine. Very rarely, and again by mechanismsnot understood, quinidine levelsare decreased by coadministration of nifedipine.          Hepatic elimination of quinidine may be accelerated by coadministration of drugs (phenobarbital, phenytoin, rifampin) that induce production of cytochromeP450IIIA4.          Perhaps because of competition of the P450IIIA4 metabolic pathway, quinidine levelsrise when ketaconazole iscoadministered.          Coadministration of propranolol usuallydoes not affect quinidine pharmacokinetics,but in some studies, the ß–blocker appeared to cause increasesin the peak serum levels of quinidine, decreases in quinidine'svolume of distribution and decreases in total quinidine clearance.The effects (if any) of coadministration of other ß–blockers on quinidine pharmacokineticshave not been adequately studied.          Hepatic clearance of quinidine is significantly reduced during coadministration of verapamil, with correspondingincreases in serum levels and half–life.          Altered pharmacokinetics of other drugs: Quinidine slowsthe elimination of digoxin andsimultaneously reduces digoxin's apparent volume of distribution. As a result,serum digoxin levels may be as much as doubled. When quinidine anddigoxin are coadministered, digoxin doses usually need to be reduced. Serumlevels of digitoxin arealso raised when quinidine iscoadministered, although the effect appears to be smaller.          By a mechanism that is not understood, quinidine potentiatesthe anticoagulatory action of warfarin, and the anticoagulant dosage may needto be reduced.          Cytochrome P450IID6 is an enzyme critical to the metabolism of manydrugs, notably including mexiletine,some phenothiazines,and most polycyclicantidepressants. Constitutional deficiency of cytochrome P450IID6is found in less than 1% of Orientals, in about 2% of American blacks, andin about 8% of American whites. Testing with debrisoquine is sometimes usedto distinguish the P450IID6–deficient "poor metabolizers" from the majority–phenotype"extensive metabolizers." When drugs whose metabolism is P450IID6–dependent are given topoor metabolizers, the serum levels achieved are higher, sometimes much higher,than the serum levels achieved when identical doses are given to extensivemetabolizers. To obtain similar clinical benefit without toxicity, doses givento poor metabolizers may need to be greatly reduced. In the cases of prodrugswhose actions are actually mediated by P450IID6–produced metabolites(for example, codeine and hydrocodone, whoseanalgesic and antitussive effects appear to be mediated by morphine and hydromorphone,respectively), it may not be possible to achieve the desired clinical benefitsin poor metabolizers. Quinidine isnot metabolized by cytochrome P450IID6, but therapeutic serum levels of quinidine inhibitthe action of cytochrome P450IID6, effectively converting extensive metabolizersinto poor metabolizers. Caution must be exercised whenever quinidine isprescribed together with drugs metabolized by cytochrome P450IID6.          Perhaps by competing for pathways of renal clearance, coadministrationof quinidine causesan increase in serum levels of procainamide.          Serum levels of haloperidol areincreased when quinidine iscoadministered.          Presumably because both drugs are metabolized by cyctochrome P450IIIA4,coadministration of quinidine causesvariable slowing of the metabolism of nifedipine. Interactions with other dihydropyridinecalcium–channel blockers have not been reported, but these agents (including felodipine, nicardipine, and nimodipine) are alldependent upon P450IIIA4 for metabolism, so similar interactions with quinidine shouldbe anticipated.          Altered pharmacodynamics of other drugs: Quinidine'santicholinergic, vasodilating, and negative inotropic actions may be additiveto those of other drugs with these effects, and antagonistic to those of drugswith cholinergic, vasoconstricting, and positive inotropic effects. For example,when quinidine and verapamil are coadministeredin doses that are each well tolerated as monotherapy, hypotension attributableto additive peripheral α–blockade is sometimes reported.          Quinidine potentiatesthe actions of depolarizing (succinylcholine, decamethonium) and nondepolarizing(d–tubocurarine,pancuronium) neuromuscular blocking agents. These phenomena are not well understood,but they are observed in animal models as well as in humans. In addition, in vitro additionof quinidine tothe serum of pregnant women reduces the activity of pseudocholinesterase,an enzyme that is essential to the metabolism of succinylcholine.          Diltiazem significantly decreases the clearance and increases the t½ of quinidine,but quinidine doesnot alter the kinetics of diltiazem. Non–interactions of quinidine withother drugs: Quinidine hasno clinically significant effect on the pharmacokinetics of diltiazem, flecainide, mephenytoin, metoprolol, propafenone, propranolol, quinine, timolol, or tocainide.          Conversely, the pharmacokinetics of quinidine arenot significantly affected by caffeine, ciprofloxacin,digoxin, felodipine, omeprazole, or quinine. Quinidine'spharmacokinetics are also unaffected by cigarette smoking.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Heart block — In patients without implanted pacemakers who are at high risk of completeatrioventricular block (eg, thosewith digitalis intoxication, second–degree atrioventricular block, orsevere intraventricular conduction defects), quinidine shouldbe used only with caution.                Drug interactions — Altered pharmacokinetics of quinidine: Drugs that alkalinize the urine (carbonic–anhydraseinhibitors, sodiumbicarbonate, thiazidediuretics) reduce renal elimination of quinidine.          By pharmacokinetic mechanisms that are not well understood, quinidine levelsare increased by coadministration of amiodarone or cimetidine. Very rarely, and again by mechanismsnot understood, quinidine levelsare decreased by coadministration of nifedipine.          Hepatic elimination of quinidine may be accelerated by coadministration of drugs (phenobarbital, phenytoin, rifampin) that induce production of cytochromeP450IIIA4.          Perhaps because of competition of the P450IIIA4 metabolic pathway, quinidine levelsrise when ketaconazole iscoadministered.          Coadministration of propranolol usuallydoes not affect quinidine pharmacokinetics,but in some studies, the ß–blocker appeared to cause increasesin the peak serum levels of quinidine, decreases in quinidine'svolume of distribution and decreases in total quinidine clearance.The effects (if any) of coadministration of other ß–blockers on quinidine pharmacokineticshave not been adequately studied.          Hepatic clearance of quinidine is significantly reduced during coadministration of verapamil, with correspondingincreases in serum levels and half–life.          Altered pharmacokinetics of other drugs: Quinidine slowsthe elimination of digoxin andsimultaneously reduces digoxin's apparent volume of distribution. As a result,serum digoxin levels may be as much as doubled. When quinidine anddigoxin are coadministered, digoxin doses usually need to be reduced. Serumlevels of digitoxin arealso raised when quinidine iscoadministered, although the effect appears to be smaller.          By a mechanism that is not understood, quinidine potentiatesthe anticoagulatory action of warfarin, and the anticoagulant dosage may needto be reduced.          Cytochrome P450IID6 is an enzyme critical to the metabolism of manydrugs, notably including mexiletine,some phenothiazines,and most polycyclicantidepressants. Constitutional deficiency of cytochrome P450IID6is found in less than 1% of Orientals, in about 2% of American blacks, andin about 8% of American whites. Testing with debrisoquine is sometimes usedto distinguish the P450IID6–deficient "poor metabolizers" from the majority–phenotype"extensive metabolizers." When drugs whose metabolism is P450IID6–dependent are given topoor metabolizers, the serum levels achieved are higher, sometimes much higher,than the serum levels achieved when identical doses are given to extensivemetabolizers. To obtain similar clinical benefit without toxicity, doses givento poor metabolizers may need to be greatly reduced. In the cases of prodrugswhose actions are actually mediated by P450IID6–produced metabolites(for example, codeine and hydrocodone, whoseanalgesic and antitussive effects appear to be mediated by morphine and hydromorphone,respectively), it may not be possible to achieve the desired clinical benefitsin poor metabolizers. Quinidine isnot metabolized by cytochrome P450IID6, but therapeutic serum levels of quinidine inhibitthe action of cytochrome P450IID6, effectively converting extensive metabolizersinto poor metabolizers. Caution must be exercised whenever quinidine isprescribed together with drugs metabolized by cytochrome P450IID6.          Perhaps by competing for pathways of renal clearance, coadministrationof quinidine causesan increase in serum levels of procainamide.          Serum levels of haloperidol areincreased when quinidine iscoadministered.          Presumably because both drugs are metabolized by cyctochrome P450IIIA4,coadministration of quinidine causesvariable slowing of the metabolism of nifedipine. Interactions with other dihydropyridinecalcium–channel blockers have not been reported, but these agents (including felodipine, nicardipine, and nimodipine) are alldependent upon P450IIIA4 for metabolism, so similar interactions with quinidine shouldbe anticipated.          Altered pharmacodynamics of other drugs: Quinidine'santicholinergic, vasodilating, and negative inotropic actions may be additiveto those of other drugs with these effects, and antagonistic to those of drugswith cholinergic, vasoconstricting, and positive inotropic effects. For example,when quinidine and verapamil are coadministeredin doses that are each well tolerated as monotherapy, hypotension attributableto additive peripheral α–blockade is sometimes reported.          Quinidine potentiatesthe actions of depolarizing (succinylcholine, decamethonium) and nondepolarizing(d–tubocurarine,pancuronium) neuromuscular blocking agents. These phenomena are not well understood,but they are observed in animal models as well as in humans. In addition, in vitro additionof quinidine tothe serum of pregnant women reduces the activity of pseudocholinesterase,an enzyme that is essential to the metabolism of succinylcholine.          Diltiazem significantly decreases the clearance and increases the t½ of quinidine,but quinidine doesnot alter the kinetics of diltiazem. Non–interactions of quinidine withother drugs: Quinidine hasno clinically significant effect on the pharmacokinetics of diltiazem, flecainide, mephenytoin, metoprolol, propafenone, propranolol, quinine, timolol, or tocainide.          Conversely, the pharmacokinetics of quinidine arenot significantly affected by caffeine, ciprofloxacin,digoxin, felodipine, omeprazole, or quinine. Quinidine'spharmacokinetics are also unaffected by cigarette smoking.                  Carcinogenesis, mutagenesis, impairment of fertility — Animal studies to evaluate quinidine's carcinogenic or mutagenic potential have not been performed. Similarly,there are no animal data as to quinidine's potential to impair fertility.                  Pregnancy — Pregnancy Category C — Animalreproductive studies have not been conducted with quinidine.There are no adequate and well–controlled studies in pregnant women. Quinidine shouldbe given to a pregnant woman only if clearly needed. In one neonate whose mother had received quinidine throughouther pregnancy, the serum level of quinidine was equal to that of the mother, with no apparent ill effect. The levelof quinidine inamniotic fluid was about three times higher than that found in serum.             Labor and Delivery — Quinine is said to be oxytocic in humans, but there are no adequatedata as to quinidine'seffect (if any) on human labor and delivery.           Nursing mothers — Quinidine ispresent in human milk at levels slightly lower than those in maternal serum;a human infant ingesting such milk should (scaling directly by weight) beexpected to develop serum quinidine levels at least an order of magnitude lower than those of the mother. Onthe other hand, the pharmacokinetics and pharmacodynamics of quinidine inhuman infants have not been adequately studied, and neonates' reduced proteinbinding of quinidine mayincrease their risk of toxicity at low total serum levels. Administrationof quinidine should(if possible) be avoided in lactating women who continue to nurse.           Pediatric use — In antimalarial trials, quinidine was as safe and effective in pediatric patients as in adults. Notwithstandingthe known pharmacokinetic differences between pediatric patients and adults(see Pharmacokinetics and Metabolism), pediatricpatients in these trials received the same doses (on a mg/kg basis) as adults. Safety and effectiveness of antiarrhythmic use in pediatric patientshave not been established.           Geriatric use — Safety and efficacy of quinidine in elderly patients has not been systematically studied. Clinical studiesof quinidine didnot include sufficient numbers of subjects aged 65 and over to determine whetherthey respond differently from younger subjects. The reported clinical experiencehas not identified differences in responses between the elderly and youngerpatients. In general, dose selection for an elderly patient should be cautious,usually starting at the low end of the dosing range, reflecting the greaterfrequency of decreased hepatic, renal or cardiac function and of concomitantdisease or other drug therapy.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+Inappropriateinfusion rate — Overlyrapid infusion of quinidine (see Dosage and Administration) may cause peripheralvascular collapse and severe hypotension.            Proarrhythmiceffects — Like many otherdrugs (including all other class 1a antiarrhythmics), quinidine prolongsthe QTc interval, and this can lead to torsades de pointes, a life–threateningventricular arrhythmia (see Overdosage). The risk of torsades is increased by anyof bradycardia, hypokalemia, hypomagnesemia, and high serum levels of quinidine,but it may appear in the absence of any of these risk factors. The best predictorof this arrhythmia appears to be the length of the QTc interval,and quinidine shouldbe used with extreme care in patients who have preexisting long–QT syndromes,who have histories of torsadesde pointes of any cause, or who have previously responded to quinidine (orother drugs that prolong ventricular repolarization) with marked lengtheningof the QTc interval. Estimation of the incidence of torsades in patientswith therapeutic levels of quinidine is not possible from the available data. Other ventricular arrhythmias that have been reported with quinidine includefrequent extrasystoles, ventricular tachycardia, ventricular flutter, andventricular fibrillation.           Paradoxicalincrease in ventricular rate in atrial flutter/fibrillation — When quinidine isadministered to patients with atrial flutter/fibrillation, the desired pharmacologicreversion to sinus rhythm may (rarely) be preceded by a slowing of the atrialrate with a consequent increase in the rate of beats conducted to the ventricles.The resulting ventricular rate may be very high (greater than 200 beats perminute) and poorly tolerated. This hazard may be decreased if partial atrioventricularblock is achieved prior to initiation of quinidine therapy,using conduction–reducing drugs such as digitalis, verapamil, diltiazem, or a ß–receptor blockingagent.            Exacerbatedbradycardia in sick sinus syndrome — Inpatients with the sick sinus syndrome, quinidine hasbeen associated with marked sinus node depression and bradycardia.            Pharmacokineticconsiderations — Renalor hepatic dysfunction causes the elimination of quinidine tobe slowed, while congestive heart failure causes a reduction in quinidine’sapparent volume of distribution. Any of these conditions can lead to quinidine toxicityif dosage is not appropriately reduced. In addition, interactions with coadministereddrugs can alter the serum concentration and activity of quinidine,leading either to toxicity or to lack of efficacy if the dose of quinidine isnot appropriately modified (see Precautions/Drug Interactions).            Vagolysis — Because quinidine opposesthe atrial and A–V nodal effects of vagal stimulation, physical or pharmacologicalvagal maneuvers undertaken to terminate paroxysmal supraventricular tachycardiamay be ineffective in patients receiving quinidine.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Pharmacokinetics and Metabolism — After intramuscularinjection of quinidine gluconate,peak serum levels of quinidine areachieved in a little less than two hours. This time to peak levels is identicalto the time measured when quinidine salts are administered orally. The volume ofdistribution of quinidine istypically 2–3 L/kg in healthy young adults, but this may be reducedto as little as 0.5 L/kg in patients with congestive heart failure, or increasedto 3–5 L/kg in patients with cirrhosis of the liver. At concentrationsof 2–5 mg/L (6.5–16.2 μmol/L), the fraction of quinidine boundto plasma proteins (mainly to α1–acid glycoproteinand to albumin) is 80–88% in adults and older children, but it is lowerin pregnant women, and in infants and neonates it may be as low as 50–70%.Because α1–acid glycoprotein levels are increasedin response to stress, serum levels of total quinidine maybe greatly increased in settings such as acute myocardial infarction, eventhough the serum content of unbound (active) drug may remain normal. Proteinbinding is also increased in chronic renal failure, but binding abruptly descendstoward or below normal when heparin is administered for hemodialysis. Quinidine clearancetypically proceeds at 3–5 mL/min/kg in adults, but clearance in pediatricpatients may be twice or three times as rapid. The elimination half–lifeis about 6–8 hours in adults and 3–4 hours in pediatric patients. Quinidine clearanceis unaffected by hepatic cirrhosis, so the increased volume of distributionseen in cirrhosis leads to a proportionate increase in the elimination half–life. Most quinidine iseliminated hepatically via the action of cytochrome P450IIIA4; there are severaldifferent hydroxylated metabolites, and some of these have antiarrhythmicactivity. The most importantof quinidine'smetabolites is 3–hydroxy–quinidine (3HQ),serum levels of which can approach those of quinidine inpatients receiving conventional doses of quinidine gluconate. The volume of distribution of 3HQ appears to be larger than that of quinidine,and the elimination half–life of 3HQ is about 12 hours. As measured byantiarrhythmic effects in animals, by QTc prolongationin human volunteers, or by various in vitro techniques, 3HQ has at least half theantiarrhythmic activity of the parent compound, so it may be responsible fora substantial fraction of the effect of quinidine gluconate in chronic use. When the urine pH is less than 7, about 20% of administered quinidine appearsunchanged in the urine, but this fraction drops to as little as 5% when theurine is more alkaline. Renal clearance involves both glomerular filtrationand active tubular secretion, moderated by (pH–dependent) tubular reabsorption.The net renal clearance is about 1 mL/min/kg in healthy adults. When renal functionis taken into account, quinidine clearance is apparently independent of patient age. Assays of serum quinidine levelsare widely available, but the results of modern assays may not be consistentwith results cited in the older medical literature. The serum levels of quinidine citedin this package insert are those derived from specific assays, using eitherbenzene extraction or (preferably) reverse–phase high–pressureliquid chromatography. In matched samples, older assays might unpredictablyhave given results that were as much as two or three times higher. A typical"therapeutic" concentration range is 2–6 mg/L (6.2 – 18.5 μmol/L).           Mechanisms of Action — In patients with malaria, quinidine actsprimarily as an intraerythrocytic schizonticide, with little effect upon sporozoitesor upon pre–erythrocytic parasites. Quinidine is gametocidal to Plasmodiumvivax and P. malariae, but not to P.falciparum. In cardiac muscle and in Purkinje fibers, quinidine depressesthe rapid inward depolarizing sodium current, thereby slowing phase–0depolarization and reducing the amplitude of the action potential withoutaffecting the resting potential. In normal Purkinje fibers, it reduces theslope of phase–4 depolarization, shifting the threshold voltage upwardtoward zero. The result is slowed conduction and reduced automaticity in allparts of the heart, with increase of the effective refractory period relativeto the duration of the action potential in the atria, ventricles, and Purkinjetissues. Quinidine also raises the fibrillation thresholds of the atria and ventricles, and it raisesthe ventricular defibrillation threshold as well. Quinidine's actions fall into class Ia in the Vaughan–Williams classification. By slowing conduction and prolonging the effective refractory period, quinidine caninterrupt or prevent reentrant arrhythmias and arrhythmias due to increased automaticity, including atrial flutter, atrial fibrillation, and paroxysmal supraventricular tachycardia. In patients with the sick sinus syndrome, quinidine cancause marked sinus node depression and bradycardia. In most patients, however,use of quinidine is associated with an increase in sinus rate. Quinidine prolongs the QT interval in a dose–related fashion. This may leadto increased ventricular automaticity and polymorphic ventricular tachycardias,including torsades de pointes (see Warnings). In addition, quinidine has anticholinergic activity, it has negative inotropic activity, and it actsperipherally as an α–adrenergic antagonist (that is, as a vasodilator).</Section>
+</Text><Sentences>
+<Sentence id="3089" LabelDrug="Quinidine Gluconate" section="34070-3">
+<SentenceText>Quinidine is contraindicated in patients who are known to be allergic to it, or who have developed thrombocytopenic purpura during prior therapy with quinidine or quinine.</SentenceText>
+</Sentence>
+<Sentence id="3090" LabelDrug="Quinidine Gluconate" section="34070-3">
+<SentenceText>In the absence of a functioning artificial pacemaker, quinidine is also contraindicated in any patient whose cardiac rhythm is dependent upon a junctional or idioventricular pacemaker, including patients in complete atrioventricular block.</SentenceText>
+</Sentence>
+<Sentence id="3091" LabelDrug="Quinidine Gluconate" section="34070-3">
+<SentenceText>Quinidine is also contraindicated in patients who, like those with myasthenia gravis, might be adversely affected by an anticholinergic agent.</SentenceText>
+</Sentence>
+<Sentence id="3092" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Because the kinetics of absorption may vary with the patient's peripheral perfusion, intramuscular injection of quinidine gluconate is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="3093" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Treatment of P. falciparum malaria—Two regimens have each been shown to be effective, with or without concomitant exchange transfusion.</SentenceText>
+</Sentence>
+<Sentence id="3094" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>There are no data indicating that either should be preferred to the other.</SentenceText>
+</Sentence>
+<Sentence id="3095" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>In Regimen A, each patient received a loading dose of 15 mg/kg of quinidine base (that is, 24 mg/kg of quinidine gluconate) in 250 mL of normal saline infused over 4 hours.</SentenceText>
+</Sentence>
+<Sentence id="3096" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Thereafter, each patient received a maintenance regimen of 7.5 mg/kg of base (12 mg/kg of quinidine gluconate) infused over 4 hours every 8 hours, starting 8 hours after the beginning of the loading dose.</SentenceText>
+</Sentence>
+<Sentence id="3097" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>This regimen was continued for 7 days, except that in patients able to swallow, the maintenance infusions were discontinued, and approximately the same daily doses of quinidine were supplied orally, using 300–mg tablets of quinidine sulfate.</SentenceText>
+</Sentence>
+<Sentence id="3098" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>In Regimen B, each patient received a loading dose of 6.25 mg/kg of quinidine base (that is, 10 mg/kg of quinidine gluconate) in approximately 5 mL/kg of normal saline over 1–2 hours.</SentenceText>
+</Sentence>
+<Sentence id="3099" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Thereafter, each patient received a maintenance infusion of 12.5 μg/kg/min of base (that is, 20 μg/kg/min of quinidine gluconate).</SentenceText>
+</Sentence>
+<Sentence id="3100" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>In patients able to swallow, the maintenance infusion was discontinued, and eight–hourly oral quinine sulfate was administered to provide approximately as much daily quinine base as the patient had been receiving quinidine base (for example, each adult patient received 650 mg of quinine sulfate every eight hours).</SentenceText>
+</Sentence>
+<Sentence id="3101" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Quinidine/quinine therapy was continued for 72 hours or until parasitemia had decreased to 1% or less, whichever came first.</SentenceText>
+</Sentence>
+<Sentence id="3102" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>After completion of quinidine/quinine therapy, adults able to swallow received a single 1500–mg/75–mg dose of sulfadoxine/pyrimethamine (FANSIDAR®, Roche Laboratories) or a seven–day course of tetracycline (250 mg four times daily), while those unable to swallow received seven–day courses of intravenous doxycycline hyclate (VIBRAMYCIN®, Roerig), 100 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="3103" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Most of the patients described as having been treated with this regimen also underwent exchange transfusion.</SentenceText>
+</Sentence>
+<Sentence id="3104" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Small children have received this regimen without dose adjustment and with apparent good results, notwithstanding the known differences in quinidine pharmacokinetics between pediatric patients and adults.</SentenceText>
+</Sentence>
+<Sentence id="3105" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Even in patients without preexisting cardiac disease, antimalarial use of quinidine has occasionally been associated with hypotension, QTc prolongation, and cinchonism; see Warnings.</SentenceText>
+</Sentence>
+<Sentence id="3106" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Treatment of symptomatic atrial fibrillation/flutter—A patient receiving an intravenous infusion of quinidine must be carefully monitored, with frequent or continuous electrocardiography and blood–pressure measurement.</SentenceText>
+</Sentence>
+<Sentence id="3107" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>The infusion should be discontinued as soon as sinus rhythm is restored: the QRS complex widens to 130% of its pre–treatment duration; the QTc interval widens to 130% of its pre–treatment duration, and is then longer than 500 ms; P waves disappear; or the patient develops significant tachycardia, symptomatic bradycardia, or hypotension.</SentenceText>
+</Sentence>
+<Sentence id="3108" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>To prepare quinidine for infusion, the contents of the supplied vial (80 mg/mL) should be diluted to 50 mL (16 mg/mL) with 5% dextrose.</SentenceText>
+</Sentence>
+<Sentence id="3109" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>The resulting solution may be stored for up to 24 hours at room temperature or up to 48 hours at 4°C (40°F).</SentenceText>
+</Sentence>
+<Sentence id="3110" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Because quinidine may be absorbed to PVC tubing, tubing length should be minimized.</SentenceText>
+</Sentence>
+<Sentence id="3111" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>1996; 53:655–8), use of 112 inches of tubing resulted in 30% loss of quinidine, but drug loss was less than 3% when only 12 inches of tubing was used.</SentenceText>
+</Sentence>
+<Sentence id="3112" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>An infusion of quinidine must be delivered slowly, preferable under control of a volumetric pump, no faster than 0.25 mg/kg/min (that is, no faster than 1 mL/kg/hour).</SentenceText>
+</Sentence>
+<Sentence id="3113" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>During the first few minutes of the infusion, the patient should be monitored especially closely for possible hypersensitive or idiosyncratic reactions.</SentenceText>
+</Sentence>
+<Sentence id="3114" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Most arrhythmias that will respond to intravenous quinidine will respond to a total dose of less than 5 mg/kg, but some patients may require as much as 10 mg/kg.</SentenceText>
+</Sentence>
+<Sentence id="3115" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>If conversion to sinus rhythm has not been achieved after infusion of 10 mg/kg, then the infusion should be discontinued, and other means of conversion (eg, direct–current cardioversion) should be considered.</SentenceText>
+</Sentence>
+<Sentence id="3116" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Treatment of life–threatening ventricular arrhythmias—Dosing regimens for the use of intravenous quinidine gluconate in controlling life–threatening ventricular arrhythmias have not been adequately studied.</SentenceText>
+</Sentence>
+<Sentence id="3117" LabelDrug="Quinidine Gluconate" section="34068-7">
+<SentenceText>Described regimens have generally been similar to the regimen described just above for the treatment of symptomatic atrial fibrillation/flutter.</SentenceText>
+</Sentence>
+<Sentence id="3118" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Drug interactions — Altered pharmacokinetics of quinidine: Drugs that alkalinize the urine (carbonic–anhydrase inhibitors, sodium bicarbonate, thiazide diuretics) reduce renal elimination of quinidine.</SentenceText>
+<Mention id="M10" type="Trigger" span="20 24" str="Altered pharmacokinetics "/>
+<Mention id="M11" type="Trigger" span="163 24" str=" reduce renal elimination"/>
+<Mention id="M3" type="Precipitant" span="92 29" str="carbonic–anhydrase inhibitors" code="N0000175517"/>
+<Mention id="M6" type="Precipitant" span="59 31" str="Drugs that alkalinize the urine" code="NO MAP"/>
+<Mention id="M9" type="Precipitant" span="123 18" str="sodium bicarbonate" code="8MDF5V39QO"/>
+<Mention id="M12" type="Precipitant" span="143 18" str="thiazide diuretics" code="N0000175419"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M10;M11" precipitant="M3" effect="C54355"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M10;M11" precipitant="M6" effect="C54355"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M10;M11" precipitant="M9" effect="C54355"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M10;M11" precipitant="M12" effect="C54355"/>
+</Sentence>
+<Sentence id="3119" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>By pharmacokinetic mechanisms that are not well understood, quinidine levels are increased by coadministration of amiodarone or cimetidine.</SentenceText>
+<Mention id="M15" type="Trigger" span="70 20" str="levels are increased"/>
+<Mention id="M14" type="Precipitant" span="114 10" str="amiodarone" code="N3RQ532IUT"/>
+<Mention id="M16" type="Precipitant" span="128 10" str="cimetidine" code="80061L1WGD"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M15" precipitant="M14" effect="C54355"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M15" precipitant="M16" effect="C54355"/>
+</Sentence>
+<Sentence id="3120" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Very rarely, and again by mechanisms not understood, quinidine levels are decreased by coadministration of nifedipine.</SentenceText>
+<Mention id="M17" type="Trigger" span="63 20" str="levels are decreased"/>
+<Mention id="M18" type="Precipitant" span="107 10" str="nifedipine" code="I9ZF7L6G2L"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M17" precipitant="M18" effect="C54356"/>
+</Sentence>
+<Sentence id="3121" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Hepatic elimination of quinidine may be accelerated by coadministration of drugs (phenobarbital, phenytoin, rifampin) that induce production of cytochrome P450IIIA4.</SentenceText>
+<Mention id="M25" type="Trigger" span="0 19;40 11" str="Hepatic elimination | accelerated"/>
+<Mention id="M20" type="Precipitant" span="75 5;118 46" str="drugs | that induce production of cytochrome P450IIIA4" code="N0000185506"/>
+<Mention id="M22" type="Precipitant" span="82 13" str="phenobarbital" code="YQE403BP4D"/>
+<Mention id="M24" type="Precipitant" span="97 9" str="phenytoin" code="6158TKW0C5"/>
+<Mention id="M26" type="Precipitant" span="108 8" str="rifampin" code="VJT6J7R4TR"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M25" precipitant="M20" effect="C54356"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M25" precipitant="M22" effect="C54356"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M25" precipitant="M24" effect="C54356"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M25" precipitant="M26" effect="C54356"/>
+</Sentence>
+<Sentence id="3122" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Perhaps because of competition of the P450IIIA4 metabolic pathway, quinidine levels rise when ketaconazole is coadministered.</SentenceText>
+<Mention id="M27" type="Trigger" span="77 11" str="levels rise"/>
+<Mention id="M28" type="Precipitant" span="94 12" str="ketaconazole" code="R9400W927I"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M27" precipitant="M28" effect="C54355"/>
+</Sentence>
+<Sentence id="3123" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Coadministration of propranolol usually does not affect quinidine pharmacokinetics, but in some studies, the ß–blocker appeared to cause increases in the peak serum levels of quinidine, decreases in quinidine's volume of distribution and decreases in total quinidine clearance.</SentenceText>
+<Mention id="M29" type="Trigger" span="186 9;267 9" str="decreases | clearance"/>
+<Mention id="M34" type="Precipitant" span="20 11" str="propranolol" code="9Y8NXQ24VQ"/>
+<Mention id="M31" type="Trigger" span="186 9;211 22" str="decreases | volume of distribution"/>
+<Mention id="M33" type="Trigger" span="137 34" str="increases in the peak serum levels"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M29" precipitant="M34" effect="C54355"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M31" precipitant="M34" effect="C54602"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M33" precipitant="M34" effect="C54602"/>
+</Sentence>
+<Sentence id="3124" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>The effects (if any) of coadministration of other ß–blockers on quinidine pharmacokinetics have not been adequately studied.</SentenceText>
+</Sentence>
+<Sentence id="3125" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Hepatic clearance of quinidine is significantly reduced during coadministration of verapamil, with corresponding increases in serum levels and half–life.</SentenceText>
+<Mention id="M35" type="Trigger" span="113 25" str="increases in serum levels"/>
+<Mention id="M40" type="Precipitant" span="83 9" str="verapamil" code="CJ0O37KU29"/>
+<Mention id="M37" type="Trigger" span="0 17;48 7" str="Hepatic clearance | reduced"/>
+<Mention id="M39" type="Trigger" span="113 9;143 9" str="increases | half–life"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M35" precipitant="M40" effect="C54355"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M37" precipitant="M40" effect="C54355"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M39" precipitant="M40" effect="C54603"/>
+</Sentence>
+<Sentence id="3126" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Altered pharmacokinetics of other drugs: Quinidine slows the elimination of digoxin and simultaneously reduces digoxin's apparent volume of distribution.</SentenceText>
+<Mention id="M41" type="Trigger" span="51 21" str="slows the elimination"/>
+<Mention id="M44" type="Precipitant" span="76 7" str="digoxin" code="73K4184T59"/>
+<Mention id="M43" type="Trigger" span="103 7;130 22" str="reduces | volume of distribution"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M41" precipitant="M44" effect="C54357"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M43" precipitant="M44" effect="C54610"/>
+</Sentence>
+<Sentence id="3127" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>As a result, serum digoxin levels may be as much as doubled.</SentenceText>
+<Mention id="M45" type="Trigger" span="13 5;27 6;52 7" str="serum | levels | doubled"/>
+<Mention id="M46" type="Precipitant" span="19 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M45" precipitant="M46" effect="C54357"/>
+</Sentence>
+<Sentence id="3128" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>When quinidine and digoxin are coadministered, digoxin doses usually need to be reduced.</SentenceText>
+<Mention id="M47" type="Trigger" span="55 32" str="doses usually need to be reduced"/>
+<Mention id="M48" type="Precipitant" span="19 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M47" precipitant="M48" effect="C54357"/>
+</Sentence>
+<Sentence id="3129" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Serum levels of digitoxin are also raised when quinidine is coadministered, although the effect appears to be smaller.</SentenceText>
+<Mention id="M49" type="Trigger" span="0 12;35 6" str="Serum levels | raised"/>
+<Mention id="M50" type="Precipitant" span="16 9" str="digitoxin" code="E90NZP2L9U"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M49" precipitant="M50" effect="C54357"/>
+</Sentence>
+<Sentence id="3130" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>By a mechanism that is not understood, quinidine potentiates the anticoagulatory action of warfarin, and the anticoagulant dosage may need to be reduced.</SentenceText>
+<Mention id="M51" type="Trigger" span="49 11" str="potentiates"/>
+<Mention id="M52" type="Precipitant" span="91 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M53" type="SpecificInteraction" span="49 50" str="potentiates the anticoagulatory action of warfarin" code="NO MAP"/>
+<Mention id="M54" type="Trigger" span="123 29" str="dosage may need to be reduced"/>
+<Mention id="M55" type="Precipitant" span="109 13" str="anticoagulant" code="N0000175980"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M51" precipitant="M52" effect="M53"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M54" precipitant="M55" effect="C54357"/>
+</Sentence>
+<Sentence id="3131" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Cytochrome P450IID6 is an enzyme critical to the metabolism of many drugs, notably including mexiletine, some phenothiazines, and most polycyclic antidepressants.</SentenceText>
+</Sentence>
+<Sentence id="3132" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Constitutional deficiency of cytochrome P450IID6 is found in less than 1% of Orientals, in about 2% of American blacks, and in about 8% of American whites.</SentenceText>
+</Sentence>
+<Sentence id="3133" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Testing with debrisoquine is sometimes used to distinguish the P450IID6–deficient poor metabolizers from the majority–phenotype extensive metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="3134" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>When drugs whose metabolism is P450IID6–dependent are given to poor metabolizers, the serum levels achieved are higher, sometimes much higher, than the serum levels achieved when identical doses are given to extensive metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="3135" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>To obtain similar clinical benefit without toxicity, doses given to poor metabolizers may need to be greatly reduced.</SentenceText>
+</Sentence>
+<Sentence id="3136" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>In the cases of prodrugs whose actions are actually mediated by P450IID6–produced metabolites (for example, codeine and hydrocodone, whose analgesic and antitussive effects appear to be mediated by morphine and hydromorphone, respectively), it may not be possible to achieve the desired clinical benefits in poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="3137" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Quinidine is not metabolized by cytochrome P450IID6, but therapeutic serum levels of quinidine inhibit the action of cytochrome P450IID6, effectively converting extensive metabolizers into poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="3138" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Caution must be exercised whenever quinidine is prescribed together with drugs metabolized by cytochrome P450IID6.</SentenceText>
+<Mention id="M56" type="Trigger" span="0 25" str="Caution must be exercised"/>
+<Mention id="M57" type="Precipitant" span="73 40" str="drugs metabolized by cytochrome P450IID6" code="NO MAP"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M56" precipitant="M57"/>
+</Sentence>
+<Sentence id="3139" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Perhaps by competing for pathways of renal clearance, coadministration of quinidine causes an increase in serum levels of procainamide.</SentenceText>
+<Mention id="M58" type="Trigger" span="94 24" str="increase in serum levels"/>
+<Mention id="M59" type="Precipitant" span="122 12" str="procainamide" code="L39WTC366D"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M58" precipitant="M59" effect="C54357"/>
+</Sentence>
+<Sentence id="3140" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Serum levels of haloperidol are increased when quinidine is coadministered.</SentenceText>
+<Mention id="M60" type="Trigger" span="0 12;32 9" str="Serum levels | increased"/>
+<Mention id="M61" type="Precipitant" span="16 11" str="haloperidol" code="J6292F8L3D"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M60" precipitant="M61" effect="C54357"/>
+</Sentence>
+<Sentence id="3141" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Presumably because both drugs are metabolized by cyctochrome P450IIIA4, coadministration of quinidine causes variable slowing of the metabolism of nifedipine.</SentenceText>
+<Mention id="M62" type="Trigger" span="118 25" str="slowing of the metabolism"/>
+<Mention id="M63" type="Precipitant" span="147 10" str="nifedipine" code="I9ZF7L6G2L"/>
+<Interaction id="I29" type="Pharmacokinetic interaction" trigger="M62" precipitant="M63" effect="C54357"/>
+</Sentence>
+<Sentence id="3142" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Interactions with other dihydropyridine calcium–channel blockers have not been reported, but these agents (including felodipine, nicardipine, and nimodipine) are all dependent upon P450IIIA4 for metabolism, so similar interactions with quinidine should be anticipated.</SentenceText>
+<Mention id="M70" type="Trigger" span="210 20" str="similar interactions"/>
+<Mention id="M65" type="Precipitant" span="24 40" str="dihydropyridine calcium–channel blockers" code="N0000175421"/>
+<Mention id="M67" type="Precipitant" span="117 10" str="felodipine" code="OL961R6O2C"/>
+<Mention id="M69" type="Precipitant" span="129 11" str="nicardipine" code="CZ5312222S"/>
+<Mention id="M71" type="Precipitant" span="146 10" str="nimodipine" code="57WA9QZ5WH"/>
+<Interaction id="I30" type="Unspecified interaction" trigger="M70" precipitant="M65"/>
+<Interaction id="I31" type="Unspecified interaction" trigger="M70" precipitant="M67"/>
+<Interaction id="I32" type="Unspecified interaction" trigger="M70" precipitant="M69"/>
+<Interaction id="I33" type="Unspecified interaction" trigger="M70" precipitant="M71"/>
+</Sentence>
+<Sentence id="3143" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Altered pharmacodynamics of other drugs: Quinidine's anticholinergic, vasodilating, and negative inotropic actions may be additive to those of other drugs with these effects, and antagonistic to those of drugs with cholinergic, vasoconstricting, and positive inotropic effects.</SentenceText>
+<Mention id="M92" type="Trigger" span="0 24" str="Altered pharmacodynamics "/>
+<Mention id="M93" type="Trigger" span="122 8;166 7" str=" additive | effects"/>
+<Mention id="M74" type="Precipitant" span="53 15;34 5" str="anticholinergic | drugs" code="N0000175574"/>
+<Mention id="M75" type="SpecificInteraction" span="53 15;122 8;166 7" str="anticholinergic | additive | effects" code="NO MAP"/>
+<Mention id="M85" type="Trigger" span="179 12" str=" antagonistic"/>
+<Mention id="M78" type="Precipitant" span="149 10;250 26" str="drugs with | positive inotropic effects" code="N0000009809"/>
+<Mention id="M79" type="SpecificInteraction" span="179 12;250 26" str="antagonistic | positive inotropic effects" code="NO MAP"/>
+<Mention id="M82" type="Precipitant" span="149 10;228 16;166 7" str="drugs with | vasoconstricting | effects" code="N0000192562"/>
+<Mention id="M83" type="SpecificInteraction" span="179 12;228 16;166 7" str="antagonistic | vasoconstricting | effects" code="NO MAP"/>
+<Mention id="M86" type="Precipitant" span="204 22;166 7" str="drugs with cholinergic | effects" code="N0000175369"/>
+<Mention id="M87" type="SpecificInteraction" span="179 12;57 11;166 7" str="antagonistic | cholinergic | effects" code="NO MAP"/>
+<Mention id="M90" type="Precipitant" span="88 18;34 5" str="negative inotropic | drugs" code="N0000009757"/>
+<Mention id="M91" type="SpecificInteraction" span="88 26;122 8;166 7" str="negative inotropic actions | additive | effects" code="432439005: Negative inotropic effect on myocardium (finding)"/>
+<Mention id="M94" type="Precipitant" span="70 12;34 5" str="vasodilating | drugs" code="N0000175940"/>
+<Mention id="M95" type="SpecificInteraction" span="70 12;122 8;166 7" str="vasodilating | additive | effects" code="91081006: Vasodilatation (finding)"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M92;M93" precipitant="M74" effect="M75"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M92;M85" precipitant="M78" effect="M79"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M92;M85" precipitant="M82" effect="M83"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M92;M85" precipitant="M86" effect="M87"/>
+<Interaction id="I38" type="Pharmacodynamic interaction" trigger="M92;M93" precipitant="M90" effect="M91"/>
+<Interaction id="I39" type="Pharmacodynamic interaction" trigger="M92;M93" precipitant="M94" effect="M95"/>
+</Sentence>
+<Sentence id="3144" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>For example, when quinidine and verapamil are coadministered in doses that are each well tolerated as monotherapy, hypotension attributable to additive peripheral α–blockade is sometimes reported.</SentenceText>
+<Mention id="M99" type="Trigger" span="143 8;165 8" str="additive | blockade"/>
+<Mention id="M100" type="Precipitant" span="32 9" str="verapamil" code="CJ0O37KU29"/>
+<Mention id="M98" type="SpecificInteraction" span="115 11" str="hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M101" type="SpecificInteraction" span="143 30" str="additive peripheral α–blockade" code="NO MAP"/>
+<Interaction id="I40" type="Pharmacodynamic interaction" trigger="M99" precipitant="M100" effect="M98"/>
+<Interaction id="I41" type="Pharmacodynamic interaction" trigger="M99" precipitant="M100" effect="M101"/>
+</Sentence>
+<Sentence id="3145" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Quinidine potentiates the actions of depolarizing (succinylcholine, decamethonium) and nondepolarizing (d–tubocurarine, pancuronium) neuromuscular blocking agents.</SentenceText>
+<Mention id="M120" type="Trigger" span="10 11" str="potentiates"/>
+<Mention id="M103" type="Precipitant" span="68 13" str="decamethonium" code="C1CG1S3T2W"/>
+<Mention id="M104" type="SpecificInteraction" span="10 11;68 13" str="potentiates | decamethonium" code="NO MAP"/>
+<Mention id="M106" type="Precipitant" span="37 12;133 29" str="depolarizing | neuromuscular blocking agents" code="N0000175719"/>
+<Mention id="M107" type="SpecificInteraction" span="10 11;37 12;133 29" str="potentiates | depolarizing | neuromuscular blocking agents" code="NO MAP"/>
+<Mention id="M109" type="Precipitant" span="104 14" str="d–tubocurarine" code="W9YXS298BM"/>
+<Mention id="M110" type="SpecificInteraction" span="10 11;104 14" str="potentiates | d–tubocurarine" code="NO MAP"/>
+<Mention id="M112" type="Precipitant" span="133 29" str="neuromuscular blocking agents" code="N0000175731"/>
+<Mention id="M113" type="SpecificInteraction" span="10 11;133 29" str="potentiates | neuromuscular blocking agents" code="NO MAP"/>
+<Mention id="M115" type="Precipitant" span="87 15;133 29" str="nondepolarizing | neuromuscular blocking agents" code="N0000175720"/>
+<Mention id="M116" type="SpecificInteraction" span="10 11;87 15;133 29" str="potentiates | nondepolarizing | neuromuscular blocking agents" code="NO MAP"/>
+<Mention id="M118" type="Precipitant" span="120 11" str="pancuronium" code="J76UF062FS"/>
+<Mention id="M119" type="SpecificInteraction" span="10 11;120 11" str="potentiates | pancuronium" code="NO MAP"/>
+<Mention id="M121" type="Precipitant" span="51 15" str="succinylcholine" code="J2R869A8YF"/>
+<Mention id="M122" type="SpecificInteraction" span="10 11;51 15" str="potentiates | succinylcholine" code="NO MAP"/>
+<Interaction id="I42" type="Pharmacodynamic interaction" trigger="M120" precipitant="M103" effect="M104"/>
+<Interaction id="I43" type="Pharmacodynamic interaction" trigger="M120" precipitant="M106" effect="M107"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M120" precipitant="M109" effect="M110"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M120" precipitant="M112" effect="M113"/>
+<Interaction id="I46" type="Pharmacodynamic interaction" trigger="M120" precipitant="M115" effect="M116"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M120" precipitant="M118" effect="M119"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M120" precipitant="M121" effect="M122"/>
+</Sentence>
+<Sentence id="3146" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>These phenomena are not well understood, but they are observed in animal models as well as in humans.</SentenceText>
+</Sentence>
+<Sentence id="3147" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>In addition, in vitro addition of quinidine to the serum of pregnant women reduces the activity of pseudocholinesterase, an enzyme that is essential to the metabolism of succinylcholine.</SentenceText>
+<Mention id="M123" type="Trigger" span="75 7;156 10" str="reduces | metabolism"/>
+<Mention id="M124" type="Precipitant" span="170 15" str="succinylcholine" code="J2R869A8YF"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M123" precipitant="M124" effect="C54357"/>
+</Sentence>
+<Sentence id="3148" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Diltiazem significantly decreases the clearance and increases the t½ of quinidine, but quinidine does not alter the kinetics of diltiazem.</SentenceText>
+<Mention id="M125" type="Trigger" span="24 23" str="decreases the clearance"/>
+<Mention id="M128" type="Precipitant" span="0 9" str="Diltiazem" code="EE92BBP03H"/>
+<Mention id="M127" type="Trigger" span="52 16" str="increases the t½"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M125" precipitant="M128" effect="C54355"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M127" precipitant="M128" effect="C54603"/>
+</Sentence>
+<Sentence id="3149" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Non–interactions of quinidine with other drugs: Quinidine has no clinically significant effect on the pharmacokinetics of diltiazem, flecainide, mephenytoin, metoprolol, propafenone, propranolol, quinine, timolol, or tocainide.</SentenceText>
+</Sentence>
+<Sentence id="3150" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Conversely, the pharmacokinetics of quinidine are not significantly affected by caffeine, ciprofloxacin, digoxin, felodipine, omeprazole, or quinine.</SentenceText>
+</Sentence>
+<Sentence id="3151" LabelDrug="Quinidine Gluconate" section="34073-7">
+<SentenceText>Quinidine's pharmacokinetics are also unaffected by cigarette smoking.</SentenceText>
+</Sentence>
+<Sentence id="3152" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Heart block — In patients without implanted pacemakers who are at high risk of complete atrioventricular block (eg, those with digitalis intoxication, second–degree atrioventricular block, or severe intraventricular conduction defects), quinidine should be used only with caution.</SentenceText>
+<Mention id="M129" type="Trigger" span="272 7" str="caution"/>
+<Mention id="M130" type="Precipitant" span="127 9" str="digitalis" code="F1T8QT9U8B"/>
+<Interaction id="I52" type="Unspecified interaction" trigger="M129" precipitant="M130"/>
+</Sentence>
+<Sentence id="3153" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Carcinogenesis, mutagenesis, impairment of fertility — Animal studies to evaluate quinidine's carcinogenic or mutagenic potential have not been performed.</SentenceText>
+</Sentence>
+<Sentence id="3154" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Similarly, there are no animal data as to quinidine's potential to impair fertility.</SentenceText>
+</Sentence>
+<Sentence id="3155" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Pregnancy — Pregnancy Category C—Animal reproductive studies have not been conducted with quinidine.</SentenceText>
+</Sentence>
+<Sentence id="3156" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>There are no adequate and well–controlled studies in pregnant women.</SentenceText>
+</Sentence>
+<Sentence id="3157" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Quinidine should be given to a pregnant woman only if clearly needed.</SentenceText>
+</Sentence>
+<Sentence id="3158" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>In one neonate whose mother had received quinidine throughout her pregnancy, the serum level of quinidine was equal to that of the mother, with no apparent ill effect.</SentenceText>
+</Sentence>
+<Sentence id="3159" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>The level of quinidine in amniotic fluid was about three times higher than that found in serum.</SentenceText>
+</Sentence>
+<Sentence id="3160" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Labor and Delivery– Quinine is said to be oxytocic in humans, but there are no adequate data as to quinidine's effect (if any) on human labor and delivery.</SentenceText>
+</Sentence>
+<Sentence id="3161" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Nursing mothers– Quinidine is present in human milk at levels slightly lower than those in maternal serum; a human infant ingesting such milk should (scaling directly by weight) be expected to develop serum quinidine levels at least an order of magnitude lower than those of the mother.</SentenceText>
+</Sentence>
+<Sentence id="3162" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>On the other hand, the pharmacokinetics and pharmacodynamics of quinidine in human infants have not been adequately studied, and neonates' reduced protein binding of quinidine may increase their risk of toxicity at low total serum levels.</SentenceText>
+</Sentence>
+<Sentence id="3163" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Administration of quinidine should (if possible) be avoided in lactating women who continue to nurse.</SentenceText>
+</Sentence>
+<Sentence id="3164" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Pediatric use– In antimalarial trials, quinidine was as safe and effective in pediatric patients as in adults.</SentenceText>
+</Sentence>
+<Sentence id="3165" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Notwithstanding the known pharmacokinetic differences between pediatric patients and adults, pediatric patients in these trials received the same doses (on a mg/kg basis) as adults.</SentenceText>
+</Sentence>
+<Sentence id="3166" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Safety and effectiveness of antiarrhythmic use in pediatric patients have not been established.</SentenceText>
+</Sentence>
+<Sentence id="3167" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Geriatric use– Safety and efficacy of quinidine in elderly patients has not been systematically studied.</SentenceText>
+</Sentence>
+<Sentence id="3168" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>Clinical studies of quinidine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.</SentenceText>
+</Sentence>
+<Sentence id="3169" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>The reported clinical experience has not identified differences in responses between the elderly and younger patients.</SentenceText>
+</Sentence>
+<Sentence id="3170" LabelDrug="Quinidine Gluconate" section="42232-9">
+<SentenceText>In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.</SentenceText>
+</Sentence>
+<Sentence id="3171" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Inappropriate infusion rate—Overly rapid infusion of quinidine may cause peripheral vascular collapse and severe hypotension.</SentenceText>
+</Sentence>
+<Sentence id="3172" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Proarrhythmic effects—Like many other drugs (including all other class 1a antiarrhythmics), quinidine prolongs the QTc interval, and this can lead to torsades de pointes, a life–threatening ventricular arrhythmia.</SentenceText>
+</Sentence>
+<Sentence id="3173" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>The risk of torsades is increased by any of bradycardia, hypokalemia, hypomagnesemia, and high serum levels of quinidine, but it may appear in the absence of any of these risk factors.</SentenceText>
+</Sentence>
+<Sentence id="3174" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>The best predictor of this arrhythmia appears to be the length of the QTc interval, and quinidine should be used with extreme care in patients who have preexisting long–QT syndromes, who have histories of torsades de pointes of any cause, or who have previously responded to quinidine (or other drugs that prolong ventricular repolarization) with marked lengthening of the QTc interval.</SentenceText>
+</Sentence>
+<Sentence id="3175" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Estimation of the incidence of torsades in patients with therapeutic levels of quinidine is not possible from the available data.</SentenceText>
+</Sentence>
+<Sentence id="3176" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Other ventricular arrhythmias that have been reported with quinidine include frequent extrasystoles, ventricular tachycardia, ventricular flutter, and ventricular fibrillation.</SentenceText>
+</Sentence>
+<Sentence id="3177" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Paradoxical increase in ventricular rate in atrial flutter/fibrillation— When quinidine is administered to patients with atrial flutter/fibrillation, the desired pharmacologic reversion to sinus rhythm may (rarely) be preceded by a slowing of the atrial rate with a consequent increase in the rate of beats conducted to the ventricles.</SentenceText>
+</Sentence>
+<Sentence id="3178" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>The resulting ventricular rate may be very high (greater than 200 beats per minute) and poorly tolerated.</SentenceText>
+</Sentence>
+<Sentence id="3179" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>This hazard may be decreased if partial atrioventricular block is achieved prior to initiation of quinidine therapy, using conduction–reducing drugs such as digitalis, verapamil, diltiazem, or a ß–receptor blocking agent.</SentenceText>
+</Sentence>
+<Sentence id="3180" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Exacerbated bradycardia in sick sinus syndrome—In patients with the sick sinus syndrome, quinidine has been associated with marked sinus node depression and bradycardia.</SentenceText>
+</Sentence>
+<Sentence id="3181" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Pharmacokinetic considerations—Renal or hepatic dysfunction causes the elimination of quinidine to be slowed, while congestive heart failure causes a reduction in quinidine’s apparent volume of distribution.</SentenceText>
+</Sentence>
+<Sentence id="3182" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Any of these conditions can lead to quinidine toxicity if dosage is not appropriately reduced.</SentenceText>
+</Sentence>
+<Sentence id="3183" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>In addition, interactions with coadministered drugs can alter the serum concentration and activity of quinidine, leading either to toxicity or to lack of efficacy if the dose of quinidine is not appropriately modified.</SentenceText>
+</Sentence>
+<Sentence id="3184" LabelDrug="Quinidine Gluconate" section="34071-1">
+<SentenceText>Vagolysis—Because quinidine opposes the atrial and A–V nodal effects of vagal stimulation, physical or pharmacological vagal maneuvers undertaken to terminate paroxysmal supraventricular tachycardia may be ineffective in patients receiving quinidine.</SentenceText>
+</Sentence>
+<Sentence id="3185" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Pharmacokinetics and Metabolism — After intramuscular injection of quinidine gluconate, peak serum levels of quinidine are achieved in a little less than two hours.</SentenceText>
+</Sentence>
+<Sentence id="3186" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>This time to peak levels is identical to the time measured when quinidine salts are administered orally.</SentenceText>
+</Sentence>
+<Sentence id="3187" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The volume of distribution of quinidine is typically 2–3 L/kg in healthy young adults, but this may be reduced to as little as 0.5 L/kg in patients with congestive heart failure, or increased to 3–5 L/kg in patients with cirrhosis of the liver.</SentenceText>
+</Sentence>
+<Sentence id="3188" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>At concentrations of 2–5 mg/L (6.5–16.2 μmol/L), the fraction of quinidine bound to plasma proteins (mainly to α1–acid glycoprotein and to albumin) is 80–88% in adults and older children, but it is lower in pregnant women, and in infants and neonates it may be as low as 50–70%.</SentenceText>
+</Sentence>
+<Sentence id="3189" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Because α1–acid glycoprotein levels are increased in response to stress, serum levels of total quinidine may be greatly increased in settings such as acute myocardial infarction, even though the serum content of unbound (active) drug may remain normal.</SentenceText>
+</Sentence>
+<Sentence id="3190" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Protein binding is also increased in chronic renal failure, but binding abruptly descends toward or below normal when heparin is administered for hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="3191" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Quinidine clearance typically proceeds at 3–5 mL/min/kg in adults, but clearance in pediatric patients may be twice or three times as rapid.</SentenceText>
+</Sentence>
+<Sentence id="3192" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The elimination half–life is about 6–8 hours in adults and 3–4 hours in pediatric patients.</SentenceText>
+</Sentence>
+<Sentence id="3193" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Quinidine clearance is unaffected by hepatic cirrhosis, so the increased volume of distribution seen in cirrhosis leads to a proportionate increase in the elimination half–life.</SentenceText>
+</Sentence>
+<Sentence id="3194" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Most quinidine is eliminated hepatically via the action of cytochrome P450IIIA4; there are several different hydroxylated metabolites, and some of these have antiarrhythmic activity.</SentenceText>
+</Sentence>
+<Sentence id="3195" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The most important of quinidine's metabolites is 3–hydroxy–quinidine (3HQ), serum levels of which can approach those of quinidine in patients receiving conventional doses of quinidine gluconate.</SentenceText>
+</Sentence>
+<Sentence id="3196" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The volume of distribution of 3HQ appears to be larger than that of quinidine, and the elimination half–life of 3HQ is about 12 hours.</SentenceText>
+</Sentence>
+<Sentence id="3197" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>As measured by antiarrhythmic effects in animals, by QTc prolongation in human volunteers, or by various in vitro techniques, 3HQ has at least half the antiarrhythmic activity of the parent compound, so it may be responsible for a substantial fraction of the effect of quinidine gluconate in chronic use.</SentenceText>
+</Sentence>
+<Sentence id="3198" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>When the urine pH is less than 7, about 20% of administered quinidine appears unchanged in the urine, but this fraction drops to as little as 5% when the urine is more alkaline.</SentenceText>
+</Sentence>
+<Sentence id="3199" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Renal clearance involves both glomerular filtration and active tubular secretion, moderated by (pH–dependent) tubular reabsorption.</SentenceText>
+</Sentence>
+<Sentence id="3200" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The net renal clearance is about 1 mL/min/kg in healthy adults.</SentenceText>
+</Sentence>
+<Sentence id="3201" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>When renal function is taken into account, quinidine clearance is apparently independent of patient age.</SentenceText>
+</Sentence>
+<Sentence id="3202" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Assays of serum quinidine levels are widely available, but the results of modern assays may not be consistent with results cited in the older medical literature.</SentenceText>
+</Sentence>
+<Sentence id="3203" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The serum levels of quinidine cited in this package insert are those derived from specific assays, using either benzene extraction or (preferably) reverse–phase high–pressure liquid chromatography.</SentenceText>
+</Sentence>
+<Sentence id="3204" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>In matched samples, older assays might unpredictably have given results that were as much as two or three times higher.</SentenceText>
+</Sentence>
+<Sentence id="3205" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>A typical therapeutic concentration range is 2–6 mg/L (6.2 – 18.5 μmol/L).</SentenceText>
+</Sentence>
+<Sentence id="3206" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Mechanisms of Action — In patients with malaria, quinidine acts primarily as an intraerythrocytic schizonticide, with little effect upon sporozoites or upon pre–erythrocytic parasites.</SentenceText>
+</Sentence>
+<Sentence id="3207" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Quinidine is gametocidal to Plasmodium vivax and P. malariae, but not to P. falciparum.</SentenceText>
+</Sentence>
+<Sentence id="3208" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>In cardiac muscle and in Purkinje fibers, quinidine depresses the rapid inward depolarizing sodium current, thereby slowing phase–0 depolarization and reducing the amplitude of the action potential without affecting the resting potential.</SentenceText>
+</Sentence>
+<Sentence id="3209" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>In normal Purkinje fibers, it reduces the slope of phase–4 depolarization, shifting the threshold voltage upward toward zero.</SentenceText>
+</Sentence>
+<Sentence id="3210" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>The result is slowed conduction and reduced automaticity in all parts of the heart, with increase of the effective refractory period relative to the duration of the action potential in the atria, ventricles, and Purkinje tissues.</SentenceText>
+</Sentence>
+<Sentence id="3211" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Quinidine also raises the fibrillation thresholds of the atria and ventricles, and it raises the ventricular defibrillation threshold as well.</SentenceText>
+</Sentence>
+<Sentence id="3212" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Quinidine's actions fall into class Ia in the Vaughan–Williams classification.</SentenceText>
+</Sentence>
+<Sentence id="3213" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>By slowing conduction and prolonging the effective refractory period, quinidine can interrupt or prevent reentrant arrhythmias and arrhythmias due to increased automaticity, including atrial flutter, atrial fibrillation, and paroxysmal supraventricular tachycardia.</SentenceText>
+</Sentence>
+<Sentence id="3214" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>In patients with the sick sinus syndrome, quinidine can cause marked sinus node depression and bradycardia.</SentenceText>
+</Sentence>
+<Sentence id="3215" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>In most patients, however, use of quinidine is associated with an increase in sinus rate.</SentenceText>
+</Sentence>
+<Sentence id="3216" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>Quinidine prolongs the QT interval in a dose–related fashion.</SentenceText>
+</Sentence>
+<Sentence id="3217" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>This may lead to increased ventricular automaticity and polymorphic ventricular tachycardias, including torsades de pointes.</SentenceText>
+</Sentence>
+<Sentence id="3218" LabelDrug="Quinidine Gluconate" section="34090-1">
+<SentenceText>In addition, quinidine has anticholinergic activity, it has negative inotropic activity, and it acts peripherally as an α–adrenergic antagonist (that is, as a vasodilator).</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="carbonic–anhydrase inhibitors" precipitantCode="N0000175517" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that alkalinize the urine" precipitantCode="NO MAP" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sodium bicarbonate" precipitantCode="8MDF5V39QO" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="thiazide diuretics" precipitantCode="N0000175419" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="amiodarone" precipitantCode="N3RQ532IUT" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nifedipine" precipitantCode="I9ZF7L6G2L" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nifedipine" precipitantCode="I9ZF7L6G2L" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs | that induce production of cytochrome p450iiia4" precipitantCode="N0000185506" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenobarbital" precipitantCode="YQE403BP4D" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="6158TKW0C5" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketaconazole" precipitantCode="R9400W927I" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="C54602"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54603"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digitoxin" precipitantCode="E90NZP2L9U" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="anticoagulant" precipitantCode="N0000175980" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs metabolized by cytochrome p450iid6" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="procainamide" precipitantCode="L39WTC366D" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="haloperidol" precipitantCode="J6292F8L3D" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="dihydropyridine calcium–channel blockers" precipitantCode="N0000175421"/>
+<LabelInteraction type="Unspecified interaction" precipitant="felodipine" precipitantCode="OL961R6O2C"/>
+<LabelInteraction type="Unspecified interaction" precipitant="nicardipine" precipitantCode="CZ5312222S"/>
+<LabelInteraction type="Unspecified interaction" precipitant="nimodipine" precipitantCode="57WA9QZ5WH"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic | drugs" precipitantCode="N0000175574" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs with | positive inotropic effects" precipitantCode="N0000009809" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs with | vasoconstricting | effects" precipitantCode="N0000192562" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs with cholinergic | effects" precipitantCode="N0000175369" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="negative inotropic | drugs" precipitantCode="N0000009757" effect="432439005: Negative inotropic effect on myocardium (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="vasodilating | drugs" precipitantCode="N0000175940" effect="91081006: Vasodilatation (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="decamethonium" precipitantCode="C1CG1S3T2W" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="depolarizing | neuromuscular blocking agents" precipitantCode="N0000175719" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="d–tubocurarine" precipitantCode="W9YXS298BM" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuromuscular blocking agents" precipitantCode="N0000175731" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nondepolarizing | neuromuscular blocking agents" precipitantCode="N0000175720" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pancuronium" precipitantCode="J76UF062FS" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="succinylcholine" precipitantCode="J2R869A8YF" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="succinylcholine" precipitantCode="J2R869A8YF" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="diltiazem" precipitantCode="EE92BBP03H" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="diltiazem" precipitantCode="EE92BBP03H" effect="C54603"/>
+<LabelInteraction type="Unspecified interaction" precipitant="digitalis" precipitantCode="F1T8QT9U8B"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Hydroxyzine Hydrochloride" setid="80309ec1-e5d5-4454-b8ce-67d7e6805e44">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Oral hydroxyzine hydrochloride is contraindicated in patients with known hypersensitivity to hydroxyzine hydrochloride products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride. Hydroxyzine is contraindicated in patients with a prolonged QT interval. Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range. Clinical data in human beings are inadequate to establish safety in early pregnancy. Until such data are available, hydroxyzine is contraindicated in early pregnancy. Hydroxyzine is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: adults, 50 to 100 mg q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus: adults, 25 mg t.i.d. or q.i.d.; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses. As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg for adults and 0.6 mg/kg of body weight in children. When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally. As with all potent medication, the dosage should be adjusted according to the patient’s response to therapy.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES. Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced. QT Prolongation/Torsade de Pointes (TdP): Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine. The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use). Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias. Caution is recommended during the concomitant use of drugs known to prolong the QT interval. These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol). Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine. Patients should also be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effects of alcohol may be increased. A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy. The extent of renal excretion of hydroxyzine has not been determined. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections. Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely. Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema. Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity. If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered. Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+It is not known whether this drug is excreted in human milk. Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Hydroxyzine hydrochloride is unrelated chemically to the phenothiazines, reserpine, meprobamate or the benzodiazepines. Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally. Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically. An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated. Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity. Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine’s clinical effects are usually noted within 15 to 30 minutes after oral administration.</Section>
+</Text><Sentences>
+<Sentence id="4006" LabelDrug="Hydroxyzine Hydrochloride" section="34070-3">
+<SentenceText>Oral hydroxyzine hydrochloride is contraindicated in patients with known hypersensitivity to hydroxyzine hydrochloride products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetirizine hydrochloride.</SentenceText>
+</Sentence>
+<Sentence id="4007" LabelDrug="Hydroxyzine Hydrochloride" section="34070-3">
+<SentenceText>Hydroxyzine is contraindicated in patients with a prolonged QT interval.</SentenceText>
+</Sentence>
+<Sentence id="4008" LabelDrug="Hydroxyzine Hydrochloride" section="34070-3">
+<SentenceText>Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range.</SentenceText>
+</Sentence>
+<Sentence id="4009" LabelDrug="Hydroxyzine Hydrochloride" section="34070-3">
+<SentenceText>Clinical data in human beings are inadequate to establish safety in early pregnancy.</SentenceText>
+</Sentence>
+<Sentence id="4010" LabelDrug="Hydroxyzine Hydrochloride" section="34070-3">
+<SentenceText>Until such data are available, hydroxyzine is contraindicated in early pregnancy.</SentenceText>
+</Sentence>
+<Sentence id="4011" LabelDrug="Hydroxyzine Hydrochloride" section="34070-3">
+<SentenceText>Hydroxyzine is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication.</SentenceText>
+</Sentence>
+<Sentence id="4012" LabelDrug="Hydroxyzine Hydrochloride" section="34068-7">
+<SentenceText>For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested: adults, 50 to 100 mg q.i.d.</SentenceText>
+</Sentence>
+<Sentence id="4013" LabelDrug="Hydroxyzine Hydrochloride" section="34068-7">
+<SentenceText>; children under 6 years, 50 mg daily in divided doses; children over 6 years, 50 to 100 mg daily in divided doses.</SentenceText>
+</Sentence>
+<Sentence id="4014" LabelDrug="Hydroxyzine Hydrochloride" section="34068-7">
+<SentenceText>For use in the management of pruritus due to allergic conditions such as chronic urticaria and atopic and contact dermatoses and in histamine-mediated pruritus: adults, 25 mg t.i.d.</SentenceText>
+</Sentence>
+<Sentence id="4015" LabelDrug="Hydroxyzine Hydrochloride" section="34068-7">
+<SentenceText>As a sedative when used as a premedication and following general anesthesia: 50 to 100 mg for adults and 0.6 mg/kg of body weight in children.</SentenceText>
+</Sentence>
+<Sentence id="4016" LabelDrug="Hydroxyzine Hydrochloride" section="34068-7">
+<SentenceText>When treatment is initiated by the intramuscular route of administration, subsequent doses may be administered orally.</SentenceText>
+</Sentence>
+<Sentence id="4017" LabelDrug="Hydroxyzine Hydrochloride" section="34068-7">
+<SentenceText>As with all potent medication, the dosage should be adjusted according to the patient’s response to therapy.</SentenceText>
+</Sentence>
+<Sentence id="4018" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>THE POTENTIATING ACTION OF HYDROXYZINE MUST BE CONSIDERED WHEN THE DRUG IS USED IN CONJUNCTION WITH CENTRAL NERVOUS SYSTEM DEPRESSANTS SUCH AS NARCOTICS, NON-NARCOTIC ANALGESICS AND BARBITURATES.</SentenceText>
+<Mention id="M7" type="Trigger" span="4 12" str="POTENTIATING"/>
+<Mention id="M2" type="Precipitant" span="182 12" str="BARBITURATES" code="N0000175693 | N0000008016"/>
+<Mention id="M4" type="Precipitant" span="100 34" str="CENTRAL NERVOUS SYSTEM DEPRESSANTS" code="N0000175758"/>
+<Mention id="M6" type="Precipitant" span="143 9" str="NARCOTICS" code="NO MAP"/>
+<Mention id="M8" type="Precipitant" span="154 23" str="NON-NARCOTIC ANALGESICS" code="N0000175439"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M7" precipitant="M2"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M7" precipitant="M4"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M7" precipitant="M6"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M7" precipitant="M8"/>
+</Sentence>
+<Sentence id="4019" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Therefore, when central nervous system depressants are administered concomitantly with hydroxyzine their dosage should be reduced.</SentenceText>
+<Mention id="M9" type="Trigger" span="105 24" str="dosage should be reduced"/>
+<Mention id="M10" type="Precipitant" span="16 34" str="central nervous system depressants" code="N0000175758"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M9" precipitant="M10"/>
+</Sentence>
+<Sentence id="4020" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>QT Prolongation/Torsade de Pointes (TdP): Cases of QT prolongation and Torsade de Pointes have been reported during post-marketing use of hydroxyzine.</SentenceText>
+</Sentence>
+<Sentence id="4021" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>The majority of reports occurred in patients with other risk factors for QT prolongation/TdP (pre-existing heart disease, electrolyte imbalances or concomitant arrhythmogenic drug use).</SentenceText>
+<Mention id="M11" type="Trigger" span="56 12" str="risk factors"/>
+<Mention id="M12" type="Precipitant" span="160 19" str="arrhythmogenic drug" code="NO MAP"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M11" precipitant="M12"/>
+</Sentence>
+<Sentence id="4022" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Therefore, hydroxyzine should be used with caution in patients with risk factors for QT prolongation, congenital long QT syndrome, a family history of long QT syndrome, other conditions that predispose to QT prolongation and ventricular arrhythmia, as well as recent myocardial infarction, uncompensated heart failure, and bradyarrhythmias.</SentenceText>
+</Sentence>
+<Sentence id="4023" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Caution is recommended during the concomitant use of drugs known to prolong the QT interval.</SentenceText>
+<Mention id="M13" type="Trigger" span="0 7" str="Caution"/>
+<Mention id="M14" type="Precipitant" span="53 38" str="drugs known to prolong the QT interval" code="NO MAP"/>
+<Interaction id="I7" type="Unspecified interaction" trigger="M13" precipitant="M14"/>
+</Sentence>
+<Sentence id="4024" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>These include Class 1A (e.g., quinidine, procainamide) or Class III (e.g., amiodarone, sotalol) antiarrhythmics, certain antipsychotics (e.g., ziprasidone, iloperidone, clozapine, quetiapine, chlorpromazine), certain antidepressants (e.g., citalopram, fluoxetine), certain antibiotics (e.g., azithromycin, erythromycin, clarithromycin, gatifloxacin, moxifloxacin); and others (e.g., pentamidine, methadone, ondansetron, droperidol).</SentenceText>
+</Sentence>
+<Sentence id="4025" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Since drowsiness may occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery while taking hydroxyzine.</SentenceText>
+</Sentence>
+<Sentence id="4026" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Patients should also be advised against the simultaneous use of other CNS depressant drugs, and cautioned that the effects of alcohol may be increased.</SentenceText>
+<Mention id="M15" type="Trigger" span="115 7;141 9" str="effects | increased"/>
+<Mention id="M16" type="Precipitant" span="126 7" str="alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M17" type="SpecificInteraction" span="115 35" str="effects of alcohol may be increased" code="NO MAP"/>
+<Mention id="M18" type="Trigger" span="24 15" str="advised against"/>
+<Mention id="M19" type="Precipitant" span="70 20" str="CNS depressant drugs" code="N0000175758"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M15" precipitant="M16" effect="M17" effectCodeMatch="NULL"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M18" precipitant="M19"/>
+</Sentence>
+<Sentence id="4027" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>A determination has not been made whether controlled clinical studies of hydroxyzine included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.</SentenceText>
+</Sentence>
+<Sentence id="4028" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Other reported clinical experience has not identified differences in responses between the elderly and younger patients.</SentenceText>
+</Sentence>
+<Sentence id="4029" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.</SentenceText>
+</Sentence>
+<Sentence id="4030" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>The extent of renal excretion of hydroxyzine has not been determined.</SentenceText>
+</Sentence>
+<Sentence id="4031" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Because elderly patients are more likely to have decreased renal function, care should be taken in dose selections.</SentenceText>
+</Sentence>
+<Sentence id="4032" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of hydroxyzine and observed closely.</SentenceText>
+</Sentence>
+<Sentence id="4033" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Hydroxyzine may rarely cause acute generalized exanthematous pustulosis (AGEP), a serious skin reaction characterized by fever and numerous small, superficial, non-follicular, sterile pustules, arising within large areas of edematous erythema.</SentenceText>
+</Sentence>
+<Sentence id="4034" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Inform patients about the signs of AGEP, and discontinue hydroxyzine at the first appearance of a skin rash, worsening of pre-existing skin reactions which hydroxyzine may be used to treat, or any other sign of hypersensitivity.</SentenceText>
+</Sentence>
+<Sentence id="4035" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>If signs or symptoms suggest AGEP, use of hydroxyzine should not be resumed and alternative therapy should be considered.</SentenceText>
+</Sentence>
+<Sentence id="4036" LabelDrug="Hydroxyzine Hydrochloride" section="42232-9">
+<SentenceText>Avoid cetirizine or levocetirizine in patients who have experienced AGEP or other hypersensitivity reactions with hydroxyzine, due to the risk of cross-sensitivity.</SentenceText>
+</Sentence>
+<Sentence id="4037" LabelDrug="Hydroxyzine Hydrochloride" section="34071-1">
+<SentenceText>It is not known whether this drug is excreted in human milk.</SentenceText>
+</Sentence>
+<Sentence id="4038" LabelDrug="Hydroxyzine Hydrochloride" section="34071-1">
+<SentenceText>Since many drugs are so excreted, hydroxyzine should not be given to nursing mothers.</SentenceText>
+</Sentence>
+<Sentence id="4039" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>Hydroxyzine hydrochloride is unrelated chemically to the phenothiazines, reserpine, meprobamate or the benzodiazepines.</SentenceText>
+</Sentence>
+<Sentence id="4040" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="4041" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>Primary skeletal muscle relaxation has been demonstrated experimentally.</SentenceText>
+</Sentence>
+<Sentence id="4042" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>Bronchodilator activity, and antihistaminic and analgesic effects have been demonstrated experimentally and confirmed clinically.</SentenceText>
+</Sentence>
+<Sentence id="4043" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>An antiemetic effect, both by the apomorphine test and the veriloid test, has been demonstrated.</SentenceText>
+</Sentence>
+<Sentence id="4044" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>Pharmacological and clinical studies indicate that hydroxyzine in therapeutic dosage does not increase gastric secretion or acidity and in most cases has mild antisecretory activity.</SentenceText>
+</Sentence>
+<Sentence id="4045" LabelDrug="Hydroxyzine Hydrochloride" section="34090-1">
+<SentenceText>Hydroxyzine is rapidly absorbed from the gastrointestinal tract and hydroxyzine’s clinical effects are usually noted within 15 to 30 minutes after oral administration.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="barbiturates" precipitantCode="N0000175693 | N0000008016"/>
+<LabelInteraction type="Unspecified interaction" precipitant="central nervous system depressants" precipitantCode="N0000175758"/>
+<LabelInteraction type="Unspecified interaction" precipitant="narcotics" precipitantCode="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="non-narcotic analgesics" precipitantCode="N0000175439"/>
+<LabelInteraction type="Unspecified interaction" precipitant="arrhythmogenic drug" precipitantCode="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs known to prolong the qt interval" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cns depressant drugs" precipitantCode="N0000175758"/>
+
+</LabelInteractions></Label>

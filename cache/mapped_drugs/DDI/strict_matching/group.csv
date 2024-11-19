@@ -1,0 +1,794 @@
+,name,id,smiles,formula
+0,(beta)-agonists,None,None,None
+1,"3-hydroxy-1,4-benzodiazepine",None,C1=CC=C2C(=C1)C=NC(=CN2)O,None
+2,5-ht1 agonists,None,None,None
+3,5-ht1b/1d agonists,None,None,None
+4,5-ht3 antagonists,None,None,None
+5,5-ht3 antiemetics,None,None,None
+6,5ht3 antagonists,None,None,None
+7,5ht3 antagonist class,None,None,None
+8,ace inhibitors,None,CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@@H]7CCC(=O)N7,None
+9,ace inhibitor,None,CCC(C)C(C(=O)N1CCCC1C(=O)N2CCCC2C(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C3CCCN3C(=O)C(CCCN=C(N)N)NC(=O)C4CCCN4C(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C7CCC(=O)N7,None
+10,ace-inhibitors,None,None,None
+11,acei,None,None,None
+12,acth,DB01285,None,C207H308N56O58S
+13,aed,None,CC(=O)NCCNC1=CC=CC2=C1C=CC=C2S(=O)(=O)O,None
+14,aeds,None,None,None
+15,anesthetics,None,None,None
+16,antacid,DB01377,[O-2].[Mg+2],MgO
+17,arb,None,C1[C@@H]([C@@H]([C@H]([C@H](O1)O)O)O)O,None
+18,acellular vaccines,None,None,None
+19,acidifying agents,None,None,None
+20,adrenal steroids,None,None,None
+21,adrenergic agents,None,None,None
+22,adrenergic blockers,None,None,None
+23,agents with b-blocking properties,None,None,None
+24,agonist/antagonist analgesics,None,None,None
+25,alpha-adrenergic blocking agents,None,None,None
+26,alpha-blockers,None,None,None
+27,aminoglycosides,None,None,None
+28,amphetamines,None,None,None
+29,anabolic steroids,None,None,None
+30,analgesic,DB00281,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,C14H22N2O
+31,angiotensin converting enzyme (ace) inhibitors,None,None,None
+32,angiotensin ii receptor antagonists,None,None,None
+33,angiotensln converting enzyme inhibitors,None,None,None
+34,antacid products,None,None,None
+35,antacids,None,None,None
+36,anti-hiv protease inhibitors,None,None,None
+37,anti-migraine,None,None,None
+38,anti-arrhythmics,None,None,None
+39,antiarrhythmics,None,None,None
+40,antibiotics,None,None,None
+41,anticholinergic agents,None,None,None
+42,anticholinergic drugs,None,None,None
+43,anticholinergics,None,None,None
+44,anticholinesterases,None,None,None
+45,anticoagulants,None,None,None
+46,anticonvulsants,None,None,None
+47,antidepressant,None,None,None
+48,antidepressants,None,None,None
+49,antidiabetic agents,None,None,None
+50,antidiabetic drug,None,None,None
+51,antidiabetic drugs,None,None,None
+52,antidiabetics,None,None,None
+53,antiepileptic drugs,None,None,None
+54,antifungal,DB00257,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4,C22H17ClN2
+55,antifungals,None,None,None
+56,antihistamines,None,None,None
+57,antihypertensive,None,None,None
+58,antihypertensive medication,None,None,None
+59,antihypertensive medications,None,None,None
+60,antihypertensives,None,None,None
+61,antimycobacterial,None,None,None
+62,antimycobacterial agents,None,None,None
+63,antineoplastic agents,None,None,None
+64,antiplatelet agents,None,None,None
+65,antiplatelets,None,None,None
+66,antipsychotic drugs,None,None,None
+67,antiretroviral,None,None,None
+68,antiretroviral agents,None,None,None
+69,antiretroviral drugs,None,None,None
+70,antithrombotics,None,None,None
+71,antithyroid agents,None,None,None
+72,azole antifungals,None,None,None
+73,barbiturates,None,None,None
+74,bacteriostatic antibiotics,None,None,None
+75,benzodiazepines,None,C1=CC=C2C(=C1)C=CC=NN2,None
+76,beta blockers,None,None,None
+77,beta adrenergic agonists,None,None,None
+78,beta-blockers,None,None,None
+79,beta-adrenergic blocking agents,None,None,None
+80,beta-adrenergic blocking drugs,None,None,None
+81,beta-adrenergic receptor antagonists,None,None,None
+82,beta-blocking agents,None,None,None
+83,bile acid binding resins,None,None,None
+84,broad-spectrum antibiotics,None,None,None
+85,butyrophenones,None,None,None
+86,central nervous system depressants,None,None,None
+87,cns depressants,None,None,None
+88,cns depressant,None,None,None
+89,cns depressant drugs,None,None,None
+90,cns depressant medications,None,None,None
+91,cns depression-producing drugs,None,None,None
+92,cns stimulants,None,None,None
+93,cns-depressant drug,None,None,None
+94,coumarin anticoagulants,None,None,None
+95,calcium antagonist,None,None,None
+96,calcium channel blockers,None,None,None
+97,calcium channel blocking agents,None,None,None
+98,cardiac glycosides,None,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2C[C@H]([C@@]3([C@@H]4[C@@H](CC[C@@]3(C2)O)[C@]5(CC[C@@H]([C@]5(C[C@H]4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O,None
+99,catecholamine-depleting drugs,None,None,None
+100,central nervous system depressant,None,None,None
+101,cephalosporins,None,CC(=O)OCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)CCC[C@H](C(=O)O)N)SC1)C(=O)O,None
+102,cholinesterase inhibitors,None,None,None
+103,cholinomimetics,None,None,None
+104,combination oral contraceptives,None,None,None
+105,combination hormonal contraceptives,None,None,None
+106,contraceptive,None,None,None
+107,contraceptives,None,None,None
+108,corticosteroids,None,C[C@@H]1C[C@H]2[C@@H]3C=C(C4=CC5=C(C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)C)C=NN5C6=CC=CC=C6)C,None
+109,coumarin anticoagulant,None,None,None
+110,coumarin-derivative anticoagulants,None,None,None
+111,coumarin-type anticoagulants,None,None,None
+112,curariform drugs,None,None,None
+113,cytokines,None,None,None
+114,cytotoxic agents,None,None,None
+115,digitalis,None,C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2O)O[C@@H]3[C@H](O[C@H](C[C@@H]3O)O[C@H]4CC[C@]5([C@@H](C4)CC[C@@H]6[C@@H]5CC[C@]7([C@@]6(CC[C@@H]7C8=CC(=O)OC8)O)C)C)C)C)O)O,None
+116,digitalis glycosides,None,None,None
+117,dihydropyridine,None,C1C=CC=CN1,None
+118,diuretic,None,None,None
+119,diuretic agents,None,None,None
+120,diuretics,None,None,None
+121,dopamine antagonists,None,None,None
+122,dopamine d2 receptor antagonists,None,None,None
+123,ergot derivatives,None,None,None
+124,estrogen,None,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O,None
+125,estrogens,None,C[C@]12CC[C@H]3C(=CCC4=C3C=CC(=C4)OS(=O)(=O)[O-])[C@@H]1CCC2=O.[Na+],None
+126,fat-soluble vitamin supplements,None,None,None
+127,fibrates,None,CC(C)(C(=O)O)OC1=CC=C(C=C1)Cl,None
+128,fibric acid derivatives,None,None,None
+129,gastrointestinal acidifying agents,None,None,None
+130,h 2 -receptor antagonists,None,None,None
+131,h 2 receptor antagonists,None,None,None
+132,h1 blockers,None,None,None
+133,h1-blocking agents,None,None,None
+134,h2 blockers,None,None,None
+135,h2 receptor antagonists,None,None,None
+136,h2 antagonists,None,None,None
+137,h2-receptor antagonists,None,None,None
+138,h2-antagonists,None,None,None
+139,hdac inhibitors,None,CC1=CC(=O)OC2=C1C=CC(=C2)NC(=O)[C@H](CCCCNC(=O)C)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)C,None
+140,hiv protease inhibitors,None,None,None
+141,hiv-protease inhibitors,None,None,None
+142,hmg-coa reductase inhibitor,None,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,None
+143,hmg-coa reductase inhibitors,None,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,None
+144,hmg-coa reductase inhibitor class,None,None,None
+145,hmgcoa reductase inhibitors,None,None,None
+146,histamine h2 antagonists,None,None,None
+147,histamine h2-receptor antagonists,None,None,None
+148,hormonal contraceptives,None,None,None
+149,hypnotics,None,None,None
+150,hypoglycemic agents,None,None,None
+151,hypoglycemics,None,None,None
+152,imidazoles,None,None,None
+153,immunosuppressants,None,None,None
+154,immunosuppressive drugs,None,None,None
+155,inhibitors of hmg-coa reductase,None,None,None
+156,intestinal adsorbents,None,None,None
+157,iodinated contrast media,None,None,None
+158,iron supplements,None,None,None
+159,killed virus vaccines,None,None,None
+160,live vaccines,None,None,None
+161,live virus vaccines,None,None,None
+162,loop diuretics,None,None,None
+163,mao inhibitors,None,None,None
+164,mao inhibitor,None,None,None
+165,mao-a inhibitors,None,None,None
+166,mao-b inhibitor,None,None,None
+167,mao-inhibitors,None,None,None
+168,maoi,None,None,None
+169,maoi antidepressants,None,None,None
+170,maois,None,None,None
+171,macrolide antibiotics,None,None,None
+172,macrolides,None,None,None
+173,methylxanthines,None,None,None
+174,mixed agonist/antagonist opioid analgesics,None,None,None
+175,monoamine oxidase inhibitors,None,None,None
+176,monoamine oxidase (mao) inhibitors,None,None,None
+177,multivitamins,DB00115,CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H]([C@@H]5[C@]6([C@@]([C@@H](/C(=C(/C7=N/C(=C\C8=N/C(=C(\C4=N5)/C)/[C@H](C8(C)C)CCC(=O)N)/[C@H]([C@]7(C)CC(=O)N)CCC(=O)N)\C)/[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3],C63H88CoN14O14P
+178,narcotic analgesics,None,None,None
+179,narcotics,None,None,None
+180,nnrti,None,None,None
+181,nnrtis,None,None,None
+182,non-narcotic analgesics,None,None,None
+183,nrtis,None,None,None
+184,nsaid,None,None,None
+185,nsaids,None,None,None
+186,neuroleptic,None,None,None
+187,neuroleptic drugs,None,None,None
+188,neuromuscular blockers,None,None,None
+189,neuromuscular blocking agents,None,None,None
+190,nitrates,DB14049,[N+](=O)([O-])[O-],NO3
+191,non-steroidal anti-inflammatory drugs,None,None,None
+192,non-nucleoside reverse transcriptase inhibitors,None,None,None
+193,non-selective mao inhibitors,None,None,None
+194,non-selective monoamine oxidase (mao) inhibitors,None,None,None
+195,non-steroidal anti-inflammatory agents,None,None,None
+196,noncardioselective beta-blockers,None,None,None
+197,nondepolarizing muscle relaxants,None,None,None
+198,nonsteroidal anti-inflammatory drugs,None,None,None
+199,nonsteroidal antiinflammatory drug,None,None,None
+200,nonsteroidal anti-inflammatory agents,None,None,None
+201,ocs,None,C([C@@H](C(=O)O)N)S(=O)(=O)O,None
+202,opioids,None,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3.CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2.CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O,None
+203,phenothiazines,None,None,None
+204,pi,None,C1=CC=C(C=C1)N=C=O,None
+205,poc,None,C[N+](C)(C)CCOP(=O)(O)O,None
+206,ppis,None,None,None
+207,penicillin,None,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,None
+208,phenothiazine-related compounds,None,None,None
+209,platelet inhibitors,None,None,None
+210,potassium-sparing diuretics,None,None,None
+211,potassium-depleting diuretics,None,None,None
+212,protease inhibitors,None,None,None
+213,protease inhibitor,None,None,None
+214,proton pump inhibitors,None,None,None
+215,psychoactive drugs,None,None,None
+216,pyrazolone derivatives,None,None,None
+217,quinolone antibiotic,None,CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O,None
+218,quinolones,None,C1=CC=C2C(=C1)C=CC(=O)N2,None
+219,resin,None,C[C@H]1CC[C@H]2[C@H](C2(C)C)C3=C(CCC13)C,None
+220,resins,None,None,None
+221,salicylate drugs,None,None,None
+222,sedative-hypnotics,None,None,None
+223,ssri,None,None,None
+224,ssri antidepressants,None,None,None
+225,ssris,None,None,None
+226,salicylate,None,C1=CC=C(C(=C1)C(=O)O)[O-],None
+227,salicylates,None,C1=CC=C(C(=C1)C(=O)O)[O-],None
+228,sedative,None,None,None
+229,sedatives,None,None,None
+230,selective serotonin reuptake inhibitors,None,None,None
+231,serotonergic agents,None,None,None
+232,short-acting beta2-agonists,None,None,None
+233,short-acting benzodiazepines,None,None,None
+234,skeletal muscle relaxants,None,None,None
+235,slow-channel calcium blockers,None,None,None
+236,statins,None,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,None
+237,steroids,None,None,None
+238,sulfonamides,None,COC1=CC=C(C=C1)CN2CCCS2(=O)=O,None
+239,sulfonylureas,None,None,None
+240,sympathomimetic amines,None,None,None
+241,sympathomimetics,None,None,None
+242,systemic corticosteroids,None,None,None
+243,t.a.,None,None,None
+244,tca,None,C(=O)(C(Cl)(Cl)Cl)O,None
+245,tcas,None,C[C@H](CCC(=O)NCCS(=O)(=O)[O-])[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C,None
+246,tnf antagonist,None,None,None
+247,tnf antagonists,None,None,None
+248,tnf blocking agents,None,None,None
+249,tnf-blocking agent,None,None,None
+250,tnf-blocking agents,None,None,None
+251,tnfa-blocking agents,None,None,None
+252,tranquilizers,None,None,None
+253,tricyclic antidepressants,None,None,None
+254,tetracycline,DB00759,C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,C22H24N2O8
+255,tetracyclines,None,None,None
+256,thiazide diuretics,None,None,None
+257,thiazide drugs,None,None,None
+258,thiazides,None,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,None
+259,thrombolytic agents,None,None,None
+260,thyroid,DB00279,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I)I)O,C15H12I3NO4
+261,thyroid hormones,None,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)CC(C(=O)O)N)I)I)O.C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,None
+262,thyroid preparations,None,None,None
+263,type 1c antiarrhythmics,None,None,None
+264,uricosuric agents,None,None,None
+265,uricosuric drugs,None,None,None
+266,urinary acidifying agents,None,None,None
+267,vaccines,None,None,None
+268,vasoconstrictors,None,CNC[C@@H](C1=CC(=C(C=C1)O)O)O,None
+269,vasodilators,None,None,None
+270,vasopressor,None,None,None
+271,vasopressors,None,None,None
+272,veratrum alkaloids,None,None,None
+273,vitamin a,DB00162,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C,C20H30O
+274,vitamin d,DB00153,C[C@H](/C=C/[C@H](C)C(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C,C28H44O
+275,vitamin k,DB01022,CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C,C31H46O2
+276,absorbent-type anti-diarrhea medicines,None,None,None
+277,activated prothrombin complex concentrates,None,None,None
+278,adrenal cortical steroids,None,None,None
+279,adrenergic,None,None,None
+280,adrenergic agonists,None,None,None
+281,adrenergic beta-receptor blockers,None,None,None
+282,adrenergic bronchodilators,None,None,None
+283,adrenergic drugs,None,None,None
+284,adrenergic neuron blocking agents,None,None,None
+285,adrenocortical steroid,None,None,None
+286,adrenocortical steroids,None,None,None
+287,alkalinizing agents,None,None,None
+288,alpha glucosidase inhibitors,None,None,None
+289,alpha-2 agonists,None,None,None
+290,alpha-adrenergic stimulants,None,None,None
+291,alpha-blocker,None,None,None
+292,aluminum/magnesium hydroxide antacids,None,None,None
+293,amide-type local anesthetics,None,None,None
+294,aminoglycoside,None,None,None
+295,aminoglycoside antibiotic,None,None,None
+296,aminoglycoside antibiotics,None,None,None
+297,aminoglycosidic antibiotics,None,None,None
+298,aminosalicylate derivatives,None,None,None
+299,amphetamine,DB00182,CC(CC1=CC=CC=C1)N,C9H13N
+300,anabolic hormones,None,None,None
+301,analgesic adjuvants,None,None,None
+302,analgesic agents,None,None,None
+303,analgesic drugs,None,None,None
+304,analgesics,None,None,None
+305,androgen,None,CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,None
+306,androgens,None,CCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,None
+307,anesthetic,DB00281,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,C14H22N2O
+308,anesthetic agents,None,None,None
+309,anesthetic solutions,None,None,None
+310,angiotensin converting enzyme inhibitors,None,CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@@H]7CCC(=O)N7,None
+311,angiotensin- converting enzyme (ace) inhibitors,None,None,None
+312,angiotensin-converting enzyme (ace) inhibitors,None,None,None
+313,angiotensin-converting enzyme inhibitor,None,CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@@H]7CCC(=O)N7,None
+314,angiotensin-converting enzyme inhibitors,None,CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]3CCCN3C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@@H]7CCC(=O)N7,None
+315,anion exchange resin,None,None,None
+316,anion-exchange resins,None,None,None
+317,anionic exchange resins,None,None,None
+318,antacid preparations,None,None,None
+319,anti platelet agents,None,None,None
+320,anti-anxiety drugs,None,None,None
+321,anti-arrhythmic agents,None,None,None
+322,anti-cancer drugs,None,None,None
+323,anti-coagulants,None,None,None
+324,anti-depressants,None,None,None
+325,anti-helminthic,None,None,None
+326,anti-hypertensive drug,None,None,None
+327,anti-hypertensives,None,None,None
+328,anti-infective medicines,None,None,None
+329,anti-inflammatory,None,None,None
+330,anti-malarial drugs,None,None,None
+331,anti-parkinsonian drug,None,None,None
+332,anti-pseudomonal antibiotics,None,None,None
+333,anti-ulcer,None,None,None
+334,antianginals,None,None,None
+335,antianxiety agents,None,None,None
+336,antianxiety drugs,None,None,None
+337,antiarrhythmic agent,None,None,None
+338,antiarrhythmic agents,None,None,None
+339,antiarrhythmic agents of class i,None,None,None
+340,antiarrhythmic drugs,None,None,None
+341,antibacterial,DB00898,CCO,C2H6O
+342,antibacterial drug,None,None,None
+343,antibacterial drugs,None,None,None
+344,antibiotic,DB00626,CC[C@H](C)[C@H]1C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCC[C@@H](C(=O)N[C@@H](C(=O)N1)CCCN)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CSC(=N2)[C@H]([C@@H](C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4,C66H103N17O16S
+345,antibiotic drug,None,None,None
+346,antibodies,None,None,None
+347,anticancer agent,None,None,None
+348,antichlolinergic,None,None,None
+349,anticholinergic,None,None,None
+350,anticholinergic agent,None,None,None
+351,anticholinergic compounds,None,None,None
+352,anticholinergic medications,None,None,None
+353,anticholinesterase,None,None,None
+354,anticholinesterase agents,None,None,None
+355,anticoagulant,None,None,None
+356,anticoagulant agents,None,None,None
+357,anticoagulant drugs,None,None,None
+358,anticoagulant medication,None,None,None
+359,anticoagulants of the coumarin type,None,None,None
+360,anticoagulants of the warfarin type,None,None,None
+361,anticonvulsant,None,None,None
+362,anticonvulsant agents,None,None,None
+363,anticonvulsant drugs,None,None,None
+364,anticonvulsant medications,None,None,None
+365,antidepressant drug,None,None,None
+366,antidepressant drugs,None,None,None
+367,antidepressants of the mao inhibitor class,None,None,None
+368,antidiabetic agent,None,None,None
+369,antidiabetic medication,None,None,None
+370,antidiabetic products,None,None,None
+371,antiemetics,None,None,None
+372,antiepileptic medications,None,None,None
+373,antiestrogen,None,CC(C)C[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)OP(=O)(O)O)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)O)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CS)N,None
+374,antiestrogens,None,None,None
+375,antifungal agents,None,None,None
+376,antifungal drug,None,None,None
+377,antiglaucoma agents,None,None,None
+378,antigout drugs,None,None,None
+379,antihistaminics,None,None,None
+380,antihyperlipidemics,None,None,None
+381,antihypertensive agents,None,None,None
+382,antihypertensive compounds,None,None,None
+383,antihypertensive drugs,None,None,None
+384,antimalarials,None,None,None
+385,antimuscarinics,None,None,None
+386,antimycotic agents,None,None,None
+387,antineoplastic drugs,None,None,None
+388,antiparkinson drugs,None,None,None
+389,antiparkinsonian agents,None,None,None
+390,antiparkinsonian drug,None,None,None
+391,antiparkinsonian-agents,None,None,None
+392,antiplatelet drug,None,None,None
+393,antiplatelet medication,None,None,None
+394,antipsychotic agents,None,None,None
+395,antipsychotic drug,None,None,None
+396,antipsychotic medications,None,None,None
+397,antipsychotics,None,None,None
+398,antipyretics,None,None,None
+399,antiretroviral medication,None,None,None
+400,antiretroviral medications,None,None,None
+401,antithrombotic agent,None,None,None
+402,antithyroid drugs,None,None,None
+403,antituberculosis drug,None,None,None
+404,antituberculous drugs,None,None,None
+405,antivirals,None,None,None
+406,anxiolytic,None,None,None
+407,anxiolytics,None,None,None
+408,atypical antipsychotic,None,None,None
+409,atypical neuroleptic,None,None,None
+410,avian influenza vaccines,None,None,None
+411,azole antifungal,None,None,None
+412,azole antifungal agents,None,None,None
+413,azole antimycotics,None,None,None
+414,azole-type antifungal agents,None,None,None
+415,azoles,None,C1=CC(=CC(=C1)[N+](=O)[O-])C2=NOC(=N2)C3=CC=C(C=C3)F,None
+416,b-adrenergic blocking agents,None,None,None
+417,b-blocking agent,None,None,None
+418,b-blocking drug,None,None,None
+419,b-lactam antibiotics,None,None,None
+420,b-lactams,None,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,None
+421,bacitracin,DB00626,CC[C@H](C)[C@H]1C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCC[C@@H](C(=O)N[C@@H](C(=O)N1)CCCN)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CSC(=N2)[C@H]([C@@H](C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4,C66H103N17O16S
+422,bacteriostatic antibiotic,None,None,None
+423,barbituates,None,None,None
+424,belladonna alkaloids,None,None,None
+425,benzodiazepenes,None,None,None
+426,benzodiazepine,DB12537,C1=CC=C2C(=C1)C=CC=NN2,C9H8N2
+427,benzodiazepine class,None,None,None
+428,benzothiadiazines,None,None,None
+429,benzothiazepine,None,C1=CC=C2C(=C1)C=CC=NS2,None
+430,beta adrenergic aerosol bronchodilators,None,None,None
+431,beta adrenergic antagonists,None,None,None
+432,beta adrenergic blockers,None,None,None
+433,beta adrenergic blocking agents,None,None,None
+434,beta adrenergic-blocking agents,None,None,None
+435,beta blocker,None,None,None
+436,beta blocking agents,None,None,None
+437,beta-adrenergic antagonists,None,None,None
+438,beta-adrenergic blocker,None,None,None
+439,beta-adrenergic blockers,None,None,None
+440,beta-adrenergic blocking agent,None,None,None
+441,beta-adrenergic receptor blockers,None,None,None
+442,beta-adrenergic receptor blocking agents,None,None,None
+443,beta-adrenergic-blocking agents,None,None,None
+444,beta-adrenoceptor blocking agents,None,None,None
+445,beta-agonist,None,None,None
+446,beta-agonists,None,None,None
+447,beta-blocker,None,None,None
+448,beta-blocking agent,None,None,None
+449,beta-lactam antibiotics,None,None,None
+450,beta-receptor blockers,None,None,None
+451,beta2 agonists,None,None,None
+452,beta2-agonist,None,None,None
+453,beta2-agonists,None,None,None
+454,beta2-agonists.,None,None,None
+455,betablockers,None,None,None
+456,biguanides,None,C(=NC(=N)N)(N)N,None
+457,bile acid binding resin,None,None,None
+458,bile acid sequestrants,None,None,None
+459,bisphosphonates,None,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN,None
+460,blood thinner,None,None,None
+461,botulinum toxin,None,None,None
+462,bronchodilators,None,None,None
+463,butyrophenone classes of antipsychotic agents,None,None,None
+464,calcineurin inhibitor,None,None,None
+465,calcium antagonists,None,None,None
+466,calcium blockers,None,None,None
+467,calcium channel antagonists,None,None,None
+468,calcium channel blocker,None,None,None
+469,calcium channel blocking drugs,None,None,None
+470,calcium channel-blockers,None,None,None
+471,calcium channel-blocking drugs,None,None,None
+472,calcium-blocking agents,None,None,None
+473,calcium-channel blockers,None,None,None
+474,calcium-channel-blocking agents,None,None,None
+475,calcium-entry blocking agents,None,None,None
+476,cannabinoids,None,CCCCCC1=CC(=C(C(=C1)O)[C@@H]2C=C(CC[C@H]2C(=C)C)C)O.CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O,None
+477,carbonic anhydrase inhibitor,None,None,None
+478,carbonic anhydrase inhibitors,None,None,None
+479,cardioselective beta-blocker,None,None,None
+480,catecholamine depletors,None,None,None
+481,catecholamines,None,C1=CC(=C(C(=C1)O)O)N,None
+482,central nervous system (cns) depressants,None,None,None
+483,central nervous system stimulants,None,None,None
+484,centrally acting drugs,None,None,None
+485,cephalosporin,None,C=C1CS[C@@H](N=C1C(=O)O)[C@@H](C(=O)O)NC(=O)CCCC[C@H](C(=O)O)N,None
+486,cephalosporin antibiotics,None,None,None
+487,chemotherapeutic agents,None,None,None
+488,chlorpheniramine,DB01114,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2,C16H19ClN2
+489,cholinergic agonists,None,None,None
+490,coagulation factor,None,None,None
+491,combined oral contraceptives,None,None,None
+492,contraceptive agents,None,None,None
+493,contraceptive product,None,None,None
+494,coronary vasodilators,None,None,None
+495,cortico-steroids,None,None,None
+496,corticosteroid,None,C[C@@H]1C[C@H]2[C@@H]3C=C(C4=CC5=C(C[C@@]4([C@H]3[C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)C)C=NN5C6=CC=CC=C6)C,None
+497,coumarin,DB04665,C1=CC=C2C(=C1)C=CC(=O)O2,C9H6O2
+498,coumarin derivatives,None,CC1=CC(OC1=O)C/C(=C\COC2=CC3=C(C=C2)C=CC(=O)O3)/C,None
+499,coumarin drugs,None,None,None
+500,coumarins,None,CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,None
+501,curare-like compounds,None,None,None
+502,cyclic antidepressants,None,None,None
+503,cyclooxygenase-2 inhibitors,None,None,None
+504,cytostatic agent,None,None,None
+505,cytotoxic,None,None,None
+506,decongestant drugs,None,None,None
+507,decongestants,None,None,None
+508,delta(1)-selective opioids,None,None,None
+509,diagnostic monoclonal antibodies,None,None,None
+510,digestive enzyme preparations,None,None,None
+511,digitalis glycoside,None,CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O,None
+512,digitalis preparations,None,None,None
+513,dihydropyridine calcium antagonists,None,None,None
+514,dihydropyridine calcium channel blockers,None,None,None
+515,dihydropyridine derivative,None,None,None
+516,diphosphonate,None,O=P(=O)OP(=O)=O,None
+517,dopa decarboxylase inhibitor,None,None,None
+518,dopa-decarboxylase inhibitor,None,None,None
+519,dopamine agonist,None,None,None
+520,dopamine agonists,None,None,None
+521,dopaminergic agents,None,None,None
+522,emetic,None,None,None
+523,erection-supporting medication,None,None,None
+524,ergot,None,CC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C.C(=C\C(=O)O)\C(=O)O,None
+525,ergot alkaloid class,None,None,None
+526,ergot alkaloid drugs,None,None,None
+527,ergot alkaloids,None,None,None
+528,ergot-type medications,None,None,None
+529,ergot-type oxytocic drugs,None,None,None
+530,estrogen antagonist,None,None,None
+531,estrogen-containing compounds,None,None,None
+532,fat soluble vitamins,None,None,None
+533,fat-soluble vitamins,None,None,None
+534,fibrate,None,None,None
+535,fibrate drugs,None,None,None
+536,fluoroquinolone antibiotic,None,None,None
+537,fluoroquinolone antibiotics,None,None,None
+538,fluoroquinolones,None,C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,None
+539,folic acid antagonists,None,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,None
+540,ganglion blockers,None,None,None
+541,ganglionic adrenergic blocking drugs,None,None,None
+542,ganglionic blocking agents,None,None,None
+543,glucocorticoid,None,None,None
+544,glucocorticoids,None,None,None
+545,glycosides,None,C[C@@H]1[C@H]([C@H]([C@H]([C@@H](O1)O[C@H]2C[C@@H]([C@@]3([C@@H]4[C@@H](CC[C@]3(C2)O)[C@@]5(CC[C@H]([C@]5(C[C@H]4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O,None
+546,gold,DB14154,[Au],Au
+547,gold medication,None,None,None
+548,halogenated hydrocarbon anesthetics,None,None,None
+549,halogenated hydrocarbon general anesthetics,None,None,None
+550,highly active antiretroviral,None,None,None
+551,histone deacetylase inhibitor,None,CCN(CC)CC1=CC2=C(C=C1)C=C(C=C2)COC(=O)NC3=CC=C(C=C3)C(=O)NO.Cl,None
+552,hormonal contraceptive,None,None,None
+553,hormonal contraceptive agents,None,None,None
+554,hydantoin,None,C1C(=O)NC(=O)N1,None
+555,hydantoin antiepileptic,None,None,None
+556,hydantoins,None,C1C(=O)NC(=O)N1,None
+557,hydroxymethylglutaryl coenzyme a (hmg-coa) reductase inhibitors,None,None,None
+558,hypnotic,None,None,None
+559,hypnotic agent,None,None,None
+560,hypnotic drugs,None,None,None
+561,hypoglycemic,None,None,None
+562,hypoglycemic medications,None,None,None
+563,hypotensive agents,None,None,None
+564,hypotensive drugs,None,None,None
+565,imidazole,DB03366,C1=CN=CN1,C3H4N2
+566,imidazole antifungals,None,None,None
+567,imidazole compounds,None,None,None
+568,imidazole drugs,None,None,None
+569,immuno-suppressant,None,None,None
+570,immunodepressant,None,None,None
+571,immunomodulating drugs,None,None,None
+572,immunosuppressive,None,None,None
+573,inactivated vaccines,None,None,None
+574,indanedione anticoagulants,None,None,None
+575,influenza virus vaccine,None,None,None
+576,insulins,None,None,None
+577,interferon,None,None,None
+578,interleukin,None,None,None
+579,interleukin-1 antagonist,None,None,None
+580,iodine,DB00898,CCO,C2H6O
+581,iodine-containing compounds,None,None,None
+582,iron supplement,None,None,None
+583,kappa-selective opioids,None,None,None
+584,laxative,DB04348,C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C,C26H45NO7S
+585,live attenuated vaccines,None,None,None
+586,live organism vaccines,None,None,None
+587,live typhoid vaccines,None,None,None
+588,live-attenuated vaccines,None,None,None
+589,long-acting benzodiazepine,None,None,None
+590,long-acting benzodiazepines,None,None,None
+591,long-acting nitrates,None,None,None
+592,low molecular weight heparins,None,None,None
+593,lung surfactant,None,None,None
+594,macrolide antibacterials,None,None,None
+595,macrolide class,None,None,None
+596,macrolide immunosuppressant,None,None,None
+597,magnesium,DB14513,[Mg],H2Mg
+598,magnesium sparing diuretics,None,None,None
+599,major tranquilizers,None,None,None
+600,metoclopramide,DB01233,CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl,C14H22ClN3O2
+601,minerals,None,None,None
+602,mixed agonist/antagonist analgesics,None,None,None
+603,monoamine oxi-dase inhibitors,None,None,None
+604,monoamine oxidase inhibiting drugs,None,None,None
+605,monoamine oxidase inhibitor,None,None,None
+606,monoamine oxidase inhibitors (mao-is) type b,None,None,None
+607,mu-selective opioids,None,None,None
+608,multi minerals,None,None,None
+609,multi-minerals,None,None,None
+610,multivitamin preparations,None,None,None
+611,muscle relaxant,None,None,None
+612,muscle relaxant drugs,None,None,None
+613,muscle relaxants,None,None,None
+614,myocardial depressants,None,None,None
+615,narcotic,None,None,None
+616,narcotic analgesic,None,None,None
+617,nasal vasoconstrictor,None,None,None
+618,neuroleptics,None,None,None
+619,nitrate,DB14049,[N+](=O)([O-])[O-],NO3
+620,nitric oxide donor compounds,None,None,None
+621,nitrites,None,N(=O)[O-],None
+622,nitrosourea,None,C(=O)(N)NN=O,None
+623,non- steroidal anti- inflammatory agents,None,None,None
+624,non- steroidal antiinflammatory agent,None,None,None
+625,non-depolarising muscle relaxant,None,None,None
+626,non-depolarizing muscle relaxants,None,None,None
+627,non-nucleoside reverse transcriptase inhibitor,None,None,None
+628,non-opioid analgesics,None,None,None
+629,non-potassium sparing diuretics,None,None,None
+630,non-selective mao inhibitor,None,None,None
+631,non-selective beta-adrenergic-blocking agents,None,None,None
+632,non-steroidal anti-inflammatory,None,None,None
+633,non-steroidal anti-inflammatory agent,None,None,None
+634,non-steroidal anti-inflammatory drug,None,None,None
+635,non-steroidal antiinflammatory drugs,None,None,None
+636,nonbarbiturate hypnotics,None,None,None
+637,nondepolarizing agents,None,None,None
+638,nondepolarizing neuromuscular blocking agents,None,None,None
+639,nonsteroial anti-inflammatory drugs,None,None,None
+640,nonsteroidal anti inflammatory drug,None,None,None
+641,nonsteroidal anti-inflammatory,None,None,None
+642,nonsteroidal anti-inflammatory drug,None,None,None
+643,nonsteroidal antiinflammatories,None,None,None
+644,nonsteroidal antiinflammatory agents,None,None,None
+645,opiate,None,None,None
+646,opiate analgesics,None,None,None
+647,opiates,None,None,None
+648,opioid,None,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3.CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2.CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O,None
+649,opioid agonist analgesic,None,None,None
+650,opioid analgesics,None,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3.CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2.CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O,None
+651,organic nitrates,None,None,None
+652,organophosphorous compound,None,None,None
+653,oxytocic agents,None,None,None
+654,oxytocic drugs,None,None,None
+655,oxytocics,None,None,None
+656,penicillins,None,None,None
+657,peripheral adrenergic blocking drugs,None,None,None
+658,peripheral vasoconstrictors,None,None,None
+659,peripherally restricted opioid antagonist,None,None,None
+660,phenothiazine,DB11447,C1=CC=C2C(=C1)NC3=CC=CC=C3S2,C12H9NS
+661,phenothiazine derivatives,None,None,None
+662,phenothiazine-type tranquilizers,None,None,None
+663,phenothiazines classes of antipsychotic agents,None,None,None
+664,phenylalkylamine,None,None,None
+665,phenylbutazone,DB00812,CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3,C19H20N2O2
+666,photosensitizing agents,None,None,None
+667,platelet aggregation inhibitors,None,None,None
+668,polyene antibiotics,None,None,None
+669,polymyxin,None,C[C@H]([C@H]1C(=O)NCC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCN)CCN)CC(C)C)CC2=CC=CC=C2)CCN)NC(=O)[C@H](CCN)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CCN)NC(=O)O)O,None
+670,polymyxins,None,CCC(C)CCCCC(=O)N[C@@H](CCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCN)C(=O)N[C@H]1CCNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC1=O)CCN)CC(C)C)[C@@H](C)O)CCN)CCN)[C@@H](C)O,None
+671,potassium depleting diuretics,None,None,None
+672,potassium sparing diuretics,None,None,None
+673,potassium- sparing diuretics,None,None,None
+674,potassium-sparing antihypertensives,None,None,None
+675,progestational contraceptives,None,None,None
+676,progestin,None,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,None
+677,progestin-only oral contraceptives,None,None,None
+678,progestins,None,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,None
+679,progestogens,None,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,None
+680,prolonged narcotics,None,None,None
+681,prostaglandin synthetase inhibitors,None,None,None
+682,prothrombin complex concentrates,None,None,None
+683,psychostimulants,None,None,None
+684,psychotropic agents,None,None,None
+685,psychotropic drug,None,None,None
+686,psychotropic drugs,None,None,None
+687,psychotropic medications,None,None,None
+688,psychotropics,None,None,None
+689,pulmonary surfactant,None,None,None
+690,pure agonist opioid analgesic,None,None,None
+691,pyrazolones,None,None,None
+692,quinidine,DB00908,COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O,C20H24N2O2
+693,quinolone,None,C1=CC=C2C(=C1)C=CC(=O)N2,None
+694,quinolone anti-infectives,None,None,None
+695,quinolone antibiotics,None,None,None
+696,quinolone antimicrobial,None,None,None
+697,quinolone class,None,None,None
+698,quinolone class antimicrobial,None,None,None
+699,radiographic iodinated contrast media,None,None,None
+700,radiopharmaceutical,None,None,None
+701,rauwolfia alkaloid,None,C[C@H]1[C@H]2CN3CCC4=C([C@@H]3C[C@@H]2C(=CO1)C(=O)OC)NC5=CC=CC=C45,None
+702,retinoids,None,CCOC(=O)/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C(=C(C=C1C)OC)C)C,None
+703,reverse transcriptase inhibitors,None,None,None
+704,rifamycins,None,CC1/C=C\C=C(/C(=O)NC2=CC(=O)C3=C(C2=O)C(=C(C4=C3C(=O)C(O4)(O/C=C\C(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)\C,None
+705,salicylate analgesics,None,None,None
+706,second generation (atypical) antipsychotic agent,None,None,None
+707,sedating drugs,None,None,None
+708,sedative hypnotics,None,None,None
+709,selective ca(2+) channel blockers,None,None,None
+710,selective mao inhibitor,None,None,None
+711,selective serotonin reuptake inhibitor,None,None,None
+712,serotonin reuptake inhibitor drug,None,None,None
+713,serotonin reuptake inhibitors,None,None,None
+714,serotoninergic agents,None,None,None
+715,sex steroids,None,None,None
+716,short-acting  beta2-agonists,None,None,None
+717,short-acting beta adrenergic aerosol bronchodilators,None,None,None
+718,short-acting nitrates,None,None,None
+719,skeletal-muscle relaxants,None,None,None
+720,somatostatin analog,None,None,None
+721,somatostatin analogs,None,None,None
+722,statin,None,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C,None
+723,steroid,None,None,None
+724,steroid medications,None,None,None
+725,steroid medicine,None,None,None
+726,steroidal anti-inflammatory agent,None,None,None
+727,succinimides,None,None,None
+728,sulfonamide,None,C1=CC(=CC=C1N)S(=O)(=O)N,None
+729,sulfonamide antibiotics,None,None,None
+730,sulfonamide drug,None,None,None
+731,sulfonylurea,None,C(=O)(N)N=S(=O)=O.C(=O)(N)N=S(=O)=O,None
+732,sulfonylurea agent,None,None,None
+733,sulfonylurea agents,None,None,None
+734,sulfonylurea oral hypoglycemic agents,None,None,None
+735,sulphonylureas,None,None,None
+736,sympathomimetic,None,None,None
+737,sympathomimetic agents,None,None,None
+738,sympathomimetic amine,None,None,None
+739,sympathomimetic bronchodilators,None,None,None
+740,sympathomimetic drugs,None,None,None
+741,sympathomimetic medication,None,None,None
+742,sympathomimetic pressor amines,None,None,None
+743,synthetic 3-hydroxy-3-methylglutaryl coenzyme a (hmgcoa) reductase inhibitor,None,None,None
+744,synthetic estrogens,None,None,None
+745,synthetic steroidal estrogen,None,None,None
+746,synthetic steroidal progestogen,None,None,None
+747,synthetic steroids,None,None,None
+748,tetracyclic antidepressants,None,None,None
+749,tetracycline class,None,None,None
+750,tetracycline class drugs,None,None,None
+751,therapeutic monoclonal antibodies,None,None,None
+752,thiazide,None,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,None
+753,thiazide diuretic,None,None,None
+754,thiazide-like diuretics,None,None,None
+755,thiazide-type diuretics,None,None,None
+756,thiazolidinediones,None,None,None
+757,thienobenzodiazepine derivative,None,None,None
+758,thioxanthene classes of antipsychotic agents,None,None,None
+759,thioxanthenes,None,None,None
+760,thioxanthines,None,None,None
+761,thrombolytics,None,None,None
+762,thyroid drugs,None,None,None
+763,thyroid hormone,None,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)C[C@@H](C(=O)O)N)I)I)O,None
+764,thyroid preparation,None,None,None
+765,thyroid products,None,None,None
+766,tranquillisers,None,None,None
+767,triazole antifungals,None,None,None
+768,triazolobenzodiazepines,None,None,None
+769,tricyclic,None,None,None
+770,tricyclic anti-depressants,None,None,None
+771,tricyclic antidepressant,None,None,None
+772,tricyclic antidepressant agent,None,None,None
+773,tricyclic antidepressant class,None,None,None
+774,tricyclic drugs,None,None,None
+775,tricyclics,None,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/CO)/C)/C,None
+776,uricosuric medication,None,None,None
+777,uricosurics,None,None,None
+778,vaccine,None,None,None
+779,vasoconstrictor agents,None,CNC[C@@H](C1=CC(=C(C=C1)O)O)O,None
+780,vasoconstrictor drugs,None,CNC[C@@H](C1=CC(=C(C=C1)O)O)O,None
+781,vasopressor drugs,None,None,None
+782,vitamin d analogues,None,None,None
+783,vitamin d preparations,None,None,None
+784,vitamin k antagonists,None,None,None
+785,vitamin supplements,None,None,None
+786,vitamin-d,None,None,None
+787,vitamins,None,None,None
+788,volatile inhalation anesthetics,None,None,None
+789,warfarin-type anticoagulant,None,None,None
+790,warfarin-type anticoagulants,None,None,None
+791,xanthine bronchodilators,None,None,None
+792,xanthine derivatives,None,None,None

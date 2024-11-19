@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="PAMELOR" setid="e17dc299-f52d-414d-ab6e-e809bd6f8acb">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The mechanism of mood elevation by tricyclic antidepressants is at present unknown. Pamelor is not a monoamine oxidase inhibitor. It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine. It increases the pressor effect of norepinephrine but blocks the pressor response of phenethylamine. Studies suggest that Pamelor interferes with the transport, release, and storage of catecholamines. Operant conditioning techniques in rats and pigeons suggest that Pamelor has a combination of stimulant and depressant properties.</Section>
+</Text><Sentences>
+<Sentence id="6132" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Administration of reserpine during therapy with a tricyclic antidepressant has been shown to produce a “stimulating” effect in some depressed patients.</SentenceText>
+</Sentence>
+<Sentence id="6133" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of the dosage are required when Pamelor is used with other anticholinergic drugs and sympathomimetic drugs.</SentenceText>
+</Sentence>
+<Sentence id="6134" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Concurrent administration of cimetidine and tricyclic antidepressants can produce clinically significant increases in the plasma concentrations of the tricyclic antidepressant.</SentenceText>
+</Sentence>
+<Sentence id="6135" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>The patient should be informed that the response to alcohol may be exaggerated.</SentenceText>
+</Sentence>
+<Sentence id="6136" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>A case of significant hypoglycemia has been reported in a type II diabetic patient maintained on chlorpropamide (250 mg/day), after the addition of nortriptyline (125 mg/day).</SentenceText>
+</Sentence>
+<Sentence id="6137" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="6138" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="6139" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="6140" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="6141" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="6142" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="6143" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="6144" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>The extent to which SSRI TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+</Sentence>
+<Sentence id="6145" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+</Sentence>
+<Sentence id="6146" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+</Sentence>
+<Sentence id="6147" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+</Sentence>
+<Sentence id="6148" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="6149" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+</Sentence>
+<Sentence id="6150" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Monoamine Oxidase Inhibitors (MAOIs)</SentenceText>
+</Sentence>
+<Sentence id="6151" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Serotonergic Drugs</SentenceText>
+</Sentence>
+<Sentence id="6152" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>The mechanism of mood elevation by tricyclic antidepressants is at present unknown.</SentenceText>
+</Sentence>
+<Sentence id="6153" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>Pamelor is not a monoamine oxidase inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="6154" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine.</SentenceText>
+</Sentence>
+<Sentence id="6155" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>It increases the pressor effect of norepinephrine but blocks the pressor response of phenethylamine.</SentenceText>
+</Sentence>
+<Sentence id="6156" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>Studies suggest that Pamelor interferes with the transport, release, and storage of catecholamines.</SentenceText>
+</Sentence>
+<Sentence id="6157" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>Operant conditioning techniques in rats and pigeons suggest that Pamelor has a combination of stimulant and depressant properties.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

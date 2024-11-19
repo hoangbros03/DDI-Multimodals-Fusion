@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Imipramine" setid="75bf3473-2d70-4d41-93cd-afa1015e45bb">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The mechanism of action of imipramine is not definitely known. However, it does not act primarily by stimulation of the central nervous system. The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings.</Section>
+</Text><Sentences>
+<Sentence id="972" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="973" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="974" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="975" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="976" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="977" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="978" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="979" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+</Sentence>
+<Sentence id="980" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+</Sentence>
+<Sentence id="981" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+</Sentence>
+<Sentence id="982" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+</Sentence>
+<Sentence id="983" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="984" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+</Sentence>
+<Sentence id="985" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>The plasma concentration of imipramine may increase when the drug is given concomitantly with hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decrease by concomitant administration with hepatic enzyme inducers (e.g., barbiturates, phenytoin), and adjustment of the dosage of imipramine may therefore be necessary.</SentenceText>
+</Sentence>
+<Sentence id="986" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>In occasional susceptible patients or in those receiving anticholinergic drugs (including antiparkinsonism agents) in addition, the atropine-like effects may become more pronounced (e.g., paralytic ileus).</SentenceText>
+</Sentence>
+<Sentence id="987" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of dosage is required when imipramine pamoate is administered concomitantly with anticholinergic drugs.</SentenceText>
+</Sentence>
+<Sentence id="988" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Avoid the use of preparations, such as decongestants and local anesthetics, that contain any sympathomimetic amine (e.g., epinephrine, norepinephrine), since it has been reported that tricyclic antidepressants can potentiate the effects of catecholamines.</SentenceText>
+</Sentence>
+<Sentence id="989" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Caution should be exercised when imipramine pamoate is used with agents that lower blood pressure.</SentenceText>
+</Sentence>
+<Sentence id="990" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Imipramine pamoate may potentiate the effects of CNS depressant drugs.</SentenceText>
+</Sentence>
+<Sentence id="991" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Patients should be warned that imipramine pamoate may enhance the CNS depressant effects of alcohol.</SentenceText>
+</Sentence>
+<Sentence id="992" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Monoamine Oxidase Inhibitors (MAOIs)</SentenceText>
+</Sentence>
+<Sentence id="993" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Serotonergic Drugs</SentenceText>
+</Sentence>
+<Sentence id="994" LabelDrug="Imipramine" section="34090-1">
+<SentenceText>The mechanism of action of imipramine is not definitely known.</SentenceText>
+</Sentence>
+<Sentence id="995" LabelDrug="Imipramine" section="34090-1">
+<SentenceText>However, it does not act primarily by stimulation of the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="996" LabelDrug="Imipramine" section="34090-1">
+<SentenceText>The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

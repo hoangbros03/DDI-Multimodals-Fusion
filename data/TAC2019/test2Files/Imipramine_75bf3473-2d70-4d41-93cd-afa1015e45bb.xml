@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Imipramine" setid="75bf3473-2d70-4d41-93cd-afa1015e45bb">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The mechanism of action of imipramine is not definitely known. However, it does not act primarily by stimulation of the central nervous system. The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings.</Section>
+</Text><Sentences>
+<Sentence id="972" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="973" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="974" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="975" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="976" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="977" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="978" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="979" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+<Mention id="M1" type="Trigger" span="29 12" str="interactions"/>
+<Mention id="M2" type="Precipitant" span="20 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="980" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+<Mention id="M3" type="Trigger" span="14 7" str="caution"/>
+<Mention id="M4" type="Precipitant" span="84 5" str="SSRIs" code="n0000175696"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="981" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+<Mention id="M5" type="Trigger" span="26 45" str="sufficient time must elapse before initiating"/>
+<Mention id="M6" type="Precipitant" span="120 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="982" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+<Mention id="M7" type="Trigger" span="105 11" str="lower doses"/>
+<Mention id="M10" type="Precipitant" span="50 42" str="drugs that can inhibit cytochrome P450 2D6" code="N0000182137"/>
+<Mention id="M9" type="Trigger" span="105 11;188 10" str="lower doses | other drug"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M7" precipitant="M10" effect="C54355"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M9" precipitant="M10" effect="C54357"/>
+</Sentence>
+<Sentence id="983" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="984" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+<Mention id="M11" type="Trigger" span="19 7" str="monitor"/>
+<Mention id="M12" type="Precipitant" span="124 21" str="inhibitor of P450 2D6" code="n0000182135"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M11" precipitant="M12"/>
+</Sentence>
+<Sentence id="985" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>The plasma concentration of imipramine may increase when the drug is given concomitantly with hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decrease by concomitant administration with hepatic enzyme inducers (e.g., barbiturates, phenytoin), and adjustment of the dosage of imipramine may therefore be necessary.</SentenceText>
+<Mention id="M19" type="Trigger" span="4 20;155 8" str="plasma concentration | decrease"/>
+<Mention id="M14" type="Precipitant" span="244 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M23" type="Trigger" span="4 20;43 8" str="plasma concentration | increase"/>
+<Mention id="M16" type="Precipitant" span="127 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M18" type="Precipitant" span="230 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M20" type="Precipitant" span="199 23" str="hepatic enzyme inducers" code="NO MAP"/>
+<Mention id="M22" type="Precipitant" span="139 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M24" type="Precipitant" span="94 25" str="hepatic enzyme inhibitors" code="NONE"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M19" precipitant="M14" effect="C54356"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M23" precipitant="M16" effect="C54355"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M19" precipitant="M18" effect="C54356"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M19" precipitant="M20" effect="C54356"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M23" precipitant="M22" effect="C54355"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M23" precipitant="M24" effect="C54355"/>
+</Sentence>
+<Sentence id="986" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>In occasional susceptible patients or in those receiving anticholinergic drugs (including antiparkinsonism agents) in addition, the atropine-like effects may become more pronounced (e.g., paralytic ileus).</SentenceText>
+<Mention id="M29" type="Trigger" span="146 7;165 15" str="effects | more pronounced"/>
+<Mention id="M26" type="Precipitant" span="90 23" str="antiparkinsonism agents" code="NONE"/>
+<Mention id="M31" type="SpecificInteraction" span="132 21" str="atropine-like effects " code="NO MAP"/>
+<Mention id="M32" type="SpecificInteraction" span="188 15" str=" paralytic ileus" code=" 55525008: Paralytic ileus (disorder)"/>
+<Mention id="M30" type="Precipitant" span="57 21" str="anticholinergic drugs" code="n0000175574"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M29" precipitant="M26" effect="M31;M32"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M29" precipitant="M30" effect="M31;M32"/>
+</Sentence>
+<Sentence id="987" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of dosage is required when imipramine pamoate is administered concomitantly with anticholinergic drugs.</SentenceText>
+<Mention id="M33" type="Trigger" span="0 17" str="Close supervision "/>
+<Mention id="M34" type="Trigger" span="30 20" str=" adjustment of dosage"/>
+<Mention id="M35" type="Precipitant" span="122 21" str="anticholinergic drugs" code="n0000175574"/>
+<Interaction id="I15" type="Unspecified interaction" trigger="M33;M34" precipitant="M35"/>
+</Sentence>
+<Sentence id="988" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Avoid the use of preparations, such as decongestants and local anesthetics, that contain any sympathomimetic amine (e.g., epinephrine, norepinephrine), since it has been reported that tricyclic antidepressants can potentiate the effects of catecholamines.</SentenceText>
+<Mention id="M42" type="Trigger" span="214 10;229 7" str="potentiate | effects"/>
+<Mention id="M37" type="Precipitant" span="135 14" str="norepinephrine" code="N0000007426"/>
+<Mention id="M44" type="SpecificInteraction" span="214 40" str="potentiate the effects of catecholamines" code="NO Map"/>
+<Mention id="M40" type="Precipitant" span="93 21" str="sympathomimetic amine" code="NONE"/>
+<Mention id="M43" type="Precipitant" span="122 11" str="epinephrine" code="N0000006261"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M42" precipitant="M37" effect="M44"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M42" precipitant="M40" effect="M44"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M42" precipitant="M43" effect="M44"/>
+</Sentence>
+<Sentence id="989" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Caution should be exercised when imipramine pamoate is used with agents that lower blood pressure.</SentenceText>
+<Mention id="M45" type="Trigger" span="0 7" str="Caution"/>
+<Mention id="M46" type="Precipitant" span="65 32" str="agents that lower blood pressure" code="NONE"/>
+<Interaction id="I19" type="Unspecified interaction" trigger="M45" precipitant="M46"/>
+</Sentence>
+<Sentence id="990" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Imipramine pamoate may potentiate the effects of CNS depressant drugs.</SentenceText>
+<Mention id="M47" type="Trigger" span="23 10;38 7" str="potentiate | effects"/>
+<Mention id="M48" type="Precipitant" span="49 20" str="CNS depressant drugs" code="N0000175758"/>
+<Mention id="M49" type="SpecificInteraction" span="23 46" str="potentiate the effects of CNS depressant drugs" code="418072004: Central nervous system depression (disorder)"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M47" precipitant="M48" effect="M49"/>
+</Sentence>
+<Sentence id="991" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Patients should be warned that imipramine pamoate may enhance the CNS depressant effects of alcohol.</SentenceText>
+<Mention id="M50" type="Trigger" span="54 7;81 7" str="enhance | effects"/>
+<Mention id="M51" type="Precipitant" span="92 7" str="alcohol" code="N0000007432"/>
+<Mention id="M52" type="SpecificInteraction" span="54 7;66 22" str="enhance | CNS depressant effects" code="418072004: Central nervous system depression (disorder)"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M50" precipitant="M51" effect="M52"/>
+</Sentence>
+<Sentence id="992" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Monoamine Oxidase Inhibitors (MAOIs)</SentenceText>
+</Sentence>
+<Sentence id="993" LabelDrug="Imipramine" section="34073-7">
+<SentenceText>Serotonergic Drugs</SentenceText>
+</Sentence>
+<Sentence id="994" LabelDrug="Imipramine" section="34090-1">
+<SentenceText>The mechanism of action of imipramine is not definitely known.</SentenceText>
+</Sentence>
+<Sentence id="995" LabelDrug="Imipramine" section="34090-1">
+<SentenceText>However, it does not act primarily by stimulation of the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="996" LabelDrug="Imipramine" section="34090-1">
+<SentenceText>The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="ssri" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssris" precipitantCode="n0000175696"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of p450 2d6" precipitantCode="n0000182135"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="N0000006023" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="barbiturates" precipitantCode="N0000008016" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic enzyme inducers" precipitantCode="NO MAP" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic enzyme inhibitors" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antiparkinsonism agents" precipitantCode="NONE" effect=" 55525008: Paralytic ileus (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antiparkinsonism agents" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic drugs" precipitantCode="n0000175574" effect=" 55525008: Paralytic ileus (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic drugs" precipitantCode="n0000175574" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anticholinergic drugs" precipitantCode="n0000175574"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="norepinephrine" precipitantCode="N0000007426" effect="NO Map"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sympathomimetic amine" precipitantCode="NONE" effect="NO Map"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epinephrine" precipitantCode="N0000006261" effect="NO Map"/>
+<LabelInteraction type="Unspecified interaction" precipitant="agents that lower blood pressure" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressant drugs" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="418072004: Central nervous system depression (disorder)"/>
+
+</LabelInteractions></Label>

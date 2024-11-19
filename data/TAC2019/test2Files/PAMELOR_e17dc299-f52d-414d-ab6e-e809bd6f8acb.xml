@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="PAMELOR" setid="e17dc299-f52d-414d-ab6e-e809bd6f8acb">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The mechanism of mood elevation by tricyclic antidepressants is at present unknown. Pamelor is not a monoamine oxidase inhibitor. It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine. It increases the pressor effect of norepinephrine but blocks the pressor response of phenethylamine. Studies suggest that Pamelor interferes with the transport, release, and storage of catecholamines. Operant conditioning techniques in rats and pigeons suggest that Pamelor has a combination of stimulant and depressant properties.</Section>
+</Text><Sentences>
+<Sentence id="6132" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Administration of reserpine during therapy with a tricyclic antidepressant has been shown to produce a “stimulating” effect in some depressed patients.</SentenceText>
+<Mention id="M3" type="SpecificInteraction" span="104 11;117 6" str="stimulating | effect" code="NO MAP"/>
+<Mention id="M2" type="Precipitant" span="18 9" str="reserpine" code="8B1QWR724A"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M3" precipitant="M2" effect="M3"/>
+</Sentence>
+<Sentence id="6133" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of the dosage are required when Pamelor is used with other anticholinergic drugs and sympathomimetic drugs.</SentenceText>
+<Mention id="M7" type="Trigger" span="0 17" str="Close supervision "/>
+<Mention id="M8" type="Trigger" span="30 24" str=" adjustment of the dosage"/>
+<Mention id="M6" type="Precipitant" span="100 21" str="anticholinergic drugs" code="n0000175574"/>
+<Mention id="M9" type="Precipitant" span="126 21" str="sympathomimetic drugs" code="N0000029104"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M7;M8" precipitant="M6"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M7;M8" precipitant="M9"/>
+</Sentence>
+<Sentence id="6134" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Concurrent administration of cimetidine and tricyclic antidepressants can produce clinically significant increases in the plasma concentrations of the tricyclic antidepressant.</SentenceText>
+<Mention id="M10" type="Trigger" span="105 38" str="increases in the plasma concentrations"/>
+<Mention id="M11" type="Precipitant" span="29 10" str="cimetidine" code="80061L1WGD"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M10" precipitant="M11" effect="C54355"/>
+</Sentence>
+<Sentence id="6135" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>The patient should be informed that the response to alcohol may be exaggerated.</SentenceText>
+<Mention id="M12" type="Trigger" span="40 8;67 11" str="response | exaggerated"/>
+<Mention id="M13" type="Precipitant" span="52 7" str="alcohol" code="N0000007432"/>
+<Mention id="M14" type="SpecificInteraction" span="40 38" str="response to alcohol may be exaggerated" code="NO MAP"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M12" precipitant="M13" effect="M14"/>
+</Sentence>
+<Sentence id="6136" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>A case of significant hypoglycemia has been reported in a type II diabetic patient maintained on chlorpropamide (250 mg/day), after the addition of nortriptyline (125 mg/day).</SentenceText>
+<Mention id="M17" type="SpecificInteraction" span="22 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M16" type="Precipitant" span="97 14" str="chlorpropamide" code="WTM2C3IL2X"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M17" precipitant="M16" effect="M17"/>
+</Sentence>
+<Sentence id="6137" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="6138" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="6139" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="6140" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="6141" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="6142" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="6143" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="6144" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>The extent to which SSRI TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+<Mention id="M18" type="Trigger" span="29 12" str="interactions"/>
+<Mention id="M19" type="Precipitant" span="20 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I7" type="Unspecified interaction" trigger="M18" precipitant="M19"/>
+</Sentence>
+<Sentence id="6145" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+<Mention id="M20" type="Trigger" span="14 7" str="caution"/>
+<Mention id="M21" type="Precipitant" span="84 5" str="SSRIs" code="n0000175696"/>
+<Interaction id="I8" type="Unspecified interaction" trigger="M20" precipitant="M21"/>
+</Sentence>
+<Sentence id="6146" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+<Mention id="M22" type="Trigger" span="26 45" str="sufficient time must elapse before initiating"/>
+<Mention id="M23" type="Precipitant" span="120 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M22" precipitant="M23"/>
+</Sentence>
+<Sentence id="6147" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+<Mention id="M24" type="Trigger" span="105 11;188 10" str="lower doses | other drug"/>
+<Mention id="M27" type="Precipitant" span="50 42" str="drugs that can inhibit cytochrome P450 2D6" code="N0000182137"/>
+<Mention id="M26" type="Trigger" span="105 11" str="lower doses"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M24" precipitant="M27" effect="C54357"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M26" precipitant="M27" effect="C54355"/>
+</Sentence>
+<Sentence id="6148" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="6149" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+<Mention id="M28" type="Trigger" span="19 7" str="monitor"/>
+<Mention id="M29" type="Precipitant" span="124 21" str="inhibitor of P450 2D6" code="n0000182135"/>
+<Interaction id="I12" type="Unspecified interaction" trigger="M28" precipitant="M29"/>
+</Sentence>
+<Sentence id="6150" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Monoamine Oxidase Inhibitors (MAOIs)</SentenceText>
+</Sentence>
+<Sentence id="6151" LabelDrug="PAMELOR" section="34073-7">
+<SentenceText>Serotonergic Drugs</SentenceText>
+</Sentence>
+<Sentence id="6152" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>The mechanism of mood elevation by tricyclic antidepressants is at present unknown.</SentenceText>
+</Sentence>
+<Sentence id="6153" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>Pamelor is not a monoamine oxidase inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="6154" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine.</SentenceText>
+<Mention id="M36" type="Trigger" span="3 21" str="inhibits the activity"/>
+<Mention id="M31" type="Precipitant" span="51 9" str="histamine" code="NONE"/>
+<Mention id="M32" type="SpecificInteraction" span="3 8;51 9" str="inhibits | histamine" code="NO MAP"/>
+<Mention id="M34" type="Precipitant" span="62 19" str="5-hydroxytryptamine" code="NONE"/>
+<Mention id="M35" type="SpecificInteraction" span="3 8;62 19" str="inhibits | 5-hydroxytryptamine" code="NO MAP"/>
+<Mention id="M37" type="Precipitant" span="87 13" str="acetylcholine" code="NONE"/>
+<Mention id="M38" type="SpecificInteraction" span="3 8;87 13" str="inhibits | acetylcholine" code="NO MAP"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M36" precipitant="M31" effect="M32"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M36" precipitant="M34" effect="M35"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M36" precipitant="M37" effect="M38"/>
+</Sentence>
+<Sentence id="6155" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>It increases the pressor effect of norepinephrine but blocks the pressor response of phenethylamine.</SentenceText>
+<Mention id="M39" type="Trigger" span="3 9;25 6" str="increases | effect"/>
+<Mention id="M40" type="Precipitant" span="35 14" str="norepinephrine" code="N0000007426"/>
+<Mention id="M41" type="SpecificInteraction" span="3 28" str="increases the pressor effect" code="NO MAP"/>
+<Mention id="M42" type="Trigger" span="54 6;73 8" str="blocks | response"/>
+<Mention id="M43" type="Precipitant" span="85 14" str="phenethylamine" code="NONE"/>
+<Mention id="M44" type="SpecificInteraction" span="54 27" str="blocks the pressor response" code="NO MAP"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M39" precipitant="M40" effect="M41"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M42" precipitant="M43" effect="M44"/>
+</Sentence>
+<Sentence id="6156" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>Studies suggest that Pamelor interferes with the transport, release, and storage of catecholamines.</SentenceText>
+<Mention id="M45" type="Trigger" span="29 51" str="interferes with the transport, release, and storage"/>
+<Mention id="M46" type="Precipitant" span="84 14" str="catecholamines" code="N0000007715"/>
+<Mention id="M47" type="SpecificInteraction" span="29 69" str="interferes with the transport, release, and storage of catecholamines" code="NO MAP"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M45" precipitant="M46" effect="M47"/>
+</Sentence>
+<Sentence id="6157" LabelDrug="PAMELOR" section="34090-1">
+<SentenceText>Operant conditioning techniques in rats and pigeons suggest that Pamelor has a combination of stimulant and depressant properties.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="reserpine" precipitantCode="8B1QWR724A" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anticholinergic drugs" precipitantCode="n0000175574"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sympathomimetic drugs" precipitantCode="N0000029104"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chlorpropamide" precipitantCode="WTM2C3IL2X" effect="302866003: Hypoglycemia (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssri" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssris" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of p450 2d6" precipitantCode="n0000182135"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="histamine" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="5-hydroxytryptamine" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="acetylcholine" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="norepinephrine" precipitantCode="N0000007426" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenethylamine" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="catecholamines" precipitantCode="N0000007715" effect="NO MAP"/>
+
+</LabelInteractions></Label>

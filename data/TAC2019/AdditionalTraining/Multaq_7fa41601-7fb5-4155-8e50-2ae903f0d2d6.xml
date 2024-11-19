@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Multaq" setid="7fa41601-7fb5-4155-8e50-2ae903f0d2d6">
+<Text><Section name="BOXED WARNING SECTION" id="34066-1">
+In patients with symptomatic heart failure and recent decompensation requiring hospitalization or NYHA Class IV heart failure; MULTAQ doubles the risk of death. (14.3) MULTAQ is contraindicated in patients with symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV heart failure. (4, 5.1)   In patients with permanent atrial fibrillation, MULTAQ doubles the risk of death, stroke and hospitalization for heart failure. (14.4). MULTAQ is contraindicated in patients in atrial fibrillation (AF) who will not or cannot be cardioverted into normal sinus rhythm. (4, 5.2)        WARNING: INCREASED RISK OF DEATH, STROKE AND HEART FAILURE IN PATIENTS WITH DECOMPENSATED HEART FAILURE OR PERMANENT ATRIAL FIBRILLATION     MULTAQ is contraindicated in patients with symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV heart failure. MULTAQ doubles the risk of death in these patients (4, 5.1, 14.3).   MULTAQ is contraindicated in patients in atrial fibrillation (AF) who will not or cannot be cardioverted into normal sinus rhythm. In patients with permanent AF, MULTAQ doubles the risk of death, stroke, and hospitalization for heart failure. (4, 5.2, 14.4)</Section>
+<Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+MULTAQ is contraindicated in patients with:  Permanent atrial fibrillation (patients in whom normal sinus rhythm will not or cannot be restored) [see Boxed Warning and Warnings and Precautions (5.2)]  Symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV symptoms [see Boxed Warning and Warnings and Precautions (5.1)]  Second- or third-degree atrioventricular (AV) block, or sick sinus syndrome (except when used in conjunction with a functioning pacemaker) Bradycardia &amp;lt;50 bpm  Concomitant use of strong CYP 3A inhibitors, such as ketoconazole, itraconazole, voriconazole, cyclosporine, telithromycin, clarithromycin, nefazodone, and ritonavir [see Drug Interactions (7.2)]  Concomitant use of drugs or herbal products that prolong the QT interval and might increase the risk of Torsade de Pointes, such as phenothiazine anti-psychotics, tricyclic antidepressants, certain oral macrolide antibiotics, and Class I and III antiarrhythmics  Liver or lung toxicity related to the previous use of amiodarone QTc Bazett interval ≥500 ms or PR interval &amp;gt;280 ms Severe hepatic impairment Pregnancy (Category X): MULTAQ may cause fetal harm when administered to a pregnant woman. MULTAQ is contraindicated in women who are or may become pregnant. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)]. Nursing mothers [see Use in Specific Populations (8.3)]  Hypersensitivity to the active substance or to any of the excipients        Permanent AF (patients in whom normal sinus rhythm will not or cannot be restored) (Boxed Warning, 4) Recently decompensated heart failure requiring hospitalization or Class IV heart failure. (Boxed Warning, 4) Second- or third- degree atrioventricular (AV) block or sick sinus syndrome (except when used in conjunction with a functioning pacemaker) (4) Bradycardia &amp;lt;50 bpm (4)  Concomitant use of a strong CYP3A inhibitor (4) Concomitant use of drugs or herbal products that prolong the QT interval and may induce Torsade de Pointes (4) Liver or lung toxicity related to the previous use of amiodarone (4) Severe hepatic impairment (4) QTc Bazett interval ≥500 ms (4) Pregnancy (4, 8.1) and Nursing mothers (4, 8.3) Hypersensitivity to the active substance or to any of the excipients (4)</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+The recommended dosage of MULTAQ is 400 mg twice daily in adults. MULTAQ should be taken as one tablet with the morning meal and one tablet with the evening meal. Treatment with Class I or III antiarrhythmics (e.g., amiodarone, flecainide, propafenone, quinidine, disopyramide, dofetilide, sotalol) or drugs that are strong inhibitors of CYP3A (e.g., ketoconazole) must be stopped before starting MULTAQ [see Contraindications (4)].       One tablet of 400 mg twice a day with morning and evening meals (2)</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Dronedarone is metabolized by CYP 3A and is a moderate inhibitor of  CYP 3A and CYP 2D6 and has potentially important pharmacodynamic interactions (7)  Class I or III Antiarrhythmics: contraindicated (4, 7.1) Digoxin: Consider discontinuation or halve dose of digoxin before treatment and monitor digoxin levels (7.1, 7.3) Calcium channel blockers (CCB): Initiate CCB with low dose and increase after ECG verification of tolerability (7.1,7.2, 7.3) Beta-blockers: May provoke excessive bradycardia, Initiate with low dose and increase after ECG verification of tolerability (7.1, 7.3) CYP 3A inducers: Avoid concomitant use (7.2) Grapefruit juice: Avoid concomitant use (7.2) Statins: Avoid simvastatin doses greater than 10 mg daily. Follow label recommendations for concomitant use of other statins with a CYP 3A and P-gp inhibitor like dronedarone (7.3) CYP 3A substrates with a narrow therapeutic index (e.g., sirolimus and tacrolimus): Monitor and adjust dosage of concomitant drug as needed when used with MULTAQ (7.3) Warfarin: Monitor INR after initiating dronedarone in patients taking warfarin. (7.3)               Drugs prolonging the QT interval (inducing Torsade de Pointes)  Co-administration of drugs prolonging the QT interval (such as certain phenothiazines, tricyclic antidepressants, certain macrolide antibiotics, and Class I and III antiarrhythmics) is contraindicated because of the potential risk of Torsade de Pointes-type ventricular tachycardia [see Contraindications (4), Clinical Pharmacology (12.3)].          Digoxin In the ANDROMEDA (patients with recently decompensated heart failure) and PALLAS (patients with permanent AF) trials baseline use of digoxin was associated with an increased risk of arrhythmic or sudden death in dronedarone-treated patients compared to placebo. In patients not taking digoxin, no difference in risk of sudden death was observed in the dronedarone vs. placebo groups. [See Clinical Trials (14.3)].  Digoxin can potentiate the electrophysiologic effects of dronedarone (such as decreased AV-node conduction). Dronedarone increases exposure to digoxin [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].  Consider discontinuing digoxin. If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity.          Calcium channel blockers Calcium channel blockers with depressant effects on the sinus and AV nodes could potentiate dronedarone's effects on conduction. Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].          Beta-blockers  In clinical trials, bradycardia was more frequently observed when dronedarone was given in combination with beta-blockers. Give a low dose of beta-blockers initially, and increase only after ECG verification of good tolerability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].                 Ketoconazole and other potent CYP 3A inhibitors Concomitant use of ketoconazole as well as other potent CYP 3A inhibitors such as itraconazole, voriconazole, ritonavir, clarithromycin, and nefazodone is contraindicated because exposure to dronedarone is significantly increased [see Contraindications (4), Clinical Pharmacology (12.3)].          Grapefruit juice Patients should avoid grapefruit juice beverages while taking MULTAQ because exposure to dronedarone is significantly increased [see Clinical Pharmacology (12.3)].          Rifampin and other CYP 3A inducers Avoid rifampin or other CYP 3A inducers such as phenobarbital, carbamazepine, phenytoin, and St John's wort because they decrease exposure to dronedarone significantly [see Clinical Pharmacology (12.3)].          Calcium channel blockers Verapamil and diltiazem are moderate CYP 3A inhibitors and increase dronedarone exposure. Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].                 Simvastatin Dronedarone increased simvastatin/simvastatin acid exposure. Avoid doses greater than 10 mg once daily of simvastatin [see Clinical Pharmacology (12.3)].          Because of multiple mechanisms of interaction with statins (CYPs and transporters), follow statin label recommendations for use with CYP 3A and P-gp inhibitors such as dronedarone.          Calcium channel blockers Dronedarone increased the exposure of calcium channel blockers (verapamil, diltiazem or nifedipine). Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].          Sirolimus, tacrolimus, and other CYP3A substrates with narrow therapeutic range  Dronedarone can increase plasma concentrations of tacrolimus, sirolimus, and other CYP 3A substrates with a narrow therapeutic range when given orally. Monitor plasma concentrations and adjust dosage appropriately.          Beta-blockers and other CYP 2D6 substrates Dronedarone increased the exposure of propranolol and metoprolol. Give low doses of beta-blockers initially, and increase only after ECG verification of good tolerability. Other CYP 2D6 substrates, including other beta-blockers, tricyclic antidepressants, and selective serotonin reuptake inhibitors (SSRIs) may have increased exposure upon co-administration with dronedarone [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].          P-glycoprotein substrates         Digoxin  Dronedarone increased digoxin exposure by inhibiting the P-gp transporter. Consider discontinuing digoxin. If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].           Dabigatran  Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone. Other P-gp substrates are expected to have increased exposure when co-administered with dronedarone.            Warfarin When co-administered with dronedarone exposure to S-warfarin was slightly higher than when warfarin was administered alone. There were no clinically significant increases in INR [see Clinical Pharmacology (12.3)]. More patients experienced clinically significant INR elevations (≥ 5) usually within 1 week after starting dronedarone vs. placebo in patients taking oral anticoagulants in ATHENA. However, no excess risk of bleeding was observed in the dronedarone group. Postmarketing cases of increased INR with or without bleeding events have been reported in warfarin-treated patients initiated on dronedarone. Monitor INR after initiating dronedarone in patients taking warfarin.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Determine cardiac rhythm at least once every 3 months. If AF is detected discontinue MULTAQ or cardiovert (5.2) Ensure appropriate antithrombotic therapy prior to and throughout MULTAQ use (5.3) Liver injury: if hepatic injury is suspected, discontinue MULTAQ (5.5) If pulmonary toxicity is confirmed, discontinue treatment (5.6) Hypokalemia and hypomagnesemia: Maintain potassium and magnesium levels within the normal range (5.7) Renal impairment: Monitor renal function periodically (5.9) Teratogen: Women of childbearing potential should use effective contraception while using MULTAQ (5.10)          MULTAQ is contraindicated in patients with NYHA Class IV heart failure or symptomatic heart failure with recent decompensation requiring hospitalization because it doubles the risk of death.          MULTAQ doubles the risk of cardiovascular death (largely arrhythmic) and heart failure events in patients with permanent AF. Patients treated with dronedarone should undergo monitoring of cardiac rhythm no less often than every 3 months. Cardiovert patients who are in atrial fibrillation (if clinically indicated) or discontinue MULTAQ. MULTAQ offers no benefit in subjects in permanent AF.          In a placebo-controlled study in patients with permanent atrial fibrillation, dronedarone was associated with an increased risk of stroke, particularly in the first two weeks of therapy [ see Clinical Studies (14.4) ]. MULTAQ should only be initiated in patients in sinus rhythm who are receiving appropriate antithrombotic therapy [see Drug interactions (7.3) ].           New onset or worsening of heart failure has been reported during treatment with MULTAQ in the postmarketing setting. In a placebo controlled study in patients with permanent AF increased rates of heart failure were observed in patients with normal left ventricular function and no history of symptomatic heart failure, as well as those with a history of heart failure or left ventricular dysfunction.  Advise patients to consult a physician if they develop signs or symptoms of heart failure, such as weight gain, dependent edema, or increasing shortness of breath. If heart failure develops or worsens and requires hospitalization, discontinue MULTAQ.           Hepatocellular liver injury, including acute liver failure requiring transplant, has been reported in patients treated with MULTAQ in the postmarketing setting. Advise patients treated with MULTAQ to report immediately symptoms suggesting hepatic injury (such as anorexia, nausea, vomiting, fever, malaise, fatigue, right upper quadrant pain, jaundice, dark urine, or itching). Consider obtaining periodic hepatic serum enzymes, especially during the first 6 months of treatment, but it is not known whether routine periodic monitoring of serum enzymes will prevent the development of severe liver injury. If hepatic injury is suspected, promptly discontinue MULTAQ and test serum enzymes, aspartate aminotransferase (AST), alanine aminotransferase (ALT) and alkaline phosphatase, as well as serum bilirubin, to establish whether there is liver injury. If liver injury is found, institute appropriate treatment and investigate the probable cause. Do not restart MULTAQ in patients without another explanation for the observed liver injury.           Cases of interstitial lung disease including pneumonitis and pulmonary fibrosis have been reported in patients treated with MULTAQ in the post-marketing setting [see Adverse Reactions (6.2)]. Onset of dyspnea or non-productive cough may be related to pulmonary toxicity and patients should be carefully evaluated clinically. If pulmonary toxicity is confirmed, MULTAQ should be discontinued.          Hypokalemia or hypomagnesemia may occur with concomitant administration of potassium-depleting diuretics. Potassium levels should be within the normal range prior to administration of MULTAQ and maintained in the normal range during administration of MULTAQ.          Dronedarone induces a moderate (average of about 10 ms but much greater effects have been observed) QTc (Bazett) prolongation [see Clinical Pharmacology (12.2) and Clinical Studies (14.1)]. If the QTc Bazett interval is ≥500 ms, discontinue MULTAQ [see Contraindications (4)].           Marked increase in serum creatinine, pre-renal azotemia and acute renal failure, often in the setting of heart failure [see Warnings and Precautions (5.4) ] or hypovolemia, have been reported in patients taking MULTAQ. In most cases, these effects appear to be reversible upon drug discontinuation and with appropriate medical treatment. Monitor renal function periodically.  Small increases in creatinine levels (about 0.1 mg/dL) following dronedarone treatment initiation have been shown to be a result of inhibition of creatinine's tubular secretion. The elevation has a rapid onset, reaches a plateau after 7 days and is reversible after discontinuation.          Premenopausal women who have not undergone a hysterectomy or oophorectomy must use effective contraception while using MULTAQ. Dronedarone caused fetal harm in animal studies at doses equivalent to recommended human doses. Counsel women of childbearing potential regarding appropriate contraceptive choices [see Use in Specific Populations (8.1)].</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown.               Electrophysiological effects Dronedarone exhibits properties of all four Vaughn-Williams antiarrhythmic classes, although it is unclear which of these are important in producing dronedarone's clinical effects. The effect of dronedarone on 12-lead ECG parameters (heart rate, PR, and QTc) was investigated in healthy subjects following repeated oral doses up to 1600 mg once daily or 800 mg twice daily for 14 days and 1600 mg twice daily for 10 days. In the dronedarone 400 mg twice daily group, there was no apparent effect on heart rate; a moderate heart rate lowering effect (about 4 bpm) was noted at 800 mg twice daily. There was a clear dose-dependent effect on PR-interval with an increase of +5 ms at 400 mg twice daily and up to +50 ms at 1600 mg twice daily. There was a moderate dose related effect on the QTc-interval with an increase of +10 ms at 400 mg twice daily and up to +25 ms with 1600 mg twice daily.          DAFNE study DAFNE was a dose-response study in patients with recurrent AF, evaluating the effect of dronedarone in comparison with placebo in maintaining sinus rhythm. The doses of dronedarone in this study were 400, 600, and 800 mg twice a day. In this small study, doses above 400 mg were not more effective and were less well tolerated.            Dronedarone is extensively metabolized and has low systemic bioavailability; its bioavailability is increased by meals. Its elimination half life is 13–19 hours.        Absorption Because of presystemic first pass metabolism the absolute bioavailability of dronedarone without food is low, about 4%. It increases to approximately 15% when dronedarone is administered with a high fat meal. After oral administration in fed conditions, peak plasma concentrations of dronedarone and the main circulating active metabolite (N-debutyl metabolite) are reached within 3 to 6 hours. After repeated administration of 400 mg twice daily, steady state is reached within 4 to 8 days of treatment and the mean accumulation ratio for dronedarone ranges from 2.6 to 4.5. The steady state Cmax and exposure of the main N-debutyl metabolite is similar to that of the parent compound. The pharmacokinetics of dronedarone and its N-debutyl metabolite both deviate moderately from dose proportionality: a 2-fold increase in dose results in an approximate 2.5- to 3.0- fold increase with respect to Cmax and AUC.          Distribution The in vitro plasma protein binding of dronedarone and its N-debutyl metabolite is &amp;gt;98 % and not saturable. Both compounds bind mainly to albumin. After intravenous (IV) administration the volume of distribution at steady state is about 1400 L.           Metabolism Dronedarone is extensively metabolized, mainly by CYP 3A. The initial metabolic pathway includes N-debutylation to form the active N-debutyl metabolite, oxidative deamination to form the inactive propanoic acid metabolite, and direct oxidation. The metabolites undergo further metabolism to yield over 30 uncharacterized metabolites. The N-debutyl metabolite exhibits pharmacodynamic activity but is 1/10 to 1/3 as potent as dronedarone.          Excretion/Elimination In a mass balance study with orally administered dronedarone (14C-labeled) approximately 6% of the labeled dose was excreted in urine, mainly as metabolites (no unchanged compound excreted in urine), and 84% was excreted in feces, mainly as metabolites. Dronedarone and its N-debutyl active metabolite accounted for less than 15% of the resultant radioactivity in the plasma. After IV administration the plasma clearance of dronedarone ranges from 130 to 150 L/h. The elimination half-life of dronedarone ranges from 13 to 19 hours.           Special populations         Gender  Dronedarone exposures are on average 30% higher in females than in males.           Race  Pharmacokinetic differences related to race were not formally assessed. However, based on a cross study comparison, following single dose administration (400 mg), Asian males (Japanese) have about a 2-fold higher exposure than Caucasian males. The pharmacokinetics of dronedarone in other races has not been assessed.           Elderly   Of the total number of subjects in clinical studies of dronedarone, 73% were 65 years of age and over and 34% were 75 and over. In patients aged 65 years old and above, dronedarone exposures are 23% higher than in patients less than 65 years old [see Use in Specific Populations (8.5)].           Hepatic impairment  In subjects with moderate hepatic impairment, the mean dronedarone exposure increased by 1.3-fold relative to subjects with normal hepatic function and the mean exposure of the N-debutyl metabolite decreased by about 50%. Pharmacokinetic data were significantly more variable in subjects with moderate hepatic impairment. The effect of severe hepatic impairment on the pharmacokinetics of dronedarone was not assessed [see Contraindications (4)].           Renal impairment  Consistent with the low renal excretion of dronedarone, no pharmacokinetic difference was observed in subjects with mild or moderate renal impairment compared to subjects with normal renal function [see Use in Specific Populations (8.6)]. No pharmacokinetic difference was observed in patients with mild to severe renal impairment in comparison with patients with normal renal function.          Dronedarone is metabolized primarily by CYP 3A and is a moderate inhibitor of CYP 3A and CYP 2D6. Dronedarone has no significant potential to inhibit CYP 1A2, CYP 2C9, CYP 2C19, CYP 2C8 and CYP 2B6. It has the potential to inhibit P-glycoprotein (P-gp) transport. Dronedarone inhibits in vivo the tubular secretion of creatinine a substrate of the organic cation transporter (OCT2) [see Warnings and Precautions (5.9)]. In vitro studies demonstrate that dronedarone or its metabolites are weak inhibitors of organic cation transporter (OCT1), organic anion transporting polypeptide (OATP1B1, OATP1B3), and organic anion transporter (OAT3). Monamine oxidases contribute partially to the metabolism of the active metabolite of dronedarone.  Pharmacokinetic measures indicating the magnitude of these interactions are presented in Figure 1 (impact of co-administered drugs on dronedarone) and Figure 2 (impact of dronedarone on co-administered drugs).  Figure 1: The impact of co-administered drugs on the pharmacokinetics of dronedarone and recommendations for dronedarone coadministration or dose adjustment.     Figure 2: The impact of dronedarone on co-administered drugs and recommendations for dose adjustment of co-administered drug.      Figure 1        Figure 2</Section>
+</Text><Sentences>
+<Sentence id="4550" LabelDrug="Multaq" section="34066-1">
+<SentenceText>In patients with symptomatic heart failure and recent decompensation requiring hospitalization or NYHA Class IV heart failure, MULTAQ doubles the risk of death.</SentenceText>
+</Sentence>
+<Sentence id="4551" LabelDrug="Multaq" section="34066-1">
+<SentenceText>MULTAQ is contraindicated in patients with symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV heart failure.</SentenceText>
+</Sentence>
+<Sentence id="4552" LabelDrug="Multaq" section="34066-1">
+<SentenceText>In patients with permanent atrial fibrillation, MULTAQ doubles the risk of death, stroke and hospitalization for heart failure.</SentenceText>
+</Sentence>
+<Sentence id="4553" LabelDrug="Multaq" section="34066-1">
+<SentenceText>MULTAQ is contraindicated in patients in atrial fibrillation (AF) who will not or cannot be cardioverted into normal sinus rhythm.</SentenceText>
+</Sentence>
+<Sentence id="4554" LabelDrug="Multaq" section="34066-1">
+<SentenceText>WARNING: INCREASED RISK OF DEATH, STROKE AND HEART FAILURE IN PATIENTS WITH DECOMPENSATED HEART FAILURE OR PERMANENT ATRIAL FIBRILLATION MULTAQ is contraindicated in patients with symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV heart failure.</SentenceText>
+</Sentence>
+<Sentence id="4555" LabelDrug="Multaq" section="34066-1">
+<SentenceText>MULTAQ doubles the risk of death in these patients (4, 5.1, 14.3).</SentenceText>
+</Sentence>
+<Sentence id="4556" LabelDrug="Multaq" section="34066-1">
+<SentenceText>In patients with permanent AF, MULTAQ doubles the risk of death, stroke, and hospitalization for heart failure.</SentenceText>
+</Sentence>
+<Sentence id="4557" LabelDrug="Multaq" section="34070-3">
+<SentenceText>MULTAQ is contraindicated in patients with: Permanent atrial fibrillation (patients in whom normal sinus rhythm will not or cannot be restored) : MULTAQ may cause fetal harm when administered to a pregnant woman.</SentenceText>
+</Sentence>
+<Sentence id="4558" LabelDrug="Multaq" section="34070-3">
+<SentenceText>MULTAQ is contraindicated in women who are or may become pregnant.</SentenceText>
+</Sentence>
+<Sentence id="4559" LabelDrug="Multaq" section="34070-3">
+<SentenceText>If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.</SentenceText>
+</Sentence>
+<Sentence id="4560" LabelDrug="Multaq" section="34070-3">
+<SentenceText>Nursing mothers Recently decompensated heart failure requiring hospitalization or Class IV heart failure.</SentenceText>
+</Sentence>
+<Sentence id="4561" LabelDrug="Multaq" section="34070-3">
+<SentenceText>(Boxed Warning, 4) Second or third-degree atrioventricular (AV) block or sick sinus syndrome (except when used in conjunction with a functioning pacemaker) (4) Bradycardia &lt;50 bpm (4) Concomitant use of a strong CYP3A inhibitor (4) Concomitant use of drugs or herbal products that prolong the QT interval and may induce Torsade de Pointes (4) Liver or lung toxicity related to the previous use of amiodarone (4) Severe hepatic impairment (4) QTc Bazett interval ≥500 ms (4) Pregnancy (4, 8.1) and Nursing mothers (4, 8.3) Hypersensitivity to the active substance or to any of the excipients (4)</SentenceText>
+<Mention id="M4" type="Trigger" span="366 10" str="related to"/>
+<Mention id="M5" type="Precipitant" span="397 10" str="amiodarone" code="N3RQ532IUT"/>
+<Mention id="M3" type="SpecificInteraction" span="352 13" str="lung toxicity" code="19829001: Disorder of lung (disorder)"/>
+<Mention id="M6" type="SpecificInteraction" span="343 5;357 8" str="Liver | toxicity" code="197354009: Toxic liver disease (disorder)"/>
+<Mention id="M7" type="Trigger" span="313 6" str="induce"/>
+<Mention id="M8" type="Precipitant" span="251 53" str="drugs or herbal products that prolong the QT interval" code="NO MAP"/>
+<Mention id="M9" type="SpecificInteraction" span="320 18" str="Torsade de Pointes" code="31722008: Torsades de pointes (disorder)"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M4" precipitant="M5" effect="M3"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M4" precipitant="M5" effect="M6"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M7" precipitant="M8" effect="M9"/>
+</Sentence>
+<Sentence id="4562" LabelDrug="Multaq" section="34068-7">
+<SentenceText>The recommended dosage of MULTAQ is 400 mg twice daily in adults.</SentenceText>
+</Sentence>
+<Sentence id="4563" LabelDrug="Multaq" section="34068-7">
+<SentenceText>MULTAQ should be taken as one tablet with the morning meal and one tablet with the evening meal.</SentenceText>
+</Sentence>
+<Sentence id="4564" LabelDrug="Multaq" section="34068-7">
+<SentenceText>Treatment with Class I or III antiarrhythmics (e.g., amiodarone, flecainide, propafenone, quinidine, disopyramide, dofetilide, sotalol) or drugs that are strong inhibitors of CYP3A (e.g., ketoconazole) must be stopped before starting MULTAQ.</SentenceText>
+<Mention id="M30" type="Trigger" span="202 15" str="must be stopped"/>
+<Mention id="M11" type="Precipitant" span="53 10" str="amiodarone" code="N3RQ532IUT"/>
+<Mention id="M13" type="Precipitant" span="15 5;26 19" str="Class | III antiarrhythmics" code="N0000175426"/>
+<Mention id="M15" type="Precipitant" span="15 7;30 15" str="Class I | antiarrhythmics" code="N0000175426"/>
+<Mention id="M17" type="Precipitant" span="101 12" str="disopyramide" code="GFO928U8MQ"/>
+<Mention id="M19" type="Precipitant" span="115 10" str="dofetilide" code="R4Z9X1N2ND"/>
+<Mention id="M21" type="Precipitant" span="65 10" str="flecainide" code="K94FTS1806"/>
+<Mention id="M23" type="Precipitant" span="188 12" str="ketoconazole" code="R9400W927I"/>
+<Mention id="M25" type="Precipitant" span="77 11" str="propafenone" code="68IQX3T69U"/>
+<Mention id="M27" type="Precipitant" span="90 9" str="quinidine" code="ITX08688JL"/>
+<Mention id="M29" type="Precipitant" span="127 7" str="sotalol" code="A6D97U294I"/>
+<Mention id="M31" type="Precipitant" span="154 26" str="strong inhibitors of CYP3A" code="N0000191001"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M30" precipitant="M11"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M30" precipitant="M13"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M30" precipitant="M15"/>
+<Interaction id="I7" type="Unspecified interaction" trigger="M30" precipitant="M17"/>
+<Interaction id="I8" type="Unspecified interaction" trigger="M30" precipitant="M19"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M30" precipitant="M21"/>
+<Interaction id="I10" type="Unspecified interaction" trigger="M30" precipitant="M23"/>
+<Interaction id="I11" type="Unspecified interaction" trigger="M30" precipitant="M25"/>
+<Interaction id="I12" type="Unspecified interaction" trigger="M30" precipitant="M27"/>
+<Interaction id="I13" type="Unspecified interaction" trigger="M30" precipitant="M29"/>
+<Interaction id="I14" type="Unspecified interaction" trigger="M30" precipitant="M31"/>
+</Sentence>
+<Sentence id="4565" LabelDrug="Multaq" section="34068-7">
+<SentenceText>One tablet of 400 mg twice a day with morning and evening meals (2)</SentenceText>
+</Sentence>
+<Sentence id="4566" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Dronedarone is metabolized by CYP 3A and is a moderate inhibitor of CYP 3A and CYP 2D6 and has potentially important pharmacodynamic interactions (7) Class I or III Antiarrhythmics: contraindicated (4, 7.1) Digoxin: Consider discontinuation or halve dose of digoxin before treatment and monitor digoxin levels (7.1, 7.3) Calcium channel blockers (CCB): Initiate CCB with low dose and increase after ECG verification of tolerability (7.1,7.2, 7.3) Beta-blockers: May provoke excessive bradycardia.</SentenceText>
+<Mention id="M32" type="Trigger" span="466 17" str="provoke excessive"/>
+<Mention id="M33" type="Precipitant" span="447 13" str="Beta-blockers" code="N0000175556"/>
+<Mention id="M34" type="SpecificInteraction" span="474 21" str="excessive bradycardia" code="48867003: Bradycardia (finding)"/>
+<Mention id="M35" type="Trigger" span="353 8;371 8" str="Initiate | low dose"/>
+<Mention id="M36" type="Precipitant" span="321 24" str="Calcium channel blockers" code="N0000175566"/>
+<Mention id="M39" type="Trigger" span="182 15" str="contraindicated"/>
+<Mention id="M38" type="Precipitant" span="150 5;161 19" str="Class | III Antiarrhythmics" code="N0000175426"/>
+<Mention id="M40" type="Precipitant" span="150 7;165 15" str="Class I | Antiarrhythmics" code="N0000175426"/>
+<Mention id="M41" type="Trigger" span="216 24" str="Consider discontinuation "/>
+<Mention id="M42" type="Trigger" span="244 10" str=" halve dose "/>
+<Mention id="M43" type="Trigger" span="287 7" str=" monitor"/>
+<Mention id="M44" type="Precipitant" span="258 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M32" precipitant="M33" effect="M34"/>
+<Interaction id="I16" type="Unspecified interaction" trigger="M35" precipitant="M36"/>
+<Interaction id="I17" type="Unspecified interaction" trigger="M39" precipitant="M38"/>
+<Interaction id="I18" type="Unspecified interaction" trigger="M39" precipitant="M40"/>
+<Interaction id="I19" type="Unspecified interaction" trigger="M41;M42;M43" precipitant="M44"/>
+</Sentence>
+<Sentence id="4567" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Initiate with low dose and increase after ECG verification of tolerability (7.1, 7.3) CYP3A inducers: Avoid concomitant use (7.2) Grapefruit juice: Avoid concomitant use (7.2) Statins: Avoid simvastatin doses greater than 10 mg daily.</SentenceText>
+<Mention id="M47" type="Trigger" span="102 5" str="Avoid"/>
+<Mention id="M46" type="Precipitant" span="86 14" str="CYP3A inducers" code="N0000190118"/>
+<Mention id="M48" type="Precipitant" span="130 16" str="Grapefruit juice" code="JQ9EK2H6BG"/>
+<Mention id="M49" type="Trigger" span="102 5;203 18" str="Avoid | doses greater than"/>
+<Mention id="M50" type="Precipitant" span="191 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I20" type="Unspecified interaction" trigger="M47" precipitant="M46"/>
+<Interaction id="I21" type="Unspecified interaction" trigger="M47" precipitant="M48"/>
+<Interaction id="I22" type="Unspecified interaction" trigger="M49" precipitant="M50"/>
+</Sentence>
+<Sentence id="4568" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Follow label recommendations for concomitant use of other statins with a CYP3A and P-gp inhibitor like dronedarone (7.3) CYP3A substrates with a narrow therapeutic index (e.g., sirolimus and tacrolimus): Monitor and adjust dosage of concomitant drug as needed when used with MULTAQ (7.3) Warfarin: Monitor INR after initiating dronedarone in patients taking warfarin.</SentenceText>
+<Mention id="M57" type="Trigger" span="204 25" str="Monitor and adjust dosage"/>
+<Mention id="M52" type="Precipitant" span="121 48" str="CYP3A substrates with a narrow therapeutic index" code="NO MAP"/>
+<Mention id="M54" type="Precipitant" span="177 9" str="sirolimus" code="W36ZG6FT64"/>
+<Mention id="M55" type="Trigger" span="0 28" str="Follow label recommendations"/>
+<Mention id="M56" type="Precipitant" span="58 7" str="statins" code="N0000175589"/>
+<Mention id="M58" type="Precipitant" span="191 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Mention id="M59" type="Trigger" span="298 11" str="Monitor INR"/>
+<Mention id="M60" type="Precipitant" span="358 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I23" type="Unspecified interaction" trigger="M57" precipitant="M52"/>
+<Interaction id="I24" type="Unspecified interaction" trigger="M57" precipitant="M54"/>
+<Interaction id="I25" type="Unspecified interaction" trigger="M55" precipitant="M56"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M57" precipitant="M58"/>
+<Interaction id="I27" type="Unspecified interaction" trigger="M59" precipitant="M60"/>
+</Sentence>
+<Sentence id="4569" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Drugs Prolonging the QT Interval (Inducing Torsade de Pointes) Coadministration of drugs prolonging the QT interval (such as certain phenothiazines, tricyclic antidepressants, certain macrolide antibiotics, and Class I and III antiarrhythmics) is contraindicated because of the potential risk of torsade de pointes–type ventricular tachycardia.</SentenceText>
+<Mention id="M76" type="Trigger" span="288 7" str="risk of"/>
+<Mention id="M62" type="Precipitant" span="211 5;223 19" str="Class | III antiarrhythmics" code="N0000175426"/>
+<Mention id="M78" type="SpecificInteraction" span="296 47" str="torsade de pointes–type ventricular tachycardia" code="25569003: Ventricular tachycardia (disorder)"/>
+<Mention id="M65" type="Precipitant" span="211 7;227 15" str="Class I | antiarrhythmics" code="N0000175426"/>
+<Mention id="M68" type="Precipitant" span="83 32" str="drugs prolonging the QT interval" code="NO MAP"/>
+<Mention id="M71" type="Precipitant" span="184 21" str="macrolide antibiotics" code="N0000175935"/>
+<Mention id="M74" type="Precipitant" span="133 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M77" type="Precipitant" span="149 25" str="tricyclic antidepressants" code="N0000175752"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M76" precipitant="M62" effect="M78"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M76" precipitant="M65" effect="M78"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M76" precipitant="M68" effect="M78"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M76" precipitant="M71" effect="M78"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M76" precipitant="M74" effect="M78"/>
+<Interaction id="I33" type="Pharmacodynamic interaction" trigger="M76" precipitant="M77" effect="M78"/>
+</Sentence>
+<Sentence id="4570" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Digoxin In the ANDROMEDA (patients with recently decompensated heart failure) and PALLAS (patients with permanent AF) trials baseline use of digoxin was associated with an increased risk of arrhythmic or sudden death in dronedarone-treated patients compared to placebo.</SentenceText>
+<Mention id="M83" type="Trigger" span="153 15" str="associated with "/>
+<Mention id="M84" type="Trigger" span="172 14" str=" increased risk"/>
+<Mention id="M85" type="Precipitant" span="141 7" str="digoxin" code="73K4184T59"/>
+<Mention id="M82" type="SpecificInteraction" span="190 10;211 5" str="arrhythmic | death" code="735686002: Sudden cardiac death due to cardiac arrhythmia (disorder)"/>
+<Mention id="M86" type="SpecificInteraction" span="204 12" str="sudden death" code="26636000: Sudden death (event)"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M83;M84" precipitant="M85" effect="M82"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M83;M84" precipitant="M85" effect="M86"/>
+</Sentence>
+<Sentence id="4571" LabelDrug="Multaq" section="34073-7">
+<SentenceText>In patients not taking digoxin, no difference in risk of sudden death was observed in the dronedarone versus placebo groups.</SentenceText>
+</Sentence>
+<Sentence id="4572" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Digoxin can potentiate the electrophysiologic effects of dronedarone (such as decreased AV-node conduction).</SentenceText>
+<Mention id="M90" type="Trigger" span="12 10" str="potentiate"/>
+<Mention id="M91" type="Precipitant" span="0 7" str="Digoxin" code="73K4184T59"/>
+<Mention id="M89" type="SpecificInteraction" span="27 26" str="electrophysiologic effects" code="NO MAP"/>
+<Mention id="M92" type="SpecificInteraction" span="78 28" str="decreased AV-node conduction" code="233917008: Atrioventricular block (disorder)"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M90" precipitant="M91" effect="M89"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M90" precipitant="M91" effect="M92"/>
+</Sentence>
+<Sentence id="4573" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Dronedarone increases exposure to digoxin.</SentenceText>
+<Mention id="M93" type="Trigger" span="12 18" str="increases exposure"/>
+<Mention id="M94" type="Precipitant" span="34 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M93" precipitant="M94" effect="C54357"/>
+</Sentence>
+<Sentence id="4574" LabelDrug="Multaq" section="34073-7">
+<SentenceText>If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity.</SentenceText>
+<Mention id="M95" type="Trigger" span="35 14" str="halve the dose "/>
+<Mention id="M96" type="Trigger" span="62 28" str=" monitor serum levels closely "/>
+<Mention id="M97" type="Trigger" span="108 8" str=" toxicity"/>
+<Mention id="M98" type="Precipitant" span="3 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M95;M96;M97" precipitant="M98" effect="C54357"/>
+</Sentence>
+<Sentence id="4575" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Calcium Channel Blockers Calcium channel blockers with depressant effects on the sinus and AV nodes could potentiate dronedarone's effects on conduction.</SentenceText>
+<Mention id="M102" type="Trigger" span="106 10" str="potentiate"/>
+<Mention id="M103" type="Precipitant" span="25 24" str="Calcium channel blockers" code="N0000175566"/>
+<Mention id="M101" type="SpecificInteraction" span="131 21" str="effects on conduction" code="44808001: Conduction disorder of the heart (disorder)"/>
+<Mention id="M104" type="SpecificInteraction" span="55 44" str="depressant effects on the sinus and AV nodes" code="NO MAP"/>
+<Interaction id="I40" type="Pharmacodynamic interaction" trigger="M102" precipitant="M103" effect="M101"/>
+<Interaction id="I41" type="Pharmacodynamic interaction" trigger="M102" precipitant="M103" effect="M104"/>
+</Sentence>
+<Sentence id="4576" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability.</SentenceText>
+<Mention id="M105" type="Trigger" span="0 15;44 9" str="Give a low dose | initially"/>
+<Mention id="M106" type="Precipitant" span="19 24" str="calcium channel blockers" code="N0000175566"/>
+<Interaction id="I42" type="Unspecified interaction" trigger="M105" precipitant="M106"/>
+</Sentence>
+<Sentence id="4577" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Beta-Blockers In clinical trials, bradycardia was more frequently observed when dronedarone was given in combination with beta-blockers.</SentenceText>
+<Mention id="M107" type="Trigger" span="50 15" str="more frequently"/>
+<Mention id="M108" type="Precipitant" span="122 13" str="beta-blockers" code="N0000175556"/>
+<Mention id="M109" type="SpecificInteraction" span="34 11" str="bradycardia" code="48867003: Bradycardia (finding)"/>
+<Interaction id="I43" type="Pharmacodynamic interaction" trigger="M107" precipitant="M108" effect="M109"/>
+</Sentence>
+<Sentence id="4578" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Give a low dose of beta-blockers initially, and increase only after ECG verification of good tolerability.</SentenceText>
+<Mention id="M110" type="Trigger" span="0 15;33 9" str="Give a low dose | initially"/>
+<Mention id="M111" type="Precipitant" span="19 13" str="beta-blockers" code="N0000175556"/>
+<Interaction id="I44" type="Unspecified interaction" trigger="M110" precipitant="M111"/>
+</Sentence>
+<Sentence id="4579" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Ketoconazole and Other Potent CYP 3A Inhibitors Concomitant use of ketoconazole as well as other potent CYP 3A inhibitors such as itraconazole, voriconazole, ritonavir, clarithromycin, and nefazodone is contraindicated because exposure to dronedarone is significantly increased.</SentenceText>
+<Mention id="M124" type="Trigger" span="227 8;268 9" str="exposure | increased"/>
+<Mention id="M113" type="Precipitant" span="169 14" str="clarithromycin" code="H1250JIK0A"/>
+<Mention id="M115" type="Precipitant" span="130 12" str="itraconazole" code="304NUG5GF4"/>
+<Mention id="M117" type="Precipitant" span="67 12" str="ketoconazole" code="R9400W927I"/>
+<Mention id="M119" type="Precipitant" span="189 10" str="nefazodone" code="59H4FCV1TF"/>
+<Mention id="M121" type="Precipitant" span="97 24" str="potent CYP 3A inhibitors" code="N0000191001"/>
+<Mention id="M123" type="Precipitant" span="158 9" str="ritonavir" code="O3J8G9O825"/>
+<Mention id="M125" type="Precipitant" span="144 12" str="voriconazole" code="JFU09I87TR"/>
+<Interaction id="I45" type="Pharmacokinetic interaction" trigger="M124" precipitant="M113" effect="C54355"/>
+<Interaction id="I46" type="Pharmacokinetic interaction" trigger="M124" precipitant="M115" effect="C54355"/>
+<Interaction id="I47" type="Pharmacokinetic interaction" trigger="M124" precipitant="M117" effect="C54355"/>
+<Interaction id="I48" type="Pharmacokinetic interaction" trigger="M124" precipitant="M119" effect="C54355"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M124" precipitant="M121" effect="C54355"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M124" precipitant="M123" effect="C54355"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M124" precipitant="M125" effect="C54355"/>
+</Sentence>
+<Sentence id="4580" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Grapefruit Juice Patients should avoid grapefruit juice beverages while taking MULTAQ because exposure to dronedarone is significantly increased.</SentenceText>
+<Mention id="M126" type="Trigger" span="94 8;135 9" str="exposure | increased"/>
+<Mention id="M127" type="Precipitant" span="39 16" str="grapefruit juice" code="JQ9EK2H6BG"/>
+<Interaction id="I52" type="Pharmacokinetic interaction" trigger="M126" precipitant="M127" effect="C54355"/>
+</Sentence>
+<Sentence id="4581" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Rifampin and Other CYP 3A Inducers Avoid rifampin or other CYP 3A inducers such as phenobarbital, carbamazepine, phenytoin, and St. John's wort because they decrease exposure to dronedarone significantly.</SentenceText>
+<Mention id="M138" type="Trigger" span="157 17" str="decrease exposure"/>
+<Mention id="M129" type="Precipitant" span="98 13" str="carbamazepine" code="33CM23913M"/>
+<Mention id="M131" type="Precipitant" span="59 15" str="CYP 3A inducers" code="N0000185506"/>
+<Mention id="M133" type="Precipitant" span="83 13" str="phenobarbital" code="YQE403BP4D"/>
+<Mention id="M135" type="Precipitant" span="113 9" str="phenytoin" code="6158TKW0C5"/>
+<Mention id="M137" type="Precipitant" span="41 8" str="rifampin" code="VJT6J7R4TR"/>
+<Mention id="M139" type="Precipitant" span="128 15" str="St. John's wort" code="UFH8805FKA"/>
+<Interaction id="I53" type="Pharmacokinetic interaction" trigger="M138" precipitant="M129" effect="C54356"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M138" precipitant="M131" effect="C54356"/>
+<Interaction id="I55" type="Pharmacokinetic interaction" trigger="M138" precipitant="M133" effect="C54356"/>
+<Interaction id="I56" type="Pharmacokinetic interaction" trigger="M138" precipitant="M135" effect="C54356"/>
+<Interaction id="I57" type="Pharmacokinetic interaction" trigger="M138" precipitant="M137" effect="C54356"/>
+<Interaction id="I58" type="Pharmacokinetic interaction" trigger="M138" precipitant="M139" effect="C54356"/>
+</Sentence>
+<Sentence id="4582" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Calcium Channel Blockers Verapamil and diltiazem are moderate CYP 3A inhibitors and increase dronedarone exposure.</SentenceText>
+<Mention id="M144" type="Trigger" span="84 8;105 8" str="increase | exposure"/>
+<Mention id="M141" type="Precipitant" span="39 9" str="diltiazem" code="EE92BBP03H"/>
+<Mention id="M143" type="Precipitant" span="53 26" str="moderate CYP 3A inhibitors" code="N0000191001"/>
+<Mention id="M145" type="Precipitant" span="25 9" str="Verapamil" code="CJ0O37KU29"/>
+<Interaction id="I59" type="Pharmacokinetic interaction" trigger="M144" precipitant="M141" effect="C54355"/>
+<Interaction id="I60" type="Pharmacokinetic interaction" trigger="M144" precipitant="M143" effect="C54355"/>
+<Interaction id="I61" type="Pharmacokinetic interaction" trigger="M144" precipitant="M145" effect="C54355"/>
+</Sentence>
+<Sentence id="4583" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Simvastatin Dronedarone increased simvastatin/simvastatin acid exposure.</SentenceText>
+<Mention id="M146" type="Trigger" span="24 9;63 8" str="increased | exposure"/>
+<Mention id="M147" type="Precipitant" span="34 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I62" type="Pharmacokinetic interaction" trigger="M146" precipitant="M147" effect="C54357"/>
+</Sentence>
+<Sentence id="4584" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Avoid doses greater than 10 mg once daily of simvastatin.</SentenceText>
+<Mention id="M148" type="Trigger" span="0 24" str="Avoid doses greater than"/>
+<Mention id="M149" type="Precipitant" span="45 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I63" type="Pharmacokinetic interaction" trigger="M148" precipitant="M149" effect="C54357"/>
+</Sentence>
+<Sentence id="4585" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Other Statins Because of multiple mechanisms of interaction with statins (CYPs and transporters), follow statin label recommendations for use with CYP 3A and P-gp inhibitors such as dronedarone.</SentenceText>
+<Mention id="M150" type="Trigger" span="25 34" str="multiple mechanisms of interaction"/>
+<Mention id="M151" type="Precipitant" span="65 7" str="statins" code="N0000175589"/>
+<Interaction id="I64" type="Unspecified interaction" trigger="M150" precipitant="M151"/>
+</Sentence>
+<Sentence id="4586" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Calcium Channel Blockers Dronedarone increased the exposure of calcium channel blockers (verapamil, diltiazem or nifedipine).</SentenceText>
+<Mention id="M158" type="Trigger" span="37 22" str="increased the exposure"/>
+<Mention id="M153" type="Precipitant" span="63 24" str="calcium channel blockers" code="N0000175566"/>
+<Mention id="M155" type="Precipitant" span="100 9" str="diltiazem" code="EE92BBP03H"/>
+<Mention id="M157" type="Precipitant" span="113 10" str="nifedipine" code="I9ZF7L6G2L"/>
+<Mention id="M159" type="Precipitant" span="89 9" str="verapamil" code="CJ0O37KU29"/>
+<Interaction id="I65" type="Pharmacokinetic interaction" trigger="M158" precipitant="M153" effect="C54357"/>
+<Interaction id="I66" type="Pharmacokinetic interaction" trigger="M158" precipitant="M155" effect="C54357"/>
+<Interaction id="I67" type="Pharmacokinetic interaction" trigger="M158" precipitant="M157" effect="C54357"/>
+<Interaction id="I68" type="Pharmacokinetic interaction" trigger="M158" precipitant="M159" effect="C54357"/>
+</Sentence>
+<Sentence id="4587" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Sirolimus, Tacrolimus, and Other CYP3A Substrates with Narrow Therapeutic Range Dronedarone can increase plasma concentrations of tacrolimus, sirolimus, and other CYP 3A substrates with a narrow therapeutic range when given orally.</SentenceText>
+<Mention id="M164" type="Trigger" span="96 30" str="increase plasma concentrations"/>
+<Mention id="M161" type="Precipitant" span="163 49" str="CYP 3A substrates with a narrow therapeutic range" code="NO MAP"/>
+<Mention id="M163" type="Precipitant" span="142 9" str="sirolimus" code="W36ZG6FT64"/>
+<Mention id="M165" type="Precipitant" span="130 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Interaction id="I69" type="Pharmacokinetic interaction" trigger="M164" precipitant="M161" effect="C54357"/>
+<Interaction id="I70" type="Pharmacokinetic interaction" trigger="M164" precipitant="M163" effect="C54357"/>
+<Interaction id="I71" type="Pharmacokinetic interaction" trigger="M164" precipitant="M165" effect="C54357"/>
+</Sentence>
+<Sentence id="4588" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Monitor plasma concentrations and adjust dosage appropriately.</SentenceText>
+</Sentence>
+<Sentence id="4589" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Beta-Blockers and Other CYP2D6 Substrates Dronedarone increased the exposure of propranolol and metoprolol.</SentenceText>
+<Mention id="M172" type="Trigger" span="54 22" str="increased the exposure"/>
+<Mention id="M167" type="Precipitant" span="0 13" str="Beta-Blockers" code="N0000175556"/>
+<Mention id="M169" type="Precipitant" span="24 17" str="CYP2D6 Substrates" code="NO MAP"/>
+<Mention id="M171" type="Precipitant" span="96 10" str="metoprolol" code="GEB06NHM23"/>
+<Mention id="M173" type="Precipitant" span="80 11" str="propranolol" code="9Y8NXQ24VQ"/>
+<Interaction id="I72" type="Pharmacokinetic interaction" trigger="M172" precipitant="M167" effect="C54357"/>
+<Interaction id="I73" type="Pharmacokinetic interaction" trigger="M172" precipitant="M169" effect="C54357"/>
+<Interaction id="I74" type="Pharmacokinetic interaction" trigger="M172" precipitant="M171" effect="C54357"/>
+<Interaction id="I75" type="Pharmacokinetic interaction" trigger="M172" precipitant="M173" effect="C54357"/>
+</Sentence>
+<Sentence id="4590" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Give low doses of beta-blockers initially, and increase only after ECG verification of good tolerability.</SentenceText>
+<Mention id="M174" type="Trigger" span="0 14" str="Give low doses"/>
+<Mention id="M175" type="Precipitant" span="18 13" str="beta-blockers" code="N0000175556"/>
+<Interaction id="I76" type="Pharmacokinetic interaction" trigger="M174" precipitant="M175" effect="C54357"/>
+</Sentence>
+<Sentence id="4591" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Other CYP2D6 substrates, including other beta-blockers, tricyclic antidepressants, and selective serotonin reuptake inhibitors (SSRIs) may have increased exposure upon coadministration with dronedarone.</SentenceText>
+<Mention id="M184" type="Trigger" span="144 18" str="increased exposure"/>
+<Mention id="M177" type="Precipitant" span="41 13" str="beta-blockers" code="N0000175556"/>
+<Mention id="M179" type="Precipitant" span="6 17" str="CYP2D6 substrates" code="NO MAP"/>
+<Mention id="M181" type="Precipitant" span="87 39" str="selective serotonin reuptake inhibitors" code="N0000175696"/>
+<Mention id="M183" type="Precipitant" span="128 5" str="SSRIs" code="N0000175696"/>
+<Mention id="M185" type="Precipitant" span="56 25" str="tricyclic antidepressants" code="N0000175752"/>
+<Interaction id="I77" type="Pharmacokinetic interaction" trigger="M184" precipitant="M177" effect="C54357"/>
+<Interaction id="I78" type="Pharmacokinetic interaction" trigger="M184" precipitant="M179" effect="C54357"/>
+<Interaction id="I79" type="Pharmacokinetic interaction" trigger="M184" precipitant="M181" effect="C54357"/>
+<Interaction id="I80" type="Pharmacokinetic interaction" trigger="M184" precipitant="M183" effect="C54357"/>
+<Interaction id="I81" type="Pharmacokinetic interaction" trigger="M184" precipitant="M185" effect="C54357"/>
+</Sentence>
+<Sentence id="4592" LabelDrug="Multaq" section="34073-7">
+<SentenceText>P-glycoprotein Substrates Digoxin Dronedarone increased digoxin exposure by inhibiting the P-gp transporter.</SentenceText>
+<Mention id="M186" type="Trigger" span="46 9;64 8" str="increased | exposure"/>
+<Mention id="M187" type="Precipitant" span="56 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I82" type="Pharmacokinetic interaction" trigger="M186" precipitant="M187" effect="C54357"/>
+</Sentence>
+<Sentence id="4593" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Dabigatran Exposure to dabigatran is higher when it is administered with dronedarone than when it is administered alone.</SentenceText>
+<Mention id="M188" type="Trigger" span="11 8;37 6" str="Exposure | higher"/>
+<Mention id="M189" type="Precipitant" span="23 10" str="dabigatran" code="I0VM4M70GC"/>
+<Interaction id="I83" type="Pharmacokinetic interaction" trigger="M188" precipitant="M189" effect="C54357"/>
+</Sentence>
+<Sentence id="4594" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Other P-gp substrates are expected to have increased exposure when coadministered with dronedarone.</SentenceText>
+<Mention id="M190" type="Trigger" span="43 18" str="increased exposure"/>
+<Mention id="M191" type="Precipitant" span="6 15" str="P-gp substrates" code="NO MAP"/>
+<Interaction id="I84" type="Pharmacokinetic interaction" trigger="M190" precipitant="M191" effect="C54357"/>
+</Sentence>
+<Sentence id="4595" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Warfarin When coadministered with dronedarone exposure to S-warfarin was slightly higher than when warfarin was administered alone.</SentenceText>
+<Mention id="M194" type="Trigger" span="46 8;82 6" str="exposure | higher"/>
+<Mention id="M193" type="Precipitant" span="58 10" str="S-warfarin" code="HP31W7FNP4"/>
+<Mention id="M195" type="Precipitant" span="0 8" str="Warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I85" type="Pharmacokinetic interaction" trigger="M194" precipitant="M193" effect="C54357"/>
+<Interaction id="I86" type="Pharmacokinetic interaction" trigger="M194" precipitant="M195" effect="C54357"/>
+</Sentence>
+<Sentence id="4596" LabelDrug="Multaq" section="34073-7">
+<SentenceText>There were no clinically significant increases in INR.</SentenceText>
+</Sentence>
+<Sentence id="4597" LabelDrug="Multaq" section="34073-7">
+<SentenceText>More patients experienced clinically significant INR elevations (≥ 5) usually within 1 week after starting dronedarone versus placebo in patients taking oral anticoagulants in ATHENA.</SentenceText>
+<Mention id="M196" type="Trigger" span="0 25" str="More patients experienced"/>
+<Mention id="M197" type="Precipitant" span="153 19" str="oral anticoagulants" code="N0000175980"/>
+<Mention id="M198" type="SpecificInteraction" span="49 14" str="INR elevations" code="313341008: International Normalized Ratio raised (finding)"/>
+<Interaction id="I87" type="Pharmacodynamic interaction" trigger="M196" precipitant="M197" effect="M198"/>
+</Sentence>
+<Sentence id="4598" LabelDrug="Multaq" section="34073-7">
+<SentenceText>However, no excess risk of bleeding was observed in the dronedarone group.</SentenceText>
+</Sentence>
+<Sentence id="4599" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Postmarketing cases of increased INR with or without bleeding events have been reported in warfarin-treated patients initiated on dronedarone.</SentenceText>
+<Mention id="M201" type="SpecificInteraction" span="23 13" str="increased INR" code="313341008: International Normalized Ratio raised (finding)"/>
+<Mention id="M200" type="Precipitant" span="91 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I88" type="Pharmacodynamic interaction" trigger="M201" precipitant="M200" effect="M201"/>
+</Sentence>
+<Sentence id="4600" LabelDrug="Multaq" section="34073-7">
+<SentenceText>Monitor INR after initiating dronedarone in patients taking warfarin.</SentenceText>
+<Mention id="M202" type="Trigger" span="0 7" str="Monitor"/>
+<Mention id="M203" type="Precipitant" span="60 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M204" type="SpecificInteraction" span="8 3" str="INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I89" type="Pharmacodynamic interaction" trigger="M202" precipitant="M203" effect="M204"/>
+</Sentence>
+<Sentence id="4601" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Determine cardiac rhythm at least once every 3 months.</SentenceText>
+</Sentence>
+<Sentence id="4602" LabelDrug="Multaq" section="43685-7">
+<SentenceText>If AF is detected discontinue MULTAQ or cardiovert (5.2) Ensure appropriate antithrombotic therapy prior to and throughout MULTAQ use (5.3) Liver injury: if hepatic injury is suspected, discontinue MULTAQ (5.5) If pulmonary toxicity is confirmed, discontinue treatment (5.6) Hypokalemia and hypomagnesemia: Maintain potassium and magnesium levels within the normal range (5.7) Renal Impairment: Monitor renal function periodically (5.9) Teratogen: Women of childbearing potential should use effective contraception while using MULTAQ (5.10) MULTAQ is contraindicated in patients with NYHA Class IV heart failure or symptomatic heart failure with recent decompensation requiring hospitalization because it doubles the risk of death.</SentenceText>
+</Sentence>
+<Sentence id="4603" LabelDrug="Multaq" section="43685-7">
+<SentenceText>MULTAQ doubles the risk of cardiovascular death (largely arrhythmic) and heart failure events in patients with permanent AF.</SentenceText>
+</Sentence>
+<Sentence id="4604" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Patients treated with dronedarone should undergo monitoring of cardiac rhythm no less often than every 3 months.</SentenceText>
+</Sentence>
+<Sentence id="4605" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Cardiovert patients who are in atrial fibrillation (if clinically indicated) or discontinue MULTAQ.</SentenceText>
+</Sentence>
+<Sentence id="4606" LabelDrug="Multaq" section="43685-7">
+<SentenceText>MULTAQ offers no benefit in subjects in permanent AF.</SentenceText>
+</Sentence>
+<Sentence id="4607" LabelDrug="Multaq" section="43685-7">
+<SentenceText>In a placebo-controlled study in patients with permanent atrial fibrillation, dronedarone was associated with an increased risk of stroke, particularly in the first two weeks of therapy.</SentenceText>
+</Sentence>
+<Sentence id="4608" LabelDrug="Multaq" section="43685-7">
+<SentenceText>MULTAQ should only be initiated in patients in sinus rhythm who are receiving appropriate antithrombotic therapy.</SentenceText>
+</Sentence>
+<Sentence id="4609" LabelDrug="Multaq" section="43685-7">
+<SentenceText>New onset or worsening of heart failure has been reported during treatment with MULTAQ in the postmarketing setting.</SentenceText>
+</Sentence>
+<Sentence id="4610" LabelDrug="Multaq" section="43685-7">
+<SentenceText>In a placebo controlled study in patients with permanent AF increased rates of heart failure were observed in patients with normal left ventricular function and no history of symptomatic heart failure, as well as those with a history of heart failure or left ventricular dysfunction.</SentenceText>
+</Sentence>
+<Sentence id="4611" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Advise patients to consult a physician if they develop signs or symptoms of heart failure, such as weight gain, dependent edema, or increasing shortness of breath.</SentenceText>
+</Sentence>
+<Sentence id="4612" LabelDrug="Multaq" section="43685-7">
+<SentenceText>If heart failure develops or worsens and requires hospitalization, discontinue MULTAQ.</SentenceText>
+</Sentence>
+<Sentence id="4613" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Hepatocellular liver injury, including acute liver failure requiring transplant, has been reported in patients treated with MULTAQ in the postmarketing setting.</SentenceText>
+</Sentence>
+<Sentence id="4614" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Advise patients treated with MULTAQ to report immediately symptoms suggesting hepatic injury (such as anorexia, nausea, vomiting, fever, malaise, fatigue, right upper quadrant pain, jaundice, dark urine, or itching).</SentenceText>
+</Sentence>
+<Sentence id="4615" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Consider obtaining periodic hepatic serum enzymes, especially during the first 6 months of treatment, but it is not known whether routine periodic monitoring of serum enzymes will prevent the development of severe liver injury.</SentenceText>
+</Sentence>
+<Sentence id="4616" LabelDrug="Multaq" section="43685-7">
+<SentenceText>If hepatic injury is suspected, promptly discontinue MULTAQ and test serum enzymes, aspartate aminotransferase (AST), alanine aminotransferase (ALT) and alkaline phosphatase, as well as serum bilirubin, to establish whether there is liver injury.</SentenceText>
+</Sentence>
+<Sentence id="4617" LabelDrug="Multaq" section="43685-7">
+<SentenceText>If liver injury is found, institute appropriate treatment and investigate the probable cause.</SentenceText>
+</Sentence>
+<Sentence id="4618" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Do not restart MULTAQ in patients without another explanation for the observed liver injury.</SentenceText>
+</Sentence>
+<Sentence id="4619" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Cases of interstitial lung disease including pneumonitis and pulmonary fibrosis have been reported in patients treated with MULTAQ in the postmarketing setting.</SentenceText>
+</Sentence>
+<Sentence id="4620" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Onset of dyspnea or non-productive cough may be related to pulmonary toxicity and patients should be carefully evaluated clinically.</SentenceText>
+</Sentence>
+<Sentence id="4621" LabelDrug="Multaq" section="43685-7">
+<SentenceText>If pulmonary toxicity is confirmed, MULTAQ should be discontinued.</SentenceText>
+</Sentence>
+<Sentence id="4622" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Hypokalemia or hypomagnesemia may occur with concomitant administration of potassium-depleting diuretics.</SentenceText>
+</Sentence>
+<Sentence id="4623" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Potassium levels should be within the normal range prior to administration of MULTAQ and maintained in the normal range during administration of MULTAQ.</SentenceText>
+</Sentence>
+<Sentence id="4624" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Dronedarone induces a moderate (average of about 10 ms but much greater effects have been observed) QTc (Bazett) prolongation.</SentenceText>
+</Sentence>
+<Sentence id="4625" LabelDrug="Multaq" section="43685-7">
+<SentenceText>If the QTc Bazett interval is ≥500 ms, discontinue MULTAQ.</SentenceText>
+</Sentence>
+<Sentence id="4626" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Marked increase in serum creatinine, pre-renal azotemia and acute renal failure, often in the setting of heart failure or hypovolemia, have been reported in patients taking MULTAQ.</SentenceText>
+</Sentence>
+<Sentence id="4627" LabelDrug="Multaq" section="43685-7">
+<SentenceText>In most cases, these effects appear to be reversible upon drug discontinuation and with appropriate medical treatment.</SentenceText>
+</Sentence>
+<Sentence id="4628" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Small increases in creatinine levels (about 0.1 mg/dL) following dronedarone treatment initiation have been shown to be a result of inhibition of creatinine's tubular secretion.</SentenceText>
+</Sentence>
+<Sentence id="4629" LabelDrug="Multaq" section="43685-7">
+<SentenceText>The elevation has a rapid onset, reaches a plateau after 7 days and is reversible after discontinuation.</SentenceText>
+</Sentence>
+<Sentence id="4630" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Premenopausal women who have not undergone a hysterectomy or oophorectomy must use effective contraception while using MULTAQ.</SentenceText>
+</Sentence>
+<Sentence id="4631" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Dronedarone caused fetal harm in animal studies at doses equivalent to recommended human doses.</SentenceText>
+</Sentence>
+<Sentence id="4632" LabelDrug="Multaq" section="43685-7">
+<SentenceText>Counsel women of childbearing potential regarding appropriate contraceptive choices.</SentenceText>
+</Sentence>
+<Sentence id="4633" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The mechanism of action of dronedarone is unknown.</SentenceText>
+</Sentence>
+<Sentence id="4634" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown.</SentenceText>
+</Sentence>
+<Sentence id="4635" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Electrophysiological Effects Dronedarone exhibits properties of all four Vaughn-Williams antiarrhythmic classes, although it is unclear which of these are important in producing dronedarone's clinical effects.</SentenceText>
+</Sentence>
+<Sentence id="4636" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The effect of dronedarone on 12-lead ECG parameters (heart rate, PR, and QTc) was investigated in healthy subjects following repeated oral doses up to 1600 mg once daily or 800 mg twice daily for 14 days and 1600 mg twice daily for 10 days.</SentenceText>
+</Sentence>
+<Sentence id="4637" LabelDrug="Multaq" section="34090-1">
+<SentenceText>In the dronedarone 400 mg twice-daily group, there was no apparent effect on heart rate; a moderate heart rate lowering effect (about 4 bpm) was noted at 800 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="4638" LabelDrug="Multaq" section="34090-1">
+<SentenceText>There was a clear dose-dependent effect on PR-interval with an increase of +5 ms at 400 mg twice daily and up to +50 ms at 1600 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="4639" LabelDrug="Multaq" section="34090-1">
+<SentenceText>There was a moderate dose related effect on the QTc-interval with an increase of +10 ms at 400 mg twice daily and up to +25 ms with 1600 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="4640" LabelDrug="Multaq" section="34090-1">
+<SentenceText>DAFNE Study DAFNE was a dose-response study in patients with recurrent AF, evaluating the effect of dronedarone in comparison with placebo in maintaining sinus rhythm.</SentenceText>
+</Sentence>
+<Sentence id="4641" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The doses of dronedarone in this study were 400, 600, and 800 mg twice a day.</SentenceText>
+</Sentence>
+<Sentence id="4642" LabelDrug="Multaq" section="34090-1">
+<SentenceText>In this small study, doses above 400 mg were not more effective and were less well tolerated.</SentenceText>
+</Sentence>
+<Sentence id="4643" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Dronedarone is extensively metabolized and has low systemic bioavailability; its bioavailability is increased by meals.</SentenceText>
+</Sentence>
+<Sentence id="4644" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Its elimination half life is 13–19 hours.</SentenceText>
+</Sentence>
+<Sentence id="4645" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Absorption Because of presystemic first pass metabolism the absolute bioavailability of dronedarone without food is low, about 4%.</SentenceText>
+</Sentence>
+<Sentence id="4646" LabelDrug="Multaq" section="34090-1">
+<SentenceText>It increases to approximately 15% when dronedarone is administered with a high fat meal.</SentenceText>
+</Sentence>
+<Sentence id="4647" LabelDrug="Multaq" section="34090-1">
+<SentenceText>After oral administration in fed conditions, peak plasma concentrations of dronedarone and the main circulating active metabolite (N-debutyl metabolite) are reached within 3 to 6 hours.</SentenceText>
+</Sentence>
+<Sentence id="4648" LabelDrug="Multaq" section="34090-1">
+<SentenceText>After repeated administration of 400 mg twice daily, steady state is reached within 4 to 8 days of treatment and the mean accumulation ratio for dronedarone ranges from 2.6 to 4.5.</SentenceText>
+</Sentence>
+<Sentence id="4649" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The steady-state Cmax and exposure of the main N-debutyl metabolite is similar to that of the parent compound.</SentenceText>
+</Sentence>
+<Sentence id="4650" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The pharmacokinetics of dronedarone and its N-debutyl metabolite both deviate moderately from dose proportionality: a 2-fold increase in dose results in an approximate 2.5 to 3.0-fold increase with respect to Cmax and AUC.</SentenceText>
+</Sentence>
+<Sentence id="4651" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Distribution The in vitro plasma protein binding of dronedarone and its N-debutyl metabolite is &gt;98% and not saturable.</SentenceText>
+</Sentence>
+<Sentence id="4652" LabelDrug="Multaq" section="34090-1">
+<SentenceText>After intravenous (IV) administration the volume of distribution at steady state is about 1400 L. Metabolism Dronedarone is extensively metabolized, mainly by CYP3A.</SentenceText>
+</Sentence>
+<Sentence id="4653" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The initial metabolic pathway includes N-debutylation to form the active N-debutyl metabolite, oxidative deamination to form the inactive propanoic acid metabolite, and direct oxidation.</SentenceText>
+</Sentence>
+<Sentence id="4654" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The metabolites undergo further metabolism to yield over 30 uncharacterized metabolites.</SentenceText>
+</Sentence>
+<Sentence id="4655" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The N-debutyl metabolite exhibits pharmacodynamic activity but is 1/10 to 1/3 as potent as dronedarone.</SentenceText>
+</Sentence>
+<Sentence id="4656" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Monoamine oxidases contribute partially to the metabolism of the active metabolite of dronedarone.</SentenceText>
+</Sentence>
+<Sentence id="4657" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Excretion/Elimination In a mass balance study with orally administered dronedarone (14C-labeled) approximately 6% of the labeled dose was excreted in urine, mainly as metabolites (no unchanged compound excreted in urine), and 84% was excreted in feces, mainly as metabolites.</SentenceText>
+</Sentence>
+<Sentence id="4658" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Dronedarone and its N-debutyl active metabolite accounted for less than 15% of the resultant radioactivity in the plasma.</SentenceText>
+</Sentence>
+<Sentence id="4659" LabelDrug="Multaq" section="34090-1">
+<SentenceText>After IV administration the plasma clearance of dronedarone ranges from 130 to 150 L/h.</SentenceText>
+</Sentence>
+<Sentence id="4660" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The elimination half-life of dronedarone ranges from 13 to 19 hours.</SentenceText>
+</Sentence>
+<Sentence id="4661" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Special Populations Gender Dronedarone exposures are on average 30% higher in females than in males.</SentenceText>
+</Sentence>
+<Sentence id="4662" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Race Pharmacokinetic differences related to race were not formally assessed.</SentenceText>
+</Sentence>
+<Sentence id="4663" LabelDrug="Multaq" section="34090-1">
+<SentenceText>However, based on a cross study comparison, following single dose administration (400 mg), Asian males (Japanese) have about a 2-fold higher exposure than Caucasian males.</SentenceText>
+</Sentence>
+<Sentence id="4664" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The pharmacokinetics of dronedarone in other races has not been assessed.</SentenceText>
+</Sentence>
+<Sentence id="4665" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Elderly Of the total number of subjects in clinical studies of dronedarone, 73% were 65 years of age and over and 34% were 75 and over.</SentenceText>
+</Sentence>
+<Sentence id="4666" LabelDrug="Multaq" section="34090-1">
+<SentenceText>In patients aged 65 years old and above, dronedarone exposures are 23% higher than in patients less than 65 years old.</SentenceText>
+</Sentence>
+<Sentence id="4667" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Hepatic impairment In subjects with moderate hepatic impairment, the mean dronedarone exposure increased by 1.3 fold relative to subjects with normal hepatic function and the mean exposure of the N-debutyl metabolite decreased by about 50%.</SentenceText>
+</Sentence>
+<Sentence id="4668" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Pharmacokinetic data were significantly more variable in subjects with moderate hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="4669" LabelDrug="Multaq" section="34090-1">
+<SentenceText>The effect of severe hepatic impairment on the pharmacokinetics of dronedarone was not assessed.</SentenceText>
+</Sentence>
+<Sentence id="4670" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Renal impairment Consistent with the low renal excretion of dronedarone, no pharmacokinetic difference was observed in subjects with mild or moderate renal impairment compared to subjects with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="4671" LabelDrug="Multaq" section="34090-1">
+<SentenceText>No pharmacokinetic difference was observed in patients with mild to severe renal impairment in comparison with patients with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="4672" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Drug Interactions Dronedarone is metabolized primarily by CYP3A and is a moderate inhibitor of CYP3A and CYP2D6.</SentenceText>
+</Sentence>
+<Sentence id="4673" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Dronedarone has no significant potential to inhibit CYP1A2, CYP2C9, CYP2C19, CYP2C8 and CYP2B6.</SentenceText>
+</Sentence>
+<Sentence id="4674" LabelDrug="Multaq" section="34090-1">
+<SentenceText>It has the potential to inhibit P-glycoprotein (P-gp) transport.</SentenceText>
+</Sentence>
+<Sentence id="4675" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Dronedarone inhibits in vivo the tubular secretion of creatinine a substrate of the organic cation transporter (OCT2).</SentenceText>
+</Sentence>
+<Sentence id="4676" LabelDrug="Multaq" section="34090-1">
+<SentenceText>In vitro dronedarone and the metabolites SR35021 and SR90154 show no significant potential to inhibit the organic anion transporters OAT1 and OAT3 or the organic cation transporter OCT1.</SentenceText>
+</Sentence>
+<Sentence id="4677" LabelDrug="Multaq" section="34090-1">
+<SentenceText>However, in vitro data indicate that SR90154 is likely to inhibit the organic anion transporting polypeptides (OATP1B1, OATP1B3) in vivo.</SentenceText>
+</Sentence>
+<Sentence id="4678" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Pharmacokinetic measures indicating the magnitude of these interactions are presented in Figure 1 (impact of coadministered drugs on dronedarone) and Figure 2 (impact of dronedarone on coadministered drugs).</SentenceText>
+</Sentence>
+<Sentence id="4679" LabelDrug="Multaq" section="34090-1">
+<SentenceText>Figure 1: The Impact of Coadministered Drugs on the Pharmacokinetics of Dronedarone and Recommendations for Dronedarone Coadministration or Dose Adjustment Figure 2: The Impact of Dronedarone on Coadministered Drugs and Recommendations for Dose Adjustment of Coadministered Drug Figure 1 Figure 2</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="amiodarone" precipitantCode="N3RQ532IUT" effect="197354009: Toxic liver disease (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="amiodarone" precipitantCode="N3RQ532IUT" effect="19829001: Disorder of lung (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="amiodarone" precipitantCode="N3RQ532IUT"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs or herbal products that prolong the qt interval" precipitantCode="NO MAP" effect="31722008: Torsades de pointes (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="class | iii antiarrhythmics" precipitantCode="N0000175426" effect="25569003: Ventricular tachycardia (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="class | iii antiarrhythmics" precipitantCode="N0000175426"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="class i | antiarrhythmics" precipitantCode="N0000175426" effect="25569003: Ventricular tachycardia (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="class i | antiarrhythmics" precipitantCode="N0000175426"/>
+<LabelInteraction type="Unspecified interaction" precipitant="disopyramide" precipitantCode="GFO928U8MQ"/>
+<LabelInteraction type="Unspecified interaction" precipitant="dofetilide" precipitantCode="R4Z9X1N2ND"/>
+<LabelInteraction type="Unspecified interaction" precipitant="flecainide" precipitantCode="K94FTS1806"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="R9400W927I" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ketoconazole" precipitantCode="R9400W927I"/>
+<LabelInteraction type="Unspecified interaction" precipitant="propafenone" precipitantCode="68IQX3T69U"/>
+<LabelInteraction type="Unspecified interaction" precipitant="quinidine" precipitantCode="ITX08688JL"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sotalol" precipitantCode="A6D97U294I"/>
+<LabelInteraction type="Unspecified interaction" precipitant="strong inhibitors of cyp3a" precipitantCode="N0000191001"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blockers" precipitantCode="N0000175556" effect="48867003: Bradycardia (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="beta-blockers" precipitantCode="N0000175556" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="beta-blockers" precipitantCode="N0000175556"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="calcium channel blockers" precipitantCode="N0000175566" effect="44808001: Conduction disorder of the heart (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="calcium channel blockers" precipitantCode="N0000175566" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="calcium channel blockers" precipitantCode="N0000175566" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="calcium channel blockers" precipitantCode="N0000175566"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="233917008: Atrioventricular block (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="26636000: Sudden death (event)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="735686002: Sudden cardiac death due to cardiac arrhythmia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digoxin" precipitantCode="73K4184T59" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="digoxin" precipitantCode="73K4184T59"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp3a inducers" precipitantCode="N0000190118"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="grapefruit juice" precipitantCode="JQ9EK2H6BG" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="grapefruit juice" precipitantCode="JQ9EK2H6BG"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="simvastatin" precipitantCode="AGG2FN16EV" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="simvastatin" precipitantCode="AGG2FN16EV"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp3a substrates with a narrow therapeutic index" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sirolimus" precipitantCode="W36ZG6FT64" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sirolimus" precipitantCode="W36ZG6FT64"/>
+<LabelInteraction type="Unspecified interaction" precipitant="statins" precipitantCode="N0000175589"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tacrolimus" precipitantCode="WM0HAQ4WNM" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="tacrolimus" precipitantCode="WM0HAQ4WNM"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="165583001: International normalized ratio abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="313341008: International Normalized Ratio raised (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs prolonging the qt interval" precipitantCode="NO MAP" effect="25569003: Ventricular tachycardia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="macrolide antibiotics" precipitantCode="N0000175935" effect="25569003: Ventricular tachycardia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="25569003: Ventricular tachycardia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tricyclic antidepressants" precipitantCode="N0000175752" effect="25569003: Ventricular tachycardia (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tricyclic antidepressants" precipitantCode="N0000175752" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="clarithromycin" precipitantCode="H1250JIK0A" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="itraconazole" precipitantCode="304NUG5GF4" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nefazodone" precipitantCode="59H4FCV1TF" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="potent cyp 3a inhibitors" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ritonavir" precipitantCode="O3J8G9O825" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="voriconazole" precipitantCode="JFU09I87TR" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp 3a inducers" precipitantCode="N0000185506" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenobarbital" precipitantCode="YQE403BP4D" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="6158TKW0C5" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="st. john's wort" precipitantCode="UFH8805FKA" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="diltiazem" precipitantCode="EE92BBP03H" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="diltiazem" precipitantCode="EE92BBP03H" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="moderate cyp 3a inhibitors" precipitantCode="N0000191001" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="verapamil" precipitantCode="CJ0O37KU29" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nifedipine" precipitantCode="I9ZF7L6G2L" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp 3a substrates with a narrow therapeutic range" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2d6 substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="metoprolol" precipitantCode="GEB06NHM23" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="selective serotonin reuptake inhibitors" precipitantCode="N0000175696" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ssris" precipitantCode="N0000175696" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="dabigatran" precipitantCode="I0VM4M70GC" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="p-gp substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="s-warfarin" precipitantCode="HP31W7FNP4" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="oral anticoagulants" precipitantCode="N0000175980" effect="313341008: International Normalized Ratio raised (finding)"/>
+
+</LabelInteractions></Label>

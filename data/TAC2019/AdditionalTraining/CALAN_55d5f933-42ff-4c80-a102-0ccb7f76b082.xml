@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="CALAN" setid="55d5f933-42ff-4c80-a102-0ccb7f76b082">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Verapamil HCl tablets are contraindicated in:  Severe left ventricular dysfunction (see  WARNINGS ) Hypotension (systolic pressure less than 90 mm Hg) or cardiogenic shock Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker) Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker) Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (eg, Wolff-Parkinson-White, Lown-Ganong-Levine syndromes) (see  WARNINGS ) Patients with known hypersensitivity to verapamil hydrochloride</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+The dose of verapamil must be individualized by titration. The usefulness and safety of dosages exceeding 480 mg/day have not been established; therefore, this daily dosage should not be exceeded. Since the half-life of verapamil increases during chronic dosing, maximum response may be delayed.        Clinical trials show that the usual dose is 80 mg to 120 mg three times a day. However, 40 mg three times a day may be warranted in patients who may have an increased response to verapamil (eg, decreased hepatic function, elderly, etc). Upward titration should be based on therapeutic efficacy and safety evaluated approximately eight hours after dosing. Dosage may be increased at daily (eg, patients with unstable angina) or weekly intervals until optimum clinical response is obtained.          The dosage in digitalized patients with chronic atrial fibrillation (see  PRECAUTIONS ) ranges from 240 to 320 mg/day in divided (t.i.d. or q.i.d.) doses. The dosage for prophylaxis of PSVT (non-digitalized patients) ranges from 240 to 480 mg/day in divided (t.i.d. or q.i.d.) doses. In general, maximum effects for any given dosage will be apparent during the first 48 hours of therapy.          Dose should be individualized by titration. The usual initial monotherapy dose in clinical trials was 80 mg three times a day (240 mg/day). Daily dosages of 360 and 480 mg have been used but there is no evidence that dosages beyond 360 mg provided added effect. Consideration should be given to beginning titration at 40 mg three times per day in patients who might respond to lower doses, such as the elderly or people of small stature. The antihypertensive effects of CALAN are evident within the first week of therapy. Upward titration should be based on therapeutic efficacy, assessed at the end of the dosing interval.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, CYP2C8, CYP2C9, and CYP2C18. Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.           The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis. Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone. Limit the dose of simvastatin in patients on verapamil to 10 mg daily. Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.          In a few reported cases, co-administration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.          Grapefruit juice may increase plasma levels of verapamil.          Verapamil may increase blood alcohol concentrations and prolong its effects.          Controlled studies in small numbers of patients suggest that the concomitant use of CALAN and oral beta-adrenergic blocking agents may be beneficial in certain patients with chronic stable angina or hypertension, but available information is not sufficient to predict with confidence the effects of concurrent treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities. Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility. In one study involving 15 patients treated with high doses of propranolol (median dose: 480 mg/day; range: 160 to 1,280 mg/day) for severe angina, with preserved left ventricular function (ejection fraction greater than 35%), the hemodynamic effects of additional therapy with verapamil HCl were assessed using invasive methods. The addition of verapamil to high-dose beta-blockers induced modest negative inotropic and chronotropic effects that were not severe enough to limit short-term (48 hours) combination therapy in this study. These modest cardiodepressant effects persisted for greater than 6 but less than 30 hours after abrupt withdrawal of beta-blockers and were closely related to plasma levels of propranolol. The primary verapamil/beta-blocker interaction in this study appeared to be hemodynamic rather than electrophysiologic. In other studies, verapamil did not generally induce significant negative inotropic, chronotropic, or dromotropic effects in patients with preserved left ventricular function receiving low or moderate doses of propranolol (less than or equal to 320 mg/day); in some patients, however, combined therapy did produce such effects. Therefore, if combined therapy is used, close surveillance of clinical status should be carried out. Combined therapy should usually be avoided in patients with atrioventricular conduction abnormalities and those with depressed left ventricular function. Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil. A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil. A variable effect has been seen when verapamil and atenolol were given together.          Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted. However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity. In patients with hepatic cirrhosis, the influence of verapamil on digoxin kinetics is magnified. Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively. Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- or under-digitalization. Whenever over-digitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued. On discontinuation of CALAN use, the patient should be reassessed to avoid under-digitalization.          Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure. Patients receiving these combinations should be appropriately monitored. Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients. Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.                Until data on possible interactions between verapamil and disopyramide are obtained, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.          A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization. Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.          In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension. Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided. The electrophysiologic effects of quinidine and verapamil on AV conduction were studied in 8 patients. Verapamil significantly counteracted the effects of quinidine on AV conduction. There has been a report of increased quinidine levels during verapamil therapy.                 Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions. The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.          The interaction between cimetidine and chronically administered verapamil has not been studied. Variable results on clearance have been obtained in acute studies of healthy volunteers; clearance of verapamil was either reduced or unchanged.          Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy; lithium levels have been observed sometimes to increase, sometimes to decrease, and sometimes to be unchanged. Patients receiving both drugs must be monitored carefully.          Verapamil therapy may increase carbamazepine concentrations during combined therapy. This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.          Therapy with rifampin may markedly reduce oral verapamil bioavailability.          Phenobarbital therapy may increase verapamil clearance.          Verapamil therapy may increase serum levels of cyclosporine.          Verapamil may inhibit the clearance and increase the plasma levels of theophylline.          Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions. When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should each be titrated carefully to avoid excessive cardiovascular depression.          Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing). It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.          Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.           Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil. Monitor heart rate in patients receiving concomitant verapamil and clonidine.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function. Severe liver dysfunction prolongs the elimination half-life of verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients. Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects (see  OVERDOSAGE ) should be carried out.          It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne's muscular dystrophy, prolongs recovery from the neuromuscular blocking agent vecuronium, and causes a worsening of myasthenia gravis. It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission.          About 70% of an administered dose of verapamil is excreted as metabolites in the urine. Verapamil is not removed by hemodialysis. Until further data are available, verapamil should be administered cautiously to patients with impaired renal function. These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage (see  OVERDOSAGE ).                  In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, CYP2C8, CYP2C9, and CYP2C18. Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.           The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis. Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone. Limit the dose of simvastatin in patients on verapamil to 10 mg daily. Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.          In a few reported cases, co-administration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.          Grapefruit juice may increase plasma levels of verapamil.          Verapamil may increase blood alcohol concentrations and prolong its effects.          Controlled studies in small numbers of patients suggest that the concomitant use of CALAN and oral beta-adrenergic blocking agents may be beneficial in certain patients with chronic stable angina or hypertension, but available information is not sufficient to predict with confidence the effects of concurrent treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities. Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility. In one study involving 15 patients treated with high doses of propranolol (median dose: 480 mg/day; range: 160 to 1,280 mg/day) for severe angina, with preserved left ventricular function (ejection fraction greater than 35%), the hemodynamic effects of additional therapy with verapamil HCl were assessed using invasive methods. The addition of verapamil to high-dose beta-blockers induced modest negative inotropic and chronotropic effects that were not severe enough to limit short-term (48 hours) combination therapy in this study. These modest cardiodepressant effects persisted for greater than 6 but less than 30 hours after abrupt withdrawal of beta-blockers and were closely related to plasma levels of propranolol. The primary verapamil/beta-blocker interaction in this study appeared to be hemodynamic rather than electrophysiologic. In other studies, verapamil did not generally induce significant negative inotropic, chronotropic, or dromotropic effects in patients with preserved left ventricular function receiving low or moderate doses of propranolol (less than or equal to 320 mg/day); in some patients, however, combined therapy did produce such effects. Therefore, if combined therapy is used, close surveillance of clinical status should be carried out. Combined therapy should usually be avoided in patients with atrioventricular conduction abnormalities and those with depressed left ventricular function. Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil. A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil. A variable effect has been seen when verapamil and atenolol were given together.          Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted. However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity. In patients with hepatic cirrhosis, the influence of verapamil on digoxin kinetics is magnified. Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively. Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- or under-digitalization. Whenever over-digitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued. On discontinuation of CALAN use, the patient should be reassessed to avoid under-digitalization.          Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure. Patients receiving these combinations should be appropriately monitored. Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients. Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.                Until data on possible interactions between verapamil and disopyramide are obtained, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.          A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization. Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.          In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension. Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided. The electrophysiologic effects of quinidine and verapamil on AV conduction were studied in 8 patients. Verapamil significantly counteracted the effects of quinidine on AV conduction. There has been a report of increased quinidine levels during verapamil therapy.                 Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions. The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.          The interaction between cimetidine and chronically administered verapamil has not been studied. Variable results on clearance have been obtained in acute studies of healthy volunteers; clearance of verapamil was either reduced or unchanged.          Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy; lithium levels have been observed sometimes to increase, sometimes to decrease, and sometimes to be unchanged. Patients receiving both drugs must be monitored carefully.          Verapamil therapy may increase carbamazepine concentrations during combined therapy. This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.          Therapy with rifampin may markedly reduce oral verapamil bioavailability.          Phenobarbital therapy may increase verapamil clearance.          Verapamil therapy may increase serum levels of cyclosporine.          Verapamil may inhibit the clearance and increase the plasma levels of theophylline.          Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions. When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should each be titrated carefully to avoid excessive cardiovascular depression.          Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing). It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.          Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.           Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil. Monitor heart rate in patients receiving concomitant verapamil and clonidine.              An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential. There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35, and 120 mg/kg/day or approximately 1, 3.5, and 12 times, respectively, the maximum recommended human daily dose (480 mg/day or 9.6 mg/kg/day). Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate with or without metabolic activation. Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility. Effects on male fertility have not been determined.               Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity. In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams. This oral dose has also been shown to cause hypotension in rats. There are no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery.            It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention. Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor.          Verapamil is excreted in human milk. Because of the potential for adverse reactions in nursing infants from verapamil, nursing should be discontinued while verapamil is administered.          Safety and effectiveness in pediatric patients have not been established.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance. In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema. Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see  PRECAUTIONS, Drug interactions ). Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment. (Note interactions with digoxin under PRECAUTIONS )            Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels, which may result in dizziness or symptomatic hypotension. The incidence of hypotension observed in 4,954 patients enrolled in clinical trials was 2.5%. In hypertensive patients, decreases in blood pressure below normal are unusual. Tilt-table testing (60 degrees) was not able to induce orthostatic hypotension.          Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported. Such elevations have sometimes been transient and may disappear even with continued verapamil treatment. Several cases of hepatocellular injury related to verapamil have been proven by rechallenge; half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain), in addition to elevation of SGOT, SGPT, and alkaline phosphatase. Periodic monitoring of liver function in patients receiving verapamil is therefore prudent.          Some patients with paroxysmal and/or chronic atrial fibrillation or atrial flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis). Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated (see  CONTRAINDICATIONS ). Treatment is usually DC-cardioversion. Cardioversion has been used safely and effectively after oral CALAN.          The effect of verapamil on AV conduction and the SA node may cause asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms. PR-interval prolongation is correlated with verapamil plasma concentrations especially during the early titration phase of therapy. Higher degrees of AV block, however, were infrequently (0.8%) observed. Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil HCl and institution of appropriate therapy, depending on the clinical situation.          In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen. Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction. Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (greater than 20 mm Hg) pulmonary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients. Concomitant administration of quinidine (see  PRECAUTIONS, Drug interactions ) preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema). Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4%, and sinus arrest in 2%. It must be appreciated that this group of patients had a serious disease with a high mortality rate. Most adverse effects responded well to dose reduction, and only rarely did verapamil use have to be discontinued.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CALAN is a calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist) that exerts its pharmacologic effects by modulating the influx of ionic calcium across the cell membrane of the arterial smooth muscle as well as in conductile and contractile myocardial cells.             The precise mechanism of action of CALAN as an antianginal agent remains to be fully determined, but includes the following two mechanisms:   Relaxation and prevention of coronary artery spasm: CALAN dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced. This property increases myocardial oxygen delivery in patients with coronary artery spasm and is responsible for the effectiveness of CALAN in vasospastic (Prinzmetal's or variant) as well as unstable angina at rest. Whether this effect plays any role in classical effort angina is not clear, but studies of exercise tolerance have not shown an increase in the maximum exercise rate–pressure product, a widely accepted measure of oxygen utilization. This suggests that, in general, relief of spasm or dilation of coronary arteries is not an important factor in classical angina.  Reduction of oxygen utilization: CALAN regularly reduces the total peripheral resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles. This unloading of the heart reduces myocardial energy consumption and oxygen requirements and probably accounts for the effectiveness of CALAN in chronic stable effort angina.           Electrical activity through the AV node depends, to a significant degree, upon calcium influx through the slow channel. By decreasing the influx of calcium, CALAN prolongs the effective refractory period within the AV node and slows AV conduction in a rate-related manner. This property accounts for the ability of CALAN to slow the ventricular rate in patients with chronic atrial flutter or atrial fibrillation.  Normal sinus rhythm is usually not affected, but in patients with sick sinus syndrome, CALAN may interfere with sinus-node impulse generation and may induce sinus arrest or sinoatrial block. Atrioventricular block can occur in patients without preexisting conduction defects (see  WARNINGS ). CALAN decreases the frequency of episodes of paroxysmal supraventricular tachycardia. CALAN does not alter the normal atrial action potential or intraventricular conduction time, but in depressed atrial fibers it decreases amplitude, velocity of depolarization, and conduction velocity. CALAN may shorten the antegrade effective refractory period of the accessory bypass tract. Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil (see  WARNINGS ). CALAN has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis. It is not known whether this action is important at the doses used in man.          CALAN exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%). During isometric or dynamic exercise, CALAN does not alter systolic cardiac function in patients with normal ventricular function. CALAN does not alter total serum calcium levels. However, one report suggested that calcium levels above the normal range may alter the therapeutic effect of CALAN.            More than 90% of the orally administered dose of CALAN is absorbed. Because of rapid biotransformation of verapamil during its first pass through the portal circulation, bioavailability ranges from 20% to 35%. Peak plasma concentrations are reached between 1 and 2 hours after oral administration. Chronic oral administration of 120 mg of verapamil HCl every 6 hours resulted in plasma levels of verapamil ranging from 125 to 400 ng/ml, with higher values reported occasionally. A nonlinear correlation between the verapamil dose administered and verapamil plasma levels does exist. No relationship has been established between the plasma concentration of verapamil and a reduction in blood pressure. In early dose titration with verapamil, a relationship exists between verapamil plasma concentration and prolongation of the PR interval. However, during chronic administration this relationship may disappear. The mean elimination half-life in single-dose studies ranged from 2.8 to 7.4 hours. In these same studies, after repetitive dosing, the half-life increased to a range from 4.5 to 12.0 hours (after less than 10 consecutive doses given 6 hours apart). Half-life of verapamil may increase during titration. Aging may affect the pharmacokinetics of verapamil. Elimination half-life may be prolonged in the elderly. In healthy men, orally administered CALAN undergoes extensive metabolism in the liver. Twelve metabolites have been identified in plasma; all except norverapamil are present in trace amounts only. Norverapamil can reach steady-state plasma concentrations approximately equal to those of verapamil itself. The cardiovascular activity of norverapamil appears to be approximately 20% that of verapamil. Approximately 70% of an administered dose is excreted as metabolites in the urine and 16% or more in the feces within 5 days. About 3% to 4% is excreted in the urine as unchanged drug. Approximately 90% is bound to plasma proteins. In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours (see  PRECAUTIONS ); the volume of distribution is increased and plasma clearance reduced to about 30% of normal. Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function. After four weeks of oral dosing (120 mg q.i.d.), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.          CALAN reduces afterload and myocardial contractility. Improved left ventricular diastolic function in patients with Idiopathic Hypertrophic Subaortic Stenosis (IHSS) and those with coronary heart disease has also been observed with CALAN therapy. In most patients, including those with organic cardiac disease, the negative inotropic action of CALAN is countered by reduction of afterload, and cardiac index is usually not reduced. However, in patients with severe left ventricular dysfunction (eg, pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur (see  PRECAUTIONS, Drug interactions ).          CALAN does not induce bronchoconstriction and, hence, does not impair ventilatory function.</Section>
+</Text><Sentences>
+<Sentence id="7985" LabelDrug="CALAN" section="34070-3">
+<SentenceText>Verapamil HCl tablets are contraindicated in: Severe left ventricular dysfunction Hypotension (systolic pressure less than 90 mm Hg) or cardiogenic shock Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker) Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker) Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (eg, Wolff-Parkinson-White, Lown-Ganong-Levine syndromes) Patients with known hypersensitivity to verapamil hydrochloride</SentenceText>
+</Sentence>
+<Sentence id="7986" LabelDrug="CALAN" section="34068-7">
+<SentenceText>The dose of verapamil must be individualized by titration.</SentenceText>
+</Sentence>
+<Sentence id="7987" LabelDrug="CALAN" section="34068-7">
+<SentenceText>The usefulness and safety of dosages exceeding 480 mg/day have not been established; therefore, this daily dosage should not be exceeded.</SentenceText>
+</Sentence>
+<Sentence id="7988" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Since the half-life of verapamil increases during chronic dosing, maximum response may be delayed.</SentenceText>
+</Sentence>
+<Sentence id="7989" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Clinical trials show that the usual dose is 80 mg to 120 mg three times a day.</SentenceText>
+</Sentence>
+<Sentence id="7990" LabelDrug="CALAN" section="34068-7">
+<SentenceText>However, 40 mg three times a day may be warranted in patients who may have an increased response to verapamil (eg, decreased hepatic function, elderly, etc).</SentenceText>
+</Sentence>
+<Sentence id="7991" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Upward titration should be based on therapeutic efficacy and safety evaluated approximately eight hours after dosing.</SentenceText>
+</Sentence>
+<Sentence id="7992" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Dosage may be increased at daily (eg, patients with unstable angina) or weekly intervals until optimum clinical response is obtained.</SentenceText>
+</Sentence>
+<Sentence id="7993" LabelDrug="CALAN" section="34068-7">
+<SentenceText>The dosage in digitalized patients with chronic atrial fibrillation ranges from 240 to 320 mg/day in divided (t.i.d.</SentenceText>
+</Sentence>
+<Sentence id="7994" LabelDrug="CALAN" section="34068-7">
+<SentenceText>The dosage for prophylaxis of PSVT (non-digitalized patients) ranges from 240 to 480 mg/day in divided (t.i.d.</SentenceText>
+</Sentence>
+<Sentence id="7995" LabelDrug="CALAN" section="34068-7">
+<SentenceText>In general, maximum effects for any given dosage will be apparent during the first 48 hours of therapy.</SentenceText>
+</Sentence>
+<Sentence id="7996" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Dose should be individualized by titration.</SentenceText>
+</Sentence>
+<Sentence id="7997" LabelDrug="CALAN" section="34068-7">
+<SentenceText>The usual initial monotherapy dose in clinical trials was 80 mg three times a day (240 mg/day).</SentenceText>
+</Sentence>
+<Sentence id="7998" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Daily dosages of 360 and 480 mg have been used but there is no evidence that dosages beyond 360 mg provided added effect.</SentenceText>
+</Sentence>
+<Sentence id="7999" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Consideration should be given to beginning titration at 40 mg three times per day in patients who might respond to lower doses, such as the elderly or people of small stature.</SentenceText>
+</Sentence>
+<Sentence id="8000" LabelDrug="CALAN" section="34068-7">
+<SentenceText>The antihypertensive effects of CALAN are evident within the first week of therapy.</SentenceText>
+</Sentence>
+<Sentence id="8001" LabelDrug="CALAN" section="34068-7">
+<SentenceText>Upward titration should be based on therapeutic efficacy, assessed at the end of the dosing interval.</SentenceText>
+</Sentence>
+<Sentence id="8002" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, CYP2C8, CYP2C9, and CYP2C18.</SentenceText>
+</Sentence>
+<Sentence id="8003" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.</SentenceText>
+<Mention id="M9" type="Trigger" span="121 26" str="elevation of plasma levels"/>
+<Mention id="M2" type="Precipitant" span="88 12" str="erythromycin" code="63937KV33D"/>
+<Mention id="M7" type="Trigger" span="217 25" str="lowering of plasma levels"/>
+<Mention id="M4" type="Precipitant" span="167 18" str="inducers of CYP3A4" code="N0000185506"/>
+<Mention id="M6" type="Precipitant" span="60 20" str="inhibitors of CYP3A4" code="N0000182141"/>
+<Mention id="M8" type="Precipitant" span="193 8" str="rifampin" code="VJT6J7R4TR"/>
+<Mention id="M10" type="Precipitant" span="102 9" str="ritonavir" code="O3J8G9O825"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M9" precipitant="M2" effect="C54355"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M7" precipitant="M4" effect="C54356"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M9" precipitant="M6" effect="C54355"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M7" precipitant="M8" effect="C54356"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M9" precipitant="M10" effect="C54355"/>
+</Sentence>
+<Sentence id="8004" LabelDrug="CALAN" section="34073-7">
+<SentenceText>The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.</SentenceText>
+<Mention id="M17" type="Trigger" span="106 15" str="associated with"/>
+<Mention id="M18" type="Precipitant" span="11 55" str="HMG-CoA reductase inhibitors that are CYP3A4 substrates" code="NO MAP"/>
+<Mention id="M13" type="SpecificInteraction" span="142 14" str="rhabdomyolysis" code="240131006: Rhabdomyolysis (disorder)"/>
+<Mention id="M16" type="SpecificInteraction" span="133 23" str="myopathy/rhabdomyolysis" code="129565002: Disorder of skeletal AND/OR smooth muscle (disorder)"/>
+<Mention id="M19" type="SpecificInteraction" span="133 8" str="myopathy" code="129565002: Disorder of skeletal AND/OR smooth muscle (disorder)"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M17" precipitant="M18" effect="M13"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M17" precipitant="M18" effect="M16"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M17" precipitant="M18" effect="M19"/>
+</Sentence>
+<Sentence id="8005" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.</SentenceText>
+<Mention id="M20" type="Trigger" span="93 8;117 8" str="exposure | 2.5-fold"/>
+<Mention id="M21" type="Precipitant" span="69 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M20" precipitant="M21" effect="C54357"/>
+</Sentence>
+<Sentence id="8006" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Limit the dose of simvastatin in patients on verapamil to 10 mg daily.</SentenceText>
+<Mention id="M22" type="Trigger" span="0 14" str="Limit the dose"/>
+<Mention id="M23" type="Precipitant" span="18 11" str="simvastatin" code="AGG2FN16EV"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M22" precipitant="M23" effect="C54357"/>
+</Sentence>
+<Sentence id="8007" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Limit the daily dose of lovastatin to 40 mg. Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.</SentenceText>
+<Mention id="M27" type="Trigger" span="45 5;76 5" str="Lower | doses "/>
+<Mention id="M28" type="Trigger" span="163 33" str=" increase the plasma concentration"/>
+<Mention id="M26" type="Precipitant" span="116 12" str="atorvastatin" code="A0JWA85V8F"/>
+<Mention id="M29" type="Precipitant" span="91 17" str="CYP3A4 substrates" code="NO MAP"/>
+<Mention id="M30" type="Trigger" span="0 5;16 4" str="Limit | dose"/>
+<Mention id="M31" type="Precipitant" span="24 10" str="lovastatin" code="9LHU78OQFD"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M27;M28" precipitant="M26" effect="C54357"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M27;M28" precipitant="M29" effect="C54357"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M30" precipitant="M31" effect="C54357"/>
+</Sentence>
+<Sentence id="8008" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.</SentenceText>
+<Mention id="M35" type="Trigger" span="69 10" str="exacerbate"/>
+<Mention id="M39" type="Precipitant" span="50 10" str="ivabradine" code="3H48L0LPZQ"/>
+<Mention id="M34" type="SpecificInteraction" span="96 23" str="conduction disturbances" code="44808001: Conduction disorder of the heart (disorder)"/>
+<Mention id="M37" type="SpecificInteraction" span="80 11" str="bradycardia" code="48867003: Bradycardia (finding)"/>
+<Mention id="M38" type="Trigger" span="28 18" str="increases exposure"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M35" precipitant="M39" effect="M34"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M35" precipitant="M39" effect="M37"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M38" precipitant="M39" effect="C54357"/>
+</Sentence>
+<Sentence id="8009" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Avoid co-administration of verapamil and ivabradine.</SentenceText>
+<Mention id="M40" type="Trigger" span="0 5" str="Avoid"/>
+<Mention id="M41" type="Precipitant" span="41 10" str="ivabradine" code="3H48L0LPZQ"/>
+<Interaction id="I17" type="Unspecified interaction" trigger="M40" precipitant="M41"/>
+</Sentence>
+<Sentence id="8010" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In a few reported cases, co-administration of verapamil with aspirin has led to increased bleeding times greater than observed with aspirin alone.</SentenceText>
+<Mention id="M42" type="Trigger" span="73 6" str="led to"/>
+<Mention id="M43" type="Precipitant" span="61 7" str="aspirin" code="R16CO5Y76E"/>
+<Mention id="M44" type="SpecificInteraction" span="80 24" str="increased bleeding times" code="123789000: Blood coagulation disorder with prolonged bleeding time (disorder)"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M42" precipitant="M43" effect="M44"/>
+</Sentence>
+<Sentence id="8011" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Grapefruit juice may increase plasma levels of verapamil.</SentenceText>
+<Mention id="M45" type="Trigger" span="21 22" str="increase plasma levels"/>
+<Mention id="M46" type="Precipitant" span="0 16" str="Grapefruit juice" code="JQ9EK2H6BG"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M45" precipitant="M46" effect="C54355"/>
+</Sentence>
+<Sentence id="8012" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil may increase blood alcohol concentrations and prolong its effects.</SentenceText>
+<Mention id="M47" type="Trigger" span="56 19" str="prolong its effects"/>
+<Mention id="M51" type="Precipitant" span="29 7" str="alcohol" code="3K9958V90M"/>
+<Mention id="M49" type="SpecificInteraction" span="29 7;56 19" str="alcohol | prolong its effects" code="228357007: Persistent effect of alcohol (finding)"/>
+<Mention id="M50" type="Trigger" span="14 14;37 14" str="increase blood | concentrations"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M47" precipitant="M51" effect="M49"/>
+<Interaction id="I21" type="Pharmacokinetic interaction" trigger="M50" precipitant="M51" effect="C54357"/>
+</Sentence>
+<Sentence id="8013" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Controlled studies in small numbers of patients suggest that the concomitant use of CALAN and oral beta-adrenergic blocking agents may be beneficial in certain patients with chronic stable angina or hypertension, but available information is not sufficient to predict with confidence the effects of concurrent treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.</SentenceText>
+<Mention id="M52" type="Trigger" span="227 40" str="information is not sufficient to predict"/>
+<Mention id="M53" type="Precipitant" span="94 36" str="oral beta-adrenergic blocking agents" code="N0000175556"/>
+<Interaction id="I22" type="Unspecified interaction" trigger="M52" precipitant="M53"/>
+</Sentence>
+<Sentence id="8014" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility.</SentenceText>
+<Mention id="M60" type="Trigger" span="78 8;96 7" str="additive | effects"/>
+<Mention id="M61" type="Precipitant" span="25 24" str="beta-adrenergic blockers" code="N0000175556"/>
+<Mention id="M56" type="SpecificInteraction" span="78 28;119 27" str="additive negative effects on | atrioventricular conduction" code="NO MAP"/>
+<Mention id="M59" type="SpecificInteraction" span="78 39" str="additive negative effects on heart rate" code="361135004: Abnormal cardiac rate (finding)"/>
+<Mention id="M62" type="SpecificInteraction" span="78 28;154 21" str="additive negative effects on | cardiac contractility" code="85898001: Cardiomyopathy (disorder)"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M60" precipitant="M61" effect="M56"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M60" precipitant="M61" effect="M59"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M60" precipitant="M61" effect="M62"/>
+</Sentence>
+<Sentence id="8015" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In one study involving 15 patients treated with high doses of propranolol (median dose: 480 mg/day; range: 160 to 1,280 mg/day) for severe angina, with preserved left ventricular function (ejection fraction greater than 35%), the hemodynamic effects of additional therapy with verapamil HCl were assessed using invasive methods.</SentenceText>
+</Sentence>
+<Sentence id="8016" LabelDrug="CALAN" section="34073-7">
+<SentenceText>The addition of verapamil to high-dose beta-blockers induced modest negative inotropic and chronotropic effects that were not severe enough to limit short-term (48 hours) combination therapy in this study.</SentenceText>
+<Mention id="M66" type="Trigger" span="53 7" str="induced"/>
+<Mention id="M67" type="Precipitant" span="29 23" str="high-dose beta-blockers" code="N0000175556"/>
+<Mention id="M65" type="SpecificInteraction" span="61 25;104 7" str="modest negative inotropic | effects" code="432439005: Negative inotropic effect on myocardium (finding)"/>
+<Mention id="M68" type="SpecificInteraction" span="61 15;91 20" str="modest negative | chronotropic effects" code="NO MAP"/>
+<Interaction id="I26" type="Pharmacodynamic interaction" trigger="M66" precipitant="M67" effect="M65"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M66" precipitant="M67" effect="M68"/>
+</Sentence>
+<Sentence id="8017" LabelDrug="CALAN" section="34073-7">
+<SentenceText>These modest cardiodepressant effects persisted for greater than 6 but less than 30 hours after abrupt withdrawal of beta-blockers and were closely related to plasma levels of propranolol.</SentenceText>
+<Mention id="M69" type="Trigger" span="30 17" str="effects persisted"/>
+<Mention id="M70" type="Precipitant" span="117 13" str="beta-blockers" code="N0000175556"/>
+<Mention id="M74" type="SpecificInteraction" span="6 31" str="modest cardiodepressant effects" code="111970001: Abnormal cardiovascular function (finding)"/>
+<Mention id="M72" type="Trigger" span="30 7;148 24" str="effects | related to plasma levels"/>
+<Mention id="M73" type="Precipitant" span="176 11" str="propranolol" code="9Y8NXQ24VQ"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M69" precipitant="M70" effect="M74"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M72" precipitant="M73" effect="M74"/>
+</Sentence>
+<Sentence id="8018" LabelDrug="CALAN" section="34073-7">
+<SentenceText>The primary verapamil/beta-blocker interaction in this study appeared to be hemodynamic rather than electrophysiologic.</SentenceText>
+<Mention id="M75" type="Trigger" span="35 11" str="interaction"/>
+<Mention id="M76" type="Precipitant" span="22 12" str="beta-blocker" code="N0000175556"/>
+<Mention id="M77" type="SpecificInteraction" span="35 11;76 11" str="interaction | hemodynamic" code="422773005: Hemodynamic instability (finding)"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M75" precipitant="M76" effect="M77"/>
+</Sentence>
+<Sentence id="8019" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In other studies, verapamil did not generally induce significant negative inotropic, chronotropic, or dromotropic effects in patients with preserved left ventricular function receiving low or moderate doses of propranolol (less than or equal to 320 mg/day); in some patients, however, combined therapy did produce such effects.</SentenceText>
+<Mention id="M84" type="Trigger" span="306 7;114 7" str="produce | effects"/>
+<Mention id="M85" type="Precipitant" span="210 11" str="propranolol" code="9Y8NXQ24VQ"/>
+<Mention id="M80" type="SpecificInteraction" span="65 18;114 7" str="negative inotropic | effects" code="432439005: Negative inotropic effect on myocardium (finding)"/>
+<Mention id="M83" type="SpecificInteraction" span="65 8;102 19" str="negative | dromotropic effects" code="NO MAP"/>
+<Mention id="M86" type="SpecificInteraction" span="65 8;85 12;114 7" str="negative | chronotropic | effects" code="NO MAP"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M84" precipitant="M85" effect="M80"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M84" precipitant="M85" effect="M83"/>
+<Interaction id="I33" type="Pharmacodynamic interaction" trigger="M84" precipitant="M85" effect="M86"/>
+</Sentence>
+<Sentence id="8020" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Therefore, if combined therapy is used, close surveillance of clinical status should be carried out.</SentenceText>
+</Sentence>
+<Sentence id="8021" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Combined therapy should usually be avoided in patients with atrioventricular conduction abnormalities and those with depressed left ventricular function.</SentenceText>
+</Sentence>
+<Sentence id="8022" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has been observed in a patient receiving concomitant timolol (a beta-adrenergic blocker) eyedrops and oral verapamil.</SentenceText>
+<Mention id="M99" type="Trigger" span="0 24" str="Asymptomatic bradycardia "/>
+<Mention id="M100" type="Trigger" span="47 26" str=" wandering atrial pacemaker"/>
+<Mention id="M93" type="Precipitant" span="138 23" str="beta-adrenergic blocker" code="N0000175556"/>
+<Mention id="M98" type="SpecificInteraction" span="0 24" str="Asymptomatic bradycardia" code="48867003: Bradycardia (finding)"/>
+<Mention id="M102" type="SpecificInteraction" span="47 26" str="wandering atrial pacemaker" code="195101003: Wandering atrial pacemaker (finding)"/>
+<Mention id="M101" type="Precipitant" span="127 7" str="timolol" code="817W3C6175"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M99;M100" precipitant="M93" effect="M98"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M99;M100" precipitant="M93" effect="M102"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M99;M100" precipitant="M101" effect="M98"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M99;M100" precipitant="M101" effect="M102"/>
+</Sentence>
+<Sentence id="8023" LabelDrug="CALAN" section="34073-7">
+<SentenceText>A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil.</SentenceText>
+<Mention id="M105" type="Trigger" span="2 8;41 9" str="decrease | clearance"/>
+<Mention id="M104" type="Precipitant" span="14 10" str="metoprolol" code="GEB06NHM23"/>
+<Mention id="M106" type="Precipitant" span="29 11" str="propranolol" code="9Y8NXQ24VQ"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M105" precipitant="M104" effect="C54357"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M105" precipitant="M106" effect="C54357"/>
+</Sentence>
+<Sentence id="8024" LabelDrug="CALAN" section="34073-7">
+<SentenceText>A variable effect has been seen when verapamil and atenolol were given together.</SentenceText>
+<Mention id="M107" type="Trigger" span="2 15" str="variable effect"/>
+<Mention id="M108" type="Precipitant" span="51 8" str="atenolol" code="50VV3VW0TI"/>
+<Interaction id="I40" type="Unspecified interaction" trigger="M107" precipitant="M108"/>
+</Sentence>
+<Sentence id="8025" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.</SentenceText>
+</Sentence>
+<Sentence id="8026" LabelDrug="CALAN" section="34073-7">
+<SentenceText>However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.</SentenceText>
+<Mention id="M109" type="Trigger" span="41 14;64 6" str="increase serum | levels "/>
+<Mention id="M110" type="Trigger" span="152 8" str=" toxicity"/>
+<Mention id="M111" type="Precipitant" span="142 9" str="digitalis" code="F1T8QT9U8B"/>
+<Interaction id="I41" type="Pharmacokinetic interaction" trigger="M109;M110" precipitant="M111" effect="C54357"/>
+</Sentence>
+<Sentence id="8027" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In patients with hepatic cirrhosis, the influence of verapamil on digoxin kinetics is magnified.</SentenceText>
+<Mention id="M112" type="Trigger" span="40 9;86 9" str="influence | magnified"/>
+<Mention id="M113" type="Precipitant" span="66 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I42" type="Unspecified interaction" trigger="M112" precipitant="M113"/>
+</Sentence>
+<Sentence id="8028" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively.</SentenceText>
+<Mention id="M114" type="Trigger" span="14 6;32 9" str="reduce | clearance"/>
+<Mention id="M115" type="Precipitant" span="70 9" str="digitoxin" code="E90NZP2L9U"/>
+<Interaction id="I43" type="Pharmacokinetic interaction" trigger="M114" precipitant="M115" effect="C54357"/>
+</Sentence>
+<Sentence id="8029" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Maintenance and digitalization doses should be reduced when verapamil is administered, and the patient should be reassessed to avoid over- or under-digitalization.</SentenceText>
+<Mention id="M116" type="Trigger" span="31 23" str="doses should be reduced"/>
+<Mention id="M117" type="Precipitant" span="16 14" str="digitalization" code="F1T8QT9U8B"/>
+<Interaction id="I44" type="Pharmacokinetic interaction" trigger="M116" precipitant="M117" effect="C54357"/>
+</Sentence>
+<Sentence id="8030" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Whenever over-digitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.</SentenceText>
+<Mention id="M118" type="Trigger" span="53 4;81 7" str="dose | reduced"/>
+<Mention id="M119" type="Precipitant" span="61 9" str="digitalis" code="F1T8QT9U8B"/>
+<Interaction id="I45" type="Pharmacokinetic interaction" trigger="M118" precipitant="M119" effect="C54357"/>
+</Sentence>
+<Sentence id="8031" LabelDrug="CALAN" section="34073-7">
+<SentenceText>On discontinuation of CALAN use, the patient should be reassessed to avoid under-digitalization.</SentenceText>
+<Mention id="M120" type="Trigger" span="3 15;55 10" str="discontinuation | reassessed"/>
+<Mention id="M121" type="Precipitant" span="81 14" str="digitalization" code="F1T8QT9U8B"/>
+<Interaction id="I46" type="Unspecified interaction" trigger="M120" precipitant="M121"/>
+</Sentence>
+<Sentence id="8032" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.</SentenceText>
+<Mention id="M134" type="Trigger" span="181 15" str="additive effect"/>
+<Mention id="M123" type="Precipitant" span="92 40" str="angiotensin-converting enzyme inhibitors" code="N0000175562"/>
+<Mention id="M136" type="SpecificInteraction" span="200 23" str="lowering blood pressure" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M126" type="Precipitant" span="145 13" str="beta-blockers" code="N0000175556"/>
+<Mention id="M129" type="Precipitant" span="134 9" str="diuretics" code="NO MAP"/>
+<Mention id="M132" type="Precipitant" span="42 28" str="oral antihypertensive agents" code="NO MAP"/>
+<Mention id="M135" type="Precipitant" span="78 12" str="vasodilators" code="N0000175940"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M134" precipitant="M123" effect="M136"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M134" precipitant="M126" effect="M136"/>
+<Interaction id="I49" type="Pharmacodynamic interaction" trigger="M134" precipitant="M129" effect="M136"/>
+<Interaction id="I50" type="Pharmacodynamic interaction" trigger="M134" precipitant="M132" effect="M136"/>
+<Interaction id="I51" type="Pharmacodynamic interaction" trigger="M134" precipitant="M135" effect="M136"/>
+</Sentence>
+<Sentence id="8033" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Patients receiving these combinations should be appropriately monitored.</SentenceText>
+</Sentence>
+<Sentence id="8034" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients.</SentenceText>
+<Mention id="M137" type="Trigger" span="86 9" str="result in "/>
+<Mention id="M138" type="Trigger" span="134 9" str=" excessive"/>
+<Mention id="M139" type="Precipitant" span="19 47" str="agents that attenuate alpha-adrenergic function" code="N0000000099"/>
+<Mention id="M140" type="SpecificInteraction" span="98 45" str="reduction in blood pressure that is excessive" code="45007003: Low blood pressure (disorder)"/>
+<Interaction id="I52" type="Pharmacodynamic interaction" trigger="M137;M138" precipitant="M139" effect="M140"/>
+</Sentence>
+<Sentence id="8035" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.</SentenceText>
+<Mention id="M141" type="Trigger" span="8 6" str="effect"/>
+<Mention id="M142" type="Precipitant" span="99 8" str="prazosin" code="XM03YJ541D"/>
+<Interaction id="I53" type="Unspecified interaction" trigger="M141" precipitant="M142"/>
+</Sentence>
+<Sentence id="8036" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Until data on possible interactions between verapamil and disopyramide are obtained, disopyramide should not be administered within 48 hours before or 24 hours after verapamil administration.</SentenceText>
+<Mention id="M143" type="Trigger" span="98 26" str="should not be administered"/>
+<Mention id="M144" type="Precipitant" span="58 12" str="disopyramide" code="GFO928U8MQ"/>
+<Interaction id="I54" type="Unspecified interaction" trigger="M143" precipitant="M144"/>
+</Sentence>
+<Sentence id="8037" LabelDrug="CALAN" section="34073-7">
+<SentenceText>A study in healthy volunteers showed that the concomitant administration of flecainide and verapamil may have additive effects on myocardial contractility, AV conduction, and repolarization.</SentenceText>
+<Mention id="M151" type="Trigger" span="110 16" str="additive effects"/>
+<Mention id="M152" type="Precipitant" span="76 10" str="flecainide" code="K94FTS1806"/>
+<Mention id="M147" type="SpecificInteraction" span="110 44" str="additive effects on myocardial contractility" code="85898001: Cardiomyopathy (disorder)"/>
+<Mention id="M150" type="SpecificInteraction" span="110 19;156 13" str="additive effects on | AV conduction" code="NO MAP"/>
+<Mention id="M153" type="SpecificInteraction" span="110 19;175 14" str="additive effects on | repolarization" code="NO MAP"/>
+<Interaction id="I55" type="Pharmacodynamic interaction" trigger="M151" precipitant="M152" effect="M147"/>
+<Interaction id="I56" type="Pharmacodynamic interaction" trigger="M151" precipitant="M152" effect="M150"/>
+<Interaction id="I57" type="Pharmacodynamic interaction" trigger="M151" precipitant="M152" effect="M153"/>
+</Sentence>
+<Sentence id="8038" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Concomitant therapy with flecainide and verapamil may result in additive negative inotropic effect and prolongation of atrioventricular conduction.</SentenceText>
+<Mention id="M157" type="Trigger" span="54 9" str="result in"/>
+<Mention id="M158" type="Precipitant" span="25 10" str="flecainide" code="K94FTS1806"/>
+<Mention id="M156" type="SpecificInteraction" span="64 34" str="additive negative inotropic effect" code="NO MAP"/>
+<Mention id="M159" type="SpecificInteraction" span="103 43" str="prolongation of atrioventricular conduction" code="233917008: Atrioventricular block (disorder)"/>
+<Interaction id="I58" type="Pharmacodynamic interaction" trigger="M157" precipitant="M158" effect="M156"/>
+<Interaction id="I59" type="Pharmacodynamic interaction" trigger="M157" precipitant="M158" effect="M159"/>
+</Sentence>
+<Sentence id="8039" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In a small number of patients with hypertrophic cardiomyopathy (IHSS), concomitant use of verapamil and quinidine resulted in significant hypotension.</SentenceText>
+<Mention id="M160" type="Trigger" span="114 11" str="resulted in"/>
+<Mention id="M161" type="Precipitant" span="104 9" str="quinidine" code="ITX08688JL"/>
+<Mention id="M162" type="SpecificInteraction" span="138 11" str="hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Interaction id="I60" type="Pharmacodynamic interaction" trigger="M160" precipitant="M161" effect="M162"/>
+</Sentence>
+<Sentence id="8040" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Until further data are obtained, combined therapy of verapamil and quinidine in patients with hypertrophic cardiomyopathy should probably be avoided.</SentenceText>
+<Mention id="M163" type="Trigger" span="122 6;138 10" str="should | be avoided"/>
+<Mention id="M164" type="Precipitant" span="67 9" str="quinidine" code="ITX08688JL"/>
+<Interaction id="I61" type="Unspecified interaction" trigger="M163" precipitant="M164"/>
+</Sentence>
+<Sentence id="8041" LabelDrug="CALAN" section="34073-7">
+<SentenceText>The electrophysiologic effects of quinidine and verapamil on AV conduction were studied in 8 patients.</SentenceText>
+</Sentence>
+<Sentence id="8042" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil significantly counteracted the effects of quinidine on AV conduction.</SentenceText>
+<Mention id="M165" type="Trigger" span="24 24" str="counteracted the effects"/>
+<Mention id="M166" type="Precipitant" span="52 9" str="quinidine" code="ITX08688JL"/>
+<Mention id="M167" type="SpecificInteraction" span="24 24;62 16" str="counteracted the effects | on AV conduction" code="NO MAP"/>
+<Interaction id="I62" type="Pharmacodynamic interaction" trigger="M165" precipitant="M166" effect="M167"/>
+</Sentence>
+<Sentence id="8043" LabelDrug="CALAN" section="34073-7">
+<SentenceText>There has been a report of increased quinidine levels during verapamil therapy.</SentenceText>
+<Mention id="M168" type="Trigger" span="27 9;47 6" str="increased | levels"/>
+<Mention id="M169" type="Precipitant" span="37 9" str="quinidine" code="ITX08688JL"/>
+<Interaction id="I63" type="Pharmacokinetic interaction" trigger="M168" precipitant="M169" effect="C54357"/>
+</Sentence>
+<Sentence id="8044" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.</SentenceText>
+</Sentence>
+<Sentence id="8045" LabelDrug="CALAN" section="34073-7">
+<SentenceText>The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.</SentenceText>
+</Sentence>
+<Sentence id="8046" LabelDrug="CALAN" section="34073-7">
+<SentenceText>The interaction between cimetidine and chronically administered verapamil has not been studied.</SentenceText>
+</Sentence>
+<Sentence id="8047" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Variable results on clearance have been obtained in acute studies of healthy volunteers; clearance of verapamil was either reduced or unchanged.</SentenceText>
+</Sentence>
+<Sentence id="8048" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Increased sensitivity to the effects of lithium (neurotoxicity) has been reported during concomitant verapamil-lithium therapy; lithium levels have been observed sometimes to increase, sometimes to decrease, and sometimes to be unchanged.</SentenceText>
+<Mention id="M172" type="SpecificInteraction" span="49 13" str="neurotoxicity" code="19466003: Neurotoxicity (disorder)"/>
+<Mention id="M176" type="Precipitant" span="40 7" str="lithium" code="9FN79X2M3F"/>
+<Mention id="M173" type="Trigger" span="0 21" str="Increased sensitivity "/>
+<Mention id="M174" type="Trigger" span="54 8" str=" toxicity "/>
+<Mention id="M175" type="Trigger" span="136 6;175 8" str=" levels | increase"/>
+<Interaction id="I64" type="Pharmacodynamic interaction" trigger="M172" precipitant="M176" effect="M172"/>
+<Interaction id="I65" type="Pharmacokinetic interaction" trigger="M173;M174;M175" precipitant="M176" effect="C54357"/>
+</Sentence>
+<Sentence id="8049" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Patients receiving both drugs must be monitored carefully.</SentenceText>
+</Sentence>
+<Sentence id="8050" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil therapy may increase carbamazepine concentrations during combined therapy.</SentenceText>
+<Mention id="M177" type="Trigger" span="22 8;45 14" str="increase | concentrations"/>
+<Mention id="M178" type="Precipitant" span="31 13" str="carbamazepine" code="33CM23913M"/>
+<Interaction id="I66" type="Pharmacokinetic interaction" trigger="M177" precipitant="M178" effect="C54357"/>
+</Sentence>
+<Sentence id="8051" LabelDrug="CALAN" section="34073-7">
+<SentenceText>This may produce carbamazepine side effects such as diplopia, headache, ataxia, or dizziness.</SentenceText>
+<Mention id="M191" type="Trigger" span="9 7" str="produce "/>
+<Mention id="M192" type="Trigger" span="31 12" str=" side effects"/>
+<Mention id="M193" type="Precipitant" span="17 13" str="carbamazepine" code="33CM23913M"/>
+<Mention id="M182" type="SpecificInteraction" span="83 9" str="dizziness" code="404640003: Dizziness (finding)"/>
+<Mention id="M186" type="SpecificInteraction" span="62 8" str="headache" code="25064002: Headache (finding)"/>
+<Mention id="M190" type="SpecificInteraction" span="72 6" str="ataxia" code="20262006: Ataxia (finding)"/>
+<Mention id="M194" type="SpecificInteraction" span="52 8" str="diplopia" code="24982008: Diplopia (disorder)"/>
+<Interaction id="I67" type="Pharmacodynamic interaction" trigger="M191;M192" precipitant="M193" effect="M182"/>
+<Interaction id="I68" type="Pharmacodynamic interaction" trigger="M191;M192" precipitant="M193" effect="M186"/>
+<Interaction id="I69" type="Pharmacodynamic interaction" trigger="M191;M192" precipitant="M193" effect="M190"/>
+<Interaction id="I70" type="Pharmacodynamic interaction" trigger="M191;M192" precipitant="M193" effect="M194"/>
+</Sentence>
+<Sentence id="8052" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Therapy with rifampin may markedly reduce oral verapamil bioavailability.</SentenceText>
+<Mention id="M195" type="Trigger" span="35 6;57 15" str="reduce | bioavailability"/>
+<Mention id="M196" type="Precipitant" span="13 8" str="rifampin" code="VJT6J7R4TR"/>
+<Interaction id="I71" type="Pharmacokinetic interaction" trigger="M195" precipitant="M196" effect="C54356"/>
+</Sentence>
+<Sentence id="8053" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Phenobarbital therapy may increase verapamil clearance.</SentenceText>
+<Mention id="M197" type="Trigger" span="26 8;45 9" str="increase | clearance"/>
+<Mention id="M198" type="Precipitant" span="0 13" str="Phenobarbital" code="YQE403BP4D"/>
+<Interaction id="I72" type="Pharmacokinetic interaction" trigger="M197" precipitant="M198" effect="C54356"/>
+</Sentence>
+<Sentence id="8054" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil therapy may increase serum levels of cyclosporine.</SentenceText>
+<Mention id="M199" type="Trigger" span="22 21" str="increase serum levels"/>
+<Mention id="M200" type="Precipitant" span="47 12" str="cyclosporine" code="83HN0GTJ6D"/>
+<Interaction id="I73" type="Pharmacokinetic interaction" trigger="M199" precipitant="M200" effect="C54357"/>
+</Sentence>
+<Sentence id="8055" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Verapamil may inhibit the clearance and increase the plasma levels of theophylline.</SentenceText>
+<Mention id="M201" type="Trigger" span="14 21" str="inhibit the clearance "/>
+<Mention id="M202" type="Trigger" span="40 26" str=" increase the plasma levels"/>
+<Mention id="M203" type="Precipitant" span="70 12" str="theophylline" code="C137DTR5RG"/>
+<Interaction id="I74" type="Pharmacokinetic interaction" trigger="M201;M202" precipitant="M203" effect="C54357"/>
+</Sentence>
+<Sentence id="8056" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions.</SentenceText>
+</Sentence>
+<Sentence id="8057" LabelDrug="CALAN" section="34073-7">
+<SentenceText>When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should each be titrated carefully to avoid excessive cardiovascular depression.</SentenceText>
+<Mention id="M204" type="Trigger" span="107 27" str="titrated carefully to avoid"/>
+<Mention id="M205" type="Precipitant" span="25 22" str="inhalation anesthetics" code="NO MAP"/>
+<Mention id="M206" type="SpecificInteraction" span="135 35" str="excessive cardiovascular depression" code="43650005: Decreased cardiac function (finding)"/>
+<Interaction id="I75" type="Pharmacodynamic interaction" trigger="M204" precipitant="M205" effect="M206"/>
+</Sentence>
+<Sentence id="8058" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Clinical data and animal studies suggest that verapamil may potentiate the activity of neuromuscular blocking agents (curare-like and depolarizing).</SentenceText>
+<Mention id="M207" type="Trigger" span="60 10" str="potentiate"/>
+<Mention id="M208" type="Precipitant" span="87 29" str="neuromuscular blocking agents" code="N0000175731"/>
+<Mention id="M209" type="SpecificInteraction" span="60 56" str="potentiate the activity of neuromuscular blocking agents" code="NO MAP"/>
+<Interaction id="I76" type="Pharmacodynamic interaction" trigger="M207" precipitant="M208" effect="M209"/>
+</Sentence>
+<Sentence id="8059" LabelDrug="CALAN" section="34073-7">
+<SentenceText>It may be necessary to decrease the dose of verapamil and/or the dose of the neuromuscular blocking agent when the drugs are used concomitantly.</SentenceText>
+<Mention id="M212" type="Trigger" span="23 17;54 15" str="decrease the dose | and/or the dose"/>
+<Mention id="M213" type="Precipitant" span="77 28" str="neuromuscular blocking agent" code="N0000175731"/>
+<Interaction id="I77" type="Pharmacokinetic interaction" trigger="M212" precipitant="M213" effect="C54355"/>
+<Interaction id="I78" type="Pharmacokinetic interaction" trigger="M212" precipitant="M213" effect="C54357"/>
+</Sentence>
+<Sentence id="8060" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.</SentenceText>
+<Mention id="M226" type="Trigger" span="0 11" str="Hypotension "/>
+<Mention id="M227" type="Trigger" span="16 16" str=" bradyarrhythmias"/>
+<Mention id="M220" type="Precipitant" span="103 32" str="antibiotic in the ketolide class" code="N0000175492"/>
+<Mention id="M229" type="SpecificInteraction" span="0 11" str="Hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M225" type="SpecificInteraction" span="16 16" str="bradyarrhythmias" code="421869004: Bradyarrhythmia (disorder)"/>
+<Mention id="M228" type="Precipitant" span="85 13" str="telithromycin" code="KI8H7H19WL"/>
+<Interaction id="I79" type="Pharmacodynamic interaction" trigger="M226;M227" precipitant="M220" effect="M229"/>
+<Interaction id="I80" type="Pharmacodynamic interaction" trigger="M226;M227" precipitant="M220" effect="M225"/>
+<Interaction id="I81" type="Pharmacodynamic interaction" trigger="M226;M227" precipitant="M228" effect="M225"/>
+<Interaction id="I82" type="Pharmacodynamic interaction" trigger="M226;M227" precipitant="M228" effect="M229"/>
+</Sentence>
+<Sentence id="8061" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.</SentenceText>
+<Mention id="M230" type="Trigger" span="92 16" str="association with"/>
+<Mention id="M231" type="Precipitant" span="120 9" str="clonidine" code="MN3L5RMN02"/>
+<Mention id="M232" type="SpecificInteraction" span="0 17" str="Sinus bradycardia" code="49710005: Sinus bradycardia (disorder)"/>
+<Interaction id="I83" type="Pharmacodynamic interaction" trigger="M230" precipitant="M231" effect="M232"/>
+</Sentence>
+<Sentence id="8062" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Monitor heart rate in patients receiving concomitant verapamil and clonidine.</SentenceText>
+<Mention id="M233" type="Trigger" span="0 7" str="Monitor"/>
+<Mention id="M234" type="Precipitant" span="67 9" str="clonidine" code="MN3L5RMN02"/>
+<Mention id="M235" type="SpecificInteraction" span="8 10" str="heart rate" code="361135004: Abnormal cardiac rate (finding)"/>
+<Interaction id="I84" type="Pharmacodynamic interaction" trigger="M233" precipitant="M234" effect="M235"/>
+</Sentence>
+<Sentence id="8063" LabelDrug="CALAN" section="34073-7">
+<SentenceText>In a study of 25 healthy volunteers with co-administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively.</SentenceText>
+<Mention id="M236" type="Trigger" span="110 4;128 9" str="Cmax | increased"/>
+<Mention id="M239" type="Precipitant" span="77 9" str="sirolimus" code="W36ZG6FT64"/>
+<Mention id="M238" type="Trigger" span="119 3;128 9" str="AUC | increased"/>
+<Interaction id="I85" type="Pharmacokinetic interaction" trigger="M236" precipitant="M239" effect="C54610"/>
+<Interaction id="I86" type="Pharmacokinetic interaction" trigger="M238" precipitant="M239" effect="C54613"/>
+</Sentence>
+<Sentence id="8064" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Plasma S-(-) verapamil Cmax and AUC were both increased 50%.</SentenceText>
+</Sentence>
+<Sentence id="8065" LabelDrug="CALAN" section="34073-7">
+<SentenceText>Co-administration of verapamil with everolimus in 16 healthy volunteers increased the Cmax and AUC of everolimus by 130% and 250%, respectively.</SentenceText>
+<Mention id="M240" type="Trigger" span="72 18" str="increased the Cmax"/>
+<Mention id="M243" type="Precipitant" span="36 10" str="everolimus" code="9HW64Q8G6G"/>
+<Mention id="M242" type="Trigger" span="72 9;95 3" str="increased | AUC"/>
+<Interaction id="I87" type="Pharmacokinetic interaction" trigger="M240" precipitant="M243" effect="C54610"/>
+<Interaction id="I88" type="Pharmacokinetic interaction" trigger="M242" precipitant="M243" effect="C54613"/>
+</Sentence>
+<Sentence id="8066" LabelDrug="CALAN" section="34073-7">
+<SentenceText>With concomitant use of mTOR inhibitors (e.g., sirolimus, temsirolimus, and everolimus) and verapamil, consider appropriate dose reductions of both medications.</SentenceText>
+<Mention id="M258" type="Trigger" span="124 35" str="dose reductions of both medications"/>
+<Mention id="M247" type="Precipitant" span="76 10" str="everolimus" code="9HW64Q8G6G"/>
+<Mention id="M251" type="Precipitant" span="24 15" str="mTOR inhibitors" code="N0000175624"/>
+<Mention id="M255" type="Precipitant" span="47 9" str="sirolimus" code="W36ZG6FT64"/>
+<Mention id="M259" type="Precipitant" span="58 12" str="temsirolimus" code="624KN6GM2T"/>
+<Interaction id="I89" type="Pharmacokinetic interaction" trigger="M258" precipitant="M247" effect="C54355"/>
+<Interaction id="I90" type="Pharmacokinetic interaction" trigger="M258" precipitant="M247" effect="C54357"/>
+<Interaction id="I91" type="Pharmacokinetic interaction" trigger="M258" precipitant="M251" effect="C54355"/>
+<Interaction id="I92" type="Pharmacokinetic interaction" trigger="M258" precipitant="M251" effect="C54357"/>
+<Interaction id="I93" type="Pharmacokinetic interaction" trigger="M258" precipitant="M255" effect="C54355"/>
+<Interaction id="I94" type="Pharmacokinetic interaction" trigger="M258" precipitant="M255" effect="C54357"/>
+<Interaction id="I95" type="Pharmacokinetic interaction" trigger="M258" precipitant="M259" effect="C54355"/>
+<Interaction id="I96" type="Pharmacokinetic interaction" trigger="M258" precipitant="M259" effect="C54357"/>
+</Sentence>
+<Sentence id="8067" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Since verapamil is highly metabolized by the liver, it should be administered cautiously to patients with impaired hepatic function.</SentenceText>
+</Sentence>
+<Sentence id="8068" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Severe liver dysfunction prolongs the elimination half-life of verapamil to about 14 to 16 hours; hence, approximately 30% of the dose given to patients with normal liver function should be administered to these patients.</SentenceText>
+</Sentence>
+<Sentence id="8069" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Careful monitoring for abnormal prolongation of the PR interval or other signs of excessive pharmacologic effects should be carried out.</SentenceText>
+</Sentence>
+<Sentence id="8070" LabelDrug="CALAN" section="42232-9">
+<SentenceText>It has been reported that verapamil decreases neuromuscular transmission in patients with Duchenne's muscular dystrophy, prolongs recovery from the neuromuscular blocking agent vecuronium, and causes a worsening of myasthenia gravis.</SentenceText>
+<Mention id="M263" type="Trigger" span="121 17" str="prolongs recovery"/>
+<Mention id="M261" type="Precipitant" span="148 28" str="neuromuscular blocking agent" code="N0000175731"/>
+<Mention id="M265" type="SpecificInteraction" span="121 49" str="prolongs recovery from the neuromuscular blocking" code="NO MAP"/>
+<Mention id="M264" type="Precipitant" span="177 10" str="vecuronium" code="5.438723848E9"/>
+<Interaction id="I97" type="Pharmacodynamic interaction" trigger="M263" precipitant="M261" effect="M265"/>
+<Interaction id="I98" type="Pharmacodynamic interaction" trigger="M263" precipitant="M264" effect="M265"/>
+</Sentence>
+<Sentence id="8071" LabelDrug="CALAN" section="42232-9">
+<SentenceText>It may be necessary to decrease the dosage of verapamil when it is administered to patients with attenuated neuromuscular transmission.</SentenceText>
+</Sentence>
+<Sentence id="8072" LabelDrug="CALAN" section="42232-9">
+<SentenceText>About 70% of an administered dose of verapamil is excreted as metabolites in the urine.</SentenceText>
+</Sentence>
+<Sentence id="8073" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Verapamil is not removed by hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="8074" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Until further data are available, verapamil should be administered cautiously to patients with impaired renal function.</SentenceText>
+</Sentence>
+<Sentence id="8075" LabelDrug="CALAN" section="42232-9">
+<SentenceText>These patients should be carefully monitored for abnormal prolongation of the PR interval or other signs of overdosage.</SentenceText>
+</Sentence>
+<Sentence id="8076" LabelDrug="CALAN" section="42232-9">
+<SentenceText>An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.</SentenceText>
+</Sentence>
+<Sentence id="8077" LabelDrug="CALAN" section="42232-9">
+<SentenceText>There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35, and 120 mg/kg/day or approximately 1, 3.5, and 12 times, respectively, the maximum recommended human daily dose (480 mg/day or 9.6 mg/kg/day).</SentenceText>
+</Sentence>
+<Sentence id="8078" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate with or without metabolic activation.</SentenceText>
+</Sentence>
+<Sentence id="8079" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility.</SentenceText>
+</Sentence>
+<Sentence id="8080" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Effects on male fertility have not been determined.</SentenceText>
+</Sentence>
+<Sentence id="8081" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.</SentenceText>
+</Sentence>
+<Sentence id="8082" LabelDrug="CALAN" section="42232-9">
+<SentenceText>In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.</SentenceText>
+</Sentence>
+<Sentence id="8083" LabelDrug="CALAN" section="42232-9">
+<SentenceText>This oral dose has also been shown to cause hypotension in rats.</SentenceText>
+</Sentence>
+<Sentence id="8084" LabelDrug="CALAN" section="42232-9">
+<SentenceText>There are no adequate and well-controlled studies in pregnant women.</SentenceText>
+</Sentence>
+<Sentence id="8085" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.</SentenceText>
+</Sentence>
+<Sentence id="8086" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery.</SentenceText>
+</Sentence>
+<Sentence id="8087" LabelDrug="CALAN" section="42232-9">
+<SentenceText>It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention.</SentenceText>
+</Sentence>
+<Sentence id="8088" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor.</SentenceText>
+</Sentence>
+<Sentence id="8089" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Because of the potential for adverse reactions in nursing infants from verapamil, nursing should be discontinued while verapamil is administered.</SentenceText>
+</Sentence>
+<Sentence id="8090" LabelDrug="CALAN" section="42232-9">
+<SentenceText>Safety and effectiveness in pediatric patients have not been established.</SentenceText>
+</Sentence>
+<Sentence id="8091" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.</SentenceText>
+</Sentence>
+<Sentence id="8092" LabelDrug="CALAN" section="34071-1">
+<SentenceText>In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema.</SentenceText>
+</Sentence>
+<Sentence id="8093" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker.</SentenceText>
+<Mention id="M266" type="Trigger" span="10 17" str="should be avoided"/>
+<Mention id="M267" type="Precipitant" span="252 23" str="beta-adrenergic blocker" code="N0000175556"/>
+<Interaction id="I99" type="Unspecified interaction" trigger="M266" precipitant="M267"/>
+</Sentence>
+<Sentence id="8094" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment.</SentenceText>
+</Sentence>
+<Sentence id="8095" LabelDrug="CALAN" section="34071-1">
+<SentenceText>(Note interactions with digoxin under PRECAUTIONS ) Occasionally, the pharmacologic action of verapamil may produce a decrease in blood pressure below normal levels, which may result in dizziness or symptomatic hypotension.</SentenceText>
+<Mention id="M268" type="Trigger" span="6 17" str="interactions with"/>
+<Mention id="M269" type="Precipitant" span="24 7" str="digoxin" code="73K4184T59"/>
+<Interaction id="I100" type="Unspecified interaction" trigger="M268" precipitant="M269"/>
+</Sentence>
+<Sentence id="8096" LabelDrug="CALAN" section="34071-1">
+<SentenceText>The incidence of hypotension observed in 4,954 patients enrolled in clinical trials was 2.5%.</SentenceText>
+</Sentence>
+<Sentence id="8097" LabelDrug="CALAN" section="34071-1">
+<SentenceText>In hypertensive patients, decreases in blood pressure below normal are unusual.</SentenceText>
+</Sentence>
+<Sentence id="8098" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Tilt-table testing (60 degrees) was not able to induce orthostatic hypotension.</SentenceText>
+</Sentence>
+<Sentence id="8099" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Elevations of transaminases with and without concomitant elevations in alkaline phosphatase and bilirubin have been reported.</SentenceText>
+</Sentence>
+<Sentence id="8100" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Such elevations have sometimes been transient and may disappear even with continued verapamil treatment.</SentenceText>
+</Sentence>
+<Sentence id="8101" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Several cases of hepatocellular injury related to verapamil have been proven by rechallenge; half of these had clinical symptoms (malaise, fever, and/or right upper quadrant pain), in addition to elevation of SGOT, SGPT, and alkaline phosphatase.</SentenceText>
+</Sentence>
+<Sentence id="8102" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Periodic monitoring of liver function in patients receiving verapamil is therefore prudent.</SentenceText>
+</Sentence>
+<Sentence id="8103" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Some patients with paroxysmal and/or chronic atrial fibrillation or atrial flutter and a coexisting accessory AV pathway have developed increased antegrade conduction across the accessory pathway bypassing the AV node, producing a very rapid ventricular response or ventricular fibrillation after receiving intravenous verapamil (or digitalis).</SentenceText>
+</Sentence>
+<Sentence id="8104" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Although a risk of this occurring with oral verapamil has not been established, such patients receiving oral verapamil may be at risk and its use in these patients is contraindicated.</SentenceText>
+</Sentence>
+<Sentence id="8105" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Cardioversion has been used safely and effectively after oral CALAN.</SentenceText>
+</Sentence>
+<Sentence id="8106" LabelDrug="CALAN" section="34071-1">
+<SentenceText>The effect of verapamil on AV conduction and the SA node may cause asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms.</SentenceText>
+</Sentence>
+<Sentence id="8107" LabelDrug="CALAN" section="34071-1">
+<SentenceText>PR-interval prolongation is correlated with verapamil plasma concentrations especially during the early titration phase of therapy.</SentenceText>
+</Sentence>
+<Sentence id="8108" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Higher degrees of AV block, however, were infrequently (0.8%) observed.</SentenceText>
+</Sentence>
+<Sentence id="8109" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil HCl and institution of appropriate therapy, depending on the clinical situation.</SentenceText>
+</Sentence>
+<Sentence id="8110" LabelDrug="CALAN" section="34071-1">
+<SentenceText>In 120 patients with hypertrophic cardiomyopathy (most of them refractory or intolerant to propranolol) who received therapy with verapamil at doses up to 720 mg/day, a variety of serious adverse effects were seen.</SentenceText>
+</Sentence>
+<Sentence id="8111" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Three patients died in pulmonary edema; all had severe left ventricular outflow obstruction and a past history of left ventricular dysfunction.</SentenceText>
+</Sentence>
+<Sentence id="8112" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Eight other patients had pulmonary edema and/or severe hypotension; abnormally high (greater than 20 mm Hg) pulmonary wedge pressure and a marked left ventricular outflow obstruction were present in most of these patients.</SentenceText>
+</Sentence>
+<Sentence id="8113" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Concomitant administration of quinidine preceded the severe hypotension in 3 of the 8 patients (2 of whom developed pulmonary edema).</SentenceText>
+<Mention id="M273" type="Trigger" span="40 8" str="preceded"/>
+<Mention id="M274" type="Precipitant" span="30 9" str="quinidine" code="ITX08688JL"/>
+<Mention id="M272" type="SpecificInteraction" span="53 18" str="severe hypotension" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M275" type="SpecificInteraction" span="116 15" str="pulmonary edema" code="19242006: Pulmonary edema (disorder)"/>
+<Interaction id="I101" type="Pharmacodynamic interaction" trigger="M273" precipitant="M274" effect="M272"/>
+<Interaction id="I102" type="Pharmacodynamic interaction" trigger="M273" precipitant="M274" effect="M275"/>
+</Sentence>
+<Sentence id="8114" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Sinus bradycardia occurred in 11% of the patients, second-degree AV block in 4%, and sinus arrest in 2%.</SentenceText>
+</Sentence>
+<Sentence id="8115" LabelDrug="CALAN" section="34071-1">
+<SentenceText>It must be appreciated that this group of patients had a serious disease with a high mortality rate.</SentenceText>
+</Sentence>
+<Sentence id="8116" LabelDrug="CALAN" section="34071-1">
+<SentenceText>Most adverse effects responded well to dose reduction, and only rarely did verapamil use have to be discontinued.</SentenceText>
+</Sentence>
+<Sentence id="8117" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN is a calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist) that exerts its pharmacologic effects by modulating the influx of ionic calcium across the cell membrane of the arterial smooth muscle as well as in conductile and contractile myocardial cells.</SentenceText>
+</Sentence>
+<Sentence id="8118" LabelDrug="CALAN" section="34090-1">
+<SentenceText>The precise mechanism of action of CALAN as an antianginal agent remains to be fully determined, but includes the following two mechanisms: Relaxation and prevention of coronary artery spasm: CALAN dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced.</SentenceText>
+</Sentence>
+<Sentence id="8119" LabelDrug="CALAN" section="34090-1">
+<SentenceText>This property increases myocardial oxygen delivery in patients with coronary artery spasm and is responsible for the effectiveness of CALAN in vasospastic (Prinzmetal's or variant) as well as unstable angina at rest.</SentenceText>
+</Sentence>
+<Sentence id="8120" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Whether this effect plays any role in classical effort angina is not clear, but studies of exercise tolerance have not shown an increase in the maximum exercise rate–pressure product, a widely accepted measure of oxygen utilization.</SentenceText>
+</Sentence>
+<Sentence id="8121" LabelDrug="CALAN" section="34090-1">
+<SentenceText>This suggests that, in general, relief of spasm or dilation of coronary arteries is not an important factor in classical angina.</SentenceText>
+</Sentence>
+<Sentence id="8122" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Reduction of oxygen utilization: CALAN regularly reduces the total peripheral resistance (afterload) against which the heart works both at rest and at a given level of exercise by dilating peripheral arterioles.</SentenceText>
+</Sentence>
+<Sentence id="8123" LabelDrug="CALAN" section="34090-1">
+<SentenceText>This unloading of the heart reduces myocardial energy consumption and oxygen requirements and probably accounts for the effectiveness of CALAN in chronic stable effort angina.</SentenceText>
+</Sentence>
+<Sentence id="8124" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Electrical activity through the AV node depends, to a significant degree, upon calcium influx through the slow channel.</SentenceText>
+</Sentence>
+<Sentence id="8125" LabelDrug="CALAN" section="34090-1">
+<SentenceText>By decreasing the influx of calcium, CALAN prolongs the effective refractory period within the AV node and slows AV conduction in a rate-related manner.</SentenceText>
+</Sentence>
+<Sentence id="8126" LabelDrug="CALAN" section="34090-1">
+<SentenceText>This property accounts for the ability of CALAN to slow the ventricular rate in patients with chronic atrial flutter or atrial fibrillation.</SentenceText>
+</Sentence>
+<Sentence id="8127" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Normal sinus rhythm is usually not affected, but in patients with sick sinus syndrome, CALAN may interfere with sinus-node impulse generation and may induce sinus arrest or sinoatrial block.</SentenceText>
+</Sentence>
+<Sentence id="8128" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Atrioventricular block can occur in patients without preexisting conduction defects.</SentenceText>
+</Sentence>
+<Sentence id="8129" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN decreases the frequency of episodes of paroxysmal supraventricular tachycardia.</SentenceText>
+</Sentence>
+<Sentence id="8130" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN does not alter the normal atrial action potential or intraventricular conduction time, but in depressed atrial fibers it decreases amplitude, velocity of depolarization, and conduction velocity.</SentenceText>
+</Sentence>
+<Sentence id="8131" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN may shorten the antegrade effective refractory period of the accessory bypass tract.</SentenceText>
+</Sentence>
+<Sentence id="8132" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil.</SentenceText>
+</Sentence>
+<Sentence id="8133" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.</SentenceText>
+</Sentence>
+<Sentence id="8134" LabelDrug="CALAN" section="34090-1">
+<SentenceText>It is not known whether this action is important at the doses used in man.</SentenceText>
+</Sentence>
+<Sentence id="8135" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/min) is uncommon (1.4%).</SentenceText>
+</Sentence>
+<Sentence id="8136" LabelDrug="CALAN" section="34090-1">
+<SentenceText>During isometric or dynamic exercise, CALAN does not alter systolic cardiac function in patients with normal ventricular function.</SentenceText>
+</Sentence>
+<Sentence id="8137" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN does not alter total serum calcium levels.</SentenceText>
+</Sentence>
+<Sentence id="8138" LabelDrug="CALAN" section="34090-1">
+<SentenceText>However, one report suggested that calcium levels above the normal range may alter the therapeutic effect of CALAN.</SentenceText>
+</Sentence>
+<Sentence id="8139" LabelDrug="CALAN" section="34090-1">
+<SentenceText>More than 90% of the orally administered dose of CALAN is absorbed.</SentenceText>
+</Sentence>
+<Sentence id="8140" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Because of rapid biotransformation of verapamil during its first pass through the portal circulation, bioavailability ranges from 20% to 35%.</SentenceText>
+</Sentence>
+<Sentence id="8141" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Peak plasma concentrations are reached between 1 and 2 hours after oral administration.</SentenceText>
+</Sentence>
+<Sentence id="8142" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Chronic oral administration of 120 mg of verapamil HCl every 6 hours resulted in plasma levels of verapamil ranging from 125 to 400 ng/ml, with higher values reported occasionally.</SentenceText>
+</Sentence>
+<Sentence id="8143" LabelDrug="CALAN" section="34090-1">
+<SentenceText>A nonlinear correlation between the verapamil dose administered and verapamil plasma levels does exist.</SentenceText>
+</Sentence>
+<Sentence id="8144" LabelDrug="CALAN" section="34090-1">
+<SentenceText>No relationship has been established between the plasma concentration of verapamil and a reduction in blood pressure.</SentenceText>
+</Sentence>
+<Sentence id="8145" LabelDrug="CALAN" section="34090-1">
+<SentenceText>In early dose titration with verapamil, a relationship exists between verapamil plasma concentration and prolongation of the PR interval.</SentenceText>
+</Sentence>
+<Sentence id="8146" LabelDrug="CALAN" section="34090-1">
+<SentenceText>However, during chronic administration this relationship may disappear.</SentenceText>
+</Sentence>
+<Sentence id="8147" LabelDrug="CALAN" section="34090-1">
+<SentenceText>The mean elimination half-life in single-dose studies ranged from 2.8 to 7.4 hours.</SentenceText>
+</Sentence>
+<Sentence id="8148" LabelDrug="CALAN" section="34090-1">
+<SentenceText>In these same studies, after repetitive dosing, the half-life increased to a range from 4.5 to 12.0 hours (after less than 10 consecutive doses given 6 hours apart).</SentenceText>
+</Sentence>
+<Sentence id="8149" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Half-life of verapamil may increase during titration.</SentenceText>
+</Sentence>
+<Sentence id="8150" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Aging may affect the pharmacokinetics of verapamil.</SentenceText>
+</Sentence>
+<Sentence id="8151" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Elimination half-life may be prolonged in the elderly.</SentenceText>
+</Sentence>
+<Sentence id="8152" LabelDrug="CALAN" section="34090-1">
+<SentenceText>In healthy men, orally administered CALAN undergoes extensive metabolism in the liver.</SentenceText>
+</Sentence>
+<Sentence id="8153" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Twelve metabolites have been identified in plasma; all except norverapamil are present in trace amounts only.</SentenceText>
+</Sentence>
+<Sentence id="8154" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Norverapamil can reach steady-state plasma concentrations approximately equal to those of verapamil itself.</SentenceText>
+</Sentence>
+<Sentence id="8155" LabelDrug="CALAN" section="34090-1">
+<SentenceText>The cardiovascular activity of norverapamil appears to be approximately 20% that of verapamil.</SentenceText>
+</Sentence>
+<Sentence id="8156" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Approximately 70% of an administered dose is excreted as metabolites in the urine and 16% or more in the feces within 5 days.</SentenceText>
+</Sentence>
+<Sentence id="8157" LabelDrug="CALAN" section="34090-1">
+<SentenceText>About 3% to 4% is excreted in the urine as unchanged drug.</SentenceText>
+</Sentence>
+<Sentence id="8158" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Approximately 90% is bound to plasma proteins.</SentenceText>
+</Sentence>
+<Sentence id="8159" LabelDrug="CALAN" section="34090-1">
+<SentenceText>In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours ; the volume of distribution is increased and plasma clearance reduced to about 30% of normal.</SentenceText>
+</Sentence>
+<Sentence id="8160" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Verapamil clearance values suggest that patients with liver dysfunction may attain therapeutic verapamil plasma concentrations with one third of the oral daily dose required for patients with normal liver function.</SentenceText>
+</Sentence>
+<Sentence id="8161" LabelDrug="CALAN" section="34090-1">
+<SentenceText>After four weeks of oral dosing (120 mg q.i.d.</SentenceText>
+</Sentence>
+<Sentence id="8162" LabelDrug="CALAN" section="34090-1">
+<SentenceText>), verapamil and norverapamil levels were noted in the cerebrospinal fluid with estimated partition coefficient of 0.06 for verapamil and 0.04 for norverapamil.</SentenceText>
+</Sentence>
+<Sentence id="8163" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN reduces afterload and myocardial contractility.</SentenceText>
+</Sentence>
+<Sentence id="8164" LabelDrug="CALAN" section="34090-1">
+<SentenceText>Improved left ventricular diastolic function in patients with Idiopathic Hypertrophic Subaortic Stenosis (IHSS) and those with coronary heart disease has also been observed with CALAN therapy.</SentenceText>
+</Sentence>
+<Sentence id="8165" LabelDrug="CALAN" section="34090-1">
+<SentenceText>In most patients, including those with organic cardiac disease, the negative inotropic action of CALAN is countered by reduction of afterload, and cardiac index is usually not reduced.</SentenceText>
+</Sentence>
+<Sentence id="8166" LabelDrug="CALAN" section="34090-1">
+<SentenceText>However, in patients with severe left ventricular dysfunction (eg, pulmonary wedge pressure above 20 mm Hg or ejection fraction less than 30%), or in patients taking beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur.</SentenceText>
+<Mention id="M279" type="Trigger" span="231 16;53 8" str="deterioration of | function"/>
+<Mention id="M277" type="Precipitant" span="166 31" str="beta-adrenergic blocking agents" code="N0000175556"/>
+<Mention id="M281" type="SpecificInteraction" span="231 37" str="deterioration of ventricular function" code="43650005: Decreased cardiac function (finding)"/>
+<Mention id="M280" type="Precipitant" span="207 22" str="cardiodepressant drugs" code="NO MAP"/>
+<Interaction id="I103" type="Pharmacodynamic interaction" trigger="M279" precipitant="M277" effect="M281"/>
+<Interaction id="I104" type="Pharmacodynamic interaction" trigger="M279" precipitant="M280" effect="M281"/>
+</Sentence>
+<Sentence id="8167" LabelDrug="CALAN" section="34090-1">
+<SentenceText>CALAN does not induce bronchoconstriction and, hence, does not impair ventilatory function.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="erythromycin" precipitantCode="63937KV33D" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inducers of cyp3a4" precipitantCode="N0000185506" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp3a4" precipitantCode="N0000182141" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ritonavir" precipitantCode="O3J8G9O825" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="hmg-coa reductase inhibitors that are cyp3a4 substrates" precipitantCode="NO MAP" effect=" 240131006: Rhabdomyolysis (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="hmg-coa reductase inhibitors that are cyp3a4 substrates" precipitantCode="NO MAP" effect="129565002: Disorder of skeletal AND/OR smooth muscle (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="hmg-coa reductase inhibitors that are cyp3a4 substrates" precipitantCode="NO MAP" effect="240131006: Rhabdomyolysis (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="simvastatin" precipitantCode="AGG2FN16EV" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="atorvastatin" precipitantCode="A0JWA85V8F" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp3a4 substrates" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="lovastatin" precipitantCode="9LHU78OQFD" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ivabradine" precipitantCode="3H48L0LPZQ" effect="44808001: Conduction disorder of the heart (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ivabradine" precipitantCode="3H48L0LPZQ" effect="48867003: Bradycardia (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ivabradine" precipitantCode="3H48L0LPZQ" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ivabradine" precipitantCode="3H48L0LPZQ"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="aspirin" precipitantCode="R16CO5Y76E" effect="123789000: Blood coagulation disorder with prolonged bleeding time (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="grapefruit juice" precipitantCode="JQ9EK2H6BG" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="3K9958V90M" effect="228357007: Persistent effect of alcohol (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="alcohol" precipitantCode="3K9958V90M" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="oral beta-adrenergic blocking agents" precipitantCode="N0000175556"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-adrenergic blockers" precipitantCode="N0000175556" effect="361135004: Abnormal cardiac rate (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-adrenergic blockers" precipitantCode="N0000175556" effect="85898001: Cardiomyopathy (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-adrenergic blockers" precipitantCode="N0000175556" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="high-dose beta-blockers" precipitantCode="N0000175556" effect="432439005: Negative inotropic effect on myocardium (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="high-dose beta-blockers" precipitantCode="N0000175556" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blockers" precipitantCode="N0000175556" effect="111970001: Abnormal cardiovascular function (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blockers" precipitantCode="N0000175556" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="111970001: Abnormal cardiovascular function (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="432439005: Negative inotropic effect on myocardium (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="propranolol" precipitantCode="9Y8NXQ24VQ" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-blocker" precipitantCode="N0000175556" effect="422773005: Hemodynamic instability (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-adrenergic blocker" precipitantCode="N0000175556" effect="195101003: Wandering atrial pacemaker (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-adrenergic blocker" precipitantCode="N0000175556" effect="48867003: Bradycardia (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="beta-adrenergic blocker" precipitantCode="N0000175556"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="timolol" precipitantCode="817W3C6175" effect="195101003: Wandering atrial pacemaker (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="timolol" precipitantCode="817W3C6175" effect="48867003: Bradycardia (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="metoprolol" precipitantCode="GEB06NHM23" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="atenolol" precipitantCode="50VV3VW0TI"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digitalis" precipitantCode="F1T8QT9U8B" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="digoxin" precipitantCode="73K4184T59"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digitoxin" precipitantCode="E90NZP2L9U" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digitalization" precipitantCode="F1T8QT9U8B" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="digitalization" precipitantCode="F1T8QT9U8B"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="angiotensin-converting enzyme inhibitors" precipitantCode="N0000175562" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="diuretics" precipitantCode="NO MAP" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="oral antihypertensive agents" precipitantCode="NO MAP" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="vasodilators" precipitantCode="N0000175940" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="agents that attenuate alpha-adrenergic function" precipitantCode="N0000000099" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="prazosin" precipitantCode="XM03YJ541D"/>
+<LabelInteraction type="Unspecified interaction" precipitant="disopyramide" precipitantCode="GFO928U8MQ"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="flecainide" precipitantCode="K94FTS1806" effect="233917008: Atrioventricular block (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="flecainide" precipitantCode="K94FTS1806" effect="85898001: Cardiomyopathy (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="flecainide" precipitantCode="K94FTS1806" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="quinidine" precipitantCode="ITX08688JL" effect="19242006: Pulmonary edema (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="quinidine" precipitantCode="ITX08688JL" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="quinidine" precipitantCode="ITX08688JL" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="quinidine" precipitantCode="ITX08688JL" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="quinidine" precipitantCode="ITX08688JL"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="lithium" precipitantCode="9FN79X2M3F" effect="19466003: Neurotoxicity (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="lithium" precipitantCode="9FN79X2M3F" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="20262006: Ataxia (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="24982008: Diplopia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="25064002: Headache (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="404640003: Dizziness (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenobarbital" precipitantCode="YQE403BP4D" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyclosporine" precipitantCode="83HN0GTJ6D" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="theophylline" precipitantCode="C137DTR5RG" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="inhalation anesthetics" precipitantCode="NO MAP" effect="43650005: Decreased cardiac function (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuromuscular blocking agents" precipitantCode="N0000175731" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuromuscular blocking agent" precipitantCode="N0000175731" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="neuromuscular blocking agent" precipitantCode="N0000175731" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="neuromuscular blocking agent" precipitantCode="N0000175731" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antibiotic in the ketolide class" precipitantCode="N0000175492" effect="421869004: Bradyarrhythmia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antibiotic in the ketolide class" precipitantCode="N0000175492" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="telithromycin" precipitantCode="KI8H7H19WL" effect="421869004: Bradyarrhythmia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="telithromycin" precipitantCode="KI8H7H19WL" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clonidine" precipitantCode="MN3L5RMN02" effect="361135004: Abnormal cardiac rate (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clonidine" precipitantCode="MN3L5RMN02" effect="49710005: Sinus bradycardia (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sirolimus" precipitantCode="W36ZG6FT64" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sirolimus" precipitantCode="W36ZG6FT64" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sirolimus" precipitantCode="W36ZG6FT64" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="sirolimus" precipitantCode="W36ZG6FT64" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="everolimus" precipitantCode="9HW64Q8G6G" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="everolimus" precipitantCode="9HW64Q8G6G" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="everolimus" precipitantCode="9HW64Q8G6G" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="everolimus" precipitantCode="9HW64Q8G6G" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="mtor inhibitors" precipitantCode="N0000175624" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="mtor inhibitors" precipitantCode="N0000175624" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="temsirolimus" precipitantCode="624KN6GM2T" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="temsirolimus" precipitantCode="624KN6GM2T" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="vecuronium" precipitantCode="5.438723848E9" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="beta-adrenergic blocking agents" precipitantCode="N0000175556" effect="43650005: Decreased cardiac function (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cardiodepressant drugs" precipitantCode="NO MAP" effect="43650005: Decreased cardiac function (finding)"/>
+
+</LabelInteractions></Label>

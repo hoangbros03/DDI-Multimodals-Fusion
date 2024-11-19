@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Pradaxa" setid="ba74e3cd-b06f-4145-b284-5fd6b84ff3c9">
+<Text><Section name="BOXED WARNING SECTION" id="34066-1">
+Discontinuing PRADAXA places patients at an increased risk of thrombotic events. If anticoagulation with PRADAXA must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.6) and Warnings and Precautions (5.1)].          WARNING: DISCONTINUING PRADAXA IN PATIENTS  WITHOUT ADEQUATE CONTINUOUS ANTICOAGULATION INCREASES RISK OF STROKE  See full prescribing information for complete boxed warning.  Discontinuing PRADAXA places patients at an increased risk of thrombotic events. If anticoagulation with PRADAXA must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant. (2.6, 5.1)</Section>
+<Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+PRADAXA is contraindicated in patients with:  Active pathological bleeding  [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)] . History of a serious hypersensitivity reaction to PRADAXA (e.g., anaphylactic reaction or anaphylactic shock)  [see Adverse Reactions (6.1)] .  Mechanical prosthetic heart valve [see Warnings and Precautions (5.3)]          Active pathological bleeding (4)  History of serious hypersensitivity reaction to PRADAXA (4)  Mechanical prosthetic heart valve (4)</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+For patients with CrCl &amp;gt;30 mL/min: 150 mg orally, twice daily (2.1)  For patients with CrCl 15-30 mL/min: 75 mg orally, twice daily (2.1)  Assess renal function during therapy as clinically indicated and adjust therapy accordingly (2.2)  Instruct patients not to chew, break, or open capsules (2.3)  Review recommendations for converting to or from other oral or parenteral anticoagulants (2.4, 2.5)  Temporarily discontinue PRADAXA before invasive or surgical procedures when possible, then restart promptly (2.6)          For patients with creatinine clearance (CrCl) &amp;gt;30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily. For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily  [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)] . Dosing recommendations for patients with a CrCl &amp;lt;15 mL/min or on dialysis cannot be provided.          Assess renal function prior to initiation of treatment with PRADAXA. Periodically assess renal function as clinically indicated (i.e., more frequently in clinical situations that may be associated with a decline in renal function) and adjust therapy accordingly. Discontinue PRADAXA in patients who develop acute renal failure while on PRADAXA and consider alternative anticoagulant therapy. In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment. Consider reducing the dose of PRADAXA to 75 mg twice daily  [see Drug Interactions (7) and Clinical Pharmacology (12.3)] . Generally, the extent of anticoagulation does not need to be assessed. When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activity in patients on PRADAXA  [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)] .           Instruct patients to swallow the capsules whole. PRADAXA should be taken with a full glass of water. Breaking, chewing, or emptying the contents of the capsule can result in increased exposure  [see Clinical Pharmacology (12.3)] .  If a dose of PRADAXA is not taken at the scheduled time, the dose should be taken as soon as possible on the same day; the missed dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose. The dose of PRADAXA should not be doubled to make up for a missed dose.          When converting patients from warfarin therapy to PRADAXA, discontinue warfarin and start PRADAXA when the INR is below 2.0. When converting from PRADAXA to warfarin, adjust the starting time of warfarin based on creatinine clearance as follows:  For CrCl ≥50 mL/min, start warfarin 3 days before discontinuing PRADAXA. For CrCl 30-50 mL/min, start warfarin 2 days before discontinuing PRADAXA. For CrCl 15-30 mL/min, start warfarin 1 day before discontinuing PRADAXA. For CrCl &amp;lt;15 mL/min, no recommendations can be made.  Because PRADAXA can increase INR, the INR will better reflect warfarin’s effect only after PRADAXA has been stopped for at least 2 days  [see Clinical Pharmacology (12.2)] .          For patients currently receiving a parenteral anticoagulant, start PRADAXA 0 to 2 hours before the time that the next dose of the parenteral drug was to have been administered or at the time of discontinuation of a continuously administered parenteral drug (e.g., intravenous unfractionated heparin). For patients currently taking PRADAXA, wait 12 hours (CrCl ≥30 mL/min) or 24 hours (CrCl &amp;lt;30 mL/min) after the last dose of PRADAXA before initiating treatment with a parenteral anticoagulant  [see Clinical Pharmacology (12.3)] .          If possible, discontinue PRADAXA 1 to 2 days (CrCl ≥50 mL/min) or 3 to 5 days (CrCl &amp;lt;50 mL/min) before invasive or surgical procedures because of the increased risk of bleeding. Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required  [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)] . If surgery cannot be delayed, there is an increased risk of bleeding  [see Warnings and Precautions (5.2)] . This risk of bleeding should be weighed against the urgency of intervention  [see Warnings and Precautions (5.1)] .</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+The concomitant use of PRADAXA with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided  [see Clinical Pharmacology (12.3)] . P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran  [see Clinical Pharmacology (12.3)] . Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone. In patients with moderate renal impairment (CrCl 30-50 mL/min), consider reducing the dose of PRADAXA to 75 mg twice daily when administered concomitantly with the P-gp inhibitor dronedarone or systemic ketoconazole. The use of P-gp inhibitors (verapamil, amiodarone, quinidine, and clarithromycin) does not require a dose adjustment of PRADAXA. These results should not be extrapolated to other P-gp inhibitors  [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)] . The concomitant use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided  [see Warnings and Precautions (5.4), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)] .       P-gp inducers rifampin: Avoid coadministration with PRADAXA (5.4)  P-gp inhibitors dronedarone and systemic ketoconazole in patients with moderate renal impairment (CrCl 30-50 mL/min): Consider reducing PRADAXA dose to 75 mg twice daily (7)  P-gp inhibitors in patients with severe renal impairment (CrCl &amp;lt;30 mL/min): PRADAXA use not recommended (7)</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Risk of bleeding: PRADAXA can cause serious and, sometimes, fatal bleeding. Promptly evaluate signs and symptoms of blood loss. (5.2)  Bioprosthetic heart valves: PRADAXA use not recommended (5.3)  P-gp inducers and inhibitors: Effects on dabigatran exposure (5.4)            Discontinuing PRADAXA in absence of adequate alternative anticoagulation increases the risk of thrombotic events. If PRADAXA must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.6)].            PRADAXA increases the risk of bleeding andcan cause significant and, sometimes, fatal bleeding. Promptly evaluateany signs or symptoms of blood loss (e.g., a drop in hemoglobin and/orhematocrit or hypotension). Discontinue PRADAXA in patients withactive pathological bleeding  [see Dosage and Administration (2.2)] . Risk factors for bleeding include the concomitant useof other drugs that increase the risk of bleeding (e.g., anti-plateletagents, heparin, fibrinolytic therapy, and chronic use of NSAIDs). PRADAXA’s anticoagulant activity and half-life are increased in patientswith renal impairment  [see Clinical Pharmacology (12.2)] . A specific reversal agent for dabigatranis not available. Hemodialysis can remove dabigatran; however theclinical experience supporting the use of hemodialysis as a treatmentfor bleeding is limited [see Overdosage (10)]. Activated prothrombin complex concentrates(aPCCs, e.g., FEIBA), or recombinant Factor VIIa, or concentratesof coagulation factors II, IX or X may be considered but their usehas not been evaluated in clinical trials. Protamine sulfate and vitaminK are not expected to affect the anticoagulant activity of dabigatran.Consider administration of platelet concentrates in cases where thrombocytopeniais present or long-acting antiplatelet drugs have been used.           The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of PRADAXA twice a day. RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm. These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment. Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves [see Contraindications (4)].    The use of PRADAXA for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.           The concomitant use of PRADAXA with P-gp inducers (e.g. rifampin) reduces exposure to dabigatran and should generally be avoided  [see Clinical Pharmacology (12.3)] . P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran  [see Clinical Pharmacology (12.3)] . Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone. Consider reducing the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min). Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min)  [see Drug Interactions (7) and Use in Specific Populations (8.6)] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Dabigatran and its acyl glucuronides are competitive, direct thrombin inhibitors. Because thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of a thrombus. Both free and clot-bound thrombin, and thrombin-induced platelet aggregation are inhibited by the active moieties.          At recommended therapeutic doses, dabigatran etexilate prolongs the coagulation markers such as aPTT, ECT, and TT. INR is relatively insensitive to the exposure to dabigatran and cannot be interpreted the same way as used for warfarin monitoring. The aPTT test provides an approximation of PRADAXA’s anticoagulant effect. The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 1. The curves represent mean levels without confidence intervals; variations should be expected when measuring aPTT. While advice cannot be provided on the level of recovery of aPTT needed in any particular clinical setting, the curves can be used to estimate the time to get to a particular level of recovery, even when the time since the last dose of PRADAXA is not precisely known. In the RE-LY trial, the median (10th to 90th percentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.  Figure 1 Average Time Course for Effects of Dabigatran on aPTT, Following Approved PRADAXA Dosing Regimens in Patients with Various Degrees of Renal Impairment*     *Simulations based on PK data from a study in subjects with renal impairment and PK/aPTT relationships derived from the RE-LY study; aPTT prolongation in RE-LY was measured centrally in citrate plasma using PTT Reagent Roche Diagnostics GmbH, Mannheim, Germany. There may be quantitative differences between various established methods for aPTT assessment. The degree of anticoagulant activity can also be assessed by the ecarin clotting time (ECT). This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT). In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.           Cardiac Electrophysiology    No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.       Figure 1 Average Time Course for Effects of Dabigatran on aPTT, Following Approved PRADAXA Dosing Regimens in Patients with Various Degrees of Renal Impairment*             Dabigatran etexilate mesylate is absorbed as the dabigatran etexilate ester. The ester is then hydrolyzed, forming dabigatran, the active moiety. Dabigatran is metabolized to four different acyl glucuronides and both the glucuronides and dabigatran have similar pharmacological activity. Pharmacokinetics described here refer to the sum of dabigatran and its glucuronides. Dabigatran displays dose-proportional pharmacokinetics in healthy subjects and patients in the range of doses from 10 to 400 mg.           Absorption    The absolute bioavailability of dabigatran following oral administration of dabigatran etexilate is approximately 3 to 7%. Dabigatran etexilate is a substrate of the efflux transporter P-gp. After oral administration of dabigatran etexilate in healthy volunteers, Cmax occurs at 1 hour post-administration in the fasted state. Coadministration of PRADAXA with a high-fat meal delays the time to Cmax by approximately 2 hours but has no effect on the bioavailability of dabigatran; PRADAXA may be administered with or without food. The oral bioavailability of dabigatran etexilate increases by 75% when the pellets are taken without the capsule shell compared to the intact capsule formulation. PRADAXA capsules should therefore not be broken, chewed, or opened before administration.             Distribution    Dabigatran is approximately 35% bound to human plasma proteins. The red blood cell to plasma partitioning of dabigatran measured as total radioactivity is less than 0.3. The volume of distribution of dabigatran is 50 to 70 L. Dabigatran pharmacokinetics are dose proportional after single doses of 10 to 400 mg. Given twice daily, dabigatran’s accumulation factor is approximately two.             Elimination    Dabigatran is eliminated primarily in the urine. Renal clearance of dabigatran is 80% of total clearance after intravenous administration. After oral administration of radiolabeled dabigatran, 7% of radioactivity is recovered in urine and 86% in feces. The half-life of dabigatran in healthy subjects is 12 to 17 hours.             Metabolism    After oral administration, dabigatran etexilate is converted to dabigatran. The cleavage of the dabigatran etexilate by esterase-catalyzed hydrolysis to the active principal dabigatran is the predominant metabolic reaction. Dabigatran is not a substrate, inhibitor, or inducer of CYP450 enzymes. Dabigatran is subject to conjugation forming pharmacologically active acyl glucuronides. Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each accounts for less than 10% of total dabigatran in plasma.             Renal Impairment    An open, parallel-group single-center study compared dabigatran pharmacokinetics in healthy subjects and patients with mild to moderate renal impairment receiving a single dose of PRADAXA 150 mg. Exposure to dabigatran increases with severity of renal function impairment (Table 3). Similar findings were observed in the RE-LY trial.  Table 3 Impact of Renal Impairment on Dabigatran Pharmacokinetics           +Patients with severe renal impairment were not studied in RE-LY. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling  [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)] .       Renal Function     CrCl (mL/min)     Increase in AUC     Increase in Cmax      t1/2 (h)       Normal   ≥ 80 1x 1x 13     Mild   50-80 1.5x 1.1x 15     Moderate   30-50 3.2x 1.7x 18     Severe+    15-30 6.3x 2.1x 27                 Hepatic Impairment    Administration of PRADAXA in patients with moderate hepatic impairment (Child-Pugh B) showed a large inter-subject variability, but no evidence of a consistent change in exposure or pharmacodynamics.             Drug Interactions      Impact of Other Drugs on Dabigatran             P-gp Inducers    Rifampin: Rifampin 600 mg once daily for 7 days followed by a single dose of dabigatran decreased its AUC and Cmax by 66% and 67%, respectively. By Day 7 after cessation of rifampin treatment, dabigatran exposure was close to normal  [see Warnings and Precautions (5.4) and Drug Interactions (7)] .           P-gp Inhibitors  In studies with the P-gp inhibitors ketoconazole, amiodarone, verapamil, and quinidine, the time to peak, terminal half-life, and mean residence time of dabigatran were not affected. Any observed changes in Cmax and AUC are described below.   Dronedarone : Simultaneous administration of dabigatran etexilate and dronedarone (administered once or twice daily) increases exposure to dabigatran by 70 to 140% compared to dabigatran alone. The increase in exposure is only 30 to 60% higher compared to dabigatran alone when dronedarone is administered 2 hours after dabigatran etexilate.   Ketoconazole : Systemic ketoconazole increased dabigatran AUC and Cmax values by 138% and 135%, respectively, after a single dose of 400 mg, and 153%, and 149%, respectively, after multiple daily doses of 400 mg.   Verapamil : When dabigatran etexilate was coadministered with oral verapamil, the Cmax and AUC of dabigatran were increased. The extent of increase depends on the formulation of verapamil and timing of administration. If verapamil is present in the gut when dabigatran is taken, it will increase exposure to dabigatran with the greatest increase observed when a single dose of immediate-release verapamil is given one hour prior to dabigatran (AUC increased by a factor of 2.4). If verapamil is given 2 hours after dabigatran, the increase in AUC is negligible. In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received verapamil.   Amiodarone : When dabigatran etexilate was coadministered with a single 600 mg oral dose of amiodarone, the dabigatran AUC and Cmax increased by 58% and 50%, respectively. The increase in exposure was mitigated by a 65% increase in the renal clearance of dabigatran in the presence of amiodarone. The increase in renal clearance may persist after amiodarone is discontinued because of amiodarone’s long half-life. In the population pharmacokinetics study from RE-LY, no important changes in dabigatran trough levels were observed in patients who received amiodarone.   Quinidine : Quinidine was given as 200 mg dose every 2 hours up to a total dose of 1000 mg. Dabigatran etexilate was given over 3 consecutive days, the last evening dose on Day 3 with or without quinidine pre-dosing. Concomitant quinidine administration increased dabigatran’s AUC and Cmax by 53% and 56%, respectively.   Clarithromycin: Coadministered clarithromycin had no impact on the exposure to dabigatran.           Other Drugs    Clopidogrel: When dabigatran etexilate was given concomitantly with a loading dose of 300 mg or 600 mg clopidogrel, the dabigatran AUC and Cmax increased by approximately 30% and 40%, respectively. The concomitant administration of dabigatran etexilate and clopidogrel resulted in no further prolongation of capillary bleeding times compared to clopidogrel monotherapy. When comparing combined treatment and the respective mono-treatments, the coagulation measures for dabigatran’s effect (aPTT, ECT, and TT) remained unchanged, and inhibition of platelet aggregation (IPA), a measurement of clopidogrel’s effect, remained unchanged.   Enoxaparin: Enoxaparin 40 mg given subcutaneously for 3 days with the last dose given 24 hours before a single dose of PRADAXA had no impact on the exposure to dabigatran or the coagulation measures aPTT, ECT, or TT.   Diclofenac, Ranitidine, and Digoxin: None of these drugs alters exposure to dabigatran. In RE-LY, dabigatran plasma samples were also collected. The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.          Impact of Dabigatran on Other Drugs   In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.</Section>
+</Text><Sentences>
+<Sentence id="7137" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>(A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTSPremature discontinuation of any oral anticoagulant, including PRADAXA, increases the risk of thrombotic events.</SentenceText>
+</Sentence>
+<Sentence id="7138" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>If anticoagulation with PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant.</SentenceText>
+</Sentence>
+<Sentence id="7139" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>(B) SPINAL/EPIDURAL HEMATOMAEpidural or spinal hematomas may occur in patients treated with PRADAXA who are receiving neuraxial anesthesia or undergoing spinal puncture.</SentenceText>
+<Mention id="M11" type="Trigger" span="4 24" str="SPINAL/EPIDURAL HEMATOMA "/>
+<Mention id="M12" type="Trigger" span="28 8;47 9" str=" Epidural | hematomas "/>
+<Mention id="M13" type="Trigger" span="40 16" str=" spinal hematomas"/>
+<Mention id="M14" type="Precipitant" span="118 20" str="neuraxial anesthesia" code="NO MAP"/>
+<Mention id="M5" type="SpecificInteraction" span="28 8;47 9" str="Epidural | hematomas" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M10" type="SpecificInteraction" span="4 24" str="SPINAL/EPIDURAL HEMATOMA" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M15" type="SpecificInteraction" span="40 16" str="spinal hematomas" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M11;M12;M13" precipitant="M14" effect="M5"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M11;M12;M13" precipitant="M14" effect="M10"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M11;M12;M13" precipitant="M14" effect="M15"/>
+</Sentence>
+<Sentence id="7140" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>These hematomas may result in long-term or permanent paralysis.</SentenceText>
+</Sentence>
+<Sentence id="7141" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>Consider these risks when scheduling patients for spinal procedures.</SentenceText>
+</Sentence>
+<Sentence id="7142" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>Factors that can increase the risk of developing epidural or spinal hematomas in these patients include: use of indwelling epidural catheters • concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants • a history of traumatic or repeated epidural or spinal punctures • a history of spinal deformity or spinal surgery • optimal timing between the administration of PRADAXA and neuraxial procedures is not known.</SentenceText>
+<Mention id="M43" type="Trigger" span="17 17" str="increase the risk"/>
+<Mention id="M20" type="Precipitant" span="282 14" str="anticoagulants" code="N0000175980"/>
+<Mention id="M45" type="SpecificInteraction" span="49 8;68 9" str="epidural | hematomas" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M42" type="SpecificInteraction" span="61 16" str="spinal hematomas" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Mention id="M26" type="Precipitant" span="169 28" str="drugs that affect hemostasis" code="NO MAP"/>
+<Mention id="M32" type="Precipitant" span="207 37" str="non-steroidal anti-inflammatory drugs" code="N0000175722"/>
+<Mention id="M38" type="Precipitant" span="246 6" str="NSAIDs" code="N0000175722"/>
+<Mention id="M44" type="Precipitant" span="255 19" str="platelet inhibitors" code="N0000175578"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M43" precipitant="M20" effect="M45"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M43" precipitant="M20" effect="M42"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M43" precipitant="M26" effect="M45"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M43" precipitant="M26" effect="M42"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M43" precipitant="M32" effect="M45"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M43" precipitant="M32" effect="M42"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M43" precipitant="M38" effect="M42"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M43" precipitant="M38" effect="M45"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M43" precipitant="M44" effect="M42"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M43" precipitant="M44" effect="M45"/>
+</Sentence>
+<Sentence id="7143" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>Monitor patients frequently for signs and symptoms of neurological impairment.</SentenceText>
+</Sentence>
+<Sentence id="7144" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>If neurological compromise is noted, urgent treatment is necessary.</SentenceText>
+</Sentence>
+<Sentence id="7145" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated.</SentenceText>
+</Sentence>
+<Sentence id="7146" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>WARNING: (A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTS, and (B) SPINAL/EPIDURAL HEMATOMA See full prescribing information for complete boxed warning (A) PREMATURE DISCONTINUATION OF PRADAXA INCREASES THE RISK OF THROMBOTIC EVENTS: Premature discontinuation of any oral anticoagulant, including PRADAXA, increases the risk of thrombotic events.</SentenceText>
+</Sentence>
+<Sentence id="7147" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>To reduce this risk, consider coverage with another anticoagulant if PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy (2.4, 2.5, 2.6, 5.1).</SentenceText>
+</Sentence>
+<Sentence id="7148" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>(B) SPINAL/EPIDURAL HEMATOMA: Epidural or spinal hematomas may occur in patients treated with PRADAXA who are receiving neuraxial anesthesia or undergoing spinal puncture.</SentenceText>
+<Mention id="M56" type="Trigger" span="4 24" str="SPINAL/EPIDURAL HEMATOMA "/>
+<Mention id="M57" type="Trigger" span="30 8;49 9" str=" Epidural | hematomas "/>
+<Mention id="M58" type="Trigger" span="42 16" str=" spinal hematomas"/>
+<Mention id="M59" type="Precipitant" span="120 20" str="neuraxial anesthesia" code="NO MAP"/>
+<Mention id="M50" type="SpecificInteraction" span="30 8;49 9" str="Epidural | hematomas" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M55" type="SpecificInteraction" span="4 24" str="SPINAL/EPIDURAL HEMATOMA" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M60" type="SpecificInteraction" span="42 16" str="spinal hematomas" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M56;M57;M58" precipitant="M59" effect="M50"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M56;M57;M58" precipitant="M59" effect="M55"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M56;M57;M58" precipitant="M59" effect="M60"/>
+</Sentence>
+<Sentence id="7149" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>These hematomas may result in long-term or permanent paralysis (5.3).</SentenceText>
+</Sentence>
+<Sentence id="7150" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>Monitor patients frequently for signs and symptoms of neurological impairment and if observed, treat urgently.</SentenceText>
+</Sentence>
+<Sentence id="7151" LabelDrug="Pradaxa" section="34066-1">
+<SentenceText>Consider the benefits and risks before neuraxial intervention in patients who are or who need to be anticoagulated (5.3).</SentenceText>
+</Sentence>
+<Sentence id="7152" LabelDrug="Pradaxa" section="34070-3">
+<SentenceText>PRADAXA is contraindicated in patients with: Active pathological bleeding.</SentenceText>
+</Sentence>
+<Sentence id="7153" LabelDrug="Pradaxa" section="34070-3">
+<SentenceText>History of a serious hypersensitivity reaction to PRADAXA (e.g., anaphylactic reaction or anaphylactic shock).</SentenceText>
+</Sentence>
+<Sentence id="7154" LabelDrug="Pradaxa" section="34070-3">
+<SentenceText>Mechanical prosthetic heart valve.</SentenceText>
+</Sentence>
+<Sentence id="7155" LabelDrug="Pradaxa" section="34070-3">
+<SentenceText>Active pathological bleeding (4) History of serious hypersensitivity reaction to PRADAXA (4) Mechanical prosthetic heart valve (4)</SentenceText>
+</Sentence>
+<Sentence id="7156" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Non-valvular Atrial Fibrillation: For patients with CrCl &gt;30 mL/min: 150 mg orally, twice daily (2.1) For patients with CrCl 15-30 mL/min: 75 mg orally, twice daily (2.1) Treatment of DVT and PE: For patients with CrCl &gt;30 mL/min: 150 mg orally, twice daily after 5-10 days of parenteral anticoagulation (2.1) Reduction in the Risk of Recurrence of DVT and PE: For patients with CrCl &gt;30 mL/min: 150 mg orally, twice daily after previous treatment (2.1) Prophylaxis of DVT and PE Following Hip Replacement Surgery: For patients with CrCl &gt;30 mL/min: 110 mg orally first day, then 220 mg once daily (2.1) Review recommendations for converting to or from other oral or parenteral anticoagulants (2.4, 2.5) Temporarily discontinue PRADAXA before invasive or surgical procedures when possible, then restart promptly (2.6) Indication Dosage Reduction in Risk of Stroke and Systemic Embolism in Non-valvular AF CrCl &gt;30 mL/min: 150 mg twice daily CrCl 15 to 30 mL/min: 75 mg twice daily CrCl &lt;15 mL/min or on dialysis: Dosing recommendations cannot be provided CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: Reduce dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or systemic ketoconazole.</SentenceText>
+</Sentence>
+<Sentence id="7157" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>CrCl &lt;30 mL/min with concomitant use of P-gp inhibitors: Avoid co-administration Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE CrCl &gt;30 mL/min: 150 mg twice daily CrCl ≤30 mL/min or on dialysis: Dosing recommendations cannot be provided CrCl &lt;50 mL/min with concomitant use of P-gp inhibitors: Avoid co-administration Prophylaxis of DVT and PE Following Hip Replacement Surgery CrCl &gt;30 mL/min: 110 mg for first day, then 220 mg once daily CrCl ≤30 mL/min or on dialysis: Dosing recommendations cannot be provided CrCl &lt;50 mL/min with concomitant use of P-gp inhibitors: Avoid co-administration Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation For patients with creatinine clearance (CrCl) &gt;30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily.</SentenceText>
+</Sentence>
+<Sentence id="7158" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>For patients with severe renal impairment (CrCl 15-30 mL/min), the recommended dose of PRADAXA is 75 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="7159" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Dosing recommendations for patients with a CrCl &lt;15 mL/min or on dialysis cannot be provided.</SentenceText>
+</Sentence>
+<Sentence id="7160" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Treatment of Deep Venous Thrombosis and Pulmonary Embolism For patients with CrCl &gt;30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily, after 5-10 days of parenteral anticoagulation.</SentenceText>
+</Sentence>
+<Sentence id="7161" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Dosing recommendations for patients with a CrCl ≤30 mL/min or on dialysis cannot be provided.</SentenceText>
+</Sentence>
+<Sentence id="7162" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism For patients with CrCl &gt;30 mL/min, the recommended dose of PRADAXA is 150 mg taken orally, twice daily after previous treatment.</SentenceText>
+</Sentence>
+<Sentence id="7163" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery For patients with CrCl &gt;30 mL/min, the recommended dose of PRADAXA is 110 mg taken orally 1-4 hours after surgery and after hemostasis has been achieved, then 220 mg taken once daily for 28-35 days.</SentenceText>
+</Sentence>
+<Sentence id="7164" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>If PRADAXA is not started on the day of surgery, after hemostasis has been achieved initiate treatment with 220 mg once daily.</SentenceText>
+</Sentence>
+<Sentence id="7165" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Assess renal function prior to initiation of treatment with PRADAXA.</SentenceText>
+</Sentence>
+<Sentence id="7166" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Periodically assess renal function as clinically indicated (i.e., more frequently in clinical situations that may be associated with a decline in renal function) and adjust therapy accordingly.</SentenceText>
+</Sentence>
+<Sentence id="7167" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Discontinue PRADAXA in patients who develop acute renal failure while on PRADAXA and consider alternative anticoagulant therapy.</SentenceText>
+</Sentence>
+<Sentence id="7168" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Generally, the extent of anticoagulation does not need to be assessed.</SentenceText>
+</Sentence>
+<Sentence id="7169" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activity in patients on PRADAXA.</SentenceText>
+</Sentence>
+<Sentence id="7170" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.</SentenceText>
+<Mention id="M65" type="Trigger" span="244 7;263 60" str="produce | exposure similar to that observed in severe renal impairment"/>
+<Mention id="M62" type="Precipitant" span="188 11" str="dronedarone" code="JQZ1L091Y2"/>
+<Mention id="M64" type="Precipitant" span="173 14" str="P-gp inhibitor" code="N0000185503"/>
+<Mention id="M66" type="Precipitant" span="203 21" str="systemic ketoconazole" code="R9400W927I"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M65" precipitant="M62" effect="C54355"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M65" precipitant="M64" effect="C54355"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M65" precipitant="M66" effect="C54355"/>
+</Sentence>
+<Sentence id="7171" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Reduce the dose of PRADAXA to 75 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="7172" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Dosing recommendations for patients with CrCl ≤30 mL/min cannot be provided.</SentenceText>
+</Sentence>
+<Sentence id="7173" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Avoid use of concomitant P-gp inhibitors in patients with CrCl &lt;50 mL/min.</SentenceText>
+<Mention id="M67" type="Trigger" span="0 5" str="Avoid"/>
+<Mention id="M68" type="Precipitant" span="25 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I20" type="Unspecified interaction" trigger="M67" precipitant="M68"/>
+</Sentence>
+<Sentence id="7174" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.</SentenceText>
+</Sentence>
+<Sentence id="7175" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Instruct patients to swallow the capsules whole.</SentenceText>
+</Sentence>
+<Sentence id="7176" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>PRADAXA should be taken with a full glass of water.</SentenceText>
+</Sentence>
+<Sentence id="7177" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Breaking, chewing, or emptying the contents of the capsule can result in increased exposure.</SentenceText>
+</Sentence>
+<Sentence id="7178" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>If a dose of PRADAXA is not taken at the scheduled time, the dose should be taken as soon as possible on the same day; the missed dose should be skipped if it cannot be taken at least 6 hours before the next scheduled dose.</SentenceText>
+</Sentence>
+<Sentence id="7179" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>The dose of PRADAXA should not be doubled to make up for a missed dose.</SentenceText>
+</Sentence>
+<Sentence id="7180" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>When converting patients from warfarin therapy to PRADAXA, discontinue warfarin and start PRADAXA when the INR is below 2.0.</SentenceText>
+<Mention id="M69" type="Trigger" span="59 11;84 5;98 4" str="discontinue | start | when"/>
+<Mention id="M70" type="Precipitant" span="30 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M71" type="SpecificInteraction" span="107 3" str="INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M69" precipitant="M70" effect="M71"/>
+</Sentence>
+<Sentence id="7181" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>When converting from PRADAXA to warfarin, adjust the starting time of warfarin based on creatinine clearance as follows: For CrCl ≥50 mL/min, start warfarin 3 days before discontinuing PRADAXA.</SentenceText>
+<Mention id="M72" type="Trigger" span="42 24;79 8" str="adjust the starting time | based on"/>
+<Mention id="M73" type="Precipitant" span="32 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M74" type="SpecificInteraction" span="88 20" str="creatinine clearance" code="167183007: Creatinine clearance-glomerular filtration abnormal (finding)"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M72" precipitant="M73" effect="M74"/>
+</Sentence>
+<Sentence id="7182" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>For CrCl 30-50 mL/min, start warfarin 2 days before discontinuing PRADAXA.</SentenceText>
+<Mention id="M75" type="Trigger" span="23 5;45 20" str="start | before discontinuing"/>
+<Mention id="M76" type="Precipitant" span="29 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I23" type="Unspecified interaction" trigger="M75" precipitant="M76"/>
+</Sentence>
+<Sentence id="7183" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>For CrCl 15-30 mL/min, start warfarin 1 day before discontinuing PRADAXA.</SentenceText>
+<Mention id="M77" type="Trigger" span="23 5;44 20" str="start | before discontinuing"/>
+<Mention id="M78" type="Precipitant" span="29 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I24" type="Unspecified interaction" trigger="M77" precipitant="M78"/>
+</Sentence>
+<Sentence id="7184" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>For CrCl &lt;15 mL/min, no recommendations can be made.</SentenceText>
+</Sentence>
+<Sentence id="7185" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Because PRADAXA can increase INR, the INR will better reflect warfarin’s effect only after PRADAXA has been stopped for at least 2 days.</SentenceText>
+<Mention id="M79" type="Trigger" span="47 14;73 6" str="better reflect | effect"/>
+<Mention id="M80" type="Precipitant" span="62 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M81" type="SpecificInteraction" span="29 3" str="INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M79" precipitant="M80" effect="M81"/>
+</Sentence>
+<Sentence id="7186" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>For patients currently receiving a parenteral anticoagulant, start PRADAXA 0 to 2 hours before the time that the next dose of the parenteral drug was to have been administered or at the time of discontinuation of a continuously administered parenteral drug (e.g., intravenous unfractionated heparin).</SentenceText>
+<Mention id="M85" type="Trigger" span="61 5;88 6" str="start | before "/>
+<Mention id="M86" type="Trigger" span="194 15" str=" discontinuation"/>
+<Mention id="M84" type="Precipitant" span="264 34" str="intravenous unfractionated heparin" code="T2410KM04A"/>
+<Mention id="M87" type="Precipitant" span="35 24" str="parenteral anticoagulant" code="N0000175980"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M85;M86" precipitant="M84"/>
+<Interaction id="I27" type="Unspecified interaction" trigger="M85;M86" precipitant="M87"/>
+</Sentence>
+<Sentence id="7187" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>For patients currently taking PRADAXA, wait 12 hours (CrCl ≥30 mL/min) or 24 hours (CrCl &lt;30 mL/min) after the last dose of PRADAXA before initiating treatment with a parenteral anticoagulant.</SentenceText>
+<Mention id="M88" type="Trigger" span="39 4;132 17" str="wait | before initiating"/>
+<Mention id="M89" type="Precipitant" span="167 24" str="parenteral anticoagulant" code="N0000175980"/>
+<Interaction id="I28" type="Unspecified interaction" trigger="M88" precipitant="M89"/>
+</Sentence>
+<Sentence id="7188" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>If possible, discontinue PRADAXA 1 to 2 days (CrCl ≥50 mL/min) or 3 to 5 days (CrCl &lt;50 mL/min) before invasive or surgical procedures because of the increased risk of bleeding.</SentenceText>
+</Sentence>
+<Sentence id="7189" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Consider longer times for patients undergoing major surgery, spinal puncture, or placement of a spinal or epidural catheter or port, in whom complete hemostasis may be required.</SentenceText>
+</Sentence>
+<Sentence id="7190" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>If surgery cannot be delayed, there is an increased risk of bleeding.</SentenceText>
+</Sentence>
+<Sentence id="7191" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>This risk of bleeding should be weighed against the urgency of intervention.</SentenceText>
+</Sentence>
+<Sentence id="7192" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Use a specific reversal agent (idarucizumab) in case of emergency surgery or urgent procedures when reversal of the anticoagulant effect of dabigatran is needed.</SentenceText>
+<Mention id="M92" type="SpecificInteraction" span="15 14" str="reversal agent" code="NO MAP"/>
+<Mention id="M91" type="Precipitant" span="31 12" str="idarucizumab" code="97RWB5S1U6"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M92" precipitant="M91" effect="M92"/>
+</Sentence>
+<Sentence id="7193" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Refer to the idarucizumab prescribing information for additional information.</SentenceText>
+<Mention id="M93" type="Trigger" span="0 8;26 23" str="Refer to | prescribing information"/>
+<Mention id="M94" type="Precipitant" span="13 12" str="idarucizumab" code="97RWB5S1U6"/>
+<Interaction id="I30" type="Unspecified interaction" trigger="M93" precipitant="M94"/>
+</Sentence>
+<Sentence id="7194" LabelDrug="Pradaxa" section="34068-7">
+<SentenceText>Restart PRADAXA as soon as medically appropriate.</SentenceText>
+</Sentence>
+<Sentence id="7195" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>P-gp inducers rifampin: Avoid coadministration with PRADAXA (5.5) P-gp inhibitors in patients with CrCl 30-50 mL/min: Reduce dose or avoid (7) P-gp inhibitors in patients with CrCl &lt;30 mL/min: Not recommended (7) The concomitant use of PRADAXA with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided.</SentenceText>
+<Mention id="M99" type="Trigger" span="280 16" str="reduces exposure"/>
+<Mention id="M96" type="Precipitant" span="0 13" str="P-gp inducers" code="N0000191264"/>
+<Mention id="M97" type="Trigger" span="118 11" str="Reduce dose"/>
+<Mention id="M98" type="Precipitant" span="66 15" str="P-gp inhibitors" code="N0000185503"/>
+<Mention id="M100" type="Precipitant" span="14 8" str="rifampin" code="VJT6J7R4TR"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M99" precipitant="M96" effect="C54356"/>
+<Interaction id="I32" type="Pharmacokinetic interaction" trigger="M97" precipitant="M98" effect="C54355"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M99" precipitant="M100" effect="C54356"/>
+</Sentence>
+<Sentence id="7196" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran.</SentenceText>
+</Sentence>
+<Sentence id="7197" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone.</SentenceText>
+<Mention id="M101" type="Trigger" span="92 18" str="increased exposure"/>
+<Mention id="M102" type="Precipitant" span="19 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M101" precipitant="M102" effect="C54355"/>
+</Sentence>
+<Sentence id="7198" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>In patients with moderate renal impairment (CrCl 30-50 mL/min), reduce the dose of PRADAXA to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole.</SentenceText>
+<Mention id="M107" type="Trigger" span="64 15" str="reduce the dose"/>
+<Mention id="M104" type="Precipitant" span="169 11" str="dronedarone" code="JQZ1L091Y2"/>
+<Mention id="M106" type="Precipitant" span="153 15" str="P-gp inhibitors" code="N0000185503"/>
+<Mention id="M108" type="Precipitant" span="184 21" str="systemic ketoconazole" code="R9400W927I"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M107" precipitant="M104" effect="C54355"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M107" precipitant="M106" effect="C54355"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M107" precipitant="M108" effect="C54355"/>
+</Sentence>
+<Sentence id="7199" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dose adjustment of PRADAXA.</SentenceText>
+</Sentence>
+<Sentence id="7200" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>These results should not be extrapolated to other P-gp inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="7201" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>The concomitant use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min) should be avoided.</SentenceText>
+<Mention id="M109" type="Trigger" span="112 17" str="should be avoided"/>
+<Mention id="M110" type="Precipitant" span="35 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I38" type="Unspecified interaction" trigger="M109" precipitant="M110"/>
+</Sentence>
+<Sentence id="7202" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>Avoid use of PRADAXA and P-gp inhibitors in patients with CrCl &lt;50 mL/min.</SentenceText>
+<Mention id="M111" type="Trigger" span="0 5" str="Avoid"/>
+<Mention id="M112" type="Precipitant" span="25 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I39" type="Unspecified interaction" trigger="M111" precipitant="M112"/>
+</Sentence>
+<Sentence id="7203" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>In patients with CrCl ≥50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of dabigatran and the P-gp inhibitor by several hours.</SentenceText>
+<Mention id="M117" type="Trigger" span="155 37" str="separate the timing of administration"/>
+<Mention id="M114" type="Precipitant" span="96 11" str="dronedarone" code="JQZ1L091Y2"/>
+<Mention id="M116" type="Precipitant" span="72 15" str="P-gp inhibitors" code="N0000185503"/>
+<Mention id="M118" type="Precipitant" span="111 21" str="systemic ketoconazole" code="R9400W927I"/>
+<Interaction id="I40" type="Unspecified interaction" trigger="M117" precipitant="M114"/>
+<Interaction id="I41" type="Unspecified interaction" trigger="M117" precipitant="M116"/>
+<Interaction id="I42" type="Unspecified interaction" trigger="M117" precipitant="M118"/>
+</Sentence>
+<Sentence id="7204" LabelDrug="Pradaxa" section="34073-7">
+<SentenceText>The concomitant use of PRADAXA and P-gp inhibitors in patients with CrCl &lt;50 mL/min should be avoided.</SentenceText>
+<Mention id="M119" type="Trigger" span="84 17" str="should be avoided"/>
+<Mention id="M120" type="Precipitant" span="35 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I43" type="Unspecified interaction" trigger="M119" precipitant="M120"/>
+</Sentence>
+<Sentence id="7205" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Bleeding: PRADAXA can cause serious and fatal bleeding (5.2) Bioprosthetic heart valves: PRADAXA use not recommended (5.4) Premature discontinuation of any oral anticoagulant, including PRADAXA, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.</SentenceText>
+</Sentence>
+<Sentence id="7206" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>If PRADAXA is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant and restart PRADAXA as soon as medically appropriate.</SentenceText>
+</Sentence>
+<Sentence id="7207" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>PRADAXA increases the risk of bleeding and can cause significant and, sometimes, fatal bleeding.</SentenceText>
+</Sentence>
+<Sentence id="7208" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobin and/or hematocrit or hypotension).</SentenceText>
+</Sentence>
+<Sentence id="7209" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Discontinue PRADAXA in patients with active pathological bleeding.</SentenceText>
+</Sentence>
+<Sentence id="7210" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).</SentenceText>
+<Mention id="M133" type="Trigger" span="0 12" str="Risk factors"/>
+<Mention id="M122" type="Precipitant" span="111 20" str="anti-platelet agents" code="N0000175578"/>
+<Mention id="M135" type="SpecificInteraction" span="17 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M125" type="Precipitant" span="168 21" str="chronic use of NSAIDs" code="N0000175722"/>
+<Mention id="M128" type="Precipitant" span="63 40" str="drugs that increase the risk of bleeding" code="NO MAP"/>
+<Mention id="M131" type="Precipitant" span="142 20" str="fibrinolytic therapy" code="NO MAP"/>
+<Mention id="M134" type="Precipitant" span="133 7" str="heparin" code="T2410KM04A"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M133" precipitant="M122" effect="M135"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M133" precipitant="M125" effect="M135"/>
+<Interaction id="I46" type="Pharmacodynamic interaction" trigger="M133" precipitant="M128" effect="M135"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M133" precipitant="M131" effect="M135"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M133" precipitant="M134" effect="M135"/>
+</Sentence>
+<Sentence id="7211" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>PRADAXA’s anticoagulant activity and half-life are increased in patients with renal impairment.</SentenceText>
+</Sentence>
+<Sentence id="7212" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Reversal of Anticoagulant Effect: A specific reversal agent (idarucizumab) for dabigatran is available when reversal of the anticoagulant effect of dabigatran is needed: For emergency surgery/urgent procedures In life-threatening or uncontrolled bleeding Hemodialysis can remove dabigatran; however the clinical experience supporting the use of hemodialysis as a treatment for bleeding is limited.</SentenceText>
+<Mention id="M138" type="SpecificInteraction" span="45 14" str="reversal agent" code="NO MAP"/>
+<Mention id="M137" type="Precipitant" span="61 12" str="idarucizumab" code="97RWB5S1U6"/>
+<Interaction id="I49" type="Pharmacodynamic interaction" trigger="M138" precipitant="M137" effect="M138"/>
+</Sentence>
+<Sentence id="7213" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Prothrombin complex concentrates, or recombinant Factor VIIa may be considered but their use has not been evaluated in clinical trials.</SentenceText>
+</Sentence>
+<Sentence id="7214" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of dabigatran.</SentenceText>
+</Sentence>
+<Sentence id="7215" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Consider administration of platelet concentrates in cases where thrombocytopenia is present or long-acting antiplatelet drugs have been used.</SentenceText>
+</Sentence>
+<Sentence id="7216" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis.</SentenceText>
+<Mention id="M148" type="Trigger" span="137 7" str="risk of"/>
+<Mention id="M143" type="Precipitant" span="5 20" str="neuraxial anesthesia" code="NO MAP"/>
+<Mention id="M150" type="SpecificInteraction" span="171 15" str="spinal hematoma" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Mention id="M147" type="SpecificInteraction" span="34 8;178 8" str="epidural | hematoma" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M149" type="Precipitant" span="27 26" str="spinal/epidural anesthesia" code="NO MAP"/>
+<Interaction id="I50" type="Pharmacodynamic interaction" trigger="M148" precipitant="M143" effect="M150"/>
+<Interaction id="I51" type="Pharmacodynamic interaction" trigger="M148" precipitant="M143" effect="M147"/>
+<Interaction id="I52" type="Pharmacodynamic interaction" trigger="M148" precipitant="M149" effect="M147"/>
+<Interaction id="I53" type="Pharmacodynamic interaction" trigger="M148" precipitant="M149" effect="M150"/>
+</Sentence>
+<Sentence id="7217" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>To reduce the potential risk of bleeding associated with the concurrent use of dabigatran and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of dabigatran.</SentenceText>
+<Mention id="M154" type="Trigger" span="24 7" str="risk of"/>
+<Mention id="M152" type="Precipitant" span="94 8;113 20" str="epidural | anesthesia/analgesia" code="NO MAP"/>
+<Mention id="M156" type="SpecificInteraction" span="32 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M155" type="Precipitant" span="106 27" str="spinal anesthesia/analgesia" code="NO MAP"/>
+<Interaction id="I54" type="Pharmacodynamic interaction" trigger="M154" precipitant="M152" effect="M156"/>
+<Interaction id="I55" type="Pharmacodynamic interaction" trigger="M154" precipitant="M155" effect="M156"/>
+</Sentence>
+<Sentence id="7218" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of dabigatran is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.</SentenceText>
+</Sentence>
+<Sentence id="7219" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Should the physician decide to administer anticoagulation in the context of epidural or spinal anesthesia/analgesia or lumbar puncture, monitor frequently to detect any signs or symptoms of neurological impairment, such as midline back pain, sensory and motor deficits (numbness, tingling, or weakness in lower limbs), bowel and/or bladder dysfunction.</SentenceText>
+<Mention id="M225" type="Trigger" span="136 18" str="monitor frequently "/>
+<Mention id="M226" type="Trigger" span="169 17" str=" signs or symptoms"/>
+<Mention id="M191" type="Precipitant" span="76 8;95 20" str="epidural | anesthesia/analgesia" code="NO MAP"/>
+<Mention id="M220" type="SpecificInteraction" span="293 23" str="weakness in lower limbs" code="713514005: Muscle weakness of limb (finding)"/>
+<Mention id="M216" type="SpecificInteraction" span="332 19" str="bladder dysfunction" code="40492006: Bladder dysfunction (finding)"/>
+<Mention id="M204" type="SpecificInteraction" span="254 14" str="motor deficits" code="6389006: Disturbance in physical behavior (finding)"/>
+<Mention id="M228" type="SpecificInteraction" span="190 23" str="neurological impairment" code="118940003: Disorder of nervous system (disorder)"/>
+<Mention id="M224" type="SpecificInteraction" span="319 5;340 11" str="bowel | dysfunction" code="235594008: Bowel dysfunction (disorder)"/>
+<Mention id="M196" type="SpecificInteraction" span="242 7;260 8" str="sensory | deficits" code="85972008: Sensory disorder (disorder)"/>
+<Mention id="M208" type="SpecificInteraction" span="223 17" str="midline back pain" code="161891005: Backache (finding)"/>
+<Mention id="M212" type="SpecificInteraction" span="270 8" str="numbness" code="44077006: Numbness (finding)"/>
+<Mention id="M200" type="SpecificInteraction" span="280 8" str="tingling" code="62507009: Pins and needles (finding)"/>
+<Mention id="M227" type="Precipitant" span="88 27" str="spinal anesthesia/analgesia" code="NO MAP"/>
+<Interaction id="I56" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M220"/>
+<Interaction id="I57" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M216"/>
+<Interaction id="I58" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M204"/>
+<Interaction id="I59" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M228"/>
+<Interaction id="I60" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M224"/>
+<Interaction id="I61" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M196"/>
+<Interaction id="I62" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M208"/>
+<Interaction id="I63" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M212"/>
+<Interaction id="I64" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M191" effect="M200"/>
+<Interaction id="I65" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M196"/>
+<Interaction id="I66" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M200"/>
+<Interaction id="I67" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M204"/>
+<Interaction id="I68" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M208"/>
+<Interaction id="I69" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M212"/>
+<Interaction id="I70" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M216"/>
+<Interaction id="I71" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M220"/>
+<Interaction id="I72" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M224"/>
+<Interaction id="I73" type="Pharmacodynamic interaction" trigger="M225;M226" precipitant="M227" effect="M228"/>
+</Sentence>
+<Sentence id="7220" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Instruct patients to immediately report if they experience any of the above signs or symptoms.</SentenceText>
+</Sentence>
+<Sentence id="7221" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis and treatment including consideration for spinal cord decompression even though such treatment may not prevent or reverse neurological sequelae.</SentenceText>
+</Sentence>
+<Sentence id="7222" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of PRADAXA twice a day.</SentenceText>
+</Sentence>
+<Sentence id="7223" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm.</SentenceText>
+</Sentence>
+<Sentence id="7224" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment.</SentenceText>
+</Sentence>
+<Sentence id="7225" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves.</SentenceText>
+</Sentence>
+<Sentence id="7226" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>The use of PRADAXA for the prophylaxis of thromboembolic events in patients with atrial fibrillation in the setting of other forms of valvular heart disease, including the presence of a bioprosthetic heart valve, has not been studied and is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="7227" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>The concomitant use of PRADAXA with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided.</SentenceText>
+<Mention id="M231" type="Trigger" span="67 16" str="reduces exposure"/>
+<Mention id="M230" type="Precipitant" span="36 13" str="P-gp inducers" code="N0000191264"/>
+<Mention id="M232" type="Precipitant" span="57 8" str="rifampin" code="VJT6J7R4TR"/>
+<Interaction id="I74" type="Pharmacokinetic interaction" trigger="M231" precipitant="M230" effect="C54356"/>
+<Interaction id="I75" type="Pharmacokinetic interaction" trigger="M231" precipitant="M232" effect="C54356"/>
+</Sentence>
+<Sentence id="7228" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation Reduce the dose of PRADAXA to 75 mg twice daily when dronedarone or systemic ketoconazole is coadministered with PRADAXA in patients with moderate renal impairment (CrCl 30-50 mL/min).</SentenceText>
+<Mention id="M235" type="Trigger" span="86 15" str="Reduce the dose"/>
+<Mention id="M234" type="Precipitant" span="139 11" str="dronedarone" code="JQZ1L091Y2"/>
+<Mention id="M236" type="Precipitant" span="154 21" str="systemic ketoconazole" code="R9400W927I"/>
+<Interaction id="I76" type="Pharmacokinetic interaction" trigger="M235" precipitant="M234" effect="C54355"/>
+<Interaction id="I77" type="Pharmacokinetic interaction" trigger="M235" precipitant="M236" effect="C54355"/>
+</Sentence>
+<Sentence id="7229" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Avoid use of PRADAXA and P-gp inhibitors in patients with severe renal impairment (CrCl 15-30 mL/min).</SentenceText>
+<Mention id="M237" type="Trigger" span="0 5" str="Avoid"/>
+<Mention id="M238" type="Precipitant" span="25 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I78" type="Unspecified interaction" trigger="M237" precipitant="M238"/>
+</Sentence>
+<Sentence id="7230" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl &lt;50 mL/min.</SentenceText>
+<Mention id="M239" type="Trigger" span="99 5" str="Avoid"/>
+<Mention id="M240" type="Precipitant" span="136 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I79" type="Unspecified interaction" trigger="M239" precipitant="M240"/>
+</Sentence>
+<Sentence id="7231" LabelDrug="Pradaxa" section="43685-7">
+<SentenceText>Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl &lt;50 mL/min.</SentenceText>
+<Mention id="M241" type="Trigger" span="93 5" str="Avoid"/>
+<Mention id="M242" type="Precipitant" span="130 15" str="P-gp inhibitors" code="N0000185503"/>
+<Interaction id="I80" type="Unspecified interaction" trigger="M241" precipitant="M242"/>
+</Sentence>
+<Sentence id="7232" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dabigatran and its acyl glucuronides are competitive, direct thrombin inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="7233" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Because thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of a thrombus.</SentenceText>
+</Sentence>
+<Sentence id="7234" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Both free and clot-bound thrombin, and thrombin-induced platelet aggregation are inhibited by the active moieties.</SentenceText>
+</Sentence>
+<Sentence id="7235" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>At recommended therapeutic doses, dabigatran etexilate prolongs the coagulation markers such as aPTT, ECT, and TT.</SentenceText>
+</Sentence>
+<Sentence id="7236" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>INR is relatively insensitive to the exposure to dabigatran and cannot be interpreted the same way as used for warfarin monitoring.</SentenceText>
+</Sentence>
+<Sentence id="7237" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The aPTT test provides an approximation of PRADAXA’s anticoagulant effect.</SentenceText>
+</Sentence>
+<Sentence id="7238" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 2.</SentenceText>
+</Sentence>
+<Sentence id="7239" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The curves represent mean levels without confidence intervals; variations should be expected when measuring aPTT.</SentenceText>
+</Sentence>
+<Sentence id="7240" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>While advice cannot be provided on the level of recovery of aPTT needed in any particular clinical setting, the curves can be used to estimate the time to get to a particular level of recovery, even when the time since the last dose of PRADAXA is not precisely known.</SentenceText>
+</Sentence>
+<Sentence id="7241" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>In the RE-LY trial, the median (10th to 90th percentile) trough aPTT in patients receiving the 150 mg dose was 52 (40 to 76) seconds.</SentenceText>
+</Sentence>
+<Sentence id="7242" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Figure 2 •Average Time Course for Effects of Dabigatran on aPTT, Following Approved PRADAXA Dosing Regimens in Patients with Various Degrees of Renal Impairment* *Simulations based on PK data from a study in subjects with renal impairment and PK/aPTT relationships derived from the RE-LY study; aPTT prolongation in RE-LY was measured centrally in citrate plasma using PTT Reagent Roche Diagnostics GmbH, Mannheim, Germany.</SentenceText>
+</Sentence>
+<Sentence id="7243" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>There may be quantitative differences between various established methods for aPTT assessment.</SentenceText>
+</Sentence>
+<Sentence id="7244" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The degree of anticoagulant activity can also be assessed by the ecarin clotting time (ECT).</SentenceText>
+</Sentence>
+<Sentence id="7245" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>This test is a more specific measure of the effect of dabigatran than activated partial thromboplastin time (aPTT).</SentenceText>
+</Sentence>
+<Sentence id="7246" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>In the RE-LY trial, the median (10th to 90th percentile) trough ECT in patients receiving the 150 mg dose was 63 (44 to 103) seconds.</SentenceText>
+</Sentence>
+<Sentence id="7247" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>In orthopedic hip surgery patients, maximum aPTT response (Emax) to dabigatran and baseline aPTT were higher shortly after surgery than at later time points (e.g.</SentenceText>
+</Sentence>
+<Sentence id="7248" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Cardiac Electrophysiology No prolongation of the QTc interval was observed with dabigatran etexilate at doses up to 600 mg.</SentenceText>
+</Sentence>
+<Sentence id="7249" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Figure 2 Dabigatran etexilate mesylate is absorbed as the dabigatran etexilate ester.</SentenceText>
+</Sentence>
+<Sentence id="7250" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The ester is then hydrolyzed, forming dabigatran, the active moiety.</SentenceText>
+</Sentence>
+<Sentence id="7251" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dabigatran is metabolized to four different acyl glucuronides and both the glucuronides and dabigatran have similar pharmacological activity.</SentenceText>
+</Sentence>
+<Sentence id="7252" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Pharmacokinetics described here refer to the sum of dabigatran and its glucuronides.</SentenceText>
+</Sentence>
+<Sentence id="7253" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dabigatran displays dose-proportional pharmacokinetics in healthy subjects and patients in the range of doses from 10 to 400 mg. Absorption The absolute bioavailability of dabigatran following oral administration of dabigatran etexilate is approximately 3 to 7%.</SentenceText>
+</Sentence>
+<Sentence id="7254" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dabigatran etexilate is a substrate of the efflux transporter P-gp.</SentenceText>
+</Sentence>
+<Sentence id="7255" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>After oral administration of dabigatran etexilate in healthy volunteers, Cmax occurs at 1 hour post-administration in the fasted state.</SentenceText>
+</Sentence>
+<Sentence id="7256" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Coadministration of PRADAXA with a high-fat meal delays the time to Cmax by approximately 2 hours but has no effect on the bioavailability of dabigatran; PRADAXA may be administered with or without food.</SentenceText>
+<Mention id="M243" type="Trigger" span="49 23" str="delays the time to Cmax"/>
+<Mention id="M244" type="Precipitant" span="35 13" str="high-fat meal" code="NO MAP"/>
+<Interaction id="I81" type="Pharmacokinetic interaction" trigger="M243" precipitant="M244" effect="C54604"/>
+</Sentence>
+<Sentence id="7257" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The oral bioavailability of dabigatran etexilate increases by 75% when the pellets are taken without the capsule shell compared to the intact capsule formulation.</SentenceText>
+</Sentence>
+<Sentence id="7258" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>PRADAXA capsules should therefore not be broken, chewed, or opened before administration.</SentenceText>
+</Sentence>
+<Sentence id="7259" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Distribution Dabigatran is approximately 35% bound to human plasma proteins.</SentenceText>
+</Sentence>
+<Sentence id="7260" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The red blood cell to plasma partitioning of dabigatran measured as total radioactivity is less than 0.3.</SentenceText>
+</Sentence>
+<Sentence id="7261" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The volume of distribution of dabigatran is 50 to 70 L. Dabigatran pharmacokinetics are dose proportional after single doses of 10 to 400 mg.</SentenceText>
+</Sentence>
+<Sentence id="7262" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Given twice daily, dabigatran’s accumulation factor is approximately two.</SentenceText>
+</Sentence>
+<Sentence id="7263" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Elimination Dabigatran is eliminated primarily in the urine.</SentenceText>
+</Sentence>
+<Sentence id="7264" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Renal clearance of dabigatran is 80% of total clearance after intravenous administration.</SentenceText>
+</Sentence>
+<Sentence id="7265" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>After oral administration of radiolabeled dabigatran, 7% of radioactivity is recovered in urine and 86% in feces.</SentenceText>
+</Sentence>
+<Sentence id="7266" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The half-life of dabigatran in healthy subjects is 12 to 17 hours.</SentenceText>
+</Sentence>
+<Sentence id="7267" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Metabolism After oral administration, dabigatran etexilate is converted to dabigatran.</SentenceText>
+</Sentence>
+<Sentence id="7268" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The cleavage of the dabigatran etexilate by esterase-catalyzed hydrolysis to the active principal dabigatran is the predominant metabolic reaction.</SentenceText>
+</Sentence>
+<Sentence id="7269" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dabigatran is not a substrate, inhibitor, or inducer of CYP450 enzymes.</SentenceText>
+</Sentence>
+<Sentence id="7270" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dabigatran is subject to conjugation forming pharmacologically active acyl glucuronides.</SentenceText>
+</Sentence>
+<Sentence id="7271" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Four positional isomers, 1-O, 2-O, 3-O, and 4-O-acylglucuronide exist, and each accounts for less than 10% of total dabigatran in plasma.</SentenceText>
+</Sentence>
+<Sentence id="7272" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Renal Impairment An open, parallel-group single-center study compared dabigatran pharmacokinetics in healthy subjects and patients with mild to moderate renal impairment receiving a single dose of PRADAXA 150 mg.</SentenceText>
+</Sentence>
+<Sentence id="7273" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Exposure to dabigatran increases with severity of renal function impairment (Table 8).</SentenceText>
+</Sentence>
+<Sentence id="7274" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Similar findings were observed in the RE-LY, RE-COVER and RE-NOVATE II trials.</SentenceText>
+</Sentence>
+<Sentence id="7275" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Table 8 •Impact of Renal Impairment on Dabigatran Pharmacokinetics +Patients with severe renal impairment were not studied in RE-LY, RE-COVER and RE-NOVATE II.</SentenceText>
+</Sentence>
+<Sentence id="7276" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling.</SentenceText>
+</Sentence>
+<Sentence id="7277" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Renal Function CrCl (mL/min) Increase in AUC Increase in Cmax t1/2 (h) Normal ≥ 80 1x 1x 13 Mild 50-80 1.5x 1.1x 15 Moderate 30-50 3.2x 1.7x 18 Severe+ 15-30 6.3x 2.1x 27 Hepatic Impairment Administration of PRADAXA in patients with moderate hepatic impairment (Child-Pugh B) showed a large inter-subject variability, but no evidence of a consistent change in exposure or pharmacodynamics.</SentenceText>
+</Sentence>
+<Sentence id="7278" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Drug Interactions A summary of the effect of coadministered drugs on dabigatran exposure is shown in Figures 3.1 and 3.2.</SentenceText>
+</Sentence>
+<Sentence id="7279" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available.</SentenceText>
+</Sentence>
+<Sentence id="7280" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Figure 3.1 •Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC).</SentenceText>
+</Sentence>
+<Sentence id="7281" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Shown are the Geometric Mean Ratios (Ratio) and 90% Confidence Interval (90% CI).</SentenceText>
+</Sentence>
+<Sentence id="7282" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference) Figure 3.2 •Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC).</SentenceText>
+</Sentence>
+<Sentence id="7283" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as well as the Time of Perpetrator Dosing in Relation to Dabigatran Etexilate Dose (Time Difference) Figure 3.1 Figure 3.2 In RE-LY, dabigatran plasma samples were also collected.</SentenceText>
+</Sentence>
+<Sentence id="7284" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.</SentenceText>
+</Sentence>
+<Sentence id="7285" LabelDrug="Pradaxa" section="34090-1">
+<SentenceText>Impact of Dabigatran on Other Drugs In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="neuraxial anesthesia" precipitantCode="NO MAP" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuraxial anesthesia" precipitantCode="NO MAP" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticoagulants" precipitantCode="N0000175980" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticoagulants" precipitantCode="N0000175980" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that affect hemostasis" precipitantCode="NO MAP" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that affect hemostasis" precipitantCode="NO MAP" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="non-steroidal anti-inflammatory drugs" precipitantCode="N0000175722" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="non-steroidal anti-inflammatory drugs" precipitantCode="N0000175722" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="platelet inhibitors" precipitantCode="N0000175578" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="platelet inhibitors" precipitantCode="N0000175578" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="dronedarone" precipitantCode="JQZ1L091Y2" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="dronedarone" precipitantCode="JQZ1L091Y2"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="p-gp inhibitor" precipitantCode="N0000185503" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="systemic ketoconazole" precipitantCode="R9400W927I" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="systemic ketoconazole" precipitantCode="R9400W927I"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="p-gp inhibitors" precipitantCode="N0000185503" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="p-gp inhibitors" precipitantCode="N0000185503"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="165583001: International normalized ratio abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="167183007: Creatinine clearance-glomerular filtration abnormal (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI"/>
+<LabelInteraction type="Unspecified interaction" precipitant="intravenous unfractionated heparin" precipitantCode="T2410KM04A"/>
+<LabelInteraction type="Unspecified interaction" precipitant="parenteral anticoagulant" precipitantCode="N0000175980"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="idarucizumab" precipitantCode="97RWB5S1U6" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="idarucizumab" precipitantCode="97RWB5S1U6"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="p-gp inducers" precipitantCode="N0000191264" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR" effect="C54356"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anti-platelet agents" precipitantCode="N0000175578" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chronic use of nsaids" precipitantCode="N0000175722" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that increase the risk of bleeding" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fibrinolytic therapy" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="heparin" precipitantCode="T2410KM04A" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal/epidural anesthesia" precipitantCode="NO MAP" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal/epidural anesthesia" precipitantCode="NO MAP" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="118940003: Disorder of nervous system (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="161891005: Backache (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="235594008: Bowel dysfunction (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="40492006: Bladder dysfunction (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="44077006: Numbness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="62507009: Pins and needles (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="6389006: Disturbance in physical behavior (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="713514005: Muscle weakness of limb (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="epidural | anesthesia/analgesia" precipitantCode="NO MAP" effect="85972008: Sensory disorder (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="118940003: Disorder of nervous system (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="161891005: Backache (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="235594008: Bowel dysfunction (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="40492006: Bladder dysfunction (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="44077006: Numbness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="62507009: Pins and needles (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="6389006: Disturbance in physical behavior (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="713514005: Muscle weakness of limb (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal anesthesia/analgesia" precipitantCode="NO MAP" effect="85972008: Sensory disorder (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="high-fat meal" precipitantCode="NO MAP" effect="C54604"/>
+
+</LabelInteractions></Label>

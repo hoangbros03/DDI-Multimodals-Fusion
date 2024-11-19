@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Gris-PEG" setid="20aa6571-ee10-4dc1-9be9-018aa0a680fc">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Two cases of conjoined twins have been reported since 1977 in patients taking griseofulvin during the first trimester of pregnancy. Griseofulvin should not be prescribed to pregnant patients. If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus. This drug is contraindicated in patients with porphyria or hepatocellular failure and in individuals with a history of hypersensitivity to griseofulvin.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+Accurate diagnosis of infecting organism is essential. Identification should be made either by direct microscopic examination of a mounting of infected tissue in a solution of potassium hydroxide or by culture on an appropriate medium. Medication must be continued until the infecting organism is completely eradicated as indicated by appropriate clinical or laboratory examination. Representative treatment periods are tinea capitis, 4 to 6 weeks; tinea corporis, 2 to 4 weeks; tinea pedis, 4 to 8 weeks; tinea unguium-depending on rate of growth-fingernails, at least 4 months; toenails, at least 6 months. General measures in regard to hygiene should be observed to control sources of infection or reinfection. Concomitant use of appropriate topical agents is usually required, particularly in treatment of tinea pedis. In some forms of athlete’s foot, yeasts and bacteria may be involved as well as fungi. Griseofulvin will not eradicate the bacterial or monilial infection. Gris-PEG ® tablets may be swallowed whole or crushed and sprinkled onto 1 tablespoonful of applesauce and swallowed immediately without chewing. Adults: Daily administration of 375 mg (as a single dose or in divided doses) will give a satisfactory response in most patients with tinea corporis, tinea cruris, and tinea capitis. For those fungal infections more difficult to eradicate, such as tinea pedis and tinea unguium, a divided dose of 750 mg is recommended. Pediatric Use: Approximately 7.3 mg per kg of body weight per day of ultramicrosize griseofulvin is an effective dose for most pediatric patients. On this basis, the following dosage schedule is suggested: 16-27 kg: 125 mg to 187.5 mg daily over 27 kg: 187.5 mg to 375 mg daily Children and infants 2 years of age and younger – dosage has not been established. Clinical experience with griseofulvin in children with tinea capitis indicates that a single daily dose is effective. Clinical relapse will occur if the medication is not continued until the infecting organism is eradicated.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Patients on prolonged therapy with any potent medication should be under close observation. Periodic monitoring of organ system function, including renal, hepatic and hematopoietic, should be done. Since griseofulvin is derived from species of Penicillium , the possibility of cross-sensitivity with penicillin exists; however, known penicillin-sensitive patients have been treated without difficulty. Since a photosensitivity reaction is occasionally associated with griseofulvin therapy, patients should be warned to avoid exposure to intense natural or artificial sunlight. Lupus erythematosus or lupus-like syndromes have been reported in patients receiving griseofulvin. Griseofulvin decreases the activity of warfarin-type anticoagulants so that patients receiving these drugs concomitantly may require dosage adjustment of the anticoagulant during and after griseofulvin therapy. Barbiturates usually depress griseofulvin activity and concomitant administration may require a dosage adjustment of the antifungal agent. There have been reports in the literature of possible interactions between griseofulvin and oral contraceptives. The effect of alcohol may be potentiated by griseofulvin, producing such effects as tachycardia and flush.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+Safety and efficacy of griseofulvin for prophylaxis of fungal infections have not been established. Severe skin reactions (e.g. Stevens-Johnson syndrome, toxic epidermal necrolysis) and erythema multiforme have been reported with griseofulvin use. These reactions may be serious and may result in hospitalization or death. If severe skin reactions occur, griseofulvin should be discontinued (see ADVERSE REACTIONS section). Elevations in AST, ALT, bilirubin, and jaundice have been reported with griseofulvin use. These reactions may be serious and may result in hospitalization or death. Patients should be monitored for hepatic adverse events and discontinuation of griseofulvin considered if warranted (see ADVERSE REACTIONS section). Chronic feeding of griseofulvin, at levels ranging from 0.5%-2.5% of the diet resulted in the development of liver tumors in several strains of mice, particularly in males. Smaller particle sizes result in an enhanced effect. Lower oral dosage levels have not been tested. Subcutaneous administration of relatively small doses of griseofulvin once a week during the first three weeks of life has also been reported to induce hepatomata in mice. Thyroid tumors, mostly adenomas but some carcinomas, have been reported in male rats receiving griseofulvin at levels of 2.0%, 1.0% and 0.2% of the diet, and in female rats receiving the two higher dose levels. Although studies in other animal species have not yielded evidence of tumorigenicity, these studies were not of adequate design to form a basis for conclusion in this regard. In subacute toxicity studies, orally administered griseofulvin produced hepatocellular necrosis in mice, but this has not been seen in other species. Disturbances in porphyrin metabolism have been reported in griseofulvin-treated laboratory animals. Griseofulvin has been reported to have a colchicine-like effect on mitosis and cocarcinogenicity with methylcholanthrene in cutaneous tumor induction in laboratory animals. Usage in Pregnancy – see CONTRAINDICATIONS section. It has been reported in the literature that griseofulvin was found to be embryotoxic and teratogenic on oral administration to pregnant rats. Pups with abnormalities have been reported in the litters of a few bitches treated with griseofulvin. Suppression of spermatogenesis has been reported to occur in rats, but investigation in man failed to confirm this.</Section>
+</Text><Sentences>
+<Sentence id="4704" LabelDrug="Gris-PEG" section="34070-3">
+<SentenceText>Two cases of conjoined twins have been reported since 1977 in patients taking griseofulvin during the first trimester of pregnancy.</SentenceText>
+</Sentence>
+<Sentence id="4705" LabelDrug="Gris-PEG" section="34070-3">
+<SentenceText>Griseofulvin should not be prescribed to pregnant patients.</SentenceText>
+</Sentence>
+<Sentence id="4706" LabelDrug="Gris-PEG" section="34070-3">
+<SentenceText>If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.</SentenceText>
+</Sentence>
+<Sentence id="4707" LabelDrug="Gris-PEG" section="34070-3">
+<SentenceText>This drug is contraindicated in patients with porphyria or hepatocellular failure and in individuals with a history of hypersensitivity to griseofulvin.</SentenceText>
+</Sentence>
+<Sentence id="4708" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Accurate diagnosis of infecting organism is essential.</SentenceText>
+</Sentence>
+<Sentence id="4709" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Identification should be made either by direct microscopic examination of a mounting of infected tissue in a solution of potassium hydroxide or by culture on an appropriate medium.</SentenceText>
+</Sentence>
+<Sentence id="4710" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Medication must be continued until the infecting organism is completely eradicated as indicated by appropriate clinical or laboratory examination.</SentenceText>
+</Sentence>
+<Sentence id="4711" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Representative treatment periods are tinea capitis, 4 to 6 weeks; tinea corporis, 2 to 4 weeks; tinea pedis, 4 to 8 weeks; tinea unguium-depending on rate of growth-fingernails, at least 4 months; toenails, at least 6 months.</SentenceText>
+</Sentence>
+<Sentence id="4712" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>General measures in regard to hygiene should be observed to control sources of infection or reinfection.</SentenceText>
+</Sentence>
+<Sentence id="4713" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Concomitant use of appropriate topical agents is usually required, particularly in treatment of tinea pedis.</SentenceText>
+</Sentence>
+<Sentence id="4714" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>In some forms of athlete’s foot, yeasts and bacteria may be involved as well as fungi.</SentenceText>
+</Sentence>
+<Sentence id="4715" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Griseofulvin will not eradicate the bacterial or monilial infection.</SentenceText>
+</Sentence>
+<Sentence id="4716" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Gris-PEG® tablets may be swallowed whole or crushed and sprinkled onto 1 tablespoonful of applesauce and swallowed immediately without chewing.</SentenceText>
+</Sentence>
+<Sentence id="4717" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Adults: Daily administration of 375 mg (as a single dose or in divided doses) will give a satisfactory response in most patients with tinea corporis, tinea cruris, and tinea capitis.</SentenceText>
+</Sentence>
+<Sentence id="4718" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>For those fungal infections more difficult to eradicate, such as tinea pedis and tinea unguium, a divided dose of 750 mg is recommended.</SentenceText>
+</Sentence>
+<Sentence id="4719" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Pediatric Use: Approximately 7.3 mg per kg of body weight per day of ultramicrosize griseofulvin is an effective dose for most pediatric patients.</SentenceText>
+</Sentence>
+<Sentence id="4720" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>On this basis, the following dosage schedule is suggested:16-27 kg: 125 mg to 187.5 mg dailyover 27 kg: 187.5 mg to 375 mg daily Children and infants 2 years of age and younger – dosage has not been established.</SentenceText>
+</Sentence>
+<Sentence id="4721" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Clinical experience with griseofulvin in children with tinea capitis indicates that a single daily dose is effective.</SentenceText>
+</Sentence>
+<Sentence id="4722" LabelDrug="Gris-PEG" section="34068-7">
+<SentenceText>Clinical relapse will occur if the medication is not continued until the infecting organism is eradicated.</SentenceText>
+</Sentence>
+<Sentence id="4723" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Patients on prolonged therapy with any potent medication should be under close observation.</SentenceText>
+</Sentence>
+<Sentence id="4724" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Periodic monitoring of organ system function, including renal, hepatic and hematopoietic, should be done.</SentenceText>
+</Sentence>
+<Sentence id="4725" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Since griseofulvin is derived from species of Penicillium, the possibility of cross-sensitivity with penicillin exists; however, known penicillin-sensitive patients have been treated without difficulty.</SentenceText>
+<Mention id="M1" type="Trigger" span="63 11" str="possibility"/>
+<Mention id="M2" type="Precipitant" span="101 10" str="penicillin" code="N0000175497"/>
+<Mention id="M3" type="SpecificInteraction" span="78 17" str="cross-sensitivity" code="430149006: Cross sensitivity reaction (disorder)"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M1" precipitant="M2" effect="M3" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="4726" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Since a photosensitivity reaction is occasionally associated with griseofulvin therapy, patients should be warned to avoid exposure to intense natural or artificial sunlight.</SentenceText>
+</Sentence>
+<Sentence id="4727" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Lupus erythematosus or lupus-like syndromes have been reported in patients receiving griseofulvin.</SentenceText>
+</Sentence>
+<Sentence id="4728" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Griseofulvin decreases the activity of warfarin-type anticoagulants so that patients receiving these drugs concomitantly may require dosage adjustment of the anticoagulant during and after griseofulvin therapy.</SentenceText>
+<Mention id="M7" type="Trigger" span="13 22" str="decreases the activity "/>
+<Mention id="M8" type="Trigger" span="133 17" str=" dosage adjustment"/>
+<Mention id="M6" type="Precipitant" span="39 8" str="warfarin" code="5Q7ZVV76EI | N0000006403"/>
+<Mention id="M9" type="Precipitant" span="39 28" str="warfarin-type anticoagulants" code="5Q7ZVV76EI"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M7;M8" precipitant="M6" effect="C54358"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M7;M8" precipitant="M9" effect="C54358"/>
+</Sentence>
+<Sentence id="4729" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>Barbiturates usually depress griseofulvin activity and concomitant administration may require a dosage adjustment of the antifungal agent.</SentenceText>
+<Mention id="M10" type="Trigger" span="21 7;42 8" str="depress | activity "/>
+<Mention id="M11" type="Trigger" span="96 17" str=" dosage adjustment"/>
+<Mention id="M12" type="Precipitant" span="0 12" str="Barbiturates" code="N0000175693 | N0000008016"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M10;M11" precipitant="M12" effect="C54356"/>
+</Sentence>
+<Sentence id="4730" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>There have been reports in the literature of possible interactions between griseofulvin and oral contraceptives.</SentenceText>
+<Mention id="M13" type="Trigger" span="54 12" str="interactions"/>
+<Mention id="M14" type="Precipitant" span="92 19" str="oral contraceptives" code="NO MAP"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M13" precipitant="M14"/>
+</Sentence>
+<Sentence id="4731" LabelDrug="Gris-PEG" section="42232-9">
+<SentenceText>The effect of alcohol may be potentiated by griseofulvin, producing such effects as tachycardia and flush.</SentenceText>
+<Mention id="M19" type="Trigger" span="29 11" str="potentiated "/>
+<Mention id="M20" type="Trigger" span="58 9" str=" producing"/>
+<Mention id="M21" type="Precipitant" span="14 7" str="alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M18" type="SpecificInteraction" span="100 5" str="flush" code="238810007: Flushing (disorder)"/>
+<Mention id="M22" type="SpecificInteraction" span="84 11" str="tachycardia" code="3424008: Tachycardia (finding)"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M19;M20" precipitant="M21" effect="M18" effectCodeMatch="Exact Match"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M19;M20" precipitant="M21" effect="M22" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="4732" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Safety and efficacy of griseofulvin for prophylaxis of fungal infections have not been established.</SentenceText>
+</Sentence>
+<Sentence id="4733" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Stevens-Johnson syndrome, toxic epidermal necrolysis) and erythema multiforme have been reported with griseofulvin use.</SentenceText>
+</Sentence>
+<Sentence id="4734" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>These reactions may be serious and may result in hospitalization or death.</SentenceText>
+</Sentence>
+<Sentence id="4735" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>If severe skin reactions occur, griseofulvin should be discontinued.</SentenceText>
+</Sentence>
+<Sentence id="4736" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Elevations in AST, ALT, bilirubin, and jaundice have been reported with griseofulvin use.</SentenceText>
+</Sentence>
+<Sentence id="4737" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Patients should be monitored for hepatic adverse events and discontinuation of griseofulvin considered if warranted.</SentenceText>
+</Sentence>
+<Sentence id="4738" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Chronic feeding of griseofulvin, at levels ranging from 0.5%-2.5% of the diet resulted in the development of liver tumors in several strains of mice, particularly in males.</SentenceText>
+</Sentence>
+<Sentence id="4739" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Smaller particle sizes result in an enhanced effect.</SentenceText>
+</Sentence>
+<Sentence id="4740" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Lower oral dosage levels have not been tested.</SentenceText>
+</Sentence>
+<Sentence id="4741" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Subcutaneous administration of relatively small doses of griseofulvin once a week during the first three weeks of life has also been reported to induce hepatomata in mice.</SentenceText>
+</Sentence>
+<Sentence id="4742" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Thyroid tumors, mostly adenomas but some carcinomas, have been reported in male rats receiving griseofulvin at levels of 2.0%, 1.0% and 0.2% of the diet, and in female rats receiving the two higher dose levels.</SentenceText>
+</Sentence>
+<Sentence id="4743" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Although studies in other animal species have not yielded evidence of tumorigenicity, these studies were not of adequate design to form a basis for conclusion in this regard.</SentenceText>
+</Sentence>
+<Sentence id="4744" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>In subacute toxicity studies, orally administered griseofulvin produced hepatocellular necrosis in mice, but this has not been seen in other species.</SentenceText>
+</Sentence>
+<Sentence id="4745" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Disturbances in porphyrin metabolism have been reported in griseofulvin-treated laboratory animals.</SentenceText>
+</Sentence>
+<Sentence id="4746" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Griseofulvin has been reported to have a colchicine-like effect on mitosis and cocarcinogenicity with methylcholanthrene in cutaneous tumor induction in laboratory animals.</SentenceText>
+<Mention id="M25" type="SpecificInteraction" span="79 17" str="cocarcinogenicity" code="18903007: Carcinogen effect (disorder)"/>
+<Mention id="M27" type="Precipitant" span="102 18" str="methylcholanthrene" code="214U33M1RL"/>
+<Mention id="M26" type="Trigger" span="140 9" str="induction"/>
+<Mention id="M28" type="SpecificInteraction" span="124 25" str="cutaneous tumor induction" code="126488004: Neoplasm of skin (disorder)"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M25" precipitant="M27" effect="M25" effectCodeMatch="Exact Match"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M26" precipitant="M27" effect="M28" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="4747" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Usage in Pregnancy – see CONTRAINDICATIONS section.</SentenceText>
+</Sentence>
+<Sentence id="4748" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>It has been reported in the literature that griseofulvin was found to be embryotoxic and teratogenic on oral administration to pregnant rats.</SentenceText>
+</Sentence>
+<Sentence id="4749" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Pups with abnormalities have been reported in the litters of a few bitches treated with griseofulvin.</SentenceText>
+</Sentence>
+<Sentence id="4750" LabelDrug="Gris-PEG" section="34071-1">
+<SentenceText>Suppression of spermatogenesis has been reported to occur in rats, but investigation in man failed to confirm this.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="penicillin" precipitantCode="N0000175497" effect="430149006: Cross sensitivity reaction (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI | N0000006403" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="warfarin-type anticoagulants" precipitantCode="5Q7ZVV76EI" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="barbiturates" precipitantCode="N0000175693 | N0000008016" effect="C54356"/>
+<LabelInteraction type="Unspecified interaction" precipitant="oral contraceptives" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="238810007: Flushing (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="3424008: Tachycardia (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="methylcholanthrene" precipitantCode="214U33M1RL" effect="126488004: Neoplasm of skin (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="methylcholanthrene" precipitantCode="214U33M1RL" effect="18903007: Carcinogen effect (disorder)"/>
+
+</LabelInteractions></Label>

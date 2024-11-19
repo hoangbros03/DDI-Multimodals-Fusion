@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Aubagio" setid="4650d12c-b9c8-4525-b07f-a2d773eca155">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs ( 7 )  Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel. Choose an appropriate oral contraceptive ( 7 )  Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs ( 7 )  Warfarin: Monitor INR as teriflunomide may decrease INR ( 7 )  Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs ( 7 )  Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking AUBAGIO ( 7 )  Effect of AUBAGIO on CYP2C8 substrates  Teriflunomide is an inhibitor of CYP2C8 in vivo . In patients taking AUBAGIO, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on warfarin  Coadministration of AUBAGIO with warfarin requires close monitoring of the international normalized ratio (INR) because AUBAGIO may decrease peak INR by approximately 25%.  Effect of AUBAGIO on oral contraceptives  AUBAGIO may increase the systemic exposures of ethinylestradiol and levonorgestrel. Consideration should be given to the type or dose of contraceptives used in combination with AUBAGIO [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on CYP1A2 substrates  Teriflunomide may be a weak inducer of CYP1A2 in vivo . In patients taking AUBAGIO, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced. Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on organic anion transporter 3 (OAT3) substrates  Teriflunomide inhibits the activity of OAT3 in vivo . In patients taking AUBAGIO, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased. Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3) ] .  Effect of AUBAGIO on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates  Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo . For a patient taking AUBAGIO, the dose of rosuvastatin should not exceed 10 mg once daily. For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking AUBAGIO [see Clinical Pharmacology (12.3) ] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Teriflunomide, an immunomodulatory agent with anti-inflammatory properties, inhibits dihydroorotate dehydrogenase, a mitochondrial enzyme involved in de novo pyrimidine synthesis. The exact mechanism by which teriflunomide exerts its therapeutic effect in multiple sclerosis is unknown but may involve a reduction in the number of activated lymphocytes in CNS.  12.2 Pharmacodynamics  Potential to prolong the QT interval  In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).  12.3 Pharmacokinetics  Teriflunomide is the principal active metabolite of leflunomide and is responsible for leflunomide's activity in vivo . At recommended doses, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.  Based on a population analysis of teriflunomide in healthy volunteers and MS patients, median t 1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively. It takes approximately 3 months respectively to reach steady-state concentrations. The estimated AUC accumulation ratio is approximately 30 after repeated doses of 7 or 14 mg.  Absorption  Median time to reach maximum plasma concentrations is between 1 to 4 hours post dose following oral administration of teriflunomide.  Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.  Distribution  Teriflunomide is extensively bound to plasma protein (&gt;99%) and is mainly distributed in plasma. The volume of distribution is 11 L after a single intravenous (IV) administration.  Metabolism  Teriflunomide is the major circulating moiety detected in plasma. The primary biotransformation pathway to minor metabolites of teriflunomide is hydrolysis, with oxidation being a minor pathway. Secondary pathways involve oxidation, N-acetylation and sulfate conjugation.  Elimination  Teriflunomide is eliminated mainly through direct biliary excretion of unchanged drug as well as renal excretion of metabolites. Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%). After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces). After a single IV administration, the total body clearance of teriflunomide is 30.5 mL/h.  Drug Interaction Studies  Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.  The Potential Effect of AUBAGIO on Other Drugs  CYP2C8 Substrates  There was an increase in mean repaglinide C max and AUC (1.7- and 2.4-fold, respectively) following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo . The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7) ] .  CYP1A2 Substrates  Repeated doses of teriflunomide decreased mean C max and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo  [see Drug Interactions (7) ].  OAT3 Substrates  There was an increase in mean cefaclor C max and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7) ] .  BCRP and OATP1B1/1B3 Substrates  There was an increase in mean rosuvastatin C max and AUC (2.65- and 2.51-fold, respectively) following repeated doses of teriflunomide , suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7) ] .  Oral Contraceptives  There was an increase in mean ethinylestradiol C max and AUC 0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel C max and AUC 0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7) ] .  Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).  The Potential Effect of Other Drugs on AUBAGIO  Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.  Specific populations  Hepatic Impairment  Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide. The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated [see Contraindications (4) , Warnings and Precautions (5.1) , and Use in Specific Populations (8.6) ] .  Renal Impairment  Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7) ] .  Gender  In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.  Race  Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.</Section>
+</Text><Sentences>
+<Sentence id="3148" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Drugs metabolized by CYP2C8 and OAT3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs (7) Teriflunomide may increase exposure of ethinylestradiol and levonorgestrel.</SentenceText>
+<Mention id="M7" type="Trigger" span="94 17" str="increase exposure"/>
+<Mention id="M2" type="Precipitant" span="0 20;32 17" str="Drugs metabolized by | OAT3 transporters" code="NONE"/>
+<Mention id="M4" type="Precipitant" span="191 14" str="levonorgestrel" code="5W7SIA7YZW"/>
+<Mention id="M6" type="Precipitant" span="0 27" str="Drugs metabolized by CYP2C8" code="NONE"/>
+<Mention id="M8" type="Precipitant" span="170 16" str="ethinylestradiol" code="NONE"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M7" precipitant="M2" effect="C54357"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M7" precipitant="M4" effect="C54357"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M7" precipitant="M6" effect="C54357"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M7" precipitant="M8" effect="C54357"/>
+</Sentence>
+<Sentence id="3149" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Choose an appropriate oral contraceptive (7) Drugs metabolized by CYP1A2: Monitor patients because teriflunomide may decrease exposure of these drugs (7) Warfarin: Monitor INR as teriflunomide may decrease INR (7) Drugs metabolized by BCRP and OATP1B1/B3 transporters: Monitor patients because teriflunomide may increase exposure of these drugs (7) Rosuvastatin: The dose of rosuvastatin should not exceed 10 mg once daily in patients taking AUBAGIO (7) Effect of AUBAGIO on CYP2C8 substrates Teriflunomide is an inhibitor of CYP2C8 in vivo.</SentenceText>
+<Mention id="M21" type="Trigger" span="312 17" str="increase exposure"/>
+<Mention id="M10" type="Precipitant" span="214 25" str="Drugs metabolized by BCRP" code="NONE"/>
+<Mention id="M11" type="Trigger" span="367 4;388 17" str="dose | should not exceed"/>
+<Mention id="M12" type="Precipitant" span="375 12" str="rosuvastatin" code="413KH5ZJ73"/>
+<Mention id="M13" type="Trigger" span="454 6;513 9" str="Effect | inhibitor"/>
+<Mention id="M14" type="Precipitant" span="475 17" str="CYP2C8 substrates" code="NONE"/>
+<Mention id="M15" type="SpecificInteraction" span="454 6;513 19" str="Effect | inhibitor of CYP2C8" code="NO MAP"/>
+<Mention id="M18" type="SpecificInteraction" span="197 12" str="decrease INR" code="413086003: Deviation of international normalized ratio from target range (finding)"/>
+<Mention id="M17" type="Precipitant" span="154 8" str="Warfarin" code="N0000006403"/>
+<Mention id="M19" type="Trigger" span="117 17" str="decrease exposure"/>
+<Mention id="M20" type="Precipitant" span="45 27" str="Drugs metabolized by CYP1A2" code="NONE"/>
+<Mention id="M22" type="Precipitant" span="45 20;244 23" str="Drugs metabolized by | OATP1B1/B3 transporters" code="NONE"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M21" precipitant="M10" effect="C54357"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M11" precipitant="M12" effect="C54357"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M13" precipitant="M14" effect="M15"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M18" precipitant="M17" effect="M18"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M19" precipitant="M20" effect="C54358"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M21" precipitant="M22" effect="C54357"/>
+</Sentence>
+<Sentence id="3150" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>In patients taking AUBAGIO, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased.</SentenceText>
+<Mention id="M31" type="Trigger" span="28 8;136 9" str="exposure | increased"/>
+<Mention id="M24" type="Precipitant" span="75 10" str="paclitaxel" code="P88XT4IS4D"/>
+<Mention id="M26" type="Precipitant" span="114 13" str="rosiglitazone" code="NONE"/>
+<Mention id="M28" type="Precipitant" span="40 27" str="drugs metabolized by CYP2C8" code="NONE"/>
+<Mention id="M30" type="Precipitant" span="87 12" str="pioglitazone" code="NONE"/>
+<Mention id="M32" type="Precipitant" span="101 11" str="repaglinide" code="668Z8C33LU"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M31" precipitant="M24" effect="C54357"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M31" precipitant="M26" effect="C54357"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M31" precipitant="M28" effect="C54357"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M31" precipitant="M30" effect="C54357"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M31" precipitant="M32" effect="C54357"/>
+</Sentence>
+<Sentence id="3151" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required.</SentenceText>
+<Mention id="M33" type="Trigger" span="0 7" str="Monitor "/>
+<Mention id="M34" type="Trigger" span="27 15" str=" adjust the dose"/>
+<Mention id="M35" type="Precipitant" span="62 29" str="drug(s) metabolized by CYP2C8" code="NONE"/>
+<Interaction id="I16" type="Unspecified interaction" trigger="M33;M34" precipitant="M35"/>
+</Sentence>
+<Sentence id="3152" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on warfarin Coadministration of AUBAGIO with warfarin requires close monitoring of the international normalized ratio (INR) because AUBAGIO may decrease peak INR by approximately 25%.</SentenceText>
+<Mention id="M38" type="SpecificInteraction" span="162 17" str="decrease peak INR" code="413086003: Deviation of international normalized ratio from target range (finding)"/>
+<Mention id="M37" type="Precipitant" span="21 8" str="warfarin" code="N0000006403"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M38" precipitant="M37" effect="M38"/>
+</Sentence>
+<Sentence id="3153" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on oral contraceptives AUBAGIO may increase the systemic exposures of ethinylestradiol and levonorgestrel.</SentenceText>
+<Mention id="M43" type="Trigger" span="53 31" str="increase the systemic exposures"/>
+<Mention id="M40" type="Precipitant" span="21 19" str="oral contraceptives" code="NO MAP"/>
+<Mention id="M42" type="Precipitant" span="88 16" str="ethinylestradiol" code="NONE"/>
+<Mention id="M44" type="Precipitant" span="109 14" str="levonorgestrel" code="5W7SIA7YZW"/>
+<Interaction id="I18" type="Pharmacokinetic interaction" trigger="M43" precipitant="M40" effect="C54357"/>
+<Interaction id="I19" type="Pharmacokinetic interaction" trigger="M43" precipitant="M42" effect="C54357"/>
+<Interaction id="I20" type="Pharmacokinetic interaction" trigger="M43" precipitant="M44" effect="C54357"/>
+</Sentence>
+<Sentence id="3154" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Consideration should be given to the type or dose of contraceptives used in combination with AUBAGIO.</SentenceText>
+<Mention id="M45" type="Trigger" span="0 29;45 4" str="Consideration should be given | dose"/>
+<Mention id="M46" type="Precipitant" span="53 14" str="contraceptives" code="NONE"/>
+<Interaction id="I21" type="Unspecified interaction" trigger="M45" precipitant="M46"/>
+</Sentence>
+<Sentence id="3155" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on CYP1A2 substrates Teriflunomide may be a weak inducer of CYP1A2 in vivo.</SentenceText>
+<Mention id="M47" type="Trigger" span="0 6;67 7" str="Effect | inducer"/>
+<Mention id="M48" type="Precipitant" span="21 17" str="CYP1A2 substrates" code="NONE"/>
+<Mention id="M49" type="SpecificInteraction" span="0 6;67 17" str="Effect | inducer of CYP1A2" code="NO MAP"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M47" precipitant="M48" effect="M49"/>
+</Sentence>
+<Sentence id="3156" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>In patients taking AUBAGIO, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced.</SentenceText>
+<Mention id="M58" type="Trigger" span="28 8;131 7" str="exposure | reduced"/>
+<Mention id="M51" type="Precipitant" span="86 10" str="duloxetine" code="NONE"/>
+<Mention id="M53" type="Precipitant" span="40 27" str="drugs metabolized by CYP1A2" code="NONE"/>
+<Mention id="M55" type="Precipitant" span="112 10" str="tizanidine" code="6AI06C00GW"/>
+<Mention id="M57" type="Precipitant" span="98 12" str="theophylline" code="N0000007076"/>
+<Mention id="M59" type="Precipitant" span="75 9" str="alosetron" code="13Z9HTH115"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M58" precipitant="M51" effect="C54358"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M58" precipitant="M53" effect="C54358"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M58" precipitant="M55" effect="C54358"/>
+<Interaction id="I26" type="Pharmacokinetic interaction" trigger="M58" precipitant="M57" effect="C54358"/>
+<Interaction id="I27" type="Pharmacokinetic interaction" trigger="M58" precipitant="M59" effect="C54358"/>
+</Sentence>
+<Sentence id="3157" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required.</SentenceText>
+<Mention id="M60" type="Trigger" span="0 7" str="Monitor "/>
+<Mention id="M61" type="Trigger" span="27 15" str=" adjust the dose"/>
+<Mention id="M62" type="Precipitant" span="62 29" str="drug(s) metabolized by CYP1A2" code="NONE"/>
+<Interaction id="I28" type="Unspecified interaction" trigger="M60;M61" precipitant="M62"/>
+</Sentence>
+<Sentence id="3158" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on organic anion transporter 3 (OAT3) substrates Teriflunomide inhibits the activity of OAT3 in vivo.</SentenceText>
+<Mention id="M69" type="Trigger" span="0 6;81 8" str="Effect | inhibits"/>
+<Mention id="M64" type="Precipitant" span="50 4;56 10" str="OAT3| substrates" code="NONE"/>
+<Mention id="M71" type="SpecificInteraction" span="0 6;81 8;50 4" str="Effect | inhibits | OAT3" code="NO MAP"/>
+<Mention id="M67" type="Precipitant" span="21 45" str="organic anion transporter 3 (OAT3) substrates" code="NONE"/>
+<Mention id="M70" type="Precipitant" span="21 27;56 10" str="organic anion transporter 3 | substrates" code="NONE"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M69" precipitant="M64" effect="M71"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M69" precipitant="M67" effect="M71"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M69" precipitant="M70" effect="M71"/>
+</Sentence>
+<Sentence id="3159" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>In patients taking AUBAGIO, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.</SentenceText>
+<Mention id="M88" type="Trigger" span="28 8;187 9" str="exposure | increased"/>
+<Mention id="M73" type="Precipitant" span="142 10" str="furosemide" code="N0000007175"/>
+<Mention id="M75" type="Precipitant" span="116 12" str="penicillin G" code="NONE"/>
+<Mention id="M77" type="Precipitant" span="79 8" str="cefaclor" code="NONE"/>
+<Mention id="M79" type="Precipitant" span="89 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M81" type="Precipitant" span="101 13" str="ciprofloxacin" code="5E8K9I0O4U"/>
+<Mention id="M83" type="Precipitant" span="56 15" str="OAT3 substrates" code="NONE"/>
+<Mention id="M85" type="Precipitant" span="168 10" str="zidovudine" code="4B9XT59T7S"/>
+<Mention id="M87" type="Precipitant" span="154 12" str="methotrexate" code="N0000007370"/>
+<Mention id="M89" type="Precipitant" span="130 10" str="ketoprofen" code="NONE"/>
+<Interaction id="I32" type="Pharmacokinetic interaction" trigger="M88" precipitant="M73" effect="C54357"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M88" precipitant="M75" effect="C54357"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M88" precipitant="M77" effect="C54357"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M88" precipitant="M79" effect="C54357"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M88" precipitant="M81" effect="C54357"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M88" precipitant="M83" effect="C54357"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M88" precipitant="M85" effect="C54357"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M88" precipitant="M87" effect="C54357"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M88" precipitant="M89" effect="C54357"/>
+</Sentence>
+<Sentence id="3160" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required.</SentenceText>
+<Mention id="M90" type="Trigger" span="0 7" str="Monitor "/>
+<Mention id="M91" type="Trigger" span="27 15" str=" adjust the dose"/>
+<Mention id="M92" type="Precipitant" span="80 15" str="OAT3 substrates" code="NONE"/>
+<Interaction id="I41" type="Unspecified interaction" trigger="M90;M91" precipitant="M92"/>
+</Sentence>
+<Sentence id="3161" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>Effect of AUBAGIO on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.</SentenceText>
+<Mention id="M102" type="Trigger" span="0 6;118 8" str="Effect | inhibits"/>
+<Mention id="M94" type="Precipitant" span="80 11;93 10" str="OATP1B1/1B3| substrates" code="NONE"/>
+<Mention id="M104" type="SpecificInteraction" span="0 6;118 8;80 11" str="Effect | inhibits | OATP1B1/1B3" code="NO MAP"/>
+<Mention id="M97" type="Precipitant" span="21 4;93 10" str="BCRP | substrates" code="NONE"/>
+<Mention id="M98" type="SpecificInteraction" span="0 6;118 8;21 4" str="Effect | inhibits | BCRP" code="NO MAP"/>
+<Mention id="M100" type="Precipitant" span="30 73" str="organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates" code="NONE"/>
+<Mention id="M103" type="Precipitant" span="30 48;93 10" str="organic anion transporting polypeptide B1 and B3 | substrates" code="NONE"/>
+<Interaction id="I42" type="Pharmacodynamic interaction" trigger="M102" precipitant="M94" effect="M104"/>
+<Interaction id="I43" type="Pharmacodynamic interaction" trigger="M102" precipitant="M97" effect="M98"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M102" precipitant="M100" effect="M104"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M102" precipitant="M103" effect="M104"/>
+</Sentence>
+<Sentence id="3162" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>For a patient taking AUBAGIO, the dose of rosuvastatin should not exceed 10 mg once daily.</SentenceText>
+<Mention id="M105" type="Trigger" span="34 4;55 17" str="dose | should not exceed"/>
+<Mention id="M106" type="Precipitant" span="42 12" str="rosuvastatin" code="413KH5ZJ73"/>
+<Interaction id="I46" type="Pharmacokinetic interaction" trigger="M105" precipitant="M106" effect="C54357"/>
+</Sentence>
+<Sentence id="3163" LabelDrug="Aubagio" section="34073-7">
+<SentenceText>For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking AUBAGIO.</SentenceText>
+<Mention id="M137" type="Trigger" span="237 17" str="reducing the dose "/>
+<Mention id="M138" type="Trigger" span="325 19" str=" increased exposures"/>
+<Mention id="M109" type="Precipitant" span="122 27" str="HMG-Co reductase inhibitors" code="NONE"/>
+<Mention id="M112" type="Precipitant" span="184 11" str="pravastatin" code="KXO2KT9N0G"/>
+<Mention id="M115" type="Precipitant" span="214 11" str="simvastatin" code="N0000005842"/>
+<Mention id="M118" type="Precipitant" span="36 12" str="mitoxantrone" code="NONE"/>
+<Mention id="M121" type="Precipitant" span="100 8" str="rifampin" code="N0000006026"/>
+<Mention id="M124" type="Precipitant" span="157 12" str="atorvastatin" code="N0000022046"/>
+<Mention id="M127" type="Precipitant" span="171 11" str="nateglinide" code="NONE"/>
+<Mention id="M130" type="Precipitant" span="86 12" str="methotrexate" code="N0000007370"/>
+<Mention id="M133" type="Precipitant" span="197 11" str="repaglinide" code="668Z8C33LU"/>
+<Mention id="M136" type="Precipitant" span="10 18" str="substrates of BCRP" code="NONE"/>
+<Mention id="M139" type="Precipitant" span="54 24" str="drugs in the OATP family" code="NONE"/>
+<Interaction id="I47" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M109" effect="C54357"/>
+<Interaction id="I48" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M112" effect="C54357"/>
+<Interaction id="I49" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M115" effect="C54357"/>
+<Interaction id="I50" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M118" effect="C54357"/>
+<Interaction id="I51" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M121" effect="C54357"/>
+<Interaction id="I52" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M124" effect="C54357"/>
+<Interaction id="I53" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M127" effect="C54357"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M130" effect="C54357"/>
+<Interaction id="I55" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M133" effect="C54357"/>
+<Interaction id="I56" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M136" effect="C54357"/>
+<Interaction id="I57" type="Pharmacokinetic interaction" trigger="M137;M138" precipitant="M139" effect="C54357"/>
+</Sentence>
+<Sentence id="3164" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Teriflunomide, an immunomodulatory agent with anti-inflammatory properties, inhibits dihydroorotate dehydrogenase, a mitochondrial enzyme involved in de novo pyrimidine synthesis.</SentenceText>
+</Sentence>
+<Sentence id="3165" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The exact mechanism by which teriflunomide exerts its therapeutic effect in multiple sclerosis is unknown but may involve a reduction in the number of activated lymphocytes in CNS.</SentenceText>
+</Sentence>
+<Sentence id="3166" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Potential to prolong the QT interval In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).</SentenceText>
+</Sentence>
+<Sentence id="3167" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Teriflunomide is the principal active metabolite of leflunomide and is responsible for leflunomide's activity in vivo.</SentenceText>
+</Sentence>
+<Sentence id="3168" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>At recommended doses, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3169" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Based on a population analysis of teriflunomide in healthy volunteers and MS patients, median t1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively.</SentenceText>
+</Sentence>
+<Sentence id="3170" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>It takes approximately 3 months respectively to reach steady-state concentrations.</SentenceText>
+</Sentence>
+<Sentence id="3171" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The estimated AUC accumulation ratio is approximately 30 after repeated doses of 7 or 14 mg. Absorption Median time to reach maximum plasma concentrations is between 1 to 4 hours post dose following oral administration of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3172" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Food does not have a clinically relevant effect on teriflunomide pharmacokinetics.</SentenceText>
+</Sentence>
+<Sentence id="3173" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Distribution Teriflunomide is extensively bound to plasma protein (&gt;99%) and is mainly distributed in plasma.</SentenceText>
+</Sentence>
+<Sentence id="3174" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The volume of distribution is 11 L after a single intravenous (IV) administration.</SentenceText>
+</Sentence>
+<Sentence id="3175" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Metabolism Teriflunomide is the major circulating moiety detected in plasma.</SentenceText>
+</Sentence>
+<Sentence id="3176" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The primary biotransformation pathway to minor metabolites of teriflunomide is hydrolysis, with oxidation being a minor pathway.</SentenceText>
+</Sentence>
+<Sentence id="3177" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Secondary pathways involve oxidation, N-acetylation and sulfate conjugation.</SentenceText>
+</Sentence>
+<Sentence id="3178" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Elimination Teriflunomide is eliminated mainly through direct biliary excretion of unchanged drug as well as renal excretion of metabolites.</SentenceText>
+</Sentence>
+<Sentence id="3179" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Over 21 days, 60.1% of the administered dose is excreted via feces (37.5%) and urine (22.6%).</SentenceText>
+</Sentence>
+<Sentence id="3180" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>After an accelerated elimination procedure with cholestyramine, an additional 23.1% was recovered (mostly in feces).</SentenceText>
+</Sentence>
+<Sentence id="3181" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>After a single IV administration, the total body clearance of teriflunomide is 30.5 mL/h.</SentenceText>
+</Sentence>
+<Sentence id="3182" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Drug Interaction Studies Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.</SentenceText>
+</Sentence>
+<Sentence id="3183" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The Potential Effect of AUBAGIO on Other Drugs CYP2C8 Substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.</SentenceText>
+<Mention id="M146" type="Trigger" span="78 8;107 4" str="increase | Cmax"/>
+<Mention id="M143" type="Precipitant" span="47 16" str="CYP2C8 Substrate" code="NONE"/>
+<Mention id="M144" type="Trigger" span="78 8;116 3" str="increase | AUC"/>
+<Mention id="M147" type="Precipitant" span="95 11" str="repaglinide" code="668Z8C33LU"/>
+<Interaction id="I58" type="Pharmacokinetic interaction" trigger="M146" precipitant="M143" effect="C54610"/>
+<Interaction id="I59" type="Pharmacokinetic interaction" trigger="M144" precipitant="M143" effect="C54613"/>
+<Interaction id="I60" type="Pharmacokinetic interaction" trigger="M144" precipitant="M147" effect="C54613"/>
+<Interaction id="I61" type="Pharmacokinetic interaction" trigger="M146" precipitant="M147" effect="C54610"/>
+</Sentence>
+<Sentence id="3184" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The magnitude of interaction could be higher at the recommended repaglinide dose.</SentenceText>
+<Mention id="M148" type="Trigger" span="17 11" str="interaction"/>
+<Mention id="M149" type="Precipitant" span="64 11" str="repaglinide" code="668Z8C33LU"/>
+<Interaction id="I62" type="Unspecified interaction" trigger="M148" precipitant="M149"/>
+</Sentence>
+<Sentence id="3185" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>CYP1A2 Substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo.</SentenceText>
+<Mention id="M150" type="Trigger" span="50 9;65 4" str="decreased | Cmax"/>
+<Mention id="M153" type="Precipitant" span="81 8" str="caffeine" code="N0000006506"/>
+<Mention id="M152" type="Trigger" span="50 9;74 3" str="decreased | AUC"/>
+<Interaction id="I63" type="Pharmacokinetic interaction" trigger="M150" precipitant="M153" effect="C54615"/>
+<Interaction id="I64" type="Pharmacokinetic interaction" trigger="M152" precipitant="M153" effect="C54614"/>
+</Sentence>
+<Sentence id="3186" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>OAT3 Substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo.</SentenceText>
+<Mention id="M158" type="Trigger" span="29 8;64 3" str="increase | AUC"/>
+<Mention id="M157" type="Precipitant" span="46 8" str="cefaclor" code="NONE"/>
+<Mention id="M160" type="Trigger" span="29 8;55 4" str="increase | Cmax"/>
+<Mention id="M161" type="Precipitant" span="0 15" str="OAT3 Substrates" code="NONE"/>
+<Interaction id="I65" type="Pharmacokinetic interaction" trigger="M158" precipitant="M157" effect="C54613"/>
+<Interaction id="I66" type="Pharmacokinetic interaction" trigger="M160" precipitant="M157" effect="C54610"/>
+<Interaction id="I67" type="Pharmacokinetic interaction" trigger="M158" precipitant="M161" effect="C54613"/>
+<Interaction id="I68" type="Pharmacokinetic interaction" trigger="M160" precipitant="M161" effect="C54610"/>
+</Sentence>
+<Sentence id="3187" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>BCRP and OATP1B1/1B3 Substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide , suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3).</SentenceText>
+<Mention id="M166" type="Trigger" span="45 8;84 3" str="increase | AUC"/>
+<Mention id="M169" type="Precipitant" span="9 22" str="OATP1B1/1B3 Substrates" code="NONE"/>
+<Mention id="M171" type="Precipitant" span="0 4;21 10" str="BCRP | Substrates" code="NONE"/>
+<Mention id="M173" type="Precipitant" span="62 12" str="rosuvastatin" code="413KH5ZJ73"/>
+<Mention id="M172" type="Trigger" span="45 8;75 4" str="increase | Cmax"/>
+<Interaction id="I69" type="Pharmacokinetic interaction" trigger="M166" precipitant="M169" effect="C54613"/>
+<Interaction id="I70" type="Pharmacokinetic interaction" trigger="M166" precipitant="M171" effect="C54613"/>
+<Interaction id="I71" type="Pharmacokinetic interaction" trigger="M166" precipitant="M173" effect="C54613"/>
+<Interaction id="I72" type="Pharmacokinetic interaction" trigger="M172" precipitant="M169" effect="C54610"/>
+<Interaction id="I73" type="Pharmacokinetic interaction" trigger="M172" precipitant="M171" effect="C54610"/>
+<Interaction id="I74" type="Pharmacokinetic interaction" trigger="M172" precipitant="M173" effect="C54610"/>
+</Sentence>
+<Sentence id="3188" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Oral Contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0–24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0–24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide.</SentenceText>
+<Mention id="M184" type="Trigger" span="33 8;76 3" str="increase | AUC"/>
+<Mention id="M181" type="Precipitant" span="50 16" str="ethinylestradiol" code="NONE"/>
+<Mention id="M179" type="Precipitant" span="124 14" str="levonorgestrel" code="5W7SIA7YZW"/>
+<Mention id="M182" type="Trigger" span="33 8;67 4" str="increase | Cmax"/>
+<Mention id="M185" type="Precipitant" span="0 19" str="Oral Contraceptives" code="NO MAP"/>
+<Interaction id="I75" type="Pharmacokinetic interaction" trigger="M184" precipitant="M181" effect="C54613"/>
+<Interaction id="I76" type="Pharmacokinetic interaction" trigger="M184" precipitant="M179" effect="C54613"/>
+<Interaction id="I77" type="Pharmacokinetic interaction" trigger="M182" precipitant="M179" effect="C54610"/>
+<Interaction id="I78" type="Pharmacokinetic interaction" trigger="M182" precipitant="M181" effect="C54610"/>
+<Interaction id="I79" type="Pharmacokinetic interaction" trigger="M182" precipitant="M185" effect="C54610"/>
+<Interaction id="I80" type="Pharmacokinetic interaction" trigger="M184" precipitant="M185" effect="C54613"/>
+</Sentence>
+<Sentence id="3189" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).</SentenceText>
+</Sentence>
+<Sentence id="3190" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The Potential Effect of Other Drugs on AUBAGIO Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3191" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Specific populations Hepatic Impairment Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3192" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated.</SentenceText>
+</Sentence>
+<Sentence id="3193" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Renal Impairment Severe renal impairment had no impact on the pharmacokinetics of teriflunomide.</SentenceText>
+</Sentence>
+<Sentence id="3194" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.</SentenceText>
+</Sentence>
+<Sentence id="3195" LabelDrug="Aubagio" section="34090-1">
+<SentenceText>Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by | oat3 transporters" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levonorgestrel" precipitantCode="5W7SIA7YZW" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levonorgestrel" precipitantCode="5W7SIA7YZW" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levonorgestrel" precipitantCode="5W7SIA7YZW" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by cyp2c8" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ethinylestradiol" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ethinylestradiol" precipitantCode="NONE" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ethinylestradiol" precipitantCode="NONE" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by bcrp" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosuvastatin" precipitantCode="413KH5ZJ73" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosuvastatin" precipitantCode="413KH5ZJ73" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosuvastatin" precipitantCode="413KH5ZJ73" effect="C54613"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp2c8 substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="N0000006403" effect="413086003: Deviation of international normalized ratio from target range (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by cyp1a2" precipitantCode="NONE" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs metabolized by | oatp1b1/b3 transporters" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paclitaxel" precipitantCode="P88XT4IS4D" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rosiglitazone" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="pioglitazone" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU" effect="C54613"/>
+<LabelInteraction type="Unspecified interaction" precipitant="repaglinide" precipitantCode="668Z8C33LU"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drug(s) metabolized by cyp2c8" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oral contraceptives" precipitantCode="NO MAP" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oral contraceptives" precipitantCode="NO MAP" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oral contraceptives" precipitantCode="NO MAP" effect="C54613"/>
+<LabelInteraction type="Unspecified interaction" precipitant="contraceptives" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cyp1a2 substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="duloxetine" precipitantCode="NONE" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tizanidine" precipitantCode="6AI06C00GW" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="theophylline" precipitantCode="N0000007076" effect="C54358"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="alosetron" precipitantCode="13Z9HTH115" effect="C54358"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drug(s) metabolized by cyp1a2" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="oat3| substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="organic anion transporter 3 (oat3) substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="organic anion transporter 3 | substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="furosemide" precipitantCode="N0000007175" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="penicillin g" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cefaclor" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cefaclor" precipitantCode="NONE" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cefaclor" precipitantCode="NONE" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ciprofloxacin" precipitantCode="5E8K9I0O4U" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oat3 substrates" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oat3 substrates" precipitantCode="NONE" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oat3 substrates" precipitantCode="NONE" effect="C54613"/>
+<LabelInteraction type="Unspecified interaction" precipitant="oat3 substrates" precipitantCode="NONE"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="zidovudine" precipitantCode="4B9XT59T7S" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="methotrexate" precipitantCode="N0000007370" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoprofen" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="oatp1b1/1b3| substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="bcrp | substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="bcrp | substrates" precipitantCode="NONE" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="bcrp | substrates" precipitantCode="NONE" effect="C54613"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="organic anion transporting polypeptide b1 and b3 (oatp1b1/1b3) substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="organic anion transporting polypeptide b1 and b3 | substrates" precipitantCode="NONE" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hmg-co reductase inhibitors" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="pravastatin" precipitantCode="KXO2KT9N0G" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="simvastatin" precipitantCode="N0000005842" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="mitoxantrone" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="atorvastatin" precipitantCode="N0000022046" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="nateglinide" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="substrates of bcrp" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs in the oatp family" precipitantCode="NONE" effect="C54357"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2c8 substrate" precipitantCode="NONE" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp2c8 substrate" precipitantCode="NONE" effect="C54613"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="caffeine" precipitantCode="N0000006506" effect="C54614"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="caffeine" precipitantCode="N0000006506" effect="C54615"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oatp1b1/1b3 substrates" precipitantCode="NONE" effect="C54610"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="oatp1b1/1b3 substrates" precipitantCode="NONE" effect="C54613"/>
+
+</LabelInteractions></Label>

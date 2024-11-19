@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Meclizine Hydrochloride" setid="666dc4d8-7b16-4c3c-84e4-645548dbee68">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Meclizine hydrochloride is contraindicated in individuals who have shown a previous hypersensitivity to it.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+The recommended dosage is 25 mg to 100 mg daily administered orally, in divided dosage, depending upon clinical response.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Pediatric Use Clinical studies establishing safety and effectiveness in children have not been done; therefore, usage is not recommended in children under 12 years of age. Pregnancy Teratogenic Effects. Pregnancy Category B. Reproduction studies in rats have shown cleft palates at 25 to 50 times the human dose. Epidemiological studies in pregnant women, however, do not indicate that meclizine increases the risk of abnormalities when administered during pregnancy. Despite the animal findings, it would appear that the possibility of fetal harm is remote. Nevertheless, meclizine, or any other medication, should be used during pregnancy only if clearly necessary. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when meclizine is administered to a nursing woman. Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of meclizine has not been evaluated. As meclizine undergoes metabolism, hepatic impairment may result in increased systemic exposure of the drug. Treatment with meclizine should be administered with caution in patients with hepatic impairment. Renal Impairment The effect of renal impairment on the pharmacokinetics of meclizine has not been evaluated. Due to a potential for drug/metabolite accumulation, meclizine should be administered with caution in patients with renal impairment and in the elderly as renal function generally declines with age. Drug Interactions There may be increased CNS depression when meclizine is administered concurrently with other CNS depressants, including alcohol, tranquilizers and sedatives (see WARNINGS ). Based on in vitro evaluation, meclizine is metabolized by CYP2D6. Therefore there is a possibility for a drug interaction between meclizine and CYP2D6 inhibitors.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+Since drowsiness may, on occasion, occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery. Patients should avoid alcoholic beverages while taking this drug. Due to its potential anticholinergic action, this drug should be used with caution in patients with asthma, glaucoma, or enlargement of the prostate gland.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Meclizine hydrochloride is an antihistamine that shows marked protective activity against nebulized histamine and lethal doses of intravenously injected histamine in guinea pigs. It has a marked effect in blocking the vasodepressor response to histamine, but only a slight blocking action against acetylcholine. Its activity is relatively weak in inhibiting the spasmogenic action of histamine on isolated guinea pig ileum. Pharmacokinetics The available pharmacokinetic information for meclizine following oral administration has been summarized from published literature. Absorption Meclizine is absorbed after oral administration with maximum plasma concentrations reaching at a median T max value of 3 hours post-dose (range: 1.5 to 6 hours) for the tablet dosage form. Distribution Drug distribution characteristics for meclizine in humans are unknown. Metabolism The metabolic fate of meclizine in humans is unknown. In an in vitro metabolic study using human hepatic microsome and recombinant CYP enzyme, CYP2D6 was found to be the dominant enzyme for metabolism of meclizine. The genetic polymorphism of CYP2D6 that results in extensive-, poor-, intermediate- and ultrarapid metabolizer phenotypes could contribute to large inter-individual variability in meclizine exposure. Elimination Meclizine has a plasma elimination half-life of about 5 to 6 hours in humans.</Section>
+</Text><Sentences>
+<Sentence id="9412" LabelDrug="Meclizine Hydrochloride" section="34070-3">
+<SentenceText>Meclizine hydrochloride is contraindicated in individuals who have shown a previous hypersensitivity to it.</SentenceText>
+</Sentence>
+<Sentence id="9413" LabelDrug="Meclizine Hydrochloride" section="34068-7">
+<SentenceText>The recommended dosage is 25 mg to 100 mg daily administered orally, in divided dosage, depending upon clinical response.</SentenceText>
+</Sentence>
+<Sentence id="9414" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Pediatric Use Clinical studies establishing safety and effectiveness in children have not been done; therefore, usage is not recommended in children under 12 years of age.</SentenceText>
+</Sentence>
+<Sentence id="9415" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Pregnancy Category B. Reproduction studies in rats have shown cleft palates at 25 to 50 times the human dose.</SentenceText>
+</Sentence>
+<Sentence id="9416" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Epidemiological studies in pregnant women, however, do not indicate that meclizine increases the risk of abnormalities when administered during pregnancy.</SentenceText>
+</Sentence>
+<Sentence id="9417" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Despite the animal findings, it would appear that the possibility of fetal harm is remote.</SentenceText>
+</Sentence>
+<Sentence id="9418" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Nevertheless, meclizine, or any other medication, should be used during pregnancy only if clearly necessary.</SentenceText>
+</Sentence>
+<Sentence id="9419" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Nursing Mothers It is not known whether this drug is excreted in human milk.</SentenceText>
+</Sentence>
+<Sentence id="9420" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Because many drugs are excreted in human milk, caution should be exercised when meclizine is administered to a nursing woman.</SentenceText>
+</Sentence>
+<Sentence id="9421" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of meclizine has not been evaluated.</SentenceText>
+</Sentence>
+<Sentence id="9422" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>As meclizine undergoes metabolism, hepatic impairment may result in increased systemic exposure of the drug.</SentenceText>
+</Sentence>
+<Sentence id="9423" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Treatment with meclizine should be administered with caution in patients with hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="9424" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Renal Impairment The effect of renal impairment on the pharmacokinetics of meclizine has not been evaluated.</SentenceText>
+</Sentence>
+<Sentence id="9425" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Due to a potential for drug/metabolite accumulation, meclizine should be administered with caution in patients with renal impairment and in the elderly as renal function generally declines with age.</SentenceText>
+</Sentence>
+<Sentence id="9426" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Drug Interactions There may be increased CNS depression when meclizine is administered concurrently with other CNS depressants, including alcohol, tranquilizers and sedatives.</SentenceText>
+<Mention id="M10" type="Trigger" span="31 9" str="increased"/>
+<Mention id="M2" type="Precipitant" span="138 7" str="alcohol" code="N0000007432 | 3K9958V90M"/>
+<Mention id="M12" type="SpecificInteraction" span="41 14" str="CNS depression" code="418072004: Central nervous system depression (disorder)"/>
+<Mention id="M5" type="Precipitant" span="111 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M8" type="Precipitant" span="165 9" str="sedatives" code="N0000029143 | N0000193842"/>
+<Mention id="M11" type="Precipitant" span="147 13" str="tranquilizers" code="N0000029143 | N0000193842"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M10" precipitant="M2" effect="M12" effectCodeMatch="Exact Match"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M10" precipitant="M5" effect="M12" effectCodeMatch="Exact Match"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M10" precipitant="M8" effect="M12" effectCodeMatch="Exact Match"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M10" precipitant="M11" effect="M12" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="9427" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Based on in vitro evaluation, meclizine is metabolized by CYP2D6.</SentenceText>
+</Sentence>
+<Sentence id="9428" LabelDrug="Meclizine Hydrochloride" section="42232-9">
+<SentenceText>Therefore there is a possibility for a drug interaction between meclizine and CYP2D6 inhibitors.</SentenceText>
+<Mention id="M13" type="Trigger" span="39 16" str="drug interaction"/>
+<Mention id="M14" type="Precipitant" span="78 17" str="CYP2D6 inhibitors" code="N0000182135 | N0000182137"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M13" precipitant="M14"/>
+</Sentence>
+<Sentence id="9429" LabelDrug="Meclizine Hydrochloride" section="34071-1">
+<SentenceText>Since drowsiness may, on occasion, occur with use of this drug, patients should be warned of this possibility and cautioned against driving a car or operating dangerous machinery.</SentenceText>
+</Sentence>
+<Sentence id="9430" LabelDrug="Meclizine Hydrochloride" section="34071-1">
+<SentenceText>Patients should avoid alcoholic beverages while taking this drug.</SentenceText>
+<Mention id="M15" type="Trigger" span="16 5" str="avoid"/>
+<Mention id="M16" type="Precipitant" span="22 19" str="alcoholic beverages" code="3K9958V90M | N0000146104"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M15" precipitant="M16"/>
+</Sentence>
+<Sentence id="9431" LabelDrug="Meclizine Hydrochloride" section="34071-1">
+<SentenceText>Due to its potential anticholinergic action, this drug should be used with caution in patients with asthma, glaucoma, or enlargement of the prostate gland.</SentenceText>
+</Sentence>
+<Sentence id="9432" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Meclizine hydrochloride is an antihistamine that shows marked protective activity against nebulized histamine and lethal doses of intravenously injected histamine in guinea pigs.</SentenceText>
+</Sentence>
+<Sentence id="9433" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>It has a marked effect in blocking the vasodepressor response to histamine, but only a slight blocking action against acetylcholine.</SentenceText>
+</Sentence>
+<Sentence id="9434" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Its activity is relatively weak in inhibiting the spasmogenic action of histamine on isolated guinea pig ileum.</SentenceText>
+</Sentence>
+<Sentence id="9435" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Pharmacokinetics The available pharmacokinetic information for meclizine following oral administration has been summarized from published literature.</SentenceText>
+</Sentence>
+<Sentence id="9436" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Absorption Meclizine is absorbed after oral administration with maximum plasma concentrations reaching at a median Tmax value of 3 hours post-dose (range: 1.5 to 6 hours) for the tablet dosage form.</SentenceText>
+</Sentence>
+<Sentence id="9437" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Distribution Drug distribution characteristics for meclizine in humans are unknown.</SentenceText>
+</Sentence>
+<Sentence id="9438" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Metabolism The metabolic fate of meclizine in humans is unknown.</SentenceText>
+</Sentence>
+<Sentence id="9439" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>In an in vitro metabolic study using human hepatic microsome and recombinant CYP enzyme, CYP2D6 was found to be the dominant enzyme for metabolism of meclizine.</SentenceText>
+</Sentence>
+<Sentence id="9440" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>The genetic polymorphism of CYP2D6 that results in extensive-, poor-, intermediate- and ultrarapid metabolizer phenotypes could contribute to large inter-individual variability in meclizine exposure.</SentenceText>
+</Sentence>
+<Sentence id="9441" LabelDrug="Meclizine Hydrochloride" section="34090-1">
+<SentenceText>Elimination Meclizine has a plasma elimination half-life of about 5 to 6 hours in humans.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432 | 3K9958V90M" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sedatives" precipitantCode="N0000029143 | N0000193842" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tranquilizers" precipitantCode="N0000029143 | N0000193842" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp2d6 inhibitors" precipitantCode="N0000182135 | N0000182137"/>
+<LabelInteraction type="Unspecified interaction" precipitant="alcoholic beverages" precipitantCode="3K9958V90M | N0000146104"/>
+
+</LabelInteractions></Label>

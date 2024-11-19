@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Pravastatin Sodium" setid="ad386ed4-a284-4da5-b79a-3c0f4165057a">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases [ see Warnings and Precautions ( 5.1 ) and Clinical Pharmacology ( 12.3 ) ].   Concomitant lipid-lowering therapies: use with fibrates or lipid-modifying doses (≥ 1 g/day) of niacin increases the risk of adverse skeletal muscle effects. Caution should be used when prescribing with pravastatin sodium. ( 7 )  Cyclosporine: combination increases exposure. Limit pravastatin to 20 mg once daily. ( 2.6 , 7.1 )  Clarithromycin: combination increases exposure. Limit pravastatin to 40 mg once daily. ( 2.7 , 7.2 )  7.1 Cyclosporine  The risk of myopathy/rhabdomyolysis is increased with concomitant administration of cyclosporine. Limit pravastatin to 20 mg once daily for concomitant use with cyclosporine [ see Dosage and Administration ( 2.6 ), Warnings and Precautions ( 5.1 ), and Clinical Pharmacology ( 12.3 ) ].  7.2 Clarithromycin and Other Macrolide Antibiotics  The risk of myopathy/rhabdomyolysis is increased with concomitant administration of clarithromycin. Limit pravastatin to 40 mg once daily for concomitant use with clarithromycin [ see Dosage and Administration ( 2.7 ), Warnings and Precautions ( 5.1 ), and Clinical Pharmacology ( 12.3 ) ].  Other macrolides (e.g., erythromycin and azithromycin) have the potential to increase statin exposures while used in combination. Pravastatin should be used cautiously with macrolide antibiotics due to a potential increased risk of myopathies.  7.3 Colchicine  The risk of myopathy/rhabdomyolysis is increased with concomitant administration of colchicine [ see Warnings and Precautions ( 5.1 ) ].  7.4 Gemfibrozil  Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of pravastatin sodium with gemfibrozil should be avoided [ see Warnings and Precautions ( 5.1 ) ].  7.5 Other Fibrates  Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, pravastatin sodium should be administered with caution when used concomitantly with other fibrates [ see Warnings and Precautions ( 5.1 ) ].  7.6 Niacin  The risk of skeletal muscle effects may be enhanced when pravastatin is used in combination with niacin; a reduction in pravastatin sodium dosage should be considered in this setting [ see Warnings and Precautions ( 5.1 ) ].</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Pravastatin is a reversible inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, an early and rate limiting step in the biosynthetic pathway for cholesterol. In addition, pravastatin reduces VLDL and TG and increases HDL-C.  12.3 Pharmacokinetics  General  Absorption:  Pravastatin sodium is administered orally in the active form. In studies in man, peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration. Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%. While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.  Pravastatin plasma concentrations, including area under the concentration-time curve (AUC), C max , and steady-state minimum (C min ), are directly proportional to administered dose. Systemic bioavailability of pravastatin administered following a bedtime dose was decreased 60% compared to that following an AM dose. Despite this decrease in systemic bioavailability, the efficacy of pravastatin administered once daily in the evening, although not statistically significant, was marginally more effective than that after a morning dose.  The coefficient of variation (CV), based on between-subject variability, was 50% to 60% for AUC. The geometric means of pravastatin C ma  x  and AUC following a 20 mg dose in the fasted state were 26.5 ng/mL and 59.8 ng*hr/mL, respectively.  Steady-state AUCs, C max , and C min  plasma concentrations showed no evidence of pravastatin accumulation following once or twice daily administration of pravastatin sodium tablets.  Distribution:  Approximately 50% of the circulating drug is bound to plasma proteins.  Metabolism:  The major biotransformation pathways for pravastatin are: (a) isomerization to 6-epi pravastatin and the 3α-hydroxyisomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945. The 3α-hydroxyisomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound. Pravastatin undergoes extensive first-pass extraction in the liver (extraction ratio 0.66).  Excretion:  Approximately 20% of a radiolabeled oral dose is excreted in urine and 70% in the feces. After intravenous administration of radiolabeled pravastatin to normal volunteers, approximately 47% of total body clearance was via renal excretion and 53% by non-renal routes (i.e., biliary excretion and biotransformation).  Following single dose oral administration of  14 C-pravastatin, the radioactive elimination t ½  for pravastatin is 1.8 hours in humans.  Specific Populations  Renal Impairment:  A single 20 mg oral dose of pravastatin was administered to 24 patients with varying degrees of renal impairment (as determined by creatinine clearance). No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906). Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and C max  values, respectively, and a 0.61 hour shorter t ½  for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945).  Hepatic Impairment:  In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N = 7) and normal subjects (N = 7), the mean AUC varied 18 fold in cirrhotic patients and 5 fold in healthy subjects. Similarly, the peak pravastatin values varied 47 fold for cirrhotic patients compared to 6 fold for healthy subjects [ see Warnings and Precautions ( 5.2  )].  Geriatric:  In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old). In a similar study conducted in women, the mean AUC for pravastatin was approximately 46% higher and the mean CUE approximately 18% lower in elderly women (65 to 78 years old) compared with younger women (18 to 38 years old). In both studies, C max , T max , and t ½  values were similar in older and younger subjects [ see Use in Specific Populations ( 8.5 ) ].  Pediatric:  After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N = 14) and adolescents (12 to 16 years, N = 10), respectively. The corresponding values for C max  were 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for children and adolescents, respectively. No conclusion can be made based on these findings due to the small number of samples and large variability [ see Use in Specific Populations ( 8.4 ) ].  Drug-Drug Interactions                            Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin  Coadministered Drug and Dosing Regimen  Pravastatin  Dose (mg)  Change in AUC  Change in C max  Cyclosporine 5 mg/kg single dose  40 mg single dose  ↑282%  ↑327%  Clarithromycin 500 mg BID for 9 days  40 mg OD for 8 days  ↑110%  ↑128%  Boceprevir 800 mg TID for 6 days  40 mg single dose  ↑63%  ↑49%  Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days  40 mg single dose  ↑81%  ↑63%  Colestipol 10 g single dose  20 mg single dose  ↓47%  ↓53%  Cholestyramine 4 g single dose  20 mg single dose  Administered simultaneously  ↓40%  ↓39%  Administered 1 hour prior to cholestyramine  ↑12%  ↑30%  Administered 4 hours after cholestyramine  ↓12%  ↓6.8%  Cholestyramine 24 g OD for 4 weeks  20 mg BID for 8 weeks  ↓51%  ↑4.9%  5 mg BID for 8 weeks  ↓38%  ↑23%  10 mg BID for 8 weeks  ↓18%  ↓33%  Fluconazole  200 mg IV for 6 days  20 mg PO + 10 mg IV  ↓34%  ↓33%  200 mg PO for 6 days  20 mg PO + 10 mg IV  ↓16%  ↓16%  Kaletra 400 mg/100 mg BID for 14 days  20 mg OD for 4 days  ↑33%  ↑26%  Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days  40 mg single dose  ↑31%  ↑42%  Cimetidine 300 mg QID for 3 days  20 mg single dose  ↑30%  ↑9.8%  Antacids 15 mL QID for 3 days  20 mg single dose  ↓28%  ↓24%  Digoxin 0.2 mg OD for 9 days  20 mg OD for 9 days  ↑23%  ↑26%  Probucol 500 mg single dose  20 mg single dose  ↑14%  ↑24%  Warfarin 5 mg OD for 6 days  20 mg BID for 6 days  ↓13%  ↑6.7%  Itraconazole 200 mg OD for 30 days  40 mg OD for 30 days  ↑11% (compared to Day 1)  ↑17% (compared to Day 1)  Gemfibrozil 600 mg single dose  20 mg single dose  ↓7.0%  ↓20%  Aspirin 324 mg single dose  20 mg single dose  ↑4.7%  ↑8.9%  Niacin 1 g single dose  20 mg single dose  ↓3.6%  ↓8.2%  Diltiazem  20 mg single dose  ↑2.7%  ↑30%  Grapefruit juice  40 mg single dose  ↓1.8%  ↑3.7%  BID = twice daily; OD = once daily; QID = four times daily              Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs  Pravastatin Dosing  Regimen  Name and Dose  Change in AUC  Change in  C max  20 mg BID for 6 days  Warfarin 5 mg OD for 6 days  ↑ 17%  ↑ 15%  Change in mean prothrombin time  ↑ 0.4 sec  20 mg OD for 9 days  Digoxin 0.2 mg OD for 9 days  ↑ 4.6%  ↑ 5.3%  20 mg BID for 4 weeks  Antipyrine 1.2 g single dose  ↑ 3.0%  Not Reported  10 mg BID for 4 weeks  ↑ 1.6%  5 mg BID for 4 weeks  ↑ Less than 1%  20 mg OD for 4 days  Kaletra 400 mg/100 mg BID for 14 days  No change  No change  BID = twice daily; OD = once daily</Section>
+</Text><Sentences>
+<Sentence id="1976" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases.</SentenceText>
+</Sentence>
+<Sentence id="1977" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>• Concomitant lipid-lowering therapies: use with fibrates or lipid-modifying doses (≥ 1 g/day) of niacin increases the risk of adverse skeletal muscle effects.</SentenceText>
+</Sentence>
+<Sentence id="1978" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Caution should be used when prescribing with pravastatin sodium.</SentenceText>
+</Sentence>
+<Sentence id="1979" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Cyclosporine: combination increases exposure.</SentenceText>
+</Sentence>
+<Sentence id="1980" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Clarithromycin: combination increases exposure.</SentenceText>
+</Sentence>
+<Sentence id="1981" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>The risk of myopathy/rhabdomyolysis is increased with concomitant administration of cyclosporine.</SentenceText>
+</Sentence>
+<Sentence id="1982" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Limit pravastatin to 20 mg once daily for concomitant use with cyclosporine.</SentenceText>
+</Sentence>
+<Sentence id="1983" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>The risk of myopathy/rhabdomyolysis is increased with concomitant administration of clarithromycin.</SentenceText>
+</Sentence>
+<Sentence id="1984" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Limit pravastatin to 40 mg once daily for concomitant use with clarithromycin.</SentenceText>
+</Sentence>
+<Sentence id="1985" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Other macrolides (e.g., erythromycin and azithromycin) have the potential to increase statin exposures while used in combination.</SentenceText>
+</Sentence>
+<Sentence id="1986" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Pravastatin should be used cautiously with macrolide antibiotics due to a potential increased risk of myopathies.</SentenceText>
+</Sentence>
+<Sentence id="1987" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>The risk of myopathy/rhabdomyolysis is increased with concomitant administration of colchicine.</SentenceText>
+</Sentence>
+<Sentence id="1988" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of pravastatin sodium with gemfibrozil should be avoided.</SentenceText>
+</Sentence>
+<Sentence id="1989" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, pravastatin sodium should be administered with caution when used concomitantly with other fibrates.</SentenceText>
+</Sentence>
+<Sentence id="1990" LabelDrug="Pravastatin Sodium" section="34073-7">
+<SentenceText>The risk of skeletal muscle effects may be enhanced when pravastatin is used in combination with niacin; a reduction in pravastatin sodium dosage should be considered in this setting.</SentenceText>
+</Sentence>
+<Sentence id="1991" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Pravastatin is a reversible inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, an early and rate limiting step in the biosynthetic pathway for cholesterol.</SentenceText>
+</Sentence>
+<Sentence id="1992" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>In addition, pravastatin reduces VLDL and TG and increases HDL-C. General Absorption:Pravastatin sodiumis administered orally in the active form.</SentenceText>
+</Sentence>
+<Sentence id="1993" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>In studies in man, peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.</SentenceText>
+</Sentence>
+<Sentence id="1994" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.</SentenceText>
+</Sentence>
+<Sentence id="1995" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.</SentenceText>
+</Sentence>
+<Sentence id="1996" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Pravastatin plasma concentrations, including area under the concentration-time curve (AUC), Cmax, and steady-state minimum (Cmin), are directly proportional to administered dose.</SentenceText>
+</Sentence>
+<Sentence id="1997" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Systemic bioavailability of pravastatin administered following a bedtime dose was decreased 60% compared to that following an AM dose.</SentenceText>
+</Sentence>
+<Sentence id="1998" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Despite this decrease in systemic bioavailability, the efficacy of pravastatin administered once daily in the evening, although not statistically significant, was marginally more effective than that after a morning dose.</SentenceText>
+</Sentence>
+<Sentence id="1999" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>The coefficient of variation (CV), based on between-subject variability, was 50% to 60% for AUC.</SentenceText>
+</Sentence>
+<Sentence id="2000" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>The geometric means of pravastatin Cma xand AUC following a 20 mg dose in the fasted state were 26.5 ng/mL and 59.8 ng*hr/mL, respectively.</SentenceText>
+</Sentence>
+<Sentence id="2001" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Steady-state AUCs, Cmax, and Cminplasma concentrations showed no evidence of pravastatin accumulation following once or twice daily administration of pravastatin sodium tablets.</SentenceText>
+</Sentence>
+<Sentence id="2002" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Distribution:Approximately 50% of the circulating drug is bound to plasma proteins.</SentenceText>
+</Sentence>
+<Sentence id="2003" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Metabolism:The major biotransformation pathways for pravastatin are: (a) isomerization to 6-epi pravastatin and the 3α-hydroxyisomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945.</SentenceText>
+</Sentence>
+<Sentence id="2004" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>The 3α-hydroxyisomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound.</SentenceText>
+</Sentence>
+<Sentence id="2005" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Pravastatin undergoes extensive first-pass extraction in the liver (extraction ratio 0.66).</SentenceText>
+</Sentence>
+<Sentence id="2006" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Excretion:Approximately 20% of a radiolabeled oral dose is excreted in urine and 70% in the feces.</SentenceText>
+</Sentence>
+<Sentence id="2007" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>After intravenous administration of radiolabeled pravastatin to normal volunteers, approximately 47% of total body clearance was via renal excretion and 53% by non-renal routes (i.e., biliary excretion and biotransformation).</SentenceText>
+</Sentence>
+<Sentence id="2008" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Following single dose oral administration of14C-pravastatin, the radioactive elimination t½for pravastatin is 1.8 hours in humans.</SentenceText>
+</Sentence>
+<Sentence id="2009" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Specific Populations Renal Impairment:A single 20 mg oral dose of pravastatin was administered to 24 patients with varying degrees of renal impairment (as determined by creatinine clearance).</SentenceText>
+</Sentence>
+<Sentence id="2010" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906).</SentenceText>
+</Sentence>
+<Sentence id="2011" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and Cmaxvalues, respectively, and a 0.61 hour shorter t½for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945).</SentenceText>
+</Sentence>
+<Sentence id="2012" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Hepatic Impairment:In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N = 7) and normal subjects (N = 7), the mean AUC varied 18 fold in cirrhotic patients and 5 fold in healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="2013" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Similarly, the peak pravastatin values varied 47 fold for cirrhotic patients compared to 6 fold for healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="2014" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Geriatric:In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old).</SentenceText>
+</Sentence>
+<Sentence id="2015" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>In a similar study conducted in women, the mean AUC for pravastatin was approximately 46% higher and the mean CUE approximately 18% lower in elderly women (65 to 78 years old) compared with younger women (18 to 38 years old).</SentenceText>
+</Sentence>
+<Sentence id="2016" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>In both studies, Cmax, Tmax, and t½values were similar in older and younger subjects.</SentenceText>
+</Sentence>
+<Sentence id="2017" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Pediatric:After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N = 14) and adolescents (12 to 16 years, N = 10), respectively.</SentenceText>
+</Sentence>
+<Sentence id="2018" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>The corresponding values for Cmaxwere 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for children and adolescents, respectively.</SentenceText>
+</Sentence>
+<Sentence id="2019" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>No conclusion can be made based on these findings due to the small number of samples and large variability.</SentenceText>
+</Sentence>
+<Sentence id="2020" LabelDrug="Pravastatin Sodium" section="34090-1">
+<SentenceText>Drug-Drug Interactions Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin Coadministered Drug and Dosing Regimen Pravastatin Dose (mg) Change in AUC Change in Cmax Cyclosporine 5 mg/kg single dose 40 mg single dose ↑282% ↑327% Clarithromycin 500 mg BID for 9 days 40 mg OD for 8 days ↑110% ↑128% Boceprevir 800 mg TID for 6 days 40 mg single dose ↑63% ↑49% Darunavir 600 mg BID/Ritonavir 100 mg BID for 7 days 40 mg single dose ↑81% ↑63% Colestipol 10 g single dose 20 mg single dose ↓47% ↓53% Cholestyramine 4 g single dose 20 mg single dose Administered simultaneously ↓40% ↓39% Administered 1 hour prior tocholestyramine ↑12% ↑30% Administered 4 hours aftercholestyramine ↓12% ↓6.8% Cholestyramine 24 g OD for 4 weeks 20 mg BID for 8 weeks ↓51% ↑4.9% 5 mg BID for 8 weeks ↓38% ↑23% 10 mg BID for 8 weeks ↓18% ↓33% Fluconazole 200 mg IV for 6 days 20 mg PO + 10 mg IV ↓34% ↓33% 200 mg PO for 6 days 20 mg PO + 10 mg IV ↓16% ↓16% Kaletra 400 mg/100 mg BID for 14 days 20 mg OD for 4 days ↑33% ↑26% Verapamil IR 120 mg for 1 day and Verapamil ER 480 mg for 3 days 40 mg single dose ↑31% ↑42% Cimetidine 300 mg QID for 3 days 20 mg single dose ↑30% ↑9.8% Antacids 15 mL QID for 3 days 20 mg single dose ↓28% ↓24% Digoxin 0.2 mg OD for 9 days 20 mg OD for 9 days ↑23% ↑26% Probucol 500 mg single dose 20 mg single dose ↑14% ↑24% Warfarin 5 mg OD for 6 days 20 mg BID for 6 days ↓13% ↓6.7% Itraconazole 200 mg OD for 30 days 40 mg OD for 30 days ↑11% (compared to Day 1) ↑17% (compared to Day 1) Gemfibrozil 600 mg single dose 20 mg single dose ↓7.0% ↓20% Aspirin 324 mg single dose 20 mg single dose ↑4.7% ↑8.9% Niacin 1 g single dose 20 mg single dose ↓3.6% ↓8.2% Diltiazem 20 mg single dose ↑2.7% ↑30% Grapefruit juice 40 mg single dose ↓1.8% ↑3.7% BID = twice daily; OD = once daily; QID = four times daily Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs Pravastatin Dosing Regimen Name and Dose Change in AUC Change in Cmax 20 mg BID for 6 days Warfarin 5 mg OD for 6 days ↑17% ↑15% Change in mean prothrombin time ↑0.4 sec 20 mg OD for 9 days Digoxin 0.2 mg OD for 9 days ↑4.6% ↑5.3% 20 mg BID for 4 weeks Antipyrine 1.2 g single dose ↑3.0% Not Reported 10 mg BID for 4 weeks ↑1.6% 5 mg BID for 4 weeks ↑Less than1% 20 mg OD for 4 days Kaletra 400 mg/100 mg BID for 14 days No change No change BID = twice daily; OD = once daily</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

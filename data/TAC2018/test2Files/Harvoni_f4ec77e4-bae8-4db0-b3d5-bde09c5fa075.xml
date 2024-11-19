@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Harvoni" setid="f4ec77e4-bae8-4db0-b3d5-bde09c5fa075">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  Coadministration with amiodarone may result in serious symptomatic bradycardia. Use of HARVONI with amiodarone is not recommended. ( 5.2 , 6.2 , 7.2 )  P-gp inducers (e.g., rifampin, St. John's wort): May alter concentrations of ledipasvir and sofosbuvir. Use of HARVONI with P-gp inducers is not recommended. ( 5.3 , 7 , 12.3 )  Frequent monitoring of international normalized ratio (INR) values is recommended in patients receiving warfarin. ( 7.1 )  Consult the full prescribing information prior to use for potential drug interactions. ( 5.2 , 5.3 , 7 , 12.3 )  7.1 Potential for Drug Interaction  As HARVONI contains ledipasvir and sofosbuvir, any interactions that have been identified with these agents individually may occur with HARVONI.  After oral administration of HARVONI, sofosbuvir is rapidly absorbed and subject to extensive first-pass hepatic extraction. In clinical pharmacology studies, both sofosbuvir and the inactive metabolite GS-331007 were monitored for purposes of pharmacokinetic analyses.  Ledipasvir is an inhibitor of the drug transporters P-gp and breast cancer resistance protein (BCRP) and may increase intestinal absorption of coadministered substrates for these transporters.  Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not. P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.3) ] .  Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with HARVONI. Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.  7.2 Established and Potentially Significant Drug Interactions  Table 5 provides a listing of established or potentially clinically significant drug interactions. The drug interactions described are based on studies conducted with either HARVONI, the components of HARVONI (ledipasvir and sofosbuvir) as individual agents, or are predicted drug interactions that may occur with HARVONI [see Warnings and Precautions (5.2 , 5.3) and Clinical Pharmacology (12.3) ] .  Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction This table is not all inclusive.  Concomitant Drug Class: Drug Name  Effect on Concentration ↓ = decrease, ↑ = increase  Clinical Comment  tenofovir DF = tenofovir disoproxil fumarate  Acid Reducing Agents:  ↓ ledipasvir  Ledipasvir solubility decreases as pH increases. Drugs that increase gastric pH are expected to decrease concentration of ledipasvir.  Antacids (e.g., aluminum and magnesium hydroxide)  It is recommended to separate antacid and HARVONI administration by 4 hours.  H 2 -receptor antagonists These interactions have been studied in healthy adults. (e.g., famotidine)  H 2 -receptor antagonists may be administered simultaneously with or 12 hours apart from HARVONI at a dose that does not exceed doses comparable to famotidine 40 mg twice daily.  Proton-pump inhibitors (e.g., omeprazole)  Proton-pump inhibitor doses comparable to omeprazole 20 mg or lower can be administered simultaneously with HARVONI under fasted conditions.  Antiarrhythmics:  amiodarone  Effect on amiodarone, ledipasvir, and sofosbuvir concentrations unknown  Coadministration of amiodarone with HARVONI may result in serious symptomatic bradycardia. The mechanism of this effect is unknown. Coadministration of amiodarone with HARVONI is not recommended; if coadministration is required, cardiac monitoring is recommended [see Warnings and Precautions (5.2) , Adverse Reactions (6.2) ].  digoxin  ↑ digoxin  Coadministration of HARVONI with digoxin may increase the concentration of digoxin. Therapeutic concentration monitoring of digoxin is recommended when coadministered with HARVONI.  Anticonvulsants:  carbamazepine phenytoin phenobarbital oxcarbazepine  ↓ ledipasvir ↓ sofosbuvir  Coadministration of HARVONI with carbamazepine, phenytoin, phenobarbital, or oxcarbazepine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended.  Antimycobacterials:  rifabutin rifampin  rifapentine  ↓ ledipasvir ↓ sofosbuvir  Coadministration of HARVONI with rifabutin or rifapentine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended. Coadministration of HARVONI with rifampin, a P-gp inducer, is not recommended [see Warnings and Precautions (5.3) ].  HIV Antiretrovirals:  Regimens containing tenofovir DF without an HIV protease inhibitor/ritonavir or cobicistat  ↑ tenofovir  Monitor for tenofovir-associated adverse reactions in patients receiving HARVONI concomitantly with a regimen containing tenofovir DF without an HIV protease inhibitor/ritonavir or cobicistat. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring.  Regimens containing tenofovir DF and an HIV protease inhibitor/ritonavir or cobicistat  atazanavir/ritonavir or cobicistat + emtricitabine/tenofovir DF  darunavir/ritonavir or cobicistat + emtricitabine/tenofovir DF  lopinavir/ritonavir + emtricitabine/tenofovir DF  ↑ tenofovir  The safety of increased tenofovir concentrations in the setting of HARVONI and an HIV protease inhibitor/ritonavir or cobicistat has not been established. Consider alternative HCV or antiretroviral therapy to avoid increases in tenofovir exposures. If coadministration is necessary, monitor for tenofovir-associated adverse reactions. Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring.  elvitegravir, cobicistat, emtricitabine, tenofovir DF  ↑ tenofovir  The safety of increased tenofovir concentrations in the setting of HARVONI and the combination of elvitegravir, cobicistat, emtricitabine and tenofovir DF has not been established. Coadministration is not recommended.  tipranavir/ritonavir  ↓ ledipasvir ↓ sofosbuvir  Coadministration of HARVONI with tipranavir/ritonavir is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI. Coadministration is not recommended.  HCV Products:  simeprevir  ↑ ledipasvir ↑ simeprevir  Concentrations of ledipasvir and simeprevir are increased when simeprevir is coadministered with ledipasvir. Coadministration of HARVONI with simeprevir is not recommended.  Herbal Supplements:  St. John's wort (Hypericum perforatum)  ↓ ledipasvir ↓ sofosbuvir  Coadministration of HARVONI with St. John's wort, a P-gp inducer, is not recommended [see Warnings and Precautions (5.3) ].  HMG-CoA Reductase Inhibitors:  rosuvastatin  ↑ rosuvastatin  Coadministration of HARVONI with rosuvastatin may significantly increase the concentration of rosuvastatin which is associated with increased risk of myopathy, including rhabdomyolysis. Coadministration of HARVONI with rosuvastatin is not recommended.  atorvastatin  ↑ atorvastatin  Coadministration of HARVONI with atorvastatin may be associated with increased risk of myopathy, including rhabdomyolysis. Monitor closely for HMG-CoA reductase inhibitor-associated adverse reactions, such as myopathy and rhabdomyolysis.  7.3 Drugs without Clinically Significant Interactions with HARVONI  Based on drug interaction studies conducted with the components of HARVONI (ledipasvir or sofosbuvir) or HARVONI, no clinically significant drug interactions have been either observed or are expected when HARVONI is used with the following drugs [see Clinical Pharmacology (12.3) ]: abacavir, atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, lamivudine, methadone, oral contraceptives, pravastatin, raltegravir, rilpivirine, tacrolimus, or verapamil. See Table 5 for use of HARVONI with certain HIV antiretroviral regimens [see  Drug Interactions (7.2) ] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  HARVONI is a fixed-dose combination of ledipasvir and sofosbuvir which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4) ].  12.2 Pharmacodynamics  Cardiac Electrophysiology  Thorough QT studies have been conducted for ledipasvir and sofosbuvir.  The effect of ledipasvir 120 mg twice daily (2.67 times the maximum recommended dosage) for 10 days on QTc interval was evaluated in a randomized, multiple-dose, placebo-, and active-controlled (moxifloxacin 400 mg) three period crossover thorough QT trial in 59 healthy subjects. At the dose of 120 mg twice daily (2.67 times the maximum recommended dosage), ledipasvir does not prolong QTc interval to any clinically relevant extent.  The effect of sofosbuvir 400 mg (maximum recommended dosage) and 1200 mg (three times the maximum recommended dosage) on QTc interval was evaluated in a randomized, single-dose, placebo-, and active-controlled (moxifloxacin 400 mg) four period crossover thorough QT trial in 59 healthy subjects. At a dose three times the maximum recommended dose, sofosbuvir does not prolong QTc to any clinically relevant extent.  12.3 Pharmacokinetics  Absorption  The pharmacokinetic properties of ledipasvir, sofosbuvir, and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration of HARVONI, ledipasvir median peak concentrations were observed 4 to 4.5 hours post-dose. Sofosbuvir was absorbed quickly and the peak median plasma concentration was observed ~0.8 to 1 hour post-dose. Median peak plasma concentration of GS-331007 was observed between 3.5 to 4 hours post-dose.  Based on the population pharmacokinetic analysis in HCV-infected subjects, geometric mean steady-state AUC 0–24 for ledipasvir (N=2113), sofosbuvir (N=1542), and GS-331007 (N=2113) were 7290, 1320, and 12,000 ng∙hr/mL, respectively. Steady-state C max for ledipasvir, sofosbuvir, and GS-331007 were 323, 618, and 707 ng/mL, respectively. Sofosbuvir and GS-331007 AUC 0–24 and C max were similar in healthy adult subjects and subjects with HCV infection. Relative to healthy subjects (N=191), ledipasvir AUC 0–24 and C max were 24% lower and 32% lower, respectively, in HCV-infected subjects.  Effect of Food  Relative to fasting conditions, the administration of a single dose of HARVONI with a moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal increased sofosbuvir AUC 0–inf by approximately 2-fold, but did not significantly affect sofosbuvir C max . The exposures of GS-331007 and ledipasvir were not altered in the presence of either meal type. The response rates in Phase 3 trials were similar in HCV-infected subjects who received HARVONI with food or without food. HARVONI can be administered without regard to food.  Distribution  Ledipasvir is greater than 99.8% bound to human plasma proteins. After a single 90 mg dose of [ 14 C]-ledipasvir in healthy subjects, the blood to plasma ratio of 14 C-radioactivity ranged between 0.51 and 0.66.  Sofosbuvir is approximately 61–65% bound to human plasma proteins and the binding is independent of drug concentration over the range of 1 microgram/mL to 20 microgram/mL. Protein binding of GS-331007 was minimal in human plasma. After a single 400 mg dose of [ 14 C]-sofosbuvir in healthy subjects, the blood to plasma ratio of 14 C-radioactivity was approximately 0.7.  Metabolism  In vitro, no detectable metabolism of ledipasvir was observed by human CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Evidence of slow oxidative metabolism via an unknown mechanism has been observed. Following a single dose of 90 mg [ 14 C]-ledipasvir, systemic exposure was almost exclusively to the parent drug (greater than 98%). Unchanged ledipasvir is the major species present in feces.  Sofosbuvir is extensively metabolized in the liver to form the pharmacologically active nucleoside analog triphosphate GS-461203. The metabolic activation pathway involves sequential hydrolysis of the carboxyl ester moiety catalyzed by human cathepsin A (CatA) or carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide biosynthesis pathway. Dephosphorylation results in the formation of nucleoside metabolite GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro. After a single 400 mg oral dose of [ 14 C]-sofosbuvir, GS-331007 accounted for approximately greater than 90% of total systemic exposure.  Elimination  Following a single 90 mg oral dose of [ 14 C]-ledipasvir, mean total recovery of the [ 14 C]-radioactivity in feces and urine was approximately 87%, with most of the radioactive dose recovered from feces (approximately 86%). Unchanged ledipasvir excreted in feces accounted for a mean of 70% of the administered dose and the oxidative metabolite M19 accounted for 2.2% of the dose. These data indicate that biliary excretion of unchanged ledipasvir is a major route of elimination, with renal excretion being a minor pathway (approximately 1%). The median terminal half-life of ledipasvir following administration of HARVONI was 47 hours.  Following a single 400 mg oral dose of [ 14 C]-sofosbuvir, mean total recovery of the dose was greater than 92%, consisting of approximately 80%, 14%, and 2.5% recovered in urine, feces, and expired air, respectively. The majority of the sofosbuvir dose recovered in urine was GS-331007 (78%) while 3.5% was recovered as sofosbuvir. These data indicate that renal clearance is the major elimination pathway for GS-331007. The median terminal half-lives of sofosbuvir and GS-331007 following administration of HARVONI were 0.5 and 27 hours, respectively.  Specific Populations  Race: Population pharmacokinetics analysis in HCV-infected subjects indicated that race had no clinically relevant effect on the exposure of ledipasvir, sofosbuvir, and GS-331007.  Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that gender had no clinically relevant effect on the exposure of sofosbuvir and GS-331007. AUC and C max of ledipasvir were 77% and 58% higher, respectively, in females than males; however, the relationship between gender and ledipasvir exposures was not considered clinically relevant, as high response rates (SVR12 &gt;90%) were achieved in male and female subjects across the Phase 3 studies and the safety profiles are similar in females and males.  Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in 100 pediatric subjects 12 years of age and older infected with HCV genotype 1 receiving a daily dose of HARVONI (90 mg ledipasvir and 400 mg sofosbuvir). The pharmacokinetic properties of ledipasvir, sofosbuvir, and GS-331007 in pediatric subjects 12 years of age and older are provided in Table 6. Exposures in pediatric subjects were similar to those observed in adults.  Table 6 Pharmacokinetic Properties of the Components of HARVONI in Pediatric Subjects 12 Years of Age and Older Population PK derived parameters  Geometric Mean  Ledipasvir Ledipasvir N=100; Sofosbuvir N=72; GS-331007 N=100  Sofosbuvir  GS-331007  AUC tau (ng∙hr/mL)  11200  1350  13600  C max (ng/mL)  550  660  921  The pharmacokinetics of ledipasvir or sofosbuvir have not been established in pediatric patients less than 12 years of age [see Use in Specific Populations (8.4) , and Clinical Studies (14.6) ] .  Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 80 years) analyzed, age did not have a clinically relevant effect on the exposure to ledipasvir, sofosbuvir, and GS-331007 [see Use in Specific Populations (8.5) ] .  Patients with Renal Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault). No clinically relevant differences in ledipasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.  The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m 2 ), moderate (eGFR between 30 to less than 50 mL/min/1.73 m 2 ), severe renal impairment (eGFR less than 30 mL/min/1.73 m 2 ), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir. Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m 2 ), the sofosbuvir AUC 0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC 0–inf was 55%, 88%, and 451% higher, respectively. In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC 0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively. A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6) ].  Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC 0–inf ) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function. Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7) ] .  The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC 0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC 0–24 were 18% and 9% higher, respectively. Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of sofosbuvir and GS-331007 [see Use in Specific Populations (8.7) and Clinical Studies (14.5) ] .  Drug Interaction Studies  Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not. P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.3) ] . Coadministration with drugs that inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS-331007 plasma concentration; HARVONI may be coadministered with P-gp and/or BCRP inhibitors. Neither ledipasvir nor sofosbuvir is a substrate for hepatic uptake transporters OCT1, OATP1B1, or OATP1B3. GS-331007 is not a substrate for renal transporters, including organic anion transporter OAT1 or OAT3, or organic cation transporter OCT2.  Ledipasvir is subject to slow oxidative metabolism via an unknown mechanism. In vitro, no detectable metabolism of ledipasvir by CYP enzymes has been observed. Biliary excretion of unchanged ledipasvir is a major route of elimination. Sofosbuvir is not a substrate for CYP and UGT1A1 enzymes. Clinically significant drug interactions with HARVONI mediated by CYP or UGT1A1 enzymes are not expected.  The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 7 [see Drug Interactions (7.2) ].  Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered Drug All interaction studies conducted in healthy volunteers.  Coadministered Drug  Dose of Coadministered Drug (mg)  Ledipasvir Dose (mg)  Sofosbuvir Dose (mg)  N  Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir, and GS-331007 PK With/Without Coadministered Drug No Effect=1.00  C max  AUC  C min  NA = not available/not applicable, ND = not dosed. tenofovir DF = tenofovir disoproxil fumarate  Atazanavir/ ritonavir + emtricitabine/ tenofovir DF Data generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.  ,  The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF.  300/100 + 200/300 once daily  90 once daily  400 once daily  24  ledipasvir  1.68 (1.54, 1.84)  1.96 (1.74, 2.21)  2.18 (1.91, 2.50)  sofosbuvir  1.01 (0.88, 1.15)  1.11 (1.02, 1.21)  NA  GS-331007  1.17 (1.12, 1.23)  1.31 (1.25, 1.36)  1.42 (1.34, 1.49)  Cyclosporine  600 single dose  ND  400 single dose  19  sofosbuvir  2.54 (1.87, 3.45)  4.53 (3.26, 6.30)  NA  GS-331007  0.60 (0.53, 0.69)  1.04 (0.90, 1.20)  NA  Darunavir/ ritonavir  800/100 once daily  90 once daily  ND  23  ledipasvir  1.45 (1.34, 1.56)  1.39 (1.28, 1.49)  1.39 (1.29, 1.51)  ND  400 single dose  18  sofosbuvir  1.45 (1.10, 1.92)  1.34 (1.12, 1.59)  NA  GS-331007  0.97 (0.90, 1.05)  1.24 (1.18, 1.30)  NA  Darunavir/ ritonavir + emtricitabine/ tenofovir DF  800/100 + 200/300 once daily  90 once daily  400 once daily  23  ledipasvir  1.11 (0.99, 1.24)  1.12 (1.00, 1.25)  1.17 (1.04, 1.31)  sofosbuvir  0.63 (0.52, 0.75)  0.73 (0.65, 0.82)  NA  GS-331007  1.10 (1.04, 1.16)  1.20 (1.16, 1.24)  1.26 (1.20, 1.32)  Efavirenz/ emtricitabine/ tenofovir DF Administered as ATRIPLA ® (efavirenz, emtricitabine, tenofovir DF).  600/200/300 once daily  90 once daily  400 once daily  14  ledipasvir  0.66 (0.59, 0.75)  0.66 (0.59, 0.75)  0.66 (0.57, 0.76)  sofosbuvir  1.03 (0.87, 1.23)  0.94 (0.81, 1.10)  NA  GS-331007  0.86 (0.76, 0.96)  0.90 (0.83, 0.97)  1.07 (1.02, 1.13)  Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamide  150/150/200/10 once daily  90 once daily  400 once daily  30  ledipasvir  1.65 (1.53, 1.78)  1.79 (1.64, 1.96)  1.93 (1.74, 2.15)  sofosbuvir  1.28 (1.13, 1.47)  1.47 (1.35,1.59)  NA  GS-331007  1.29 (1.24, 1.35)  1.48 (1.44, 1.53)  1.66 (1.60, 1.73)  Famotidine  40 single dose simultaneously with HARVONI  90 single dose  400 single dose  12  ledipasvir  0.80 (0.69, 0.93)  0.89 (0.76, 1.06)  NA  sofosbuvir  1.15 (0.88, 1.50)  1.11 (1.00, 1.24)  NA  GS-331007  1.06 (0.97, 1.14)  1.06 (1.02, 1.11)  NA  40 single dose 12 hours prior to HARVONI  12  ledipasvir  0.83 (0.69, 1.00)  0.98 (0.80, 1.20)  NA  sofosbuvir  1.00 (0.76, 1.32)  0.95 (0.82, 1.10)  NA  GS-331007  1.13 (1.07, 1.20)  1.06 (1.01, 1.12)  NA  Methadone  30 to 130 daily  ND  400 once daily  14  sofosbuvir  0.95 (0.68, 1.33)  1.30 (1.00, 1.69)  NA  GS-331007  0.73 (0.65, 0.83)  1.04 (0.89, 1.22)  NA  Omeprazole  20 once daily simultaneously with HARVONI  90 single dose  400 single dose  16  ledipasvir  0.89 (0.61, 1.30)  0.96 (0.66, 1.39)  NA  sofosbuvir  1.12 (0.88, 1.42)  1.00 (0.80, 1.25)  NA  GS-331007  1.14 (1.01, 1.29)  1.03 (0.96, 1.12)  NA  20 once daily 2 hours prior to ledipasvir  30 single dose  ND  17  ledipasvir  0.52 (0.41, 0.66)  0.58 (0.48, 0.71)  NA  Rifampin  600 once daily  90 single dose This study was conducted in the presence of two other investigational HCV direct-acting agents.  ND  31  ledipasvir  0.65 (0.56, 0.76)  0.41 (0.36, 0.48)  NA  ND  400 single dose  17  sofosbuvir  0.23 (0.19, 0.29)  0.28 (0.24, 0.32)  NA  GS-331007  1.23 (1.14, 1.34)  0.95 (0.88, 1.03)  NA  Simeprevir  150 once daily  30 once daily  ND  22  ledipasvir  1.81 (1.69, 2.94)  1.92 (1.77, 2.07)  NA  Tacrolimus  5 single dose  ND  400 single dose  16  sofosbuvir  0.97 (0.65, 1.43)  1.13 (0.81, 1.57)  NA  GS-331007  0.97 (0.83, 1.14)  1.00 (0.87, 1.13)  NA  No effect on the pharmacokinetic parameters of ledipasvir, sofosbuvir, and GS-331007 was observed with raltegravir and the combination of abacavir and lamivudine; emtricitabine, rilpivirine, and tenofovir disoproxil fumarate; or dolutegravir, emtricitabine, and tenofovir disoproxil fumarate.  Ledipasvir is an inhibitor of drug transporter P-gp and breast cancer resistance protein (BCRP) and may increase intestinal absorption of coadministered substrates for these transporters. Ledipasvir is an inhibitor of transporters OATP1B1, OATP1B3, and BSEP only at concentrations exceeding those achieved in clinic. Ledipasvir is not an inhibitor of transporters MRP2, MRP4, OCT2, OAT1, OAT3, MATE1, and OCT1. The drug-drug interaction potential of ledipasvir is primarily limited to the intestinal inhibition of P-gp and BCRP. Clinically relevant transporter inhibition by ledipasvir in the systemic circulation is not expected due to its high protein binding. Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3, and OCT1, and GS-331007 is not an inhibitor of OAT1, OCT2, and MATE1.  Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.  The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 8 [see Drug Interactions (7.2) ].  Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or HARVONI All interaction studies conducted in healthy volunteers.  Coadministered Drug  Dose of Coadministered Drug (mg)  Ledipasvir Dose (mg)  Sofosbuvir Dose (mg)  N  Mean Ratio (90% CI) of Coadministered Drug PK With/Without Ledipasvir, Sofosbuvir, or HARVONI No Effect=1.00  C max  AUC  C min  NA = not available/not applicable, ND = not dosed. tenofovir DF = tenofovir disoproxil fumarate  Atazanavir/ ritonavir + emtricitabine /tenofovir DF Data generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.  ,  The effects of HARVONI on atazanavir and ritonavir are similar with or without the presence of emtricitabine/tenofovir DF.  ,  This magnitude of change in tenofovir exposure does not reflect the approximately 60–80% increase caused by the effects of an HIV PI/ritonavir and the effect of food. Therefore, tenofovir exposure is approximately 130% higher when administered as tenofovir DF + atazanavir/ritonavir + HARVONI or tenofovir DF + darunavir/ritonavir + HARVONI and with food as compared to the tenofovir exposure observed following fasted administration of tenofovir DF-based regimens that do not contain an HIV PI/ritonavir and HARVONI.  atazanavir 300 once daily  90 once daily  400 once daily  24  1.07 (0.99, 1.14)  1.27 (1.18, 1.37)  1.63 (1.45, 1.84)  ritonavir 100 once daily  0.86 (0.79, 0.93)  0.97 (0.89, 1.05)  1.45 (1.27, 1.64)  tenofovir DF 300 once daily  1.47 (1.37, 1.58)  1.35 (1.29, 1.42)  1.47 (1.38, 1.57)  Darunavir/ ritonavir + emtricitabine/ tenofovir DF  ,  darunavir 800 once daily  90 once daily  400 once daily  23  1.01 (0.96, 1.06)  1.04 (0.99, 1.08)  1.08 (0.98, 1.20)  ritonavir 100 once daily  1.17 (1.01, 1.35)  1.25 (1.15, 1.36)  1.48 (1.34, 1.63)  tenofovir DF 300 once daily  1.64 (1.54, 1.74)  1.50 (1.42, 1.59)  1.59 (1.49, 1.70)  Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamide  elvitegravir 150 once daily  90 once daily  400 once daily  30  0.98 (0.90, 1.07)  1.11 (1.02, 1.20)  1.46 (1.28, 1.66)  cobicistat 150 once daily  1.23 (1.15, 1.32)  1.53 (1.45, 1.62)  3.25 (2.88, 3.67)  tenofovir alafenamide 10 once daily  0.90 (0.73, 1.11)  0.86 (0.78, 0.95)  NA  Norelgestromin  norgestimate 0.180/0.215/0.25/ethinyl estradiol 0.025 once daily  90 once daily  ND  15  1.02 (0.89, 1.16)  1.03 (0.90, 1.18)  1.09 (0.91, 1.31)  ND  400 once daily  1.07 (0.94, 1.22)  1.06 (0.92, 1.21)  1.07 (0.89, 1.28)  Norgestrel  90 once daily  ND  1.03 (0.87, 1.23)  0.99 (0.82, 1.20)  1.00 (0.81, 1.23)  ND  400 once daily  1.18 (0.99, 1.41)  1.19 (0.98, 1.45)  1.23 (1.00, 1.51)  Ethinyl estradiol  90 once daily  ND  1.40 (1.18, 1.66)  1.20 (1.04, 1.39)  0.98 (0.79, 1.22)  ND  400 once daily  1.15 (0.97, 1.36)  1.09 (0.94, 1.26)  0.99 (0.80, 1.23)  Raltegravir  400 twice daily  90 once daily  ND  28  0.82 (0.66, 1.02)  0.85 (0.70, 1.02)  1.15 (0.90, 1.46)  ND  400 single dose  19  0.57 (0.44, 0.75)  0.73 (0.59, 0.91)  0.95 (0.81, 1.12)  Simeprevir  150 once daily  30 once daily  ND  22  2.61 (2.39, 2.86)  2.69 (2.44, 2.96)  NA  Tacrolimus  5 single dose  ND  400 single dose  16  0.73 (0.59, 0.90)  1.09 (0.84, 1.40)  NA  Tenofovir DF  300 once daily Administered as ATRIPLA (efavirenz, emtricitabine, tenofovir DF). The effects of HARVONI on tenofovir exposures are similar when tenofovir is administered as ATRIPLA, COMPLERA, or TRUVADA + dolutegravir.  90 once daily  400 once daily  15  1.79 (1.56, 2.04)  1.98 (1.77, 2.23)  2.63 (2.32, 2.97)  No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with ledipasvir or sofosbuvir: abacavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, emtricitabine, lamivudine, methadone, or rilpivirine.  12.4 Microbiology  Mechanism of Action  Ledipasvir is an inhibitor of the HCV NS5A protein, which is required for viral replication. Resistance selection in cell culture and cross-resistance studies indicate ledipasvir targets NS5A as its mode of action.  Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is required for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator. In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotypes 1b and 4a with IC 50 values of 3.3 and 2.7 microM, respectively. GS-461203 is neither an inhibitor of human DNA and RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.  Antiviral Activity  In HCV replicon assays, the EC 50 values of ledipasvir against full-length replicons from genotypes 1a and 1b were 0.031 nM and 0.004 nM, respectively. The median EC 50 values of ledipasvir against chimeric replicons encoding NS5A sequences from clinical isolates from treatment-naïve HCV-infected subjects were 0. 02 nM for genotype 1a (range 0.007–1.0 nM; N=23) and 0.006 nM for genotype 1b (range 0.002–1.0 nM; N=34). Ledipasvir had median EC 50 values ranging between 0.002 nM to 0.16 nM against 11 genotype 4 subtypes (4a, 4d, 4n, 4r, 4o, 4c, 4f, 4k, 4l, 4m and 4t). The median EC 50 value for subtype 4b was 199.6 nM (range 0.66–1799 nM; N=3); the two 4b isolates with EC 50 values greater than 100 nM had NS5A resistance-associated polymorphisms L30S+M31M+P58S+Y93H. The median EC 50 value of ledipasvir was 0.03 nM against genotype 5a isolates (range 0.008–0.081 nM; N=35). For genotype 6, the EC 50 values for ledipasvir varied by subtype. Subtypes 6a and 6h had median EC 50 values of 0.55 and 0.17 nM, respectively. For subtypes 6e, 6l, 6n, 6q, 6k and 6m, the median EC 50 values ranged from 60.6 nM to 430.1 nM.  In HCV replicon assays, the EC 50 values of sofosbuvir against full-length replicons from genotypes 1a, 1b, and 4a, and chimeric 1b replicons encoding NS5B from genotypes 5a or 6a ranged from 14–110 nM. The median EC 50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 62 nM for genotype 1a (range 29–128 nM; N=67) and 102 nM for genotype 1b (range 45–170 nM; N=29). In replication competent virus assays, the EC 50 value of sofosbuvir against genotype 1a was 30 nM. Evaluation of sofosbuvir in combination with ledipasvir showed no antagonistic effect in reducing HCV RNA levels in replicon cells.  Resistance  In Cell Culture  HCV replicons with reduced susceptibility to ledipasvir have been selected in cell culture for genotypes 1a and 1b. Reduced susceptibility to ledipasvir was associated with the primary NS5A amino acid substitution Y93H in both genotypes 1a and 1b. Additionally, a Q30E substitution emerged in genotype 1a replicons. Site-directed mutagenesis of the Y93H in both genotypes 1a and 1b, as well as the Q30E substitution in genotype 1a, conferred high levels of reduced susceptibility to ledipasvir (fold change in EC 50 greater than 1000-fold).  HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 4a, 5a, and 6a. Reduced susceptibility to sofosbuvir was associated with the NS5B substitution S282T in all replicon genotypes examined. An M289L substitution developed along with the S282T substitution in genotype 5 and 6 replicons. Site-directed mutagenesis of the S282T substitution in replicons of 8 genotypes conferred 2- to 18-fold reduced susceptibility to sofosbuvir.  In Clinical Trials  Genotype 1  In a pooled analysis of subjects who received HARVONI in Phase 3 trials (ION-3, ION-1, and ION-2), 37 subjects (29 with genotype 1a HCV and 8 with genotype 1b HCV) qualified for resistance analysis due to virologic failure (35 with virologic relapse, 2 with breakthrough on-treatment due to documented non-adherence). Post-baseline NS5A and NS5B deep nucleotide sequence analysis data (assay sensitivity of 1%) were available for 37/37 and 36/37 subjects' viruses, respectively.  Of the 29 genotype 1a virologic failure subjects, 55% (16/29) of subjects had virus with emergent NS5A resistance-associated substitutions K24R, M28T/V, Q30R/H/K/L, L31M, or Y93H/N at failure. Five of these 16 subjects' viruses also had baseline NS5A polymorphisms at resistance-associated amino acid positions. The most common substitutions detected at failure were Q30R, Y93H or N, and L31M.  Of the 8 genotype 1b virologic failure subjects, 88% (7/8) had virus with emergent NS5A resistance-associated substitutions L31V/M/I or Y93H at failure. Virus from three of these 7 subjects also had baseline NS5A polymorphisms at resistance-associated positions. The most common substitution detected at failure was Y93H.  At failure, 38% (14/37) of virologic failure subjects' viruses had 2 or more NS5A substitutions at resistance-associated positions.  In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), there were 24 virologic failures with genotype 1 infection (20 relapsers and 4 subjects who discontinued treatment prior to achieving HCV RNA &lt;LLOQ). Treatment-emergent NS5A resistance-associated substitutions K24R, M28T, Q30R/H/K, L31V, H58D/P, and/or Y93H/C were detected in 14/17 (82%) genotype 1a virologic failure subjects, and R30Q, L31M, and/or Y93H/N were detected in 6/7 (86%) genotype 1b virologic failure subjects.  In phenotypic analyses, post-baseline isolates from subjects who harbored NS5A resistance-associated substitutions at failure showed 20- to &gt;243-fold reduced susceptibility to ledipasvir.  Treatment-emergent NS5B substitutions L159 (n=1) and V321 (n=2) previously associated with sofosbuvir failure were detected in the Phase 3 trials (ION-3, ION-1, and ION-2). In addition, treatment-emergent NS5B substitutions at highly conserved positions D61G (n=3), A112T (n=2), E237G (n=2), and S473T (n=1) were detected at low frequency by next generation sequencing in treatment failure subjects infected with HCV genotype 1a. The D61G substitution was previously described in subjects infected with HCV genotype 1a in a liver pre-transplant trial. The E237G substitution was detected in 3 subjects infected with HCV GT1a in the SOLAR-1 and SOLAR-2 trials. The clinical significance of these substitutions is currently unknown. The sofosbuvir-associated resistance substitution S282T in NS5B was not detected in any failure isolate from the Phase 3 trials. NS5B substitutions S282T, L320V/I, and V321I in combination with NS5A substitutions L31M, Y93H, and Q30L were detected in one subject at failure following 8 weeks of treatment with HARVONI in a Phase 2 trial.  Genotype 4, 5 or 6  Resistance analysis was performed for 6 relapse subjects infected with HCV genotype 4 (Study 1119 and ION-4, N=3), genotype 5 (Study 1119, N=2) or genotype 6 (ELECTRON-2, N=1) and treated with HARVONI for 12 weeks. All the relapse subjects with NS5A sequencing data (5 of 6) had pretreatment NS5A resistance-associated polymorphisms (single or combinations at positions 24, 28, 30, 31, and 58). NS5A resistance substitutions (Y93C or L28V) emerged in two of the genotype 4 relapse subjects post-treatment who also had NS5A polymorphisms pretreatment that were retained post-treatment. Two of the relapsers with genotype 4 HCV infection had an NS5B V321I substitution pretreatment, which was retained post-treatment. Three of the relapse subjects (1 each for genotype 4, 5, and 6) had virus with emergent sofosbuvir resistance-associated substitution S282T at relapse; the genotype 5 relapse subject also had emergent nucleotide inhibitor substitution M289I.  Persistence of Resistance-Associated Substitutions  No data are available on the persistence of ledipasvir or sofosbuvir resistance-associated substitutions. NS5A resistance-associated substitutions for other NS5A inhibitors have been found to persist for &gt;1 year in some patients. The long-term clinical impact of the emergence or persistence of virus containing ledipasvir or sofosbuvir resistance-associated substitutions is unknown.  Effect of Baseline HCV Polymorphisms on Treatment Response  Adults  Genotype 1  Analyses were conducted to explore the association between pre-existing baseline NS5A polymorphisms at resistance-associated positions and relapse rates. In the pooled analysis of the Phase 3 trials, 23% (370/1589) of subjects' virus had baseline NS5A polymorphisms at resistance-associated positions (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or analysis of deep nucleotide sequences with a 15% frequency threshold.  In treatment-naïve subjects whose virus had baseline NS5A polymorphisms at resistance-associated positions in Studies ION-1 and ION-3, relapse rates were 6% (3/48) after 8 weeks and 1% (1/113) after 12 weeks of treatment with HARVONI. Relapse rates among subjects without baseline NS5A polymorphisms at resistance-associated positions were 5% (8/167) after 8 weeks and 1% (3/306) after 12 weeks treatment with HARVONI.  In treatment-experienced subjects in Study ION-2 whose virus had baseline NS5A polymorphisms at resistance-associated positions, relapse rates were 22% (5/23) after 12 weeks and 0% (0/19) after 24 weeks of treatment with HARVONI. In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with HARVONI + RBV compared to 2/15 (13%) subjects treated with 24 weeks of HARVONI.  SVR was achieved in all 24 subjects (N=20 with L159F+C316N; N=1 with L159F; and N=3 with N142T) who had baseline polymorphisms associated with resistance to sofosbuvir and/or other NS5B nucleoside inhibitors. The NS5B S282T substitution associated with resistance to sofosbuvir was not detected in the baseline NS5B sequence of any subject in Phase 3 trials by population or deep nucleotide sequence analysis.  In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with HARVONI and RBV, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.  In the Phase 3 trials and SOLAR trials, the specific baseline NS5A resistance-associated polymorphisms observed among subjects who relapsed were M28T/V, Q30H/R, L31M, H58D/P, and Y93H/N in genotype 1a, and L28M, L31M, A92T, and Y93H in genotype 1b. Subjects with multiple NS5A polymorphisms at resistance-associated positions appeared to have higher relapse rates.  Genotype 4, 5 or 6  Phylogenetic analysis of HCV sequences from genotype 4-infected subjects in Study 1119 (N=44) and ION-4 (N=8) identified 7 HCV genotype 4 subtypes (4a, 4b, 4d, 4f, 4m, 4o, and 4r). Most subjects were infected with subtype 4a (N=32; 62%) or 4d (N=11; 21%); 1 to 3 subjects were infected with each of the other genotype 4 subtypes. There were 3 subjects with subtype 4r, 2 of whom experienced virologic relapse, and both had a combination of 2 pretreatment NS5A resistance-associated polymorphisms (L28M/V+L30R).  Phylogenetic analysis of HCV sequences from genotype 5-infected subjects in Study 1119 showed almost all were subtype 5a (N=39) with one subject not having a subtype identified at screening or by analysis.  Phylogenetic analysis of HCV sequences from genotype 6-infected subjects in ELECTRON-2 identified 7 HCV genotype 6 subtypes (6a, 6e, 6l, 6m, 6p, 6q, and 6r). Thirty-two percent of the subjects had subtype 6a and 24% had subtype 6e. One to three subjects were infected with the other subtypes 6l, 6m, 6p, 6q, or 6r. The one subject who did not achieve SVR12 had subtype 6l.  Although the data are limited, baseline HCV NS5A resistance-associated polymorphisms are not expected to impact the likelihood of achieving SVR when HARVONI is used as recommended to treat HCV genotype 4, 5, or 6-infected patients, based on the low virologic failure rate observed in Study 1119 and ELECTRON-2. The specific baseline polymorphisms observed in subjects with virologic failure were L28M/V, L30R, and P58T for genotype 4; L31M for genotype 5; and Q24K, F28V, R30A, and T58P for genotype 6.  Relapse occurred in 2 of 3 genotype 4 subjects who had baseline NS5B V321I, a polymorphism at a position associated with treatment failure to sofosbuvir and other nucleoside inhibitors; these two subjects also had baseline NS5A resistance-associated polymorphisms. For genotype 5 and 6, SVR12 was achieved in subjects who had baseline NS5B polymorphisms at positions associated with resistance to sofosbuvir and other nucleoside inhibitors (N=1 with N142T in genotype 5; N=1 with M289I in genotype 5; N=15 with M289L/I in genotype 6). The sofosbuvir resistance-associated substitution S282T was not detected in the baseline NS5B sequence of any subject with genotype 4, 5, or 6 HCV in clinical trials by population or deep nucleotide sequence analysis.  Pediatrics  In Study 1116, the presence of NS5A and NS5B resistance-associated polymorphisms did not impact treatment outcome; all pediatric subjects 12 years of age and older with baseline NS5A or NS5B nucleoside inhibitor resistance-associated polymorphisms (18%; 17/96) achieved SVR following 12 weeks treatment with HARVONI.  Cross Resistance  Based on resistance patterns observed in cell culture replicon studies and HCV-infected subjects, cross-resistance between ledipasvir and other NS5A inhibitors is expected. Both sofosbuvir and ledipasvir were fully active against substitutions associated with resistance to other classes of direct-acting antivirals with different mechanisms of action, such as NS5B non-nucleoside inhibitors and NS3 protease inhibitors. The efficacy of ledipasvir/sofosbuvir has not been established in patients who have previously failed treatment with other regimens that include an NS5A inhibitor.</Section>
+</Text><Sentences>
+<Sentence id="4334" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Coadministration with amiodarone may result in serious symptomatic bradycardia.</SentenceText>
+</Sentence>
+<Sentence id="4335" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Use of HARVONI with amiodarone is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="4336" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>P-gp inducers (e.g., rifampin, St. John’s wort): May alter concentrations of ledipasvir and sofosbuvir.</SentenceText>
+</Sentence>
+<Sentence id="4337" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Use of HARVONI with P-gp inducers is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="4338" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Frequent monitoring of international normalized ratio (INR) values is recommended in patients receiving warfarin.</SentenceText>
+</Sentence>
+<Sentence id="4339" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Consult the full prescribing information prior to use for potential drug interactions.</SentenceText>
+</Sentence>
+<Sentence id="4340" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>As HARVONI contains ledipasvir and sofosbuvir, any interactions that have been identified with these agents individually may occur with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4341" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>After oral administration of HARVONI, sofosbuvir is rapidly absorbed and subject to extensive first-pass hepatic extraction.</SentenceText>
+</Sentence>
+<Sentence id="4342" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>In clinical pharmacology studies, both sofosbuvir and the inactive metabolite GS-331007 were monitored for purposes of pharmacokinetic analyses.</SentenceText>
+</Sentence>
+<Sentence id="4343" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Ledipasvir is an inhibitor of the drug transporters P-gp and breast cancer resistance protein (BCRP) and may increase intestinal absorption of coadministered substrates for these transporters.</SentenceText>
+</Sentence>
+<Sentence id="4344" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.</SentenceText>
+</Sentence>
+<Sentence id="4346" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4347" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.</SentenceText>
+</Sentence>
+<Sentence id="4348" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Table 5 provides a listing of established or potentially clinically significant drug interactions.</SentenceText>
+</Sentence>
+<Sentence id="4349" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>The drug interactions described are based on studies conducted with either HARVONI, the components of HARVONI (ledipasvir and sofosbuvir) as individual agents, or are predicted drug interactions that may occur with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4350" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.</SentenceText>
+</Sentence>
+<Sentence id="4351" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Concomitant Drug Class: Drug Name Effect on Concentration↓ = decrease, ↑ = increase Clinical Comment Acid Reducing Agents: ↓ ledipasvir Ledipasvir solubility decreases as pH increases.</SentenceText>
+</Sentence>
+<Sentence id="4352" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Drugs that increase gastric pH are expected to decrease concentration of ledipasvir.</SentenceText>
+</Sentence>
+<Sentence id="4353" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Antacids (e.g., aluminum and magnesium hydroxide) It is recommended to separate antacid and HARVONI administration by 4 hours.</SentenceText>
+</Sentence>
+<Sentence id="4354" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>H2-receptor antagonistsThese interactions have been studied in healthy adults.</SentenceText>
+</Sentence>
+<Sentence id="4355" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>(e.g., famotidine) H2-receptor antagonists may be administered simultaneously with or 12 hours apart from HARVONI at a dose that does not exceed doses comparable to famotidine 40 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="4356" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Proton-pump inhibitors (e.g., omeprazole) Proton-pump inhibitor doses comparable to omeprazole 20 mg or lower can be administered simultaneously with HARVONI under fasted conditions.</SentenceText>
+</Sentence>
+<Sentence id="4357" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Antiarrhythmics: amiodarone Effect on amiodarone, ledipasvir, and sofosbuvir concentrations unknown Coadministration of amiodarone with HARVONI may result in serious symptomatic bradycardia.</SentenceText>
+</Sentence>
+<Sentence id="4358" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Coadministration of amiodarone with HARVONI is not recommended; if coadministration is required, cardiac monitoring is recommended digoxin ↑ digoxin Coadministration of HARVONI with digoxin may increase the concentration of digoxin.</SentenceText>
+</Sentence>
+<Sentence id="4359" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Therapeutic concentration monitoring of digoxin is recommended when coadministered with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4360" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Anticonvulsants: carbamazepine phenytoin phenobarbital oxcarbazepine ↓ ledipasvir↓ sofosbuvir↓ GS-331007 Coadministration of HARVONI with carbamazepine, phenytoin, phenobarbital, or oxcarbazepine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4361" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Antimycobacterials: rifabutin rifampin rifapentine ↓ ledipasvir↓ sofosbuvir↓ GS-331007 Coadministration of HARVONI with rifabutin or rifapentine is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4362" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Coadministration is not recommended.Coadministration of HARVONI with rifampin, a P-gp inducer, is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="4363" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>HIV Antiretrovirals: Regimens containing tenofovir DF without an HIV protease inhibitor/ritonavir or cobicistat tenofovir Monitor for tenofovir-associated adverse reactions in patients receiving HARVONI concomitantly with a regimen containing tenofovir DF without an HIV protease inhibitor/ritonavir or cobicistat.</SentenceText>
+</Sentence>
+<Sentence id="4364" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring.</SentenceText>
+</Sentence>
+<Sentence id="4365" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Regimens containing tenofovir DF and an HIV protease inhibitor/ritonavir or cobicistat</SentenceText>
+</Sentence>
+<Sentence id="4366" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>If coadministration is necessary, monitor for tenofovir-associated adverse reactions.</SentenceText>
+</Sentence>
+<Sentence id="4367" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Refer to VIREAD or TRUVADA prescribing information for recommendations on renal monitoring. elvitegravir, cobicistat, emtricitabine, tenofovir DF ↑ tenofovir The safety of increased tenofovir concentrations in the setting of HARVONI and the combination of elvitegravir, cobicistat, emtricitabine and tenofovir DF has not been established. tipranavir/ritonavir ↓ ledipasvir↓ sofosbuvir↓ GS-331007 Coadministration of HARVONI with tipranavir/ritonavir is expected to decrease the concentration of ledipasvir and sofosbuvir, leading to reduced therapeutic effect of HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4368" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>HCV Products: simeprevir ↑ ledipasvir↑ simeprevir Concentrations of ledipasvir and simeprevir are increased when simeprevir is coadministered with ledipasvir.</SentenceText>
+</Sentence>
+<Sentence id="4369" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Coadministration of HARVONI with simeprevir is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="4370" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Herbal Supplements: St. John’s wort (Hypericum perforatum) ↓ ledipasvir↓ sofosbuvir↓ GS-331007 Coadministration of HARVONI with St. John’s wort, a P-gp inducer is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="4371" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>HMG-CoA Reductase Inhibitors: rosuvastatin ↑ rosuvastatin Coadministration of HARVONI with rosuvastatin may significantly increase the concentration of rosuvastatin which is associated with increased risk of myopathy, including rhabdomyolysis.</SentenceText>
+</Sentence>
+<Sentence id="4372" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Coadministration of HARVONI with rosuvastatin is not recommended.atorvastatin↑ atorvastatinCoadministration of HARVONI with atorvastatin may be associated with increased risk of myopathy, including rhabdomyolysis.</SentenceText>
+</Sentence>
+<Sentence id="4373" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Monitor closely for HMG-CoA reductase inhibitor-associated adverse reactions, such as myopathy and rhabdomyolysis.</SentenceText>
+</Sentence>
+<Sentence id="4374" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>Based on drug interaction studies conducted with the components of HARVONI (ledipasvir or sofosbuvir) or HARVONI, no clinically significant drug interactions have been either observed or are expected when HARVONI is used with the following drugs individually : abacavir, atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, efavirenz, emtricitabine, lamivudine, methadone, oral contraceptives, pravastatin, raltegravir, rilpivirine, tacrolimus, tenofovir disoproxil fumarate, or verapamil.</SentenceText>
+</Sentence>
+<Sentence id="4375" LabelDrug="Harvoni" section="34073-7">
+<SentenceText>See Table 5 for use of HARVONI with certain HIV antiretroviral regimens.</SentenceText>
+</Sentence>
+<Sentence id="4376" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>HARVONI is a fixed-dose combination of ledipasvir and sofosbuvir which are direct-acting antiviral agents against the hepatitis C virus.</SentenceText>
+</Sentence>
+<Sentence id="4377" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Cardiac Electrophysiology Thorough QT studies have been conducted for ledipasvir and sofosbuvir.</SentenceText>
+</Sentence>
+<Sentence id="4378" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The effect of ledipasvir 120 mg twice daily (2.67 times the maximum recommended dosage) for 10 days on QTc interval was evaluated in a randomized, multiple-dose, placebo-, and active-controlled (moxifloxacin 400 mg) three period crossover thorough QT trial in 59 healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="4379" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>At the dose of 120 mg twice daily (2.67 times the maximum recommended dosage), ledipasvir does not prolong QTc interval to any clinically relevant extent.</SentenceText>
+</Sentence>
+<Sentence id="4380" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The effect of sofosbuvir 400 mg (maximum recommended dosage) and 1200 mg (three times the maximum recommended dosage) on QTc interval was evaluated in a randomized, single-dose, placebo-, and active-controlled (moxifloxacin 400 mg) four period crossover thorough QT trial in 59 healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="4381" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>At a dose three times the maximum recommended dose, sofosbuvir does not prolong QTc to any clinically relevant extent.</SentenceText>
+</Sentence>
+<Sentence id="4382" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Absorption The pharmacokinetic properties of ledipasvir, sofosbuvir, and the predominant circulating metabolite GS-331007 have been evaluated in healthy adult subjects and in subjects with chronic hepatitis C. Following oral administration of HARVONI, ledipasvir median peak concentrations were observed 4 to 4.5 hours post-dose.</SentenceText>
+</Sentence>
+<Sentence id="4383" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir was absorbed quickly and the peak median plasma concentration was observed ~0.8 to 1 hour post-dose.</SentenceText>
+</Sentence>
+<Sentence id="4384" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Median peak plasma concentration of GS-331007 was observed between 3.5 to 4 hours post-dose.</SentenceText>
+</Sentence>
+<Sentence id="4385" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Based on the population pharmacokinetic analysis in HCV-infected subjects, geometric mean steady-state AUC0–24 for ledipasvir (N=2113), sofosbuvir (N=1542), and GS-331007 (N=2113) were 7290, 1320, and 12,000 ng∙hr/mL, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4386" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Steady-state Cmax for ledipasvir, sofosbuvir, and GS-331007 were 323, 618, and 707 ng/mL, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4387" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir and GS-331007 AUC0–24 and Cmax were similar in healthy adult subjects and subjects with HCV infection.</SentenceText>
+</Sentence>
+<Sentence id="4388" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Relative to healthy subjects (N=191), ledipasvir AUC0–24 and Cmax were 24% lower and 32% lower, respectively, in HCV-infected subjects.</SentenceText>
+</Sentence>
+<Sentence id="4389" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Effect of Food Relative to fasting conditions, the administration of a single dose of HARVONI with a moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal increased sofosbuvir AUC0–inf by approximately 2-fold, but did not significantly affect sofosbuvir Cmax.</SentenceText>
+</Sentence>
+<Sentence id="4390" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The exposures of GS-331007 and ledipasvir were not altered in the presence of either meal type.</SentenceText>
+</Sentence>
+<Sentence id="4391" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The response rates in Phase 3 trials were similar in HCV-infected subjects who received HARVONI with food or without food.</SentenceText>
+</Sentence>
+<Sentence id="4392" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>HARVONI can be administered without regard to food.</SentenceText>
+</Sentence>
+<Sentence id="4393" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Distribution Ledipasvir is greater than 99.8% bound to human plasma proteins.</SentenceText>
+</Sentence>
+<Sentence id="4394" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>After a single 90 mg dose of [14C]-ledipasvir in healthy subjects, the blood to plasma ratio of 14C-radioactivity ranged between 0.51 and 0.66.</SentenceText>
+</Sentence>
+<Sentence id="4395" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir is approximately 61–65% bound to human plasma proteins and the binding is independent of drug concentration over the range of 1 µg/mL to 20 µg/mL.</SentenceText>
+</Sentence>
+<Sentence id="4396" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Protein binding of GS-331007 was minimal in human plasma.</SentenceText>
+</Sentence>
+<Sentence id="4397" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>After a single 400 mg dose of [14C]-sofosbuvir in healthy subjects, the blood to plasma ratio of 14C-radioactivity was approximately 0.7.</SentenceText>
+</Sentence>
+<Sentence id="4398" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Metabolism In vitro, no detectable metabolism of ledipasvir was observed by human CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="4399" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Evidence of slow oxidative metabolism via an unknown mechanism has been observed.</SentenceText>
+</Sentence>
+<Sentence id="4400" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Following a single dose of 90 mg [14C]-ledipasvir, systemic exposure was almost exclusively to the parent drug (greater than 98%).</SentenceText>
+</Sentence>
+<Sentence id="4401" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Unchanged ledipasvir is the major species present in feces.</SentenceText>
+</Sentence>
+<Sentence id="4402" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir is extensively metabolized in the liver to form the pharmacologically active nucleoside analog triphosphate GS-461203.</SentenceText>
+</Sentence>
+<Sentence id="4403" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The metabolic activation pathway involves sequential hydrolysis of the carboxyl ester moiety catalyzed by human cathepsin A (CatA) or carboxylesterase 1 (CES1) and phosphoramidate cleavage by histidine triad nucleotide-binding protein 1 (HINT1) followed by phosphorylation by the pyrimidine nucleotide biosynthesis pathway.</SentenceText>
+</Sentence>
+<Sentence id="4404" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Dephosphorylation results in the formation of nucleoside metabolite GS-331007 that cannot be efficiently rephosphorylated and lacks anti-HCV activity in vitro.</SentenceText>
+</Sentence>
+<Sentence id="4405" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>After a single 400 mg oral dose of [14C]-sofosbuvir, GS-331007 accounted for approximately greater than 90% of total systemic exposure.</SentenceText>
+</Sentence>
+<Sentence id="4406" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Elimination Following a single 90 mg oral dose of [14C]-ledipasvir, mean total recovery of the [14C]-radioactivity in feces and urine was approximately 87%, with most of the radioactive dose recovered from feces (approximately 86%).</SentenceText>
+</Sentence>
+<Sentence id="4407" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Unchanged ledipasvir excreted in feces accounted for a mean of 70% of the administered dose and the oxidative metabolite M19 accounted for 2.2% of the dose.</SentenceText>
+</Sentence>
+<Sentence id="4408" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>These data indicate that biliary excretion of unchanged ledipasvir is a major route of elimination, with renal excretion being a minor pathway (approximately 1%).</SentenceText>
+</Sentence>
+<Sentence id="4409" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The median terminal half-life of ledipasvir following administration of HARVONI was 47 hours.</SentenceText>
+</Sentence>
+<Sentence id="4410" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Following a single 400 mg oral dose of [14C]-sofosbuvir, mean total recovery of the dose was greater than 92%, consisting of approximately 80%, 14%, and 2.5% recovered in urine, feces, and expired air, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4411" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The majority of the sofosbuvir dose recovered in urine was GS-331007 (78%) while 3.5% was recovered as sofosbuvir.</SentenceText>
+</Sentence>
+<Sentence id="4412" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>These data indicate that renal clearance is the major elimination pathway for GS-331007.</SentenceText>
+</Sentence>
+<Sentence id="4413" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The median terminal half-lives of sofosbuvir and GS-331007 following administration of HARVONI were 0.5 and 27 hours, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4414" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Specific Populations Race: Population pharmacokinetics analysis in HCV-infected subjects indicated that race had no clinically relevant effect on the exposure of ledipasvir, sofosbuvir, and GS-331007.</SentenceText>
+</Sentence>
+<Sentence id="4415" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that gender had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.</SentenceText>
+</Sentence>
+<Sentence id="4416" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>AUC and Cmax of ledipasvir were 77% and 58% higher, respectively, in females than males; however, the relationship between gender and ledipasvir exposures was not considered clinically relevant, as high response rates (SVR &gt;90%) were achieved in male and female subjects across the Phase 3 studies and the safety profiles are similar in females and males.</SentenceText>
+</Sentence>
+<Sentence id="4417" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in 100 pediatric subjects 12 years of age and older infected with HCV genotype 1 receiving a daily dose of HARVONI (90 mg ledipasvir and 400 mg sofosbuvir).</SentenceText>
+</Sentence>
+<Sentence id="4418" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The pharmacokinetic properties of ledipasvir, sofosbuvir, and GS-331007 in pediatric subjects 12 years of age and older are provided in Table 6.</SentenceText>
+</Sentence>
+<Sentence id="4419" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Exposures in pediatric subjects were similar to those observed in adults.</SentenceText>
+</Sentence>
+<Sentence id="4420" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Table 6 Pharmacokinetic Properties of the Components of HARVONI in Pediatric Subjects 12 Years of Age and Older</SentenceText>
+</Sentence>
+<Sentence id="4421" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 80 years) analyzed, age did not have a clinically relevant effect on the exposure to ledipasvir, sofosbuvir, and GS-331007.</SentenceText>
+</Sentence>
+<Sentence id="4422" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Patients with Renal Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).</SentenceText>
+</Sentence>
+<Sentence id="4423" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>No clinically relevant differences in ledipasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.</SentenceText>
+</Sentence>
+<Sentence id="4424" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The pharmacokinetics of sofosbuvir were studied in HCV-negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.</SentenceText>
+</Sentence>
+<Sentence id="4425" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Relative to subjects with normal renal function (eGFR &gt;80 mL/min/1.73m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4426" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4427" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>A 4 hour hemodialysis session removed approximately 18% of administered dose.</SentenceText>
+</Sentence>
+<Sentence id="4428" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C).</SentenceText>
+</Sentence>
+<Sentence id="4429" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.</SentenceText>
+</Sentence>
+<Sentence id="4430" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir.</SentenceText>
+</Sentence>
+<Sentence id="4431" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C).</SentenceText>
+</Sentence>
+<Sentence id="4432" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Relative to subjects with normal hepatic function, the sofosbuvir AUC0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0–24 were 18% and 9% higher, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4433" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.</SentenceText>
+</Sentence>
+<Sentence id="4434" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Drug Interaction Studies Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.</SentenceText>
+</Sentence>
+<Sentence id="4435" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>P-gp inducers (e.g., rifampin or St. John’s wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4436" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Coadministration with drugs that inhibit P-gp and/or BCRP may increase ledipasvir and sofosbuvir plasma concentrations without increasing GS-331007 plasma concentration; HARVONI may be coadministered with P-gp and/or BCRP inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="4437" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Neither ledipasvir nor sofosbuvir is a substrate for hepatic uptake transporters OCT1, OATP1B1, or OATP1B3.</SentenceText>
+</Sentence>
+<Sentence id="4438" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>GS-331007 is not a substrate for renal transporters, including organic anion transporter OAT1 or OAT3, or organic cation transporter OCT2.</SentenceText>
+</Sentence>
+<Sentence id="4439" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir is subject to slow oxidative metabolism via an unknown mechanism.</SentenceText>
+</Sentence>
+<Sentence id="4440" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In vitro, no detectable metabolism of ledipasvir by CYP enzymes has been observed.</SentenceText>
+</Sentence>
+<Sentence id="4441" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Biliary excretion of unchanged ledipasvir is a major route of elimination.</SentenceText>
+</Sentence>
+<Sentence id="4442" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir is not a substrate for CYP and UGT1A1 enzymes.</SentenceText>
+</Sentence>
+<Sentence id="4443" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Clinically significant drug interactions with HARVONI mediated by CYP or UGT1A1 enzymes are not expected.</SentenceText>
+</Sentence>
+<Sentence id="4444" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 7.</SentenceText>
+</Sentence>
+<Sentence id="4445" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Table 7 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.</SentenceText>
+</Sentence>
+<Sentence id="4446" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Co-administered Drug Dose of Co-administered Drug (mg) Ledipasvir Dose(mg) Sofosbuvir Dose(mg) N Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir, and GS-331007 PK With/Without Coadministered DrugNo Effect=1.00 Cmax AUC Cmin NA = not available/not applicable, ND = not dosed.</SentenceText>
+</Sentence>
+<Sentence id="4447" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.</SentenceText>
+</Sentence>
+<Sentence id="4448" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>, The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF.</SentenceText>
+</Sentence>
+<Sentence id="4449" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>300/100 + 200/300 once daily</SentenceText>
+</Sentence>
+<Sentence id="4450" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>600/200/300 once daily 90 once daily 400 once daily 14 ledipasvir 0.66 (0.59, 0.75) 0.66(0.59, 0.75) 0.66(0.57, 0.76) sofosbuvir 1.03 (0.87, 1.23) 0.94 (0.81, 1.10) NA GS-331007 0.86 (0.76, 0.96) 0.90 (0.83, 0.97) 1.07 (1.02, 1.13) Elvitegravir/ cobicistat 150/150 once daily 90 once daily 400 once daily 29 ledipasvir 1.63 (1.51, 1.75) 1.78 (1.64, 1.94) 1.91 (1.76, 2.08) sofosbuvir 1.33 (1.14, 1.56) 1.36 (1.21, 1.52) NA GS-331007 1.33 (1.22, 1.44) 1.44 (1.41, 1.48) 1.53 (1.47, 1.59) Famotidine 40 single dose simultaneously with HARVONI 90 single dose 400 single dose 12 ledipasvir 0.80 (0.69, 0.93) 0.89 (0.76, 1.06) NA sofosbuvir 1.15 (0.88, 1.50) 1.11 (1.00, 1.24) NA GS-331007 1.06 (0.97, 1.14) 1.06 (1.02, 1.11) NA 40 single dose 12 hours prior to HARVONI 12 ledipasvir 0.83 (0.69, 1.00) 0.98 (0.80, 1.20) NA sofosbuvir 1.00 (0.76, 1.32) 0.95 (0.82, 1.10) NA GS-331007 1.13 (1.07, 1.20) 1.06 (1.01, 1.12) NA Methadone 30 to 130 daily ND 400 once daily 14 sofosbuvir 0.95(0.68, 1.33) 1.30 (1.00, 1.69) NA GS-331007 0.73(0.65, 0.83) 1.04 (0.89, 1.22) NA Omeprazole 20 once daily simultaneously with HARVONI 90 single dose 400 single dose 16 ledipasvir 0.89 (0.61, 1.30) 0.96 (0.66, 1.39) NA sofosbuvir 1.12 (0.88, 1.42) 1.00 (0.80, 1.25) NA GS-331007 1.14 (1.01, 1.29) 1.03 (0.96, 1.12) NA 20 once daily 2 hours prior to ledipasvir 30 single dose ND 17 ledipasvir 0.52(0.41, 0.66) 0.58(0.48, 0.71) NA RifampinThis study was conducted in the presence of two other investigational HCV direct-acting agents.</SentenceText>
+</Sentence>
+<Sentence id="4451" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>ND 31 ledipasvir 0.65 (0.56, 0.76) 0.41 (0.36, 0.48) NA ND 400 single dose 17 sofosbuvir 0.23 (0.19, 0.29) 0.28 (0.24, 0.32) NA GS-331007 1.23 (1.14, 1.34) 0.95 (0.88, 1.03) NA Simeprevir 150 once daily 30 once daily ND 22 ledipasvir 1.81 (1.69, 2.94) 1.92 (1.77, 2.07) NA Tacrolimus 5 single dose ND 400 single dose 16 sofosbuvir 0.97 (0.65, 1.43) 1.13 (0.81, 1.57) NA GS-331007 0.97 (0.83, 1.14) 1.00 (0.87, 1.13)</SentenceText>
+</Sentence>
+<Sentence id="4452" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir is an inhibitor of drug transporter P-gp and breast cancer resistance protein (BCRP) and may increase intestinal absorption of coadministered substrates for these transporters.</SentenceText>
+</Sentence>
+<Sentence id="4453" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir is an inhibitor of transporters OATP1B1, OATP1B3, and BSEP only at concentrations exceeding those achieved in clinic.</SentenceText>
+</Sentence>
+<Sentence id="4454" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir is not an inhibitor of transporters MRP2, MRP4, OCT2, OAT1, OAT3, MATE1, and OCT1.</SentenceText>
+</Sentence>
+<Sentence id="4455" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The drug-drug interaction potential of ledipasvir is primarily limited to the intestinal inhibition of P-gp and BCRP.</SentenceText>
+</Sentence>
+<Sentence id="4456" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Clinically relevant transporter inhibition by ledipasvir in the systemic circulation is not expected due to its high protein binding.</SentenceText>
+</Sentence>
+<Sentence id="4457" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, MRP2, BSEP, OATP1B1, OATP1B3, and OCT1, and GS-331007 is not an inhibitor of OAT1, OCT2, and MATE1.</SentenceText>
+</Sentence>
+<Sentence id="4458" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.</SentenceText>
+</Sentence>
+<Sentence id="4459" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 8.</SentenceText>
+</Sentence>
+<Sentence id="4460" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or HARVONIAll interaction studies conducted in healthy volunteers.</SentenceText>
+</Sentence>
+<Sentence id="4461" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Co-administered Drug Dose of Co-administered Drug (mg) Ledipasvir Dose(mg) Sofosbuvir Dose(mg) N Mean Ratio (90% CI) of Coadministered Drug PK With/Without Ledipasvir, Sofosbuvir, or HARVONINo Effect=1.00 Cmax AUC Cmin NA = not available/not applicable, ND = not dosed.</SentenceText>
+</Sentence>
+<Sentence id="4463" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>, The effects of HARVONI on atazanavir and ritonavir are similar with or without the presence of emtricitabine/tenofovir DF.</SentenceText>
+</Sentence>
+<Sentence id="4464" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>This magnitude of change in tenofovir exposure does not reflect the approximately 60–80% increase caused by the effects of an HIV PI/ritonavir and the effect of food.</SentenceText>
+</Sentence>
+<Sentence id="4465" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Therefore, tenofovir exposure is approximately 130% higher when administered as tenofovir DF + atazanavir/ritonavir + HARVONI or tenofovir DF + darunavir/ritonavir + HARVONI and with food as compared to the tenofovir exposure observed following fasted administration of tenofovir DF-based regimens that do not contain an HIV PI/ritonavir and HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4466" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The effects of HARVONI on tenofovir exposures are similar when tenofovir is administered as ATRIPLA, COMPLERA, or TRUVADA + dolutegravir.</SentenceText>
+</Sentence>
+<Sentence id="4467" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>90 once daily 400 once daily 15 1.79 (1.56, 2.04) 1.98 (1.77, 2.23) 2.63 (2.32, 2.97) No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with ledipasvir or sofosbuvir: abacavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, emtricitabine, lamivudine, methadone, or rilpivirine.</SentenceText>
+</Sentence>
+<Sentence id="4468" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Mechanism of Action Ledipasvir is an inhibitor of the HCV NS5A protein, which is required for viral replication.</SentenceText>
+</Sentence>
+<Sentence id="4469" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Resistance selection in cell culture and cross-resistance studies indicate ledipasvir targets NS5A as its mode of action.</SentenceText>
+</Sentence>
+<Sentence id="4470" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is required for viral replication.</SentenceText>
+</Sentence>
+<Sentence id="4471" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator.</SentenceText>
+</Sentence>
+<Sentence id="4472" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotypes 1b and 4a with IC50 values of 3.3 and 2.7 microM, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4473" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>GS-461203 is neither an inhibitor of human DNA and RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.</SentenceText>
+</Sentence>
+<Sentence id="4474" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Antiviral Activity In HCV replicon assays, the EC50 values of ledipasvir against full-length replicons from genotypes 1a and 1b were 0.031 nM and 0.004 nM, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4475" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The median EC50 values of ledipasvir against chimeric replicons encoding NS5A sequences from clinical isolates from treatment-naÃ¯ve HCV-infected subjects were 0. 02 nM for genotype 1a (range 0.007-1.0 nM; N=23) and 0.006 nM for genotype 1b (range 0.002-1.0 nM; N=34).</SentenceText>
+</Sentence>
+<Sentence id="4476" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>02 nM for genotype 1a (range 0.007–1.0 nM; N=23) and 0.006 nM for genotype 1b (range 0.002–1.0 nM; N=34).</SentenceText>
+</Sentence>
+<Sentence id="4477" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Ledipasvir had median EC50 values ranging between 0.002 nM to 0.16 nM against 11 genotype 4 subtypes (4a, 4d, 4n, 4r, 4o, 4c, 4f, 4k, 4l, 4m and 4t).</SentenceText>
+</Sentence>
+<Sentence id="4478" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The median EC50 value for subtype 4b was 199.6 nM (range 0.66–1799 nM; N=3); the two 4b isolates with EC50 values greater than 100 nM had NS5A resistance-associated polymorphisms L30S+M31M+P58S+Y93H.</SentenceText>
+</Sentence>
+<Sentence id="4479" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The median EC50 value of ledipasvir was 0.03 nM against genotype 5a isolates (range 0.008-0.081 nM; N=35).</SentenceText>
+</Sentence>
+<Sentence id="4480" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>For genotype 6, the EC50 values for ledipasvir varied by subtype.</SentenceText>
+</Sentence>
+<Sentence id="4481" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Subtypes 6a and 6h had median EC50 values of 0.55 and 0.17 nM, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4482" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>For subtypes 6e, 6l, 6n, 6q, 6k and 6m, the median EC50 values ranged from 60.6 nM to 430.1 nM.</SentenceText>
+</Sentence>
+<Sentence id="4483" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In HCV replicon assays, the EC50 values of sofosbuvir against full-length replicons from genotypes 1a, 1b, 2a, 3a, and 4a, and chimeric 1b replicons encoding NS5B from genotypes 2b, 5a, or 6a ranged from 14–110 nM.</SentenceText>
+</Sentence>
+<Sentence id="4484" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The median EC50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 62 nM for genotype 1a (range 29–128 nM; N=67), 102 nM for genotype 1b (range 45–170 nM; N=29), 29 nM for genotype 2 (range 14–81 nM; N=15), and 81 nM for genotype 3a (range 24–181 nM; N=106).</SentenceText>
+</Sentence>
+<Sentence id="4485" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In replication competent virus assays, the EC50 value of sofosbuvir against genotype 1a was 30 nM.</SentenceText>
+</Sentence>
+<Sentence id="4486" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Evaluation of sofosbuvir in combination with ledipasvir showed no antagonistic effect in reducing HCV RNA levels in replicon cells.</SentenceText>
+</Sentence>
+<Sentence id="4487" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Resistance In Cell Culture HCV replicons with reduced susceptibility to ledipasvir have been selected in cell culture for genotypes 1a and 1b.</SentenceText>
+</Sentence>
+<Sentence id="4488" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Reduced susceptibility to ledipasvir was associated with the primary NS5A amino acid substitution Y93H in both genotypes 1a and 1b.</SentenceText>
+</Sentence>
+<Sentence id="4489" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Additionally, a Q30E substitution emerged in genotype 1a replicons.</SentenceText>
+</Sentence>
+<Sentence id="4490" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Site-directed mutagenesis of the Y93H in both genotypes 1a and 1b, as well as the Q30E substitution in genotype 1a, conferred high levels of reduced susceptibility to ledipasvir (fold change in EC50 greater than 1000-fold).</SentenceText>
+</Sentence>
+<Sentence id="4491" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 4a, 5a, and 6a.</SentenceText>
+</Sentence>
+<Sentence id="4492" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Reduced susceptibility to sofosbuvir was associated with the NS5B substitution S282T in all replicon genotypes examined.</SentenceText>
+</Sentence>
+<Sentence id="4493" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>An M289L substitution developed along with the S282T substitution in genotype 5 and 6 replicons.</SentenceText>
+</Sentence>
+<Sentence id="4494" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Site-directed mutagenesis of the S282T substitution in replicons of 8 genotypes conferred 2- to 18-fold reduced susceptibility to sofosbuvir.</SentenceText>
+</Sentence>
+<Sentence id="4495" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In Clinical Trials In a pooled analysis of subjects who received HARVONI in Phase 3 trials, 37 subjects (29 with genotype 1a and 8 with genotype 1b) qualified for resistance analysis due to virologic failure (35 with virologic relapse, 2 with breakthrough on-treatment due to documented non-adherence).</SentenceText>
+</Sentence>
+<Sentence id="4496" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Post-baseline NS5A and NS5B deep nucleotide sequence analysis data (assay sensitivity of 1%) were available for 37/37 and 36/37 subjects' viruses, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4497" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Of the 29 genotype 1a virologic failure subjects, 55% (16/29) of subjects had virus with emergent NS5A resistance-associated substitutions K24R, M28T/V, Q30R/H/K/L, L31M, or Y93H/N at failure.</SentenceText>
+</Sentence>
+<Sentence id="4498" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Five of these 16 subjects' viruses also had baseline NS5A polymorphisms at resistance-associated amino acid positions.</SentenceText>
+</Sentence>
+<Sentence id="4499" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The most common substitutions detected at failure were Q30R, Y93H or N, and L31M.</SentenceText>
+</Sentence>
+<Sentence id="4500" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Of the 8 genotype 1b virologic failure subjects, 88% (7/8) had virus with emergent NS5A resistance-associated substitutions L31V/M/I or Y93H at failure.</SentenceText>
+</Sentence>
+<Sentence id="4501" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Virus from three of these 7 subjects also had baseline NS5A polymorphisms at resistance-associated positions.</SentenceText>
+</Sentence>
+<Sentence id="4502" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The most common substitution detected at failure was Y93H.</SentenceText>
+</Sentence>
+<Sentence id="4503" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>At failure, 38% (14/37) of virologic failure subjects' viruses had 2 or more NS5A substitutions at resistance-associated positions.</SentenceText>
+</Sentence>
+<Sentence id="4504" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), there were 24 virologic failures with genotype 1 infection (20 relapsers and 4 subjects who discontinued treatment prior to achieving HCV RNA &lt; LLOQ).</SentenceText>
+</Sentence>
+<Sentence id="4505" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Treatment-emergent NS5A resistance-associated substitutions K24R, M28T, Q30R/H/K, L31V, H58D/P, and/or Y93H/C were detected in 14/17 (82%) genotype 1a virologic failure subjects, and R30Q, L31M, and/or Y93H/N were detected in 6/7 (86%) genotype 1b virologic failure subjects.</SentenceText>
+</Sentence>
+<Sentence id="4506" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In phenotypic analyses, post-baseline isolates from subjects who harbored NS5A resistance-associated substitutions at failure showed 20- to &gt;243-fold reduced susceptibility to ledipasvir.</SentenceText>
+</Sentence>
+<Sentence id="4507" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Treatment-emergent NS5B substitutions L159 (n=1) and V321 (n=2) previously associated with sofosbuvir failure were detected in the Phase 3 trials (ION-3, ION-1, and ION-2).</SentenceText>
+</Sentence>
+<Sentence id="4508" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In addition, NS5B substitutions at highly conserved positions D61G (n=3), A112T (n=2), E237G (n=2), and S473T (n=1) were detected at low frequency by next generation sequencing in treatment failure subjects infected with HCV GT1a.</SentenceText>
+</Sentence>
+<Sentence id="4509" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The D61G substitution was previously described in subjects infected with HCV genotype 1a in a liver pre-transplant trial.</SentenceText>
+</Sentence>
+<Sentence id="4510" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The E237G substitution was detected in 3 subjects infected with HCV GT1a in the SOLAR-1 and SOLAR-2 trials.</SentenceText>
+</Sentence>
+<Sentence id="4511" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The clinical significance of these substitutions is currently unknown.</SentenceText>
+</Sentence>
+<Sentence id="4512" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The sofosbuvir-associated resistance substitution S282T in NS5B was not detected in any failure isolate from the Phase 3 trials.</SentenceText>
+</Sentence>
+<Sentence id="4513" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>NS5B substitutions S282T, L320V/I, and V321I in combination with NS5A substitutions L31M, Y93H, and Q30L were detected in one subject at failure following 8 weeks of treatment with HARVONI in a Phase 2 trial.</SentenceText>
+</Sentence>
+<Sentence id="4514" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Genotype 4, 5 or 6 Resistance analysis was performed for 6 relapse subjects infected with HCV genotype 4 (Study 1119 and ION-4, N=3), genotype 5 (Study 1119, N=2) or genotype 6 (ELECTRON-2, N=1) and treated with HARVONI for 12 weeks.</SentenceText>
+</Sentence>
+<Sentence id="4515" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>All the relapse subjects with NS5A sequencing data (5 of 6) had pretreatment NS5A resistance-associated polymorphisms (single or combinations at positions 24, 28, 30, 31, and 58).</SentenceText>
+</Sentence>
+<Sentence id="4516" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>NS5A resistance substitutions (Y93C or L28V) emerged in two of the genotype 4 relapse subjects post-treatment who also had NS5A polymorphisms pretreatment that were retained post-treatment.</SentenceText>
+</Sentence>
+<Sentence id="4517" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Two of the relapsers with genotype 4 HCV infection had an NS5B V321I substitution pretreatment, which was retained post-treatment.</SentenceText>
+</Sentence>
+<Sentence id="4518" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Three of the relapse subjects (1 each for genotype 4, 5, and 6) had virus with emergent sofosbuvir resistance-associated substitution S282T at relapse; the genotype 5 relapse subject also had emergent nucleotide inhibitor substitution M289I.</SentenceText>
+</Sentence>
+<Sentence id="4519" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Persistence of Resistance-Associated Substitutions No data are available on the persistence of ledipasvir or sofosbuvir resistance-associated substitutions.</SentenceText>
+</Sentence>
+<Sentence id="4520" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>NS5A resistance-associated substitutions for other NS5A inhibitors have been found to persist for &gt;1 year in some patients.</SentenceText>
+</Sentence>
+<Sentence id="4521" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The long-term clinical impact of the emergence or persistence of virus containing ledipasvir or sofosbuvir resistance-associated substitutions is unknown.</SentenceText>
+</Sentence>
+<Sentence id="4522" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Effect of Baseline HCV Polymorphisms on Treatment Response Adults Genotype 1 Analyses were conducted to explore the association between pre-existing baseline NS5A polymorphisms at resistance-associated positions and relapse rates.</SentenceText>
+</Sentence>
+<Sentence id="4523" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In the pooled analysis of the Phase 3 trials, 23% (370/1589) of subjects' virus had baseline NS5A polymorphisms at resistance-associated positions (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or deep sequencing.</SentenceText>
+</Sentence>
+<Sentence id="4524" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In treatment-naïve subjects whose virus had baseline NS5A polymorphisms at resistance-associated positions in Studies ION-1 and ION-3, relapse rates were 6% (3/48) after 8 weeks and 1% (1/113) after 12 weeks of treatment with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4525" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Relapse rates among subjects without baseline NS5A polymorphisms at resistance-associated positions were 5% (8/167) after 8 weeks and 1% (3/306) after 12 weeks treatment with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4526" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In treatment-experienced subjects in Study ION-2 whose virus had baseline NS5A polymorphisms at resistance-associated positions, relapse rates were 22% (5/23) after 12 weeks and 0% (0/19) after 24 weeks of treatment with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4527" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with HARVONI + RBV compared to 2/15 (13%) subjects treated with 24 weeks of HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4528" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>SVR was achieved in all 24 subjects (N=20 with L159F+C316N; N=1 with L159F; and N=3 with N142T) who had baseline polymorphisms associated with resistance to sofosbuvir and/or other NS5B nucleoside inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="4529" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The NS5B S282T substitution associated with resistance to sofosbuvir was not detected in the baseline NS5B sequence of any subject in Phase 3 trials by population or deep nucleotide sequence analysis.</SentenceText>
+</Sentence>
+<Sentence id="4530" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with HARVONI and RBV, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4531" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>In the Phase 3 trials and SOLAR trials, the specific baseline NS5A resistance-associated polymorphisms observed among subjects who relapsed were M28T/V, Q30H/R, L31M, H58D/P, and Y93H/N in genotype 1a, and L28M, L31M, A92T, and Y93H in genotype 1b.</SentenceText>
+</Sentence>
+<Sentence id="4532" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Subjects with multiple NS5A polymorphisms at resistance-associated positions appeared to have higher relapse rates.</SentenceText>
+</Sentence>
+<Sentence id="4533" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Genotype 4, 5 or 6 Phylogenetic analysis of HCV sequences from genotype 4-infected subjects in Study 1119 (N=44) and ION-4 (N=8) identified 7 HCV genotype 4 subtypes (4a, 4b, 4d, 4f, 4m, 4o, and 4r).</SentenceText>
+</Sentence>
+<Sentence id="4534" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Most subjects were infected with subtype 4a (N=32; 62%) or 4d (N=11; 21%); 1 to 3 subjects were infected with each of the other genotype 4 subtypes.</SentenceText>
+</Sentence>
+<Sentence id="4535" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>There were 3 subjects with subtype 4r, 2 of whom experienced virologic relapse, and both had a combination of 2 pretreatment NS5A resistance-associated polymorphisms (L28M/V+L30R).</SentenceText>
+</Sentence>
+<Sentence id="4536" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Phylogenetic analysis of HCV sequences from genotype 5-infected subjects in Study 1119 showed almost all were subtype 5a (N=39) with one subject not having a subtype identified at screening or by analysis.</SentenceText>
+</Sentence>
+<Sentence id="4537" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Phylogenetic analysis of HCV sequences from genotype 6-infected subjects in ELECTRON-2 identified 7 HCV genotype 6 subtypes (6a, 6e, 6l, 6m, 6p, 6q, and 6r).</SentenceText>
+</Sentence>
+<Sentence id="4538" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Thirty-two percent of the subjects had subtype 6a and 24% had subtype 6e.</SentenceText>
+</Sentence>
+<Sentence id="4539" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>One to three subjects were infected with the other subtypes 6l, 6m, 6p, 6q, or 6r.</SentenceText>
+</Sentence>
+<Sentence id="4540" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The one subject who did not achieve SVR12 had subtype 6l.</SentenceText>
+</Sentence>
+<Sentence id="4541" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Although the data are limited, baseline HCV NS5A resistance-associated polymorphisms are not expected to impact the likelihood of achieving SVR when HARVONI is used as recommended to treat HCV genotype 4, 5, or 6-infected patients, based on the low virologic failure rate observed in Study 1119 and ELECTRON-2.</SentenceText>
+</Sentence>
+<Sentence id="4542" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The specific baseline polymorphisms observed in subjects with virologic failure were L28M/V, L30R, and P58T for genotype 4; L31M for genotype 5; and Q24K, F28V, R30A, and T58P for genotype 6.</SentenceText>
+</Sentence>
+<Sentence id="4543" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Relapse occurred in 2 of 3 genotype 4 subjects who had baseline NS5B V321I, a polymorphism at a position associated with treatment failure to sofosbuvir and other nucleoside inhibitors; these two subjects also had baseline NS5A resistance-associated polymorphisms.</SentenceText>
+</Sentence>
+<Sentence id="4544" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>For genotype 5 and 6, SVR12 was achieved in subjects who had baseline NS5B polymorphisms at positions associated with resistance to sofosbuvir and other nucleoside inhibitors (N=1 with N142T in genotype 5; N=1 with M289I in genotype 5; N=15 with M289L/I in genotype 6).</SentenceText>
+</Sentence>
+<Sentence id="4545" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The sofosbuvir resistance-associated substitution S282T was not detected in the baseline NS5B sequence of any subject with genotype 4, 5, or 6 HCV in clinical trials by population or deep nucleotide sequence analysis.</SentenceText>
+</Sentence>
+<Sentence id="4546" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Pediatrics In Study 1116, the presence of NS5A and NS5B resistance-associated polymorphisms did not impact treatment outcome; all pediatric subjects 12 years of age and older with baseline NS5A or NS5B nucleoside inhibitor resistance-associated polymorphisms (18%; 17/96) achieved SVR following 12 weeks treatment with HARVONI.</SentenceText>
+</Sentence>
+<Sentence id="4547" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Cross Resistance Based on resistance patterns observed in cell culture replicon studies and HCV-infected subjects, cross-resistance between ledipasvir and other NS5A inhibitors is expected.</SentenceText>
+</Sentence>
+<Sentence id="4548" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>Both sofosbuvir and ledipasvir were fully active against substitutions associated with resistance to other classes of direct-acting antivirals with different mechanisms of action, such as NS5B non-nucleoside inhibitors and NS3 protease inhibitors.</SentenceText>
+</Sentence>
+<Sentence id="4549" LabelDrug="Harvoni" section="34090-1">
+<SentenceText>The efficacy of ledipasvir/sofosbuvir has not been established in patients who have previously failed treatment with other regimens that include an NS5A inhibitor.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

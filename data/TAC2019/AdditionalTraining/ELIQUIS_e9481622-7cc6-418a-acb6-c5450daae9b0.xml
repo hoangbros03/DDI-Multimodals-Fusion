@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="ELIQUIS" setid="e9481622-7cc6-418a-acb6-c5450daae9b0">
+<Text><Section name="BOXED WARNING SECTION" id="34066-1">
+Discontinuing ELIQUIS places patients at an increased risk of thrombotic events. An increased rate of stroke was observed following discontinuation of ELIQUIS in clinical trials in patients with nonvalvular atrial fibrillation. If anticoagulation with ELIQUIS must be discontinued for a reason other than pathological bleeding, coverage with another anticoagulant should be strongly considered [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].        WARNING: DISCONTINUING ELIQUIS IN PATIENTS WITHOUT ADEQUATE CONTINUOUS ANTICOAGULATION INCREASES RISK OF STROKE   See full prescribing information for complete boxed warning.   Discontinuing ELIQUIS places patients at an increased risk of thrombotic events. An increased rate of stroke was observed following discontinuation of ELIQUIS in clinical trials in patients with nonvalvular atrial fibrillation. If anticoagulation with ELIQUIS must be discontinued for a reason other than pathological bleeding, coverage with another anticoagulant should be strongly considered. (2.4, 5.1)</Section>
+<Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+ELIQUIS is contraindicated in patients with the following conditions:  Active pathological bleeding [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)]  Severe hypersensitivity reaction to ELIQUIS (i.e., anaphylactic reactions) [see Adverse Reactions (6.1)]         Active pathological bleeding (4)  Severe hypersensitivity to ELIQUIS (4)</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+The recommended dose is 5 mg orally twice daily. (2.1)  In patients with at least 2 of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL, the recommended dose is 2.5 mg orally twice daily. (2.2)           The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.         The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with any 2 of the following characteristics:  age ≥80 years body weight ≤60 kg serum creatinine ≥1.5 mg/dL   CYP3A4 and P-gp inhibitors: When ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin), the recommended dose is 2.5 mg twice daily [see Clinical Pharmacology (12.3)]. In patients already taking 2.5 mg twice daily, coadministration of ELIQUIS with strong dual inhibitors of CYP3A4 and P-gp should be avoided.         If a dose of ELIQUIS is not taken at the scheduled time, the dose should be taken as soon as possible on the same day and twice daily administration should be resumed. The dose should not be doubled to make up for a missed dose.         ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding. ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be non-critical in location and easily controlled.          Switching from warfarin to ELIQUIS: Warfarin should be discontinued and ELIQUIS started when the international normalized ratio (INR) is below 2.0.  Switching from ELIQUIS to warfarin: ELIQUIS affects INR, so that INR measurements during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin. If continuous anticoagulation is necessary, discontinue ELIQUIS and begin both a parenteral anticoagulant and warfarin at the time the next dose of ELIQUIS would have been taken, discontinuing the parenteral anticoagulant when INR reaches an acceptable range.  Switching between ELIQUIS and anticoagulants other than warfarin: Discontinue one being taken and begin the other at the next scheduled dose.         No dose adjustment is required in patients with mild hepatic impairment. Because patients with moderate hepatic impairment may have intrinsic coagulation abnormalities and there is limited clinical experience with ELIQUIS in these patients, dosing recommendations cannot be provided [see Clinical Pharmacology (12.2)]. ELIQUIS is not recommended in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].         The dosing adjustment for moderate renal impairment is described above [see Dosage and Administration (2.2)]. No data inform use in patients with creatinine clearance &amp;lt;15 mL/min or on dialysis.        The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.      The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with any 2 of the following characteristics:  age ≥80 years body weight ≤60 kg serum creatinine ≥1.5 mg/dL   CYP3A4 and P-gp inhibitors: When ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin), the recommended dose is 2.5 mg twice daily [see Clinical Pharmacology (12.3)]. In patients already taking 2.5 mg twice daily, coadministration of ELIQUIS with strong dual inhibitors of CYP3A4 and P-gp should be avoided.      If a dose of ELIQUIS is not taken at the scheduled time, the dose should be taken as soon as possible on the same day and twice daily administration should be resumed. The dose should not be doubled to make up for a missed dose.      ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding. ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be non-critical in location and easily controlled.       Switching from warfarin to ELIQUIS: Warfarin should be discontinued and ELIQUIS started when the international normalized ratio (INR) is below 2.0.  Switching from ELIQUIS to warfarin: ELIQUIS affects INR, so that INR measurements during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin. If continuous anticoagulation is necessary, discontinue ELIQUIS and begin both a parenteral anticoagulant and warfarin at the time the next dose of ELIQUIS would have been taken, discontinuing the parenteral anticoagulant when INR reaches an acceptable range.  Switching between ELIQUIS and anticoagulants other than warfarin: Discontinue one being taken and begin the other at the next scheduled dose.      No dose adjustment is required in patients with mild hepatic impairment. Because patients with moderate hepatic impairment may have intrinsic coagulation abnormalities and there is limited clinical experience with ELIQUIS in these patients, dosing recommendations cannot be provided [see Clinical Pharmacology (12.2)]. ELIQUIS is not recommended in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].      The dosing adjustment for moderate renal impairment is described above [see Dosage and Administration (2.2)]. No data inform use in patients with creatinine clearance &amp;lt;15 mL/min or on dialysis.</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+Apixaban is a substrate of both CYP3A4 and P-gp. Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding. Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke.       Strong dual inhibitors of CYP3A4 and P-gp increase blood levels of apixaban: Reduce ELIQUIS dose to 2.5 mg or avoid concomitant use. (2.2, 7.1, 12.3) Simultaneous use of strong inducers of CYP3A4 and P-gp reduces blood levels of apixaban: Avoid concomitant use. (7.2, 12.3)          The dose of ELIQUIS should be decreased to 2.5 mg twice daily when it is coadministered with drugs that are strong dual inhibitors of CYP3A4 and P-gp, (e.g., ketoconazole, itraconazole, ritonavir, or clarithromycin) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]. In patients already taking ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with strong dual inhibitors of both CYP3A4 and P-gp [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].         Avoid concomitant use of ELIQUIS with strong dual inducers of CYP3A4 and P-gp (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3)].         Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding. APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo. The rate of ISTH major bleeding was 2.77%/year with apixaban versus 0.62%/year with placebo in patients receiving single antiplatelet therapy and was 5.91%/year with apixaban versus 2.50%/year with placebo in those receiving dual antiplatelet therapy. In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and the bleeding risk on warfarin from 2.7% per year to 4.6% per year. In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.        The dose of ELIQUIS should be decreased to 2.5 mg twice daily when it is coadministered with drugs that are strong dual inhibitors of CYP3A4 and P-gp, (e.g., ketoconazole, itraconazole, ritonavir, or clarithromycin) [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)]. In patients already taking ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with strong dual inhibitors of both CYP3A4 and P-gp [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].      Avoid concomitant use of ELIQUIS with strong dual inducers of CYP3A4 and P-gp (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3)].      Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding. APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo. The rate of ISTH major bleeding was 2.77%/year with apixaban versus 0.62%/year with placebo in patients receiving single antiplatelet therapy and was 5.91%/year with apixaban versus 2.50%/year with placebo in those receiving dual antiplatelet therapy. In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and the bleeding risk on warfarin from 2.7% per year to 4.6% per year. In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+ELIQUIS can cause serious, potentially fatal bleeding. Promptly evaluate signs and symptoms of blood loss. (5.2)  Prosthetic heart valves: ELIQUIS use not recommended. (5.3)           Discontinuing ELIQUIS in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in patients with nonvalvular atrial fibrillation. If ELIQUIS must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.3)].         ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding [see Dosage and Administration (2.2) and Adverse Reactions (6.1)]. Concomitant use of drugs affecting hemostasis increases the risk of bleeding. These include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitor, and nonsteroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)]. Patients should be made aware of signs and symptoms of blood loss and instructed to report them immediately or go to an emergency room. ELIQUIS should be discontinued in patients with active pathological hemorrhage. There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for about 24 hours after the last dose, i.e., for about two half-lives. A specific antidote for ELIQUIS is not available. Because of high plasma protein binding, apixaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)]. Protamine sulfate and vitamin K would not be expected to affect the anticoagulant activity of apixaban. There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban. There is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban. Use of procoagulant reversal agents such as prothrombin complex concentrate, activated prothrombin complex concentrate, or recombinant factor VIIa may be considered but has not been evaluated in clinical studies. Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration [see Overdosage (10)].         The safety and efficacy of ELIQUIS has not been studied in patients with prosthetic heart valves. Therefore, use of ELIQUIS is not recommended in these patients.        Discontinuing ELIQUIS in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in patients with nonvalvular atrial fibrillation. If ELIQUIS must be discontinued for a reason other than pathological bleeding, consider coverage with another anticoagulant [see Dosage and Administration (2.3)].      ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding [see Dosage and Administration (2.2) and Adverse Reactions (6.1)]. Concomitant use of drugs affecting hemostasis increases the risk of bleeding. These include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitor, and nonsteroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.3)]. Patients should be made aware of signs and symptoms of blood loss and instructed to report them immediately or go to an emergency room. ELIQUIS should be discontinued in patients with active pathological hemorrhage. There is no established way to reverse the anticoagulant effect of apixaban, which can be expected to persist for about 24 hours after the last dose, i.e., for about two half-lives. A specific antidote for ELIQUIS is not available. Because of high plasma protein binding, apixaban is not expected to be dialyzable [see Clinical Pharmacology (12.3)]. Protamine sulfate and vitamin K would not be expected to affect the anticoagulant activity of apixaban. There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban. There is neither scientific rationale for reversal nor experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban. Use of procoagulant reversal agents such as prothrombin complex concentrate, activated prothrombin complex concentrate, or recombinant factor VIIa may be considered but has not been evaluated in clinical studies. Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration [see Overdosage (10)].      The safety and efficacy of ELIQUIS has not been studied in patients with prosthetic heart valves. Therefore, use of ELIQUIS is not recommended in these patients.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Apixaban is an oral, reversible, and selective active site inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin. By inhibiting FXa, apixaban decreases thrombin generation and thrombus development.         As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT). Changes observed in these clotting tests at the expected therapeutic dose, however, are small, subject to a high degree of variability, and not useful in monitoring the anticoagulation effect of apixaban. The Rotachrom® Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans during the apixaban development program. A concentration-dependent increase in anti-FXa activity was observed in the dose range tested and was similar in healthy subjects and patients with AF. This test is not recommended for assessing the anticoagulant effect of apixaban.       Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, enoxaparin, and naproxen were conducted. No pharmacodynamic interactions were observed with aspirin or clopidogrel, but a 50% to 60% increase in anti-FXa activity was observed when apixaban was coadministered with enoxaparin or naproxen.          Renal impairment: Anti-FXa activity adjusted for exposure to apixaban was similar across renal function categories.  Hepatic impairment: Changes in anti-FXa activity were similar in patients with mild to moderate hepatic impairment and healthy subjects. However, in patients with moderate hepatic impairment, there is no clear understanding of the impact of this degree of hepatic function impairment on the coagulation cascade and its relationship to efficacy and bleeding. Patients with severe hepatic impairment were not studied.         Apixaban has no effect on the QTc interval in humans at doses up to 50 mg.           Apixaban displays prolonged absorption. Thus, despite a short clearance half-life of about 6 hours, the apparent half-life during repeat dosing is about 12 hours, which allows twice-daily dosing to provide effective anticoagulation, but it also means that when the drug is stopped for surgery, anticoagulation persists for at least a day.       The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of ELIQUIS. Food does not affect the bioavailability of apixaban. Maximum concentrations (Cmax) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS. Apixaban is absorbed throughout the gastrointestinal tract with the distal small bowel and ascending colon contributing about 55% of apixaban absorption. Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg. At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability.         Plasma protein binding in humans is approximately 87%. The volume of distribution (Vss) is approximately 21 liters.         Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation. Unchanged apixaban is the major drug-related component in human plasma; there are no active circulating metabolites.         Apixaban is eliminated in both urine and feces. Renal excretion accounts for about 27% of total clearance. Biliary and direct intestinal excretion contributes to elimination of apixaban in the feces. Following intravenous administration, apixaban is eliminated with a dominant half-life of ~5 hours. Following oral administration, the apparent half-life is ~12 hours because of prolonged absorption. Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.          In vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5 or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6 or CYP3A4/5 were observed. Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp. The effects of coadministered drugs on the pharmacokinetics of apixaban and associated dose recommendations are summarized in Figure 2 [see also Warnings and Precautions (5.2) and Drug Interactions (7)].  Figure 2:     Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban   *  Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. Dosing recommendations were also informed by clinical considerations [see Warnings and Precautions (5.2) and Drug Interactions (7)]. In dedicated studies conducted in healthy subjects, famotidine, atenolol, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban. In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, or acetylsalicylic acid.    Effect of Drugs on PK             The effects of level of renal impairment, age, body weight, level of hepatic impairment, gender, and ethnic origin on the pharmacokinetics of apixaban are summarized in Figure 3.  Figure 3:     Effect of Specific Populations on the Pharmacokinetics of Apixaban   *  Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference. The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects. No dose adjustment is required based on race/ethnicity.    Effect of Populations on PK</Section>
+</Text><Sentences>
+<Sentence id="6905" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>(A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS Premature discontinuation of any oral anticoagulant, including ELIQUIS, increases the risk of thrombotic events.</SentenceText>
+</Sentence>
+<Sentence id="6906" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>If anticoagulation with ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant.</SentenceText>
+</Sentence>
+<Sentence id="6907" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>(B) SPINAL/EPIDURAL HEMATOMA Epidural or spinal hematomas may occur in patients treated with ELIQUIS who are receiving neuraxial anesthesia or undergoing spinal puncture.</SentenceText>
+<Mention id="M4" type="Trigger" span="62 17;109 9" str="occur in patients | receiving"/>
+<Mention id="M5" type="Precipitant" span="119 20" str="neuraxial anesthesia" code="NO MAP"/>
+<Mention id="M3" type="SpecificInteraction" span="-1 8;48 9" str="epidural | hematomas" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M6" type="SpecificInteraction" span="41 16" str="spinal hematomas" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M4" precipitant="M5" effect="M3"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M4" precipitant="M5" effect="M6"/>
+</Sentence>
+<Sentence id="6908" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>These hematomas may result in long-term or permanent paralysis.</SentenceText>
+</Sentence>
+<Sentence id="6909" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>Consider these risks when scheduling patients for spinal procedures.</SentenceText>
+</Sentence>
+<Sentence id="6910" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>Factors that can increase the risk of developing epidural or spinal hematomas in these patients include: use of indwelling epidural catheters concomitant use of other drugs that affect hemostasis, such as nonsteroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants a history of traumatic or repeated epidural or spinal punctures a history of spinal deformity or spinal surgery optimal timing between the administration of ELIQUIS and neuraxial procedures is not known Monitor patients frequently for signs and symptoms of neurological impairment.</SentenceText>
+<Mention id="M34" type="Trigger" span="17 17" str="increase the risk"/>
+<Mention id="M11" type="Precipitant" span="279 14" str="anticoagulants" code="N0000175980"/>
+<Mention id="M33" type="SpecificInteraction" span="61 16" str="spinal hematomas" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Mention id="M36" type="SpecificInteraction" span="49 8;68 9" str="epidural | hematomas" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M17" type="Precipitant" span="167 28" str="drugs that affect hemostasis" code="NO MAP"/>
+<Mention id="M23" type="Precipitant" span="205 36" str="nonsteroidal anti-inflammatory drugs" code="N0000175722"/>
+<Mention id="M29" type="Precipitant" span="243 6" str="NSAIDs" code="N0000175722"/>
+<Mention id="M35" type="Precipitant" span="252 19" str="platelet inhibitors" code="N0000175578"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M34" precipitant="M11" effect="M33"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M34" precipitant="M11" effect="M36"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M34" precipitant="M17" effect="M33"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M34" precipitant="M17" effect="M36"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M34" precipitant="M23" effect="M36"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M34" precipitant="M23" effect="M33"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M34" precipitant="M29" effect="M36"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M34" precipitant="M29" effect="M33"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M34" precipitant="M35" effect="M33"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M34" precipitant="M35" effect="M36"/>
+</Sentence>
+<Sentence id="6911" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>If neurological compromise is noted, urgent treatment is necessary.</SentenceText>
+</Sentence>
+<Sentence id="6912" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>Consider the benefits and risks before neuraxial intervention in patients anticoagulated or to be anticoagulated.</SentenceText>
+</Sentence>
+<Sentence id="6913" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>WARNING: (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS(B) SPINAL/EPIDURAL HEMATOMA See full prescribing information for complete boxed warning.</SentenceText>
+</Sentence>
+<Sentence id="6914" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>(A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS: Premature discontinuation of any oral anticoagulant, including ELIQUIS, increases the risk of thrombotic events.</SentenceText>
+</Sentence>
+<Sentence id="6915" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>To reduce this risk, consider coverage with another anticoagulant if ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy.</SentenceText>
+</Sentence>
+<Sentence id="6916" LabelDrug="ELIQUIS" section="34066-1">
+<SentenceText>(B) SPINAL/EPIDURAL HEMATOMA: Epidural or spinal hematomas may occur in patients treated with ELIQUIS who are receiving neuraxial anesthesia or undergoing spinal puncture.</SentenceText>
+<Mention id="M40" type="Trigger" span="63 17;110 9" str="occur in patients | receiving"/>
+<Mention id="M41" type="Precipitant" span="120 20" str="neuraxial anesthesia" code="NO MAP"/>
+<Mention id="M39" type="SpecificInteraction" span="-1 8;49 9" str="epidural | hematomas" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M42" type="SpecificInteraction" span="42 16" str="spinal hematomas" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M40" precipitant="M41" effect="M39"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M40" precipitant="M41" effect="M42"/>
+</Sentence>
+<Sentence id="6917" LabelDrug="ELIQUIS" section="34070-3">
+<SentenceText>ELIQUIS is contraindicated in patients with the following conditions: Active pathological bleeding Severe hypersensitivity reaction to ELIQUIS (e.g., anaphylactic reactions) Active pathological bleeding (4) Severe hypersensitivity to ELIQUIS (4)</SentenceText>
+</Sentence>
+<Sentence id="6918" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Reduction of risk of stroke and systemic embolism in nonvalvular atrial fibrillation: The recommended dose is 5 mg orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6919" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>In patients with at least 2 of the following characteristics: age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL, the recommended dose is 2.5 mg orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6920" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Prophylaxis of DVT following hip or knee replacement surgery: The recommended dose is 2.5 mg orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6921" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Treatment of DVT and PE: The recommended dose is 10 mg taken orally twice daily for 7 days, followed by 5 mg taken orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6922" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Reduction in the risk of recurrent DVT and PE following initial therapy: The recommended dose is 2.5 mg taken orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6923" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6924" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with at least two of the following characteristics: age greater than or equal to 80 years body weight less than or equal to 60 kg serum creatinine greater than or equal to 1.5 mg/dL The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6925" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>The initial dose should be taken 12 to 24 hours after surgery.</SentenceText>
+</Sentence>
+<Sentence id="6926" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>In patients undergoing hip replacement surgery, the recommended duration of treatment is 35 days.</SentenceText>
+</Sentence>
+<Sentence id="6927" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>In patients undergoing knee replacement surgery, the recommended duration of treatment is 12 days.</SentenceText>
+</Sentence>
+<Sentence id="6928" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>The recommended dose of ELIQUIS is 10 mg taken orally twice daily for the first 7 days of therapy.</SentenceText>
+</Sentence>
+<Sentence id="6929" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>After 7 days, the recommended dose is 5mg taken orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="6930" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>The recommended dose of ELIQUIS is 2.5 mg taken orally twice daily after at least 6 months of treatment for DVT or PE.</SentenceText>
+</Sentence>
+<Sentence id="6931" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>If a dose of ELIQUIS is not taken at the scheduled time, the dose should be taken as soon as possible on the same day and twice-daily administration should be resumed.</SentenceText>
+</Sentence>
+<Sentence id="6932" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>The dose should not be doubled to make up for a missed dose.</SentenceText>
+</Sentence>
+<Sentence id="6933" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>ELIQUIS should be discontinued at least 48 hours prior to elective surgery or invasive procedures with a moderate or high risk of unacceptable or clinically significant bleeding.</SentenceText>
+</Sentence>
+<Sentence id="6934" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>ELIQUIS should be discontinued at least 24 hours prior to elective surgery or invasive procedures with a low risk of bleeding or where the bleeding would be non-critical in location and easily controlled.</SentenceText>
+</Sentence>
+<Sentence id="6935" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Bridging anticoagulation during the 24 to 48 hours after stopping ELIQUIS and prior to the intervention is not generally required.</SentenceText>
+</Sentence>
+<Sentence id="6936" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>ELIQUIS should be restarted after the surgical or other procedures as soon as adequate hemostasis has been established.</SentenceText>
+</Sentence>
+<Sentence id="6937" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Switching from warfarin to ELIQUIS: Warfarin should be discontinued and ELIQUIS started when the international normalized ratio (INR) is below 2.0.</SentenceText>
+<Mention id="M46" type="Trigger" span="55 12;88 4" str="discontinued | when"/>
+<Mention id="M47" type="Precipitant" span="36 8" str="Warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M45" type="SpecificInteraction" span="129 3" str="INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Mention id="M48" type="SpecificInteraction" span="97 30" str="international normalized ratio" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M46" precipitant="M47" effect="M45"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M46" precipitant="M47" effect="M48"/>
+</Sentence>
+<Sentence id="6938" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Switching from ELIQUIS to warfarin: ELIQUIS affects INR, so that initial INR measurements during the transition to warfarin may not be useful for determining the appropriate dose of warfarin.</SentenceText>
+<Mention id="M49" type="Trigger" span="44 7" str="affects"/>
+<Mention id="M50" type="Precipitant" span="26 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Mention id="M51" type="SpecificInteraction" span="52 3" str="INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M49" precipitant="M50" effect="M51"/>
+</Sentence>
+<Sentence id="6939" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>One approach is to discontinue ELIQUIS and begin both a parenteral anticoagulant and warfarin at the time the next dose of ELIQUIS would have been taken, discontinuing the parenteral anticoagulant when INR reaches an acceptable range.</SentenceText>
+<Mention id="M55" type="Trigger" span="154 13;197 4" str="discontinuing | when"/>
+<Mention id="M53" type="Precipitant" span="56 24" str="parenteral anticoagulant" code="N0000175980"/>
+<Mention id="M57" type="SpecificInteraction" span="202 3" str="INR" code="165583001: International normalized ratio abnormal (finding)"/>
+<Mention id="M56" type="Precipitant" span="85 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M55" precipitant="M53" effect="M57"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M55" precipitant="M56" effect="M57"/>
+</Sentence>
+<Sentence id="6940" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Switching from ELIQUIS to anticoagulants other than warfarin (oral or parenteral): Discontinue ELIQUIS and begin taking the new anticoagulant other than warfarin at the usual time of the next dose of ELIQUIS.</SentenceText>
+<Mention id="M58" type="Trigger" span="83 11;103 24" str="Discontinue | and begin taking the new"/>
+<Mention id="M59" type="Precipitant" span="26 13" str="anticoagulant" code="N0000175980"/>
+<Interaction id="I20" type="Unspecified interaction" trigger="M58" precipitant="M59"/>
+</Sentence>
+<Sentence id="6941" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Switching from anticoagulants other than warfarin (oral or parenteral) to ELIQUIS: Discontinue the anticoagulant other than warfarin and begin taking ELIQUIS at the usual time of the next dose of the anticoagulant other than warfarin.</SentenceText>
+<Mention id="M60" type="Trigger" span="83 11;133 16" str="Discontinue | and begin taking"/>
+<Mention id="M61" type="Precipitant" span="15 13" str="anticoagulant" code="N0000175980"/>
+<Interaction id="I21" type="Unspecified interaction" trigger="M60" precipitant="M61"/>
+</Sentence>
+<Sentence id="6942" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>For patients receiving ELIQUIS doses of 5 mg or 10 mg twice daily, reduce the dose by 50% when ELIQUIS is coadministered with drugs that are combined P-glycoprotein (P-gp) and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ketoconazole, itraconazole, ritonavir).</SentenceText>
+<Mention id="M68" type="Trigger" span="67 15" str="reduce the dose"/>
+<Mention id="M63" type="Precipitant" span="141 81" str="combined P-glycoprotein (P-gp) and strong cytochrome P450 3A4 (CYP3A4) inhibitors" code="NO MAP"/>
+<Mention id="M65" type="Precipitant" span="244 12" str="itraconazole" code="304NUG5GF4"/>
+<Mention id="M67" type="Precipitant" span="230 12" str="ketoconazole" code="R9400W927I"/>
+<Mention id="M69" type="Precipitant" span="258 9" str="ritonavir" code="O3J8G9O825"/>
+<Interaction id="I22" type="Pharmacokinetic interaction" trigger="M68" precipitant="M63" effect="C54355"/>
+<Interaction id="I23" type="Pharmacokinetic interaction" trigger="M68" precipitant="M65" effect="C54355"/>
+<Interaction id="I24" type="Pharmacokinetic interaction" trigger="M68" precipitant="M67" effect="C54355"/>
+<Interaction id="I25" type="Pharmacokinetic interaction" trigger="M68" precipitant="M69" effect="C54355"/>
+</Sentence>
+<Sentence id="6943" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with combined P-gp and strong CYP3A4 inhibitors.</SentenceText>
+<Mention id="M70" type="Trigger" span="47 5" str="avoid"/>
+<Mention id="M71" type="Precipitant" span="86 42" str="combined P-gp and strong CYP3A4 inhibitors" code="NO MAP"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M70" precipitant="M71"/>
+</Sentence>
+<Sentence id="6944" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>For patients who are unable to swallow whole tablets, 5 mg and 2.5 mg ELIQUIS tablets may be crushed and suspended in water, 5% dextrose in water (D5W), or apple juice, or mixed with applesauce and promptly administered orally.</SentenceText>
+</Sentence>
+<Sentence id="6945" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Alternatively, ELIQUIS tablets may be crushed and suspended in 60 mL of water or D5W and promptly delivered through a nasogastric tube.</SentenceText>
+</Sentence>
+<Sentence id="6946" LabelDrug="ELIQUIS" section="34068-7">
+<SentenceText>Crushed ELIQUIS tablets are stable in water, D5W, apple juice, and applesauce for up to 4 hours.</SentenceText>
+</Sentence>
+<Sentence id="6947" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Apixaban is a substrate of both CYP3A4 and P-gp.</SentenceText>
+</Sentence>
+<Sentence id="6948" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding.</SentenceText>
+<Mention id="M72" type="Trigger" span="64 17" str="increase the risk"/>
+<Mention id="M76" type="Precipitant" span="0 29" str="Inhibitors of CYP3A4 and P-gp" code="NO MAP"/>
+<Mention id="M74" type="SpecificInteraction" span="85 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M75" type="Trigger" span="30 17" str="increase exposure"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M72" precipitant="M76" effect="M74"/>
+<Interaction id="I28" type="Pharmacokinetic interaction" trigger="M75" precipitant="M76" effect="C54355"/>
+</Sentence>
+<Sentence id="6949" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events.</SentenceText>
+<Mention id="M80" type="Trigger" span="62 17" str="increase the risk"/>
+<Mention id="M84" type="Precipitant" span="0 27" str="Inducers of CYP3A4 and P-gp" code="NO MAP"/>
+<Mention id="M79" type="SpecificInteraction" span="83 6" str="stroke" code="230690007: Cerebrovascular accident (disorder)"/>
+<Mention id="M82" type="SpecificInteraction" span="100 21" str="thromboembolic events" code="371039008: Thromboembolic disorder (disorder)"/>
+<Mention id="M83" type="Trigger" span="28 17" str="decrease exposure"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M80" precipitant="M84" effect="M79"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M80" precipitant="M84" effect="M82"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M83" precipitant="M84" effect="C54356"/>
+</Sentence>
+<Sentence id="6950" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Combined P-gp and strong CYP3A4 inhibitors increase blood levels of apixaban.</SentenceText>
+<Mention id="M85" type="Trigger" span="43 21" str="increase blood levels"/>
+<Mention id="M86" type="Precipitant" span="0 42" str="Combined P-gp and strong CYP3A4 inhibitors" code="NO MAP"/>
+<Interaction id="I32" type="Pharmacokinetic interaction" trigger="M85" precipitant="M86" effect="C54355"/>
+</Sentence>
+<Sentence id="6951" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Reduce ELIQUIS dose or avoid coadministration.</SentenceText>
+</Sentence>
+<Sentence id="6952" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Simultaneous use of combined P-gp and strong CYP3A4 inducers reduces blood levels of apixaban: Avoid concomitant use.</SentenceText>
+<Mention id="M87" type="Trigger" span="61 20" str="reduces blood levels"/>
+<Mention id="M88" type="Precipitant" span="20 40" str="combined P-gp and strong CYP3A4 inducers" code="NO MAP"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M87" precipitant="M88" effect="C54356"/>
+</Sentence>
+<Sentence id="6953" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir).</SentenceText>
+<Mention id="M95" type="Trigger" span="62 4;88 9" str="dose | decreased"/>
+<Mention id="M90" type="Precipitant" span="145 42" str="combined P-gp and strong CYP3A4 inhibitors" code="NO MAP"/>
+<Mention id="M92" type="Precipitant" span="209 12" str="itraconazole" code="304NUG5GF4"/>
+<Mention id="M94" type="Precipitant" span="195 12" str="ketoconazole" code="R9400W927I"/>
+<Mention id="M96" type="Precipitant" span="223 9" str="ritonavir" code="O3J8G9O825"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M95" precipitant="M90" effect="C54355"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M95" precipitant="M92" effect="C54355"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M95" precipitant="M94" effect="C54355"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M95" precipitant="M96" effect="C54355"/>
+</Sentence>
+<Sentence id="6954" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors.</SentenceText>
+<Mention id="M97" type="Trigger" span="64 5" str="avoid"/>
+<Mention id="M98" type="Precipitant" span="92 42" str="combined P-gp and strong CYP3A4 inhibitors" code="NO MAP"/>
+<Interaction id="I38" type="Unspecified interaction" trigger="M97" precipitant="M98"/>
+</Sentence>
+<Sentence id="6955" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="6956" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban.</SentenceText>
+<Mention id="M107" type="Trigger" span="163 17" str="decrease exposure"/>
+<Mention id="M100" type="Precipitant" span="96 13" str="carbamazepine" code="33CM23913M"/>
+<Mention id="M102" type="Precipitant" span="38 40" str="combined P-gp and strong CYP3A4 inducers" code="NO MAP"/>
+<Mention id="M104" type="Precipitant" span="111 9" str="phenytoin" code="6158TKW0C5"/>
+<Mention id="M106" type="Precipitant" span="86 8" str="rifampin" code="VJT6J7R4TR"/>
+<Mention id="M108" type="Precipitant" span="122 15" str="St. John’s wort" code="UFH8805FKA"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M107" precipitant="M100" effect="C54356"/>
+<Interaction id="I40" type="Pharmacokinetic interaction" trigger="M107" precipitant="M102" effect="C54356"/>
+<Interaction id="I41" type="Pharmacokinetic interaction" trigger="M107" precipitant="M104" effect="C54356"/>
+<Interaction id="I42" type="Pharmacokinetic interaction" trigger="M107" precipitant="M106" effect="C54356"/>
+<Interaction id="I43" type="Pharmacokinetic interaction" trigger="M107" precipitant="M108" effect="C54356"/>
+</Sentence>
+<Sentence id="6957" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.</SentenceText>
+<Mention id="M121" type="Trigger" span="96 18" str="increases the risk"/>
+<Mention id="M110" type="Precipitant" span="20 19" str="antiplatelet agents" code="N0000175578"/>
+<Mention id="M123" type="SpecificInteraction" span="118 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M113" type="Precipitant" span="65 7" str="aspirin" code="R16CO5Y76E"/>
+<Mention id="M116" type="Precipitant" span="78 13" str="chronic NSAID" code="N0000175722"/>
+<Mention id="M119" type="Precipitant" span="41 13" str="fibrinolytics" code="NO MAP"/>
+<Mention id="M122" type="Precipitant" span="56 7" str="heparin" code="T2410KM04A"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M121" precipitant="M110" effect="M123"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M121" precipitant="M113" effect="M123"/>
+<Interaction id="I46" type="Pharmacodynamic interaction" trigger="M121" precipitant="M116" effect="M123"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M121" precipitant="M119" effect="M123"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M121" precipitant="M122" effect="M123"/>
+</Sentence>
+<Sentence id="6958" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo.</SentenceText>
+<Mention id="M127" type="Trigger" span="210 11" str="higher rate"/>
+<Mention id="M125" type="Precipitant" span="125 7" str="aspirin" code="R16CO5Y76E"/>
+<Mention id="M129" type="SpecificInteraction" span="225 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M128" type="Precipitant" span="140 38" str="combination of aspirin and clopidogrel" code="NO MAP"/>
+<Interaction id="I49" type="Pharmacodynamic interaction" trigger="M127" precipitant="M125" effect="M129"/>
+<Interaction id="I50" type="Pharmacodynamic interaction" trigger="M127" precipitant="M128" effect="M129"/>
+</Sentence>
+<Sentence id="6959" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>The rate of ISTH major bleeding was 2.8% per year with apixaban versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with apixaban versus 2.5% per year with placebo in those receiving dual antiplatelet therapy.</SentenceText>
+</Sentence>
+<Sentence id="6960" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year.</SentenceText>
+<Mention id="M133" type="Trigger" span="41 9;64 4" str="increased | risk"/>
+<Mention id="M131" type="Precipitant" span="33 7" str="aspirin" code="R16CO5Y76E"/>
+<Mention id="M135" type="SpecificInteraction" span="55 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M134" type="Precipitant" span="151 8" str="warfarin" code="5Q7ZVV76EI"/>
+<Interaction id="I51" type="Pharmacodynamic interaction" trigger="M133" precipitant="M131" effect="M135"/>
+<Interaction id="I52" type="Pharmacodynamic interaction" trigger="M133" precipitant="M134" effect="M135"/>
+</Sentence>
+<Sentence id="6961" LabelDrug="ELIQUIS" section="34073-7">
+<SentenceText>In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="6962" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>ELIQUIS can cause serious, potentially fatal, bleeding.</SentenceText>
+</Sentence>
+<Sentence id="6963" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Promptly evaluate signs and symptoms of blood loss.</SentenceText>
+</Sentence>
+<Sentence id="6964" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>An agent to reverse the anti-factor Xa activity of apixaban is available.</SentenceText>
+</Sentence>
+<Sentence id="6965" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Prosthetic heart valves: ELIQUIS use not recommended.</SentenceText>
+</Sentence>
+<Sentence id="6966" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Premature discontinuation of any oral anticoagulant, including ELIQUIS, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.</SentenceText>
+</Sentence>
+<Sentence id="6967" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in atrial fibrillation patients.</SentenceText>
+</Sentence>
+<Sentence id="6968" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant.</SentenceText>
+</Sentence>
+<Sentence id="6969" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>ELIQUIS increases the risk of bleeding and can cause serious, potentially fatal, bleeding.</SentenceText>
+</Sentence>
+<Sentence id="6970" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Concomitant use of drugs affecting hemostasis increases the risk of bleeding.</SentenceText>
+<Mention id="M136" type="Trigger" span="46 18" str="increases the risk"/>
+<Mention id="M137" type="Precipitant" span="19 26" str="drugs affecting hemostasis" code="NO MAP"/>
+<Mention id="M138" type="SpecificInteraction" span="68 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Interaction id="I53" type="Pharmacodynamic interaction" trigger="M136" precipitant="M137" effect="M138"/>
+</Sentence>
+<Sentence id="6971" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>These include aspirin and other antiplatelet agents, other anticoagulants, heparin, thrombolytic agents, selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitors, and nonsteroidal anti-inflammatory drugs (NSAIDs).</SentenceText>
+</Sentence>
+<Sentence id="6972" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Advise patients of signs and symptoms of blood loss and to report them immediately or go to an emergency room.</SentenceText>
+</Sentence>
+<Sentence id="6973" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Discontinue ELIQUIS in patients with active pathological hemorrhage.</SentenceText>
+</Sentence>
+<Sentence id="6974" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>The pharmacodynamic effect of ELIQUIS can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives.</SentenceText>
+</Sentence>
+<Sentence id="6975" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa may be considered, but have not been evaluated in clinical studies.</SentenceText>
+</Sentence>
+<Sentence id="6976" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended.</SentenceText>
+</Sentence>
+<Sentence id="6977" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration.</SentenceText>
+<Mention id="M139" type="Trigger" span="24 18" str="reduces absorption "/>
+<Mention id="M140" type="Trigger" span="64 8;82 20" str=" lowering | plasma concentration"/>
+<Mention id="M141" type="Precipitant" span="0 23" str="Activated oral charcoal" code="2P3VWU3H10"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M139;M140" precipitant="M141" effect="C54356"/>
+</Sentence>
+<Sentence id="6978" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Hemodialysis does not appear to have a substantial impact on apixaban exposure.</SentenceText>
+</Sentence>
+<Sentence id="6979" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="6980" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban.</SentenceText>
+</Sentence>
+<Sentence id="6981" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>There is no experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban, and they are not expected to be effective as a reversal agent.</SentenceText>
+</Sentence>
+<Sentence id="6982" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>When neuraxial anesthesia (spinal/epidural anesthesia) or spinal/epidural puncture is employed, patients treated with antithrombotic agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis.</SentenceText>
+<Mention id="M163" type="Trigger" span="194 7" str="risk of"/>
+<Mention id="M152" type="Precipitant" span="5 20" str="neuraxial anesthesia" code="NO MAP"/>
+<Mention id="M159" type="SpecificInteraction" span="34 8;235 8" str="epidural | hematoma" code="703861005: Spinal epidural hematoma (disorder)"/>
+<Mention id="M162" type="SpecificInteraction" span="264 9;287 9" str="long-term | paralysis" code="44695005: Paralysis (finding)"/>
+<Mention id="M156" type="SpecificInteraction" span="277 19" str="permanent paralysis" code="44695005: Paralysis (finding)"/>
+<Mention id="M165" type="SpecificInteraction" span="228 15" str="spinal hematoma" code="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<Mention id="M164" type="Precipitant" span="27 26" str="spinal/epidural anesthesia" code="NO MAP"/>
+<Interaction id="I55" type="Pharmacodynamic interaction" trigger="M163" precipitant="M152" effect="M159"/>
+<Interaction id="I56" type="Pharmacodynamic interaction" trigger="M163" precipitant="M152" effect="M162"/>
+<Interaction id="I57" type="Pharmacodynamic interaction" trigger="M163" precipitant="M152" effect="M156"/>
+<Interaction id="I58" type="Pharmacodynamic interaction" trigger="M163" precipitant="M152" effect="M165"/>
+<Interaction id="I59" type="Pharmacodynamic interaction" trigger="M163" precipitant="M164" effect="M156"/>
+<Interaction id="I60" type="Pharmacodynamic interaction" trigger="M163" precipitant="M164" effect="M159"/>
+<Interaction id="I61" type="Pharmacodynamic interaction" trigger="M163" precipitant="M164" effect="M162"/>
+<Interaction id="I62" type="Pharmacodynamic interaction" trigger="M163" precipitant="M164" effect="M165"/>
+</Sentence>
+<Sentence id="6983" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>The risk of these events may be increased by the postoperative use of indwelling epidural catheters or the concomitant use of medicinal products affecting hemostasis.</SentenceText>
+<Mention id="M166" type="Trigger" span="4 4;32 9" str="risk | increased"/>
+<Mention id="M167" type="Precipitant" span="136 29" str="products affecting hemostasis" code="NO MAP"/>
+<Interaction id="I63" type="Unspecified interaction" trigger="M166" precipitant="M167"/>
+</Sentence>
+<Sentence id="6984" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Indwelling epidural or intrathecal catheters should not be removed earlier than 24 hours after the last administration of ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="6985" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>The next dose of ELIQUIS should not be administered earlier than 5 hours after the removal of the catheter.</SentenceText>
+</Sentence>
+<Sentence id="6986" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>The risk may also be increased by traumatic or repeated epidural or spinal puncture.</SentenceText>
+</Sentence>
+<Sentence id="6987" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>If traumatic puncture occurs, delay the administration of ELIQUIS for 48 hours.</SentenceText>
+</Sentence>
+<Sentence id="6988" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, or bowel or bladder dysfunction).</SentenceText>
+</Sentence>
+<Sentence id="6989" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>If neurological compromise is noted, urgent diagnosis and treatment is necessary.</SentenceText>
+</Sentence>
+<Sentence id="6990" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.</SentenceText>
+</Sentence>
+<Sentence id="6991" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>The safety and efficacy of ELIQUIS have not been studied in patients with prosthetic heart valves.</SentenceText>
+</Sentence>
+<Sentence id="6992" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Therefore, use of ELIQUIS is not recommended in these patients.</SentenceText>
+</Sentence>
+<Sentence id="6993" LabelDrug="ELIQUIS" section="43685-7">
+<SentenceText>Initiation of ELIQUIS is not recommended as an alternative to unfractionated heparin for the initial treatment of patients with PE who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.</SentenceText>
+</Sentence>
+<Sentence id="6994" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban is a selective inhibitor of FXa.</SentenceText>
+</Sentence>
+<Sentence id="6995" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>It does not require antithrombin III for antithrombotic activity.</SentenceText>
+</Sentence>
+<Sentence id="6996" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban inhibits free and clot-bound FXa, and prothrombinase activity.</SentenceText>
+</Sentence>
+<Sentence id="6997" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin.</SentenceText>
+</Sentence>
+<Sentence id="6998" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>By inhibiting FXa, apixaban decreases thrombin generation and thrombus development.</SentenceText>
+</Sentence>
+<Sentence id="6999" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT).</SentenceText>
+</Sentence>
+<Sentence id="7000" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Changes observed in these clotting tests at the expected therapeutic dose, however, are small, subject to a high degree of variability, and not useful in monitoring the anticoagulation effect of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="7001" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The Rotachrom® Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans during the apixaban development program.</SentenceText>
+</Sentence>
+<Sentence id="7002" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>A concentration-dependent increase in anti-FXa activity was observed in the dose range tested and was similar in healthy subjects and patients with AF.</SentenceText>
+</Sentence>
+<Sentence id="7003" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>This test is not recommended for assessing the anticoagulant effect of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="7004" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>There is no clinical experience to reverse bleeding with the use of 4-factor PCC products in individuals who have received ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="7005" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Effects of 4-factor PCCs on the pharmacodynamics of apixaban were studied in healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="7006" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Following administration of apixaban dosed to steady state, endogenous thrombin potential (ETP) returned to pre-apixaban levels 4 hours after the initiation of a 30-minute PCC infusion, compared to 45 hours with placebo.</SentenceText>
+</Sentence>
+<Sentence id="7007" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Mean ETP levels continued to increase and exceeded pre-apixaban levels reaching a maximum (34%-51% increase over pre-apixaban levels) at 21 hours after initiating PCC and remained elevated (21%-27% increase) at the end of the study (69 hours after initiation of PCC).</SentenceText>
+</Sentence>
+<Sentence id="7008" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The clinical relevance of this increase in ETP is unknown.</SentenceText>
+</Sentence>
+<Sentence id="7009" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, prasugrel, enoxaparin, and naproxen were conducted.</SentenceText>
+</Sentence>
+<Sentence id="7010" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>No pharmacodynamic interactions were observed with aspirin, clopidogrel, or prasugrel.</SentenceText>
+</Sentence>
+<Sentence id="7011" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>A 50% to 60% increase in anti-FXa activity was observed when apixaban was coadministered with enoxaparin or naproxen.</SentenceText>
+<Mention id="M171" type="Trigger" span="13 8" str="increase"/>
+<Mention id="M169" type="Precipitant" span="94 10" str="enoxaparin" code="E47C0NF7LV"/>
+<Mention id="M173" type="SpecificInteraction" span="13 29" str="increase in anti-FXa activity" code="NO MAP"/>
+<Mention id="M172" type="Precipitant" span="108 8" str="naproxen" code="57Y76R9ATQ"/>
+<Interaction id="I64" type="Pharmacodynamic interaction" trigger="M171" precipitant="M169" effect="M173"/>
+<Interaction id="I65" type="Pharmacodynamic interaction" trigger="M171" precipitant="M172" effect="M173"/>
+</Sentence>
+<Sentence id="7012" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Renal impairment: Anti-FXa activity adjusted for exposure to apixaban was similar across renal function categories.</SentenceText>
+</Sentence>
+<Sentence id="7013" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Hepatic impairment: Changes in anti-FXa activity were similar in patients with mild-to-moderate hepatic impairment and healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="7014" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>However, in patients with moderate hepatic impairment, there is no clear understanding of the impact of this degree of hepatic function impairment on the coagulation cascade and its relationship to efficacy and bleeding.</SentenceText>
+</Sentence>
+<Sentence id="7015" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Patients with severe hepatic impairment were not studied.</SentenceText>
+</Sentence>
+<Sentence id="7016" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban has no effect on the QTc interval in humans at doses up to 50 mg. Apixaban demonstrates linear pharmacokinetics with dose-proportional increases in exposure for oral doses up to 10 mg.</SentenceText>
+</Sentence>
+<Sentence id="7017" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The absolute bioavailability of apixaban is approximately 50% for doses up to 10 mg of ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="7018" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Food does not affect the bioavailability of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="7019" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Maximum concentrations (Cmax) of apixaban appear 3 to 4 hours after oral administration of ELIQUIS.</SentenceText>
+</Sentence>
+<Sentence id="7020" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>At doses ≥25 mg, apixaban displays dissolution-limited absorption with decreased bioavailability.</SentenceText>
+</Sentence>
+<Sentence id="7021" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets suspended in 30 mL of water, exposure was similar to that after oral administration of 2 intact 5 mg tablets.</SentenceText>
+</Sentence>
+<Sentence id="7022" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Following oral administration of 10 mg of apixaban as 2 crushed 5 mg tablets mixed with 30 g of applesauce, the Cmax and AUC were 20% and 16% lower, respectively, when compared to administration of 2 intact 5 mg tablets.</SentenceText>
+</Sentence>
+<Sentence id="7023" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Following administration of a crushed 5 mg ELIQUIS tablet that was suspended in 60 mL D5W and delivered through a nasogastric tube, exposure was similar to that seen in other clinical trials involving healthy volunteers receiving a single oral 5 mg tablet dose.</SentenceText>
+</Sentence>
+<Sentence id="7024" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Plasma protein binding in humans is approximately 87%.</SentenceText>
+</Sentence>
+<Sentence id="7025" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The volume of distribution (Vss) is approximately 21 liters.</SentenceText>
+</Sentence>
+<Sentence id="7026" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites.</SentenceText>
+</Sentence>
+<Sentence id="7027" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2.</SentenceText>
+</Sentence>
+<Sentence id="7028" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>O-demethylation and hydroxylation at the 3-oxopiperidinyl moiety are the major sites of biotransformation.</SentenceText>
+</Sentence>
+<Sentence id="7029" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Unchanged apixaban is the major drug-related component in human plasma; there are no active circulating metabolites.</SentenceText>
+</Sentence>
+<Sentence id="7030" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban is eliminated in both urine and feces.</SentenceText>
+</Sentence>
+<Sentence id="7031" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Renal excretion accounts for about 27% of total clearance.</SentenceText>
+</Sentence>
+<Sentence id="7032" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Biliary and direct intestinal excretion contributes to elimination of apixaban in the feces.</SentenceText>
+</Sentence>
+<Sentence id="7033" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban has a total clearance of approximately 3.3 L/hour and an apparent half-life of approximately 12 hours following oral administration.</SentenceText>
+</Sentence>
+<Sentence id="7034" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.</SentenceText>
+</Sentence>
+<Sentence id="7035" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>In i n vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed.</SentenceText>
+</Sentence>
+<Sentence id="7036" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes.</SentenceText>
+</Sentence>
+<Sentence id="7037" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Apixaban is not a significant inhibitor of P-gp.</SentenceText>
+</Sentence>
+<Sentence id="7038" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The effects of coadministered drugs on the pharmacokinetics of apixaban are summarized in Figure 2.</SentenceText>
+</Sentence>
+<Sentence id="7039" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Figure 2: Effect of Coadministered Drugs on the Pharmacokinetics of Apixaban In dedicated studies conducted in healthy subjects, famotidine, atenolol, prasugrel, and enoxaparin did not meaningfully alter the pharmacokinetics of apixaban.</SentenceText>
+</Sentence>
+<Sentence id="7040" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>In studies conducted in healthy subjects, apixaban did not meaningfully alter the pharmacokinetics of digoxin, naproxen, atenolol, prasugrel, or acetylsalicylic acid.</SentenceText>
+</Sentence>
+<Sentence id="7041" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Effect of Coadministered Drugs on Pharmacokinetics of Apixaban The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of apixaban are summarized in Figure 3.</SentenceText>
+</Sentence>
+<Sentence id="7042" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban * ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis.</SentenceText>
+</Sentence>
+<Sentence id="7043" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>† Results reflect CrCl of 15 mL/min based on regression analysis.</SentenceText>
+</Sentence>
+<Sentence id="7044" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations.</SentenceText>
+</Sentence>
+<Sentence id="7045" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>§ No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.</SentenceText>
+</Sentence>
+<Sentence id="7046" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.</SentenceText>
+</Sentence>
+<Sentence id="7047" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects.</SentenceText>
+</Sentence>
+<Sentence id="7048" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>No dose adjustment is required based on race/ethnicity.</SentenceText>
+</Sentence>
+<Sentence id="7049" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function (Figure 3).</SentenceText>
+</Sentence>
+<Sentence id="7050" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="7051" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The dialysis clearance of apixaban is approximately 18 mL/min.</SentenceText>
+</Sentence>
+<Sentence id="7052" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis.</SentenceText>
+</Sentence>
+<Sentence id="7053" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods.</SentenceText>
+</Sentence>
+<Sentence id="7054" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>O:\E-Submissions\PBO\PRODUCTS\Eliquis 202155\08.</SentenceText>
+</Sentence>
+<Sentence id="7055" LabelDrug="ELIQUIS" section="34090-1">
+<SentenceText>Orig Submission\Source\eliquis-pkplot-pop-fig3.jpg</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="neuraxial anesthesia" precipitantCode="NO MAP" effect="44695005: Paralysis (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuraxial anesthesia" precipitantCode="NO MAP" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuraxial anesthesia" precipitantCode="NO MAP" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticoagulants" precipitantCode="N0000175980" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticoagulants" precipitantCode="N0000175980" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that affect hemostasis" precipitantCode="NO MAP" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that affect hemostasis" precipitantCode="NO MAP" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nonsteroidal anti-inflammatory drugs" precipitantCode="N0000175722" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nonsteroidal anti-inflammatory drugs" precipitantCode="N0000175722" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaids" precipitantCode="N0000175722" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="platelet inhibitors" precipitantCode="N0000175578" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="platelet inhibitors" precipitantCode="N0000175578" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="5Q7ZVV76EI" effect="165583001: International normalized ratio abnormal (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="parenteral anticoagulant" precipitantCode="N0000175980" effect="165583001: International normalized ratio abnormal (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anticoagulant" precipitantCode="N0000175980"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="combined p-glycoprotein (p-gp) and strong cytochrome p450 3a4 (cyp3a4) inhibitors" precipitantCode="NO MAP" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="itraconazole" precipitantCode="304NUG5GF4" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ketoconazole" precipitantCode="R9400W927I" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ritonavir" precipitantCode="O3J8G9O825" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="combined p-gp and strong cyp3a4 inhibitors" precipitantCode="NO MAP" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="combined p-gp and strong cyp3a4 inhibitors" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="inhibitors of cyp3a4 and p-gp" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp3a4 and p-gp" precipitantCode="NO MAP" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="inducers of cyp3a4 and p-gp" precipitantCode="NO MAP" effect="230690007: Cerebrovascular accident (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="inducers of cyp3a4 and p-gp" precipitantCode="NO MAP" effect="371039008: Thromboembolic disorder (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inducers of cyp3a4 and p-gp" precipitantCode="NO MAP" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="combined p-gp and strong cyp3a4 inducers" precipitantCode="NO MAP" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="33CM23913M" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="6158TKW0C5" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="VJT6J7R4TR" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="st. john’s wort" precipitantCode="UFH8805FKA" effect="C54356"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antiplatelet agents" precipitantCode="N0000175578" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="aspirin" precipitantCode="R16CO5Y76E" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chronic nsaid" precipitantCode="N0000175722" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fibrinolytics" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="heparin" precipitantCode="T2410KM04A" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="combination of aspirin and clopidogrel" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs affecting hemostasis" precipitantCode="NO MAP" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="activated oral charcoal" precipitantCode="2P3VWU3H10" effect="C54356"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal/epidural anesthesia" precipitantCode="NO MAP" effect="44695005: Paralysis (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal/epidural anesthesia" precipitantCode="NO MAP" effect="674481000119100: Spontaneous hematoma of spinal cord (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="spinal/epidural anesthesia" precipitantCode="NO MAP" effect="703861005: Spinal epidural hematoma (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="products affecting hemostasis" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="enoxaparin" precipitantCode="E47C0NF7LV" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="naproxen" precipitantCode="57Y76R9ATQ" effect="NO MAP"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Zytiga" setid="4e338e89-3cf2-48eb-b6e2-a06c608c6513">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  CYP3A4 Inducers: Avoid concomitant strong CYP3A4 inducers during ZYTIGA treatment. If a strong CYP3A4 inducer must be co-administered, increase the ZYTIGA dosing frequency. ( 2.5 , 7.1 )  CYP2D6 Substrates: Avoid co-administration of ZYTIGA with CYP2D6 substrates that have a narrow therapeutic index. If an alternative treatment cannot be used, exercise caution and consider a dose reduction of the concomitant CYP2D6 substrate. ( 7.2 )  7.1 Drugs that Inhibit or Induce CYP3A4 Enzymes  Based on in vitro data, ZYTIGA is a substrate of CYP3A4.  In a dedicated drug interaction trial, co-administration of rifampin, a strong CYP3A4 inducer, decreased exposure of abiraterone by 55%. Avoid concomitant strong CYP3A4 inducers during ZYTIGA treatment. If a strong CYP3A4 inducer must be co-administered, increase the ZYTIGA dosing frequency [see Dosage and Administration (2.5)  and  Clinical Pharmacology (12.3) ] .  In a dedicated drug interaction trial, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Clinical Pharmacology (12.3) ] .  7.2 Effects of Abiraterone on Drug Metabolizing Enzymes  ZYTIGA is an inhibitor of the hepatic drug-metabolizing enzymes CYP2D6 and CYP2C8. In a CYP2D6 drug-drug interaction trial, the C max and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively, when dextromethorphan was given with abiraterone acetate 1,000 mg daily and prednisone 5 mg twice daily. Avoid co-administration of abiraterone acetate with substrates of CYP2D6 with a narrow therapeutic index (e.g., thioridazine). If alternative treatments cannot be used, consider a dose reduction of the concomitant CYP2D6 substrate drug [see Clinical Pharmacology (12.3) ] .  In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone (CYP2C8 substrate) was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate. Therefore, patients should be monitored closely for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly with ZYTIGA [see Clinical Pharmacology (12.3) ] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  Abiraterone acetate (ZYTIGA) is converted in vivo to abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17,20-lyase (CYP17). This enzyme is expressed in testicular, adrenal, and prostatic tumor tissues and is required for androgen biosynthesis.  CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20 lyase activity. DHEA and androstenedione are androgens and are precursors of testosterone. Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoid production by the adrenals [see Warnings and Precautions (5.1) ] .  Androgen sensitive prostatic carcinoma responds to treatment that decreases androgen levels. Androgen deprivation therapies, such as treatment with GnRH agonists or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumor.  ZYTIGA decreased serum testosterone and other androgens in patients in the placebo-controlled clinical trial. It is not necessary to monitor the effect of ZYTIGA on serum testosterone levels.  Changes in serum prostate specific antigen (PSA) levels may be observed but have not been shown to correlate with clinical benefit in individual patients.  12.3 Pharmacokinetics  Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC. In vivo , abiraterone acetate is converted to abiraterone. In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (&lt;0.2 ng/mL) in &gt;99% of the analyzed samples.  Absorption  Following oral administration of abiraterone acetate to patients with metastatic CRPC, the median time to reach maximum plasma abiraterone concentrations is 2 hours. Abiraterone accumulation is observed at steady-state, with a 2-fold higher exposure (steady-state AUC) compared to a single 1,000 mg dose of abiraterone acetate.  At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of C max were 226 ± 178 ng/mL and of AUC were 993 ± 639 ng.hr/mL. No major deviation from dose proportionality was observed in the dose range of 250 mg to 1,000 mg. However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).  Systemic exposure of abiraterone is increased when abiraterone acetate is administered with food. In healthy subjects abiraterone C max and AUC 0–∞ were approximately 7- and 5-fold higher, respectively, when a single dose of abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal compared to overnight fasting. Abiraterone AUC 0–∞ was approximately 7-fold or 1.6-fold higher, respectively, when a single dose of abiraterone acetate was administered 2 hours after or 1 hour before a medium fat meal (25% fat, 491 calories) compared to overnight fasting.  Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.  Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in increased and highly variable exposures. Therefore, ZYTIGA must be taken on an empty stomach, either one hour before or two hours after a meal. The tablets should be swallowed whole with water [see Dosage and Administration (2.3) ].  Distribution and Protein Binding  Abiraterone is highly bound (&gt;99%) to the human plasma proteins, albumin and alpha-1 acid glycoprotein. The apparent steady-state volume of distribution (mean ± SD) is 19,669 ± 13,358 L. In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.  Metabolism  Following oral administration of 14 C-abiraterone acetate as capsules, abiraterone acetate is hydrolyzed to abiraterone (active metabolite). The conversion is likely through esterase activity (the esterases have not been identified) and is not CYP mediated. The two main circulating metabolites of abiraterone in human plasma are abiraterone sulphate (inactive) and N-oxide abiraterone sulphate (inactive), which account for about 43% of exposure each. CYP3A4 and SULT2A1 are the enzymes involved in the formation of N-oxide abiraterone sulphate and SULT2A1 is involved in the formation of abiraterone sulphate.  Excretion  In patients with metastatic CRPC, the mean terminal half-life of abiraterone in plasma (mean ± SD) is 12 ± 5 hours. Following oral administration of 14 C-abiraterone acetate, approximately 88% of the radioactive dose is recovered in feces and approximately 5% in urine. The major compounds present in feces are unchanged abiraterone acetate and abiraterone (approximately 55% and 22% of the administered dose, respectively).  Patients with Hepatic Impairment  The pharmacokinetics of abiraterone was examined in subjects with baseline mild (N=8) or moderate (N=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function. Systemic exposure to abiraterone after a single oral 1,000 mg dose given under fasting conditions increased approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively. The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.  In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (N=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function. The systemic exposure (AUC) of abiraterone increased by approximately 7-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function. In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment [see Dosage and Administration (2.4)  and  Use in Specific Populations (8.6) ].  Patients with Renal Impairment  The pharmacokinetics of abiraterone were examined in patients with end-stage renal disease (ESRD) on a stable hemodialysis schedule (N=8) and in matched control subjects with normal renal function (N=8). In the ESRD cohort of the trial, a single 1,000 mg ZYTIGA dose was given under fasting conditions 1 hour after dialysis, and samples for pharmacokinetic analysis were collected up to 96 hours post dose. Systemic exposure to abiraterone after a single oral 1,000 mg dose did not increase in subjects with end-stage renal disease on dialysis, compared to subjects with normal renal function [see Use in Specific Populations (8.7) ].  Drug Interactions  In vitro studies with human hepatic microsomes showed that abiraterone has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.  In an in vivo drug-drug interaction trial, the C max and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily). The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.2) ] .  In a clinical study to determine the effects of abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily) on a single 100 mg dose of the CYP1A2 substrate theophylline, no increase in systemic exposure of theophylline was observed.  Abiraterone is a substrate of CYP3A4, in vitro . In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC ∞ of abiraterone was decreased by 55% [see Drug Interactions (7.1) ] .  In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1) ] .  In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate [see Drug Interactions (7.2) ] .  In vitro , abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1. There are no clinical data available to confirm transporter based interaction.  12.6 QT Prolongation  In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received ZYTIGA orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily. Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., &gt;20 ms) from baseline. However, small increases in the QTc interval (i.e., &lt;10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.</Section>
+</Text><Sentences>
+<Sentence id="2091" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>CYP3A4 Inducers: Avoid concomitant strong CYP3A4 inducers during ZYTIGA treatment.</SentenceText>
+</Sentence>
+<Sentence id="2092" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>If a strong CYP3A4 inducer must be co-administered, increase the ZYTIGA dosing frequency.</SentenceText>
+</Sentence>
+<Sentence id="2093" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>CYP2D6 Substrates: Avoid co-administration of ZYTIGA with CYP2D6 substrates that have a narrow therapeutic index.</SentenceText>
+</Sentence>
+<Sentence id="2094" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>If an alternative treatment cannot be used, exercise caution and consider a dose reduction of the concomitant CYP2D6 substrate.</SentenceText>
+</Sentence>
+<Sentence id="2095" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>Based on in vitro data, ZYTIGA is a substrate of CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="2096" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>In a dedicated drug interaction trial, co-administration of rifampin, a strong CYP3A4 inducer, decreased exposure of abiraterone by 55%.</SentenceText>
+</Sentence>
+<Sentence id="2097" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>Avoid concomitant strong CYP3A4 inducers during ZYTIGA treatment.</SentenceText>
+</Sentence>
+<Sentence id="2099" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>In a dedicated drug interaction trial, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone.</SentenceText>
+</Sentence>
+<Sentence id="2100" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>ZYTIGA is an inhibitor of the hepatic drug-metabolizing enzymes CYP2D6 and CYP2C8.</SentenceText>
+</Sentence>
+<Sentence id="2101" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>In a CYP2D6 drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively, when dextromethorphan was given with abiraterone acetate 1,000 mg daily and prednisone 5 mg twice daily.</SentenceText>
+</Sentence>
+<Sentence id="2102" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>Avoid co-administration of abiraterone acetate with substrates of CYP2D6 with a narrow therapeutic index (e.g., thioridazine).</SentenceText>
+</Sentence>
+<Sentence id="2103" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>If alternative treatments cannot be used, consider a dose reduction of the concomitant CYP2D6 substrate drug.</SentenceText>
+</Sentence>
+<Sentence id="2104" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone (CYP2C8 substrate) was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.</SentenceText>
+</Sentence>
+<Sentence id="2105" LabelDrug="Zytiga" section="34073-7">
+<SentenceText>Therefore, patients should be monitored closely for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly with ZYTIGA.</SentenceText>
+</Sentence>
+<Sentence id="2106" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Abiraterone acetate (ZYTIGA) is converted in vivo to abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17,20-lyase (CYP17).</SentenceText>
+</Sentence>
+<Sentence id="2107" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>This enzyme is expressed in testicular, adrenal, and prostatic tumor tissues and is required for androgen biosynthesis.</SentenceText>
+</Sentence>
+<Sentence id="2108" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20 lyase activity.</SentenceText>
+</Sentence>
+<Sentence id="2109" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>DHEA and androstenedione are androgens and are precursors of testosterone.</SentenceText>
+</Sentence>
+<Sentence id="2110" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoid production by the adrenals.</SentenceText>
+</Sentence>
+<Sentence id="2111" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Androgen sensitive prostatic carcinoma responds to treatment that decreases androgen levels.</SentenceText>
+</Sentence>
+<Sentence id="2112" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Androgen deprivation therapies, such as treatment with GnRH agonists or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumor.</SentenceText>
+</Sentence>
+<Sentence id="2113" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>ZYTIGA decreased serum testosterone and other androgens in patients in the placebo-controlled clinical trial.</SentenceText>
+</Sentence>
+<Sentence id="2114" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>It is not necessary to monitor the effect of ZYTIGA on serum testosterone levels.</SentenceText>
+</Sentence>
+<Sentence id="2115" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Changes in serum prostate specific antigen (PSA) levels may be observed but have not been shown to correlate with clinical benefit in individual patients.</SentenceText>
+</Sentence>
+<Sentence id="2116" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC.</SentenceText>
+</Sentence>
+<Sentence id="2117" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In vivo, abiraterone acetate is converted to abiraterone.</SentenceText>
+</Sentence>
+<Sentence id="2118" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (&lt;0.2 ng/mL) in &gt;99% of the analyzed samples.</SentenceText>
+</Sentence>
+<Sentence id="2119" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Absorption Following oral administration of abiraterone acetate to patients with metastatic CRPC, the median time to reach maximum plasma abiraterone concentrations is 2 hours.</SentenceText>
+</Sentence>
+<Sentence id="2120" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Abiraterone accumulation is observed at steady-state, with a 2-fold higher exposure (steady-state AUC) compared to a single 1,000 mg dose of abiraterone acetate.</SentenceText>
+</Sentence>
+<Sentence id="2121" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>At the dose of 1,000 mg daily in patients with metastatic CRPC, steady-state values (mean ± SD) of Cmax were 226 ± 178 ng/mL and of AUC were 993 ± 639 ng.hr/mL.</SentenceText>
+</Sentence>
+<Sentence id="2122" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>No major deviation from dose proportionality was observed in the dose range of 250 mg to 1,000 mg.</SentenceText>
+</Sentence>
+<Sentence id="2123" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>However, the exposure was not significantly increased when the dose was doubled from 1,000 to 2,000 mg (8% increase in the mean AUC).</SentenceText>
+</Sentence>
+<Sentence id="2124" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Systemic exposure of abiraterone is increased when abiraterone acetate is administered with food.</SentenceText>
+</Sentence>
+<Sentence id="2125" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In healthy subjects abiraterone Cmax and AUC0–∞ were approximately 7- and 5-fold higher, respectively, when a single dose of abiraterone acetate was administered with a low-fat meal (7% fat, 300 calories) and approximately 17- and 10-fold higher, respectively, when a single dose of abiraterone acetate was administered with a high-fat (57% fat, 825 calories) meal compared to overnight fasting.</SentenceText>
+</Sentence>
+<Sentence id="2126" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Abiraterone AUC0–∞ was approximately 7-fold or 1.6-fold higher, respectively, when a single dose of abiraterone acetate was administered 2 hours after or 1 hour before a medium fat meal (25% fat, 491 calories) compared to overnight fasting.</SentenceText>
+</Sentence>
+<Sentence id="2127" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.</SentenceText>
+</Sentence>
+<Sentence id="2128" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in increased and highly variable exposures.</SentenceText>
+</Sentence>
+<Sentence id="2129" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Therefore, ZYTIGA must be taken on an empty stomach, either one hour before or two hours after a meal.</SentenceText>
+</Sentence>
+<Sentence id="2130" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The tablets should be swallowed whole with water.</SentenceText>
+</Sentence>
+<Sentence id="2131" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Distribution and Protein Binding Abiraterone is highly bound (&gt;99%) to the human plasma proteins, albumin and alpha-1 acid glycoprotein.</SentenceText>
+</Sentence>
+<Sentence id="2132" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The apparent steady-state volume of distribution (mean ± SD) is 19,669 ± 13,358 L. In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.</SentenceText>
+</Sentence>
+<Sentence id="2133" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Metabolism Following oral administration of 14C-abiraterone acetate as capsules, abiraterone acetate is hydrolyzed to abiraterone (active metabolite).</SentenceText>
+</Sentence>
+<Sentence id="2134" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The conversion is likely through esterase activity (the esterases have not been identified) and is not CYP mediated.</SentenceText>
+</Sentence>
+<Sentence id="2135" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The two main circulating metabolites of abiraterone in human plasma are abiraterone sulphate (inactive) and N-oxide abiraterone sulphate (inactive), which account for about 43% of exposure each.</SentenceText>
+</Sentence>
+<Sentence id="2136" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>CYP3A4 and SULT2A1 are the enzymes involved in the formation of N-oxide abiraterone sulphate and SULT2A1 is involved in the formation of abiraterone sulphate.</SentenceText>
+</Sentence>
+<Sentence id="2137" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Excretion In patients with metastatic CRPC, the mean terminal half-life of abiraterone in plasma (mean ± SD) is 12 ± 5 hours.</SentenceText>
+</Sentence>
+<Sentence id="2138" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Following oral administration of 14C-abiraterone acetate, approximately 88% of the radioactive dose is recovered in feces and approximately 5% in urine.</SentenceText>
+</Sentence>
+<Sentence id="2139" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The major compounds present in feces are unchanged abiraterone acetate and abiraterone (approximately 55% and 22% of the administered dose, respectively).</SentenceText>
+</Sentence>
+<Sentence id="2140" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Patients with Hepatic Impairment The pharmacokinetics of abiraterone was examined in subjects with baseline mild (N=8) or moderate (N=8) hepatic impairment (Child-Pugh Class A and B, respectively) and in 8 healthy control subjects with normal hepatic function.</SentenceText>
+</Sentence>
+<Sentence id="2141" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Systemic exposure to abiraterone after a single oral 1,000 mg dose given under fasting conditions increased approximately 1.1-fold and 3.6-fold in subjects with mild and moderate baseline hepatic impairment, respectively.</SentenceText>
+</Sentence>
+<Sentence id="2142" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The mean half-life of abiraterone is prolonged to approximately 18 hours in subjects with mild hepatic impairment and to approximately 19 hours in subjects with moderate hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="2143" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (N=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.</SentenceText>
+</Sentence>
+<Sentence id="2144" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The systemic exposure (AUC) of abiraterone increased by approximately 7-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.</SentenceText>
+</Sentence>
+<Sentence id="2145" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment.</SentenceText>
+</Sentence>
+<Sentence id="2146" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Patients with Renal Impairment The pharmacokinetics of abiraterone were examined in patients with end-stage renal disease (ESRD) on a stable hemodialysis schedule (N=8) and in matched control subjects with normal renal function (N=8).</SentenceText>
+</Sentence>
+<Sentence id="2147" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In the ESRD cohort of the trial, a single 1,000 mg ZYTIGA dose was given under fasting conditions 1 hour after dialysis, and samples for pharmacokinetic analysis were collected up to 96 hours post dose.</SentenceText>
+</Sentence>
+<Sentence id="2148" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Systemic exposure to abiraterone after a single oral 1,000 mg dose did not increase in subjects with end-stage renal disease on dialysis, compared to subjects with normal renal function.</SentenceText>
+</Sentence>
+<Sentence id="2149" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Drug Interactions In vitro studies with human hepatic microsomes showed that abiraterone has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.</SentenceText>
+</Sentence>
+<Sentence id="2150" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In an in vivo drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily).</SentenceText>
+</Sentence>
+<Sentence id="2151" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold.</SentenceText>
+</Sentence>
+<Sentence id="2152" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In a clinical study to determine the effects of abiraterone acetate 1,000 mg daily (plus prednisone 5 mg twice daily) on a single 100 mg dose of the CYP1A2 substrate theophylline, no increase in systemic exposure of theophylline was observed.</SentenceText>
+</Sentence>
+<Sentence id="2153" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Abiraterone is a substrate of CYP3A4, in vitro.</SentenceText>
+</Sentence>
+<Sentence id="2154" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In a clinical pharmacokinetic interaction study of healthy subjects pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of abiraterone acetate 1,000 mg, the mean plasma AUC∞ of abiraterone was decreased by 55%.</SentenceText>
+</Sentence>
+<Sentence id="2155" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone.</SentenceText>
+</Sentence>
+<Sentence id="2156" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.</SentenceText>
+</Sentence>
+<Sentence id="2157" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.</SentenceText>
+</Sentence>
+<Sentence id="2158" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>There are no clinical data available to confirm transporter based interaction.</SentenceText>
+</Sentence>
+<Sentence id="2159" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received ZYTIGA orally at a dose of 1,000 mg once daily at least 1 hour before or 2 hours after a meal in combination with prednisone 5 mg orally twice daily.</SentenceText>
+</Sentence>
+<Sentence id="2160" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., &gt;20 ms) from baseline.</SentenceText>
+</Sentence>
+<Sentence id="2161" LabelDrug="Zytiga" section="34090-1">
+<SentenceText>However, small increases in the QTc interval (i.e., &lt;10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

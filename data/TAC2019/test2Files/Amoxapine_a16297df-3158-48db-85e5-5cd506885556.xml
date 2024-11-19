@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Amoxapine" setid="a16297df-3158-48db-85e5-5cd506885556">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Amoxapine is an antidepressant with a mild sedative component to its action. The mechanism of its clinical action in man is not well understood. In animals, amoxapine reduced the uptake of norepinephrine and serotonin and blocked the response of dopamine receptors to dopamine. Amoxapine is not a monoamine oxidase inhibitor.  Amoxapine is absorbed rapidly and reaches peak blood levels approximately 90 minutes after ingestion. It is almost completely metabolized. The main route of excretion is the kidney. In vitro tests show that amoxapine binding to human serum is approximately 90%.  In man, amoxapine serum concentration declines with a half-life of eight hours. However, the major metabolite, 8-hydroxyamoxapine, has a biologic half-life of 30 hours. Metabolites are excreted in the urine in conjugated form as glucuronides.  Clinical studies have demonstrated that amoxapine has a more rapid onset of action than either amitriptyline or imipramine. The initial clinical effect may occur within four to seven days and occurs within two weeks in over 80% of responders.</Section>
+</Text><Sentences>
+<Sentence id="3401" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>See CONTRAINDICATIONS about concurrent usage of tricyclic antidepressants and monoamine oxidase inhibitors.</SentenceText>
+<Mention id="M3" type="Trigger" span="4 17" str="CONTRAINDICATIONS"/>
+<Mention id="M2" type="Precipitant" span="48 25" str="tricyclic antidepressants" code="N0000029148"/>
+<Mention id="M4" type="Precipitant" span="78 28" str="monoamine oxidase inhibitors" code="N0000000184"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M3" precipitant="M2"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="3402" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic drugs.</SentenceText>
+<Mention id="M7" type="SpecificInteraction" span="0 15" str="Paralytic ileus" code="55525008: Paralytic ileus (disorder)"/>
+<Mention id="M6" type="Precipitant" span="91 21" str="anticholinergic drugs" code="n0000175574"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M7" precipitant="M6" effect="M7"/>
+</Sentence>
+<Sentence id="3403" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Amoxapine may enhance the response to alcohol and the effects of barbiturates and other CNS depressants.</SentenceText>
+<Mention id="M14" type="Trigger" span="14 7;54 7" str="enhance | effects"/>
+<Mention id="M9" type="Precipitant" span="65 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M10" type="SpecificInteraction" span="14 7;54 23" str="enhance | effects of barbiturates" code="NO MAP"/>
+<Mention id="M11" type="Trigger" span="14 20" str="enhance the response"/>
+<Mention id="M12" type="Precipitant" span="38 7" str="alcohol" code="N0000007432"/>
+<Mention id="M13" type="SpecificInteraction" span="14 31" str="enhance the response to alcohol" code="45007003: Low blood pressure (disorder)"/>
+<Mention id="M15" type="Precipitant" span="88 15" str="CNS depressants" code="N0000175758"/>
+<Mention id="M16" type="SpecificInteraction" span="14 7;54 10;88 15" str="enhance | effects of | CNS depressants" code="418072004: Central nervous system depression (disorder)"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M14" precipitant="M9" effect="M10"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M11" precipitant="M12" effect="M13"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M14" precipitant="M15" effect="M16"/>
+</Sentence>
+<Sentence id="3404" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Serum levels of several tricyclic antidepressants have been reported to be significantly increased when cimetidine is administered concurrently.</SentenceText>
+<Mention id="M17" type="Trigger" span="0 12;89 9" str="Serum levels | increased"/>
+<Mention id="M18" type="Precipitant" span="104 10" str="cimetidine" code="80061L1WGD"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M17" precipitant="M18" effect="C54355"/>
+</Sentence>
+<Sentence id="3405" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Although such an interaction has not been reported to date with amoxapine, specific interaction studies have not been done, and the possibility should be considered.</SentenceText>
+</Sentence>
+<Sentence id="3406" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Drugs Metabolized by P450 2D6 – The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="3407" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="3408" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="3409" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="3410" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="3411" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="3412" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="3413" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+<Mention id="M19" type="Trigger" span="29 12" str="interactions"/>
+<Mention id="M20" type="Precipitant" span="20 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I8" type="Unspecified interaction" trigger="M19" precipitant="M20"/>
+</Sentence>
+<Sentence id="3414" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+<Mention id="M21" type="Trigger" span="14 7" str="caution"/>
+<Mention id="M22" type="Precipitant" span="84 5" str="SSRIs" code="n0000175696"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M21" precipitant="M22"/>
+</Sentence>
+<Sentence id="3415" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+<Mention id="M23" type="Trigger" span="26 45" str="sufficient time must elapse before initiating"/>
+<Mention id="M24" type="Precipitant" span="120 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I10" type="Unspecified interaction" trigger="M23" precipitant="M24"/>
+</Sentence>
+<Sentence id="3416" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+<Mention id="M25" type="Trigger" span="105 11" str="lower doses"/>
+<Mention id="M28" type="Precipitant" span="50 42" str="drugs that can inhibit cytochrome P450 2D6" code="N0000182137"/>
+<Mention id="M27" type="Trigger" span="105 11;188 10" str="lower doses | other drug"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M25" precipitant="M28" effect="C54355"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M27" precipitant="M28" effect="C54357"/>
+</Sentence>
+<Sentence id="3417" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="3418" LabelDrug="Amoxapine" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+<Mention id="M29" type="Trigger" span="19 7" str="monitor"/>
+<Mention id="M30" type="Precipitant" span="124 21" str="inhibitor of P450 2D6" code="n0000182135"/>
+<Interaction id="I13" type="Unspecified interaction" trigger="M29" precipitant="M30"/>
+</Sentence>
+<Sentence id="3419" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Amoxapine is an antidepressant with a mild sedative component to its action.</SentenceText>
+</Sentence>
+<Sentence id="3420" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>The mechanism of its clinical action in man is not well understood.</SentenceText>
+</Sentence>
+<Sentence id="3421" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>In animals, amoxapine reduced the uptake of norepinephrine and serotonin and blocked the response of dopamine receptors to dopamine.</SentenceText>
+</Sentence>
+<Sentence id="3422" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Amoxapine is not a monoamine oxidase inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="3423" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Amoxapine is absorbed rapidly and reaches peak blood levels approximately 90 minutes after ingestion.</SentenceText>
+</Sentence>
+<Sentence id="3424" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>The main route of excretion is the kidney.</SentenceText>
+</Sentence>
+<Sentence id="3425" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>In vitro tests show that amoxapine binding to human serum is approximately 90%.</SentenceText>
+</Sentence>
+<Sentence id="3426" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>In man, amoxapine serum concentration declines with a half-life of eight hours.</SentenceText>
+</Sentence>
+<Sentence id="3427" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>However, the major metabolite, 8-hydroxyamoxapine, has a biologic half-life of 30 hours.</SentenceText>
+</Sentence>
+<Sentence id="3428" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Metabolites are excreted in the urine in conjugated form as glucuronides.</SentenceText>
+</Sentence>
+<Sentence id="3429" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>Clinical studies have demonstrated that amoxapine has a more rapid onset of action than either amitriptyline or imipramine.</SentenceText>
+</Sentence>
+<Sentence id="3430" LabelDrug="Amoxapine" section="34090-1">
+<SentenceText>The initial clinical effect may occur within four to seven days and occurs within two weeks in over 80% of responders.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="tricyclic antidepressants" precipitantCode="N0000029148"/>
+<LabelInteraction type="Unspecified interaction" precipitant="monoamine oxidase inhibitors" precipitantCode="N0000000184"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic drugs" precipitantCode="n0000175574" effect="55525008: Paralytic ileus (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="barbiturates" precipitantCode="N0000008016" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="45007003: Low blood pressure (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cns depressants" precipitantCode="N0000175758" effect="418072004: Central nervous system depression (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssri" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssris" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54357"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of p450 2d6" precipitantCode="n0000182135"/>
+
+</LabelInteractions></Label>

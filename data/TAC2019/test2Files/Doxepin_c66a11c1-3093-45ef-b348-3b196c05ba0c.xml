@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Doxepin" setid="c66a11c1-3093-45ef-b348-3b196c05ba0c">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY Although doxepin HCl does have H1 and H2 histamine receptor blocking actions, the exact mechanism by which doxepin exerts its antipruritic effect is unknown. PRUDOXIN Cream can produce drowsiness which may reduce awareness, including awareness of pruritic symptoms. In 19 pruritic eczema patients treated with PRUDOXIN Cream, plasma doxepin concentrations ranged from nondetectable to 47 ng/mL from percutaneous absorption. Plasma levels from topical application of PRUDOXIN Cream can result in CNS and other systemic side effects.  Once absorbed into the systemic circulation, doxepin undergoes hepatic metabolism that results in conversion to pharmacologically-active desmethyldoxepin. Further glucuronidation results in urinary excretion of the parent drug and its metabolites. Desmethyldoxepin has a half-life that ranges from 28 to 52 hours and is not affected by multiple dosing. Plasma levels of both doxepin and desmethyldoxepin are highly variable and are poorly correlated with dosage. Wide distribution occurs in body tissues including lungs, heart, brain, and liver. Renal disease, genetic factors, age, and other medications affect the metabolism and subsequent elimination of doxepin. (See PRECAUTIONS - Drug Interactions .)</Section>
+</Text><Sentences>
+<Sentence id="119" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Studies have not been performed examining drug interactions with PRUDOXIN Cream.</SentenceText>
+</Sentence>
+<Sentence id="120" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>However, since plasma levels of doxepin following topical application of PRUDOXIN Cream can reach levels obtained with oral doxepin HCl therapy, the following drug interactions are possible following topical PRUDOXIN Cream application: Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7-10% of Caucasians are so-called "poor metabolizers"); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.</SentenceText>
+<Mention id="M1" type="Trigger" span="159 17" str="drug interactions"/>
+<Mention id="M2" type="Precipitant" span="236 29" str="Drugs Metabolized by P450 2D6" code="NONE"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M1" precipitant="M2"/>
+</Sentence>
+<Sentence id="121" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="122" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="123" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="124" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>An individual who is stable on a given dosage regimen of a TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="125" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="126" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="127" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+<Mention id="M3" type="Trigger" span="29 12" str="interactions"/>
+<Mention id="M4" type="Precipitant" span="20 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="128" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs.</SentenceText>
+<Mention id="M5" type="Trigger" span="14 7" str="caution"/>
+<Mention id="M6" type="Precipitant" span="84 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="129" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+<Mention id="M7" type="Trigger" span="26 45" str="sufficient time must elapse before initiating"/>
+<Mention id="M8" type="Precipitant" span="120 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M7" precipitant="M8"/>
+</Sentence>
+<Sentence id="130" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+<Mention id="M9" type="Trigger" span="105 11" str="lower doses"/>
+<Mention id="M10" type="Precipitant" span="50 42" str="drugs that can inhibit cytochrome P450 2D6" code="N0000182137"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M9" precipitant="M10" effect="C54355"/>
+</Sentence>
+<Sentence id="131" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+<Mention id="M11" type="Trigger" span="19 7" str="monitor"/>
+<Mention id="M12" type="Precipitant" span="124 21" str="inhibitor of P450 2D6" code="n0000182135"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M11" precipitant="M12"/>
+</Sentence>
+<Sentence id="132" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>MAO Inhibitors: Serious side effects and even death have been reported following the concomitant use of certain drugs with MAO inhibitors.</SentenceText>
+<Mention id="M13" type="Trigger" span="24 12" str="side effects"/>
+<Mention id="M14" type="Precipitant" span="123 14" str="MAO inhibitors" code="N0000000184"/>
+<Mention id="M15" type="SpecificInteraction" span="46 5" str="death" code="419620001: Death (event)"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M13" precipitant="M14" effect="M15"/>
+</Sentence>
+<Sentence id="133" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Therefore, MAO inhibitors should be discontinued at least two weeks prior to the cautious initiation of therapy with PRUDOXIN Cream.</SentenceText>
+<Mention id="M16" type="Trigger" span="26 22;68 8;90 10" str="should be discontinued | prior to | initiation"/>
+<Mention id="M17" type="Precipitant" span="11 14" str="MAO inhibitors" code="N0000000184"/>
+<Interaction id="I8" type="Unspecified interaction" trigger="M16" precipitant="M17"/>
+</Sentence>
+<Sentence id="134" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>The exact length of time may vary and is dependent upon the particular MAO inhibitor being used, the length of time it has been administered, and the dosage involved.</SentenceText>
+</Sentence>
+<Sentence id="135" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Cimetidine: Serious anticholinergic symptoms (i.e., severe dry mouth, urinary retention and blurred vision) have been associated with elevations in the serum levels of tricyclic antidepressant when cimetidine therapy is initiated.</SentenceText>
+<Mention id="M18" type="Trigger" span="118 15" str="associated with"/>
+<Mention id="M25" type="Precipitant" span="198 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M20" type="SpecificInteraction" span="20 24" str="anticholinergic symptoms" code="NO MAP"/>
+<Mention id="M21" type="SpecificInteraction" span="59 9" str=" dry mouth" code=" 87715008: Xerostomia (disorder)"/>
+<Mention id="M22" type="SpecificInteraction" span="70 17" str=" urinary retention" code=" 267064002: Retention of urine (disorder)"/>
+<Mention id="M23" type="SpecificInteraction" span="92 14" str=" blurred vision" code=" 246636008: Hazy vision (disorder)"/>
+<Mention id="M24" type="Trigger" span="134 30" str="elevations in the serum levels"/>
+<Interaction id="I9" type="Pharmacodynamic interaction" trigger="M18" precipitant="M25" effect="M20;M21;M22;M23"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M24" precipitant="M25" effect="C54355"/>
+</Sentence>
+<Sentence id="136" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Additionally, higher than expected tricyclic antidepressant levels have been observed when they are begun in patients already taking cimetidine.</SentenceText>
+<Mention id="M26" type="Trigger" span="14 6;60 6" str="higher | levels"/>
+<Mention id="M27" type="Precipitant" span="133 10" str="cimetidine" code="80061L1WGD"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M26" precipitant="M27" effect="C54355"/>
+</Sentence>
+<Sentence id="137" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Alcohol: Alcohol ingestion may exacerbate the potential sedative effects of PRUDOXIN Cream.</SentenceText>
+<Mention id="M28" type="Trigger" span="31 10;65 7" str="exacerbate | effects"/>
+<Mention id="M29" type="Precipitant" span="0 7" str="Alcohol" code="N0000007432"/>
+<Mention id="M30" type="SpecificInteraction" span="31 10;56 16" str="exacerbate | sedative effects" code="17971005: Sedated (finding)"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M28" precipitant="M29" effect="M30"/>
+</Sentence>
+<Sentence id="138" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>This is especially important in patients who may use alcohol excessively.</SentenceText>
+</Sentence>
+<Sentence id="139" LabelDrug="Doxepin" section="34073-7">
+<SentenceText>Tolazamide: A case of severe hypoglycemia has been reported in a type II diabetic patient maintained on tolazamide (1 gm/day) 11 days after the addition of oral doxepin (75 mg/day).</SentenceText>
+<Mention id="M33" type="SpecificInteraction" span="29 12" str="hypoglycemia" code="302866003: Hypoglycemia (disorder)"/>
+<Mention id="M32" type="Precipitant" span="0 10" str="Tolazamide" code="9LT1BRO48Q"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M33" precipitant="M32" effect="M33"/>
+</Sentence>
+<Sentence id="140" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Although doxepin HCl does have H1 and H2 histamine receptor blocking actions, the exact mechanism by which doxepin exerts its antipruritic effect is unknown.</SentenceText>
+</Sentence>
+<Sentence id="141" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>PRUDOXIN Cream can produce drowsiness which may reduce awareness, including awareness of pruritic symptoms.</SentenceText>
+</Sentence>
+<Sentence id="142" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>In 19 pruritic eczema patients treated with PRUDOXIN Cream, plasma doxepin concentrations ranged from nondetectable to 47 ng/mL from percutaneous absorption.</SentenceText>
+</Sentence>
+<Sentence id="143" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Plasma levels from topical application of PRUDOXIN Cream can result in CNS and other systemic side effects.</SentenceText>
+</Sentence>
+<Sentence id="144" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Once absorbed into the systemic circulation, doxepin undergoes hepatic metabolism that results in conversion to pharmacologically-active desmethyldoxepin.</SentenceText>
+</Sentence>
+<Sentence id="145" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Further glucuronidation results in urinary excretion of the parent drug and its metabolites.</SentenceText>
+</Sentence>
+<Sentence id="146" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Desmethyldoxepin has a half-life that ranges from 28 to 52 hours and is not affected by multiple dosing.</SentenceText>
+</Sentence>
+<Sentence id="147" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Plasma levels of both doxepin and desmethyldoxepin are highly variable and are poorly correlated with dosage.</SentenceText>
+</Sentence>
+<Sentence id="148" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Wide distribution occurs in body tissues including lungs, heart, brain, and liver.</SentenceText>
+</Sentence>
+<Sentence id="149" LabelDrug="Doxepin" section="34090-1">
+<SentenceText>Renal disease, genetic factors, age, and other medications affect the metabolism and subsequent elimination of doxepin.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="drugs metabolized by p450 2d6" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssri" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of p450 2d6" precipitantCode="n0000182135"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="mao inhibitors" precipitantCode="N0000000184" effect="419620001: Death (event)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="mao inhibitors" precipitantCode="N0000000184"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect=" 246636008: Hazy vision (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect=" 267064002: Retention of urine (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect=" 87715008: Xerostomia (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="alcohol" precipitantCode="N0000007432" effect="17971005: Sedated (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tolazamide" precipitantCode="9LT1BRO48Q" effect="302866003: Hypoglycemia (disorder)"/>
+
+</LabelInteractions></Label>

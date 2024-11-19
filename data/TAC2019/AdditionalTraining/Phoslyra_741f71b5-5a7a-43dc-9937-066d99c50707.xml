@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Phoslyra" setid="741f71b5-5a7a-43dc-9937-066d99c50707">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Patients with hypercalcemia.       Hypercalcemia. (4)</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+The recommended initial dose of PHOSLYRA for the adult dialysis patient is 10 mL with each meal.  Increase the dose gradually to lower serum phosphorus levels to the target range, as long as hypercalcemia does not develop.  Titrate the dose every 2 to 3 weeks until an acceptable serum phosphorus level is reached.  Most patients require 15-20 mL with each meal.       Starting dose is 10 mL with each meal. (2) Titrate the dose every 2 to 3 weeks until an acceptable serum phosphorus level is reached.  Most patients require 15 to 20 mL with each meal. (2)</Section>
+<Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+The drug interaction profile of PHOSLYRA is characterized by the potential of calcium to bind to drugs with anionic functions (e.g., carboxyl, carbonyl, and hydroxyl groups).  PHOSLYRA may decrease the bioavailability of tetracyclines or fluoroquinolones via this mechanism. There are no empirical data on avoiding drug interactions between calcium acetate or PHOSLYRA and most concomitant drugs.  When administering and oral medication with PHOSLYRA where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, administer the drug one hour before or three hours after PHOSLYRA or calcium acetate.  Monitor blood levels of the concomitant drugs that have a narrow therapeutic range.  Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from the clinical trials with all forms of calcium acetate.       PHOSLYRA may decrease the bioavailability of tetracyclines or fluoroquinolones. (7) When clinically significant drug interactions are expected, administer the drug at least one hour before or at least three hours after PHOSLYRA, or consider monitoring blood levels of the drug. (7)         In a study of 15 healthy subjects, a co-administered single dose of 4 calcium acetate tablets (approximately 2.7 g) decreased the bioavailability of ciprofloxacin by approximately 50%.</Section>
+<Section name="WARNINGS AND PRECAUTIONS SECTION" id="43685-7">
+Treat mild hypercalcemia by reducing or interrupting PHOSLYRA and Vitamin D.  Severe hypercalcemia may require hemodialyis and discontinuation of PHOSLYRA. (5.1) May cause diarrhea with nutritional supplements that contain maltitol. (5.2)         Patients with end stage renal disease may develop hypercalcemia when treated with calcium, including calcium acetate (PHOSLYRA).  Avoid the concurrent use of calcium supplements, including calcium-based nonprescription antacids, with PHOSLYRA. An overdose of PHOSLYRA may lead to progressive hypercalcemia, which may require emergency measures.  Therefore, early in the treatment phase during the dosage adjustment period, monitor serum calcium levels twice weekly.  Should hypercalcemia develop, reduce the PHOSLYRA dosage or discontinue the treatment, depending on the severity of hypercalcemia. More severe hypercalcemia (Ca&amp;gt;12 mg/dL) is associated with confusion, delirium, stupor and coma.  Severe hypercalcemia can be treated by acute hemodialysis and discontinuing PHOSLYRA therapy. Mild hypercalcemia (10.5 to 11.9 mg/dL) may be asymptomatic or manifest as constipation, anorexia, nausea, and vomiting.  Mild hypercalcemia is usually controlled by reducing the PHOSLYRA dose or temporarily discontinuing therapy.  Decreasing or discontinuing Vitamin D therapy is recommended as well. Chronic hypercalcemia may lead to vascular calcification and other soft-tissue calcification.  Radiographic evaluation of suspected anatomical regions may be helpful in early detection of soft-tissue calcification.  The long-term effect of PHOSLYRA on the progression of vascular or soft-tissue calcification has not been determined. Hypercalcemia (&amp;gt;11 mg/dL) was reported in 16% of patients in a 3-month study of a solid dose formulation of calcium acetate; all cases resolved upon lowering the dose or discontinuing treatment. Maintain the serum calcium-phosphorus (Ca x P) product below 55 mg2/dL2.         Hypercalcemia may aggravate digitalis toxicity. PHOSLYRA contains maltitol (1 g per 5 mL) and may induce a laxative effect, especially if taken with other products containing maltitol.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+Patients with ESRD retain phosphorus and can develop hyperphosphatemia.  High serum phosphorus can precipitate serum calcium resulting in ectopic calcification.  Hyperphosphatemia also plays a role in the development of secondary hyperparathyroidism in patients with ESRD.       Calcium acetate, when taken with meals, combines with dietary phosphate to form an insoluble calcium-phosphate complex, which is excreted in the feces, resulting in decreased serum phosphorus concentrations.         Orally administered calcium acetate from pharmaceutical dosage forms is systemically absorbed up to approximately 40% under fasting conditions and up to approximately 30% under non-fasting conditions.  This range represents data from both healthy subjects and renal dialysis patients under various conditions. A randomized, 3-arm, open-label, cross-over study in healthy volunteers evaluated the bioavailability of PHOSLYRA compared to calcium acetate gelcaps.  Each subject received ~1000 mg elemental calcium from each dose of the following study medications:  30 mL PHOSLYRA (test), 6 calcium acetate gelcaps (reference), or 5 calcium citrate caplets (positive control) in three periods.  The study medications were administered three times per day with meals from Day 0 through Day 2 and one morning dose on Day 3 of each period. Treatment (baseline-subtracted) related changes (AUC and Cmax) in serum calcium and phosphorus assessed over the 6 hours following dosing were similar for PHOSLYRA and calcium acetate gelcaps.  Urinary excretion of calcium and phosphorus were not significantly increased with PHOSLYRA compared to calcium acetate gelcaps.</Section>
+</Text><Sentences>
+<Sentence id="6863" LabelDrug="Phoslyra" section="34068-7">
+<SentenceText>The recommended initial dose of PHOSLYRA for the adult dialysis patient is 10 mL with each meal.</SentenceText>
+</Sentence>
+<Sentence id="6864" LabelDrug="Phoslyra" section="34068-7">
+<SentenceText>Increase the dose gradually to lower serum phosphorus levels to the target range, as long as hypercalcemia does not develop.</SentenceText>
+</Sentence>
+<Sentence id="6865" LabelDrug="Phoslyra" section="34068-7">
+<SentenceText>Titrate the dose every 2 to 3 weeks until an acceptable serum phosphorus level is reached.</SentenceText>
+</Sentence>
+<Sentence id="6866" LabelDrug="Phoslyra" section="34068-7">
+<SentenceText>Most patients require 15-20 mL with each meal.</SentenceText>
+</Sentence>
+<Sentence id="6867" LabelDrug="Phoslyra" section="34068-7">
+<SentenceText>Most patients require 15 to 20 mL with each meal.</SentenceText>
+</Sentence>
+<Sentence id="6868" LabelDrug="Phoslyra" section="34073-7">
+<SentenceText>Oral drugs that have to be separated from Phoslyra Dosing Recommendations Flouroquinolones Take at least 2 hours before or 6 hours after Phoslyra Tetracyclines Take at least 1 hour before Phoslyra Levothyroxine Take at least 4 hours before or 4 hours after Phoslyra Oral medications not listed in the Table There are no empirical data on avoiding drug interactions between Phoslyra and most concomitant oral drugs.</SentenceText>
+<Mention id="M5" type="Trigger" span="16 20" str="have to be separated"/>
+<Mention id="M2" type="Precipitant" span="74 16" str="Flouroquinolones" code="N0000193223"/>
+<Mention id="M4" type="Precipitant" span="197 13" str="Levothyroxine" code="Q51BO43MG4"/>
+<Mention id="M6" type="Precipitant" span="146 13" str="Tetracyclines" code="N0000175882"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M5" precipitant="M2"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M5" precipitant="M4"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="6869" LabelDrug="Phoslyra" section="34073-7">
+<SentenceText>For oral medications where a reduction in the bioavailability of that medication would have a clinically significant effect on its safety or efficacy, consider separation of the timing of the administration of the two drugs.</SentenceText>
+</Sentence>
+<Sentence id="6870" LabelDrug="Phoslyra" section="34073-7">
+<SentenceText>The duration of separation depends upon the absorption characteristics of the medication concomitantly administered, such as the time to reach peak systemic levels and whether the drug is an immediate release or an extended release product.</SentenceText>
+</Sentence>
+<Sentence id="6871" LabelDrug="Phoslyra" section="34073-7">
+<SentenceText>Consider monitoring clinical responses or blood levels of concomitant medications that have a narrow therapeutic range.</SentenceText>
+</Sentence>
+<Sentence id="6872" LabelDrug="Phoslyra" section="34073-7">
+<SentenceText>PHOSLYRA may decrease the bioavailability of tetracyclines fluoroquinolones or levothyroxine.</SentenceText>
+<Mention id="M11" type="Trigger" span="13 28" str="decrease the bioavailability"/>
+<Mention id="M8" type="Precipitant" span="59 16" str="fluoroquinolones" code="N0000193223"/>
+<Mention id="M10" type="Precipitant" span="79 13" str="levothyroxine" code="Q51BO43MG4"/>
+<Mention id="M12" type="Precipitant" span="45 13" str="tetracyclines" code="N0000175882"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M11" precipitant="M8" effect="C54358"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M11" precipitant="M10" effect="C54358"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M11" precipitant="M12" effect="C54358"/>
+</Sentence>
+<Sentence id="6873" LabelDrug="Phoslyra" section="34073-7">
+<SentenceText>When clinically significant drug interactions are expected, separate dosing from PHOSLYRA, or consider monitoring blood levels of the drug.</SentenceText>
+</Sentence>
+<Sentence id="6874" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Treat mild hypercalcemia by reducing or interrupting PHOSLYRA and Vitamin D. Severe hypercalcemia may require hemodialyis and discontinuation of PHOSLYRA.</SentenceText>
+</Sentence>
+<Sentence id="6875" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>May cause diarrhea with nutritional supplements that contain maltitol.</SentenceText>
+<Mention id="M16" type="Trigger" span="4 5" str="cause"/>
+<Mention id="M14" type="Precipitant" span="61 8" str="maltitol" code="D65DG142WK"/>
+<Mention id="M18" type="SpecificInteraction" span="10 8" str="diarrhea" code="62315008: Diarrhea (finding)"/>
+<Mention id="M17" type="Precipitant" span="24 45" str="nutritional supplements that contain maltitol" code="D65DG142WK"/>
+<Interaction id="I7" type="Pharmacodynamic interaction" trigger="M16" precipitant="M14" effect="M18"/>
+<Interaction id="I8" type="Pharmacodynamic interaction" trigger="M16" precipitant="M17" effect="M18"/>
+</Sentence>
+<Sentence id="6876" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Patients with end stage renal disease may develop hypercalcemia when treated with calcium, including calcium acetate (PHOSLYRA).</SentenceText>
+</Sentence>
+<Sentence id="6877" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Avoid the concurrent use of calcium supplements, including calcium-based nonprescription antacids, with PHOSLYRA.</SentenceText>
+<Mention id="M21" type="Trigger" span="0 5" str="Avoid"/>
+<Mention id="M20" type="Precipitant" span="28 19" str="calcium supplements" code="N0000175901"/>
+<Mention id="M22" type="Precipitant" span="59 38" str="calcium-based nonprescription antacids" code="N0000175901"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M21" precipitant="M20"/>
+<Interaction id="I10" type="Unspecified interaction" trigger="M21" precipitant="M22"/>
+</Sentence>
+<Sentence id="6878" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>An overdose of PHOSLYRA may lead to progressive hypercalcemia, which may require emergency measures.</SentenceText>
+</Sentence>
+<Sentence id="6879" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Therefore, early in the treatment phase during the dosage adjustment period, monitor serum calcium levels twice weekly.</SentenceText>
+</Sentence>
+<Sentence id="6880" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Should hypercalcemia develop, reduce the PHOSLYRA dosage or discontinue the treatment, depending on the severity of hypercalcemia.</SentenceText>
+</Sentence>
+<Sentence id="6881" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>More severe hypercalcemia (Ca &gt;12 mg/dL) is associated with confusion, delirium, stupor and coma.</SentenceText>
+</Sentence>
+<Sentence id="6882" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Severe hypercalcemia can be treated by acute hemodialysis and discontinuing PHOSLYRA therapy.</SentenceText>
+</Sentence>
+<Sentence id="6883" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Mild hypercalcemia (10.5 to 11.9 mg/dL) may be asymptomatic or manifest as constipation, anorexia, nausea, and vomiting.</SentenceText>
+</Sentence>
+<Sentence id="6884" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Mild hypercalcemia is usually controlled by reducing the PHOSLYRA dose or temporarily discontinuing therapy.</SentenceText>
+</Sentence>
+<Sentence id="6885" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Decreasing or discontinuing Vitamin D therapy is recommended as well.</SentenceText>
+</Sentence>
+<Sentence id="6886" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Chronic hypercalcemia may lead to vascular calcification and other soft-tissue calcification.</SentenceText>
+</Sentence>
+<Sentence id="6887" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Radiographic evaluation of suspected anatomical regions may be helpful in early detection of soft-tissue calcification.</SentenceText>
+</Sentence>
+<Sentence id="6888" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>The long-term effect of PHOSLYRA on the progression of vascular or soft-tissue calcification has not been determined.</SentenceText>
+</Sentence>
+<Sentence id="6889" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Hypercalcemia (&gt;11 mg/dL) was reported in 16% of patients in a 3-month study of a solid dose formulation of calcium acetate; all cases resolved upon lowering the dose or discontinuing treatment.</SentenceText>
+</Sentence>
+<Sentence id="6890" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Maintain the serum calcium-phosphorus (Ca × P) product below 55 mg 2/dL 2.</SentenceText>
+</Sentence>
+<Sentence id="6891" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>Hypercalcemia may aggravate digitalis toxicity.</SentenceText>
+<Mention id="M23" type="Trigger" span="18 9" str="aggravate"/>
+<Mention id="M27" type="Precipitant" span="28 9" str="digitalis" code="F1T8QT9U8B"/>
+<Mention id="M25" type="SpecificInteraction" span="28 18" str="digitalis toxicity" code="12876009: Poisoning caused by digitalis glycoside (disorder)"/>
+<Mention id="M26" type="Trigger" span="38 8" str="toxicity"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M23" precipitant="M27" effect="M25"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M26" precipitant="M27" effect="C54357"/>
+</Sentence>
+<Sentence id="6892" LabelDrug="Phoslyra" section="43685-7">
+<SentenceText>PHOSLYRA contains maltitol (1 g per 5 mL) and may induce a laxative effect, especially if taken with other products containing maltitol.</SentenceText>
+<Mention id="M31" type="Trigger" span="50 6" str="induce"/>
+<Mention id="M29" type="Precipitant" span="18 8" str="maltitol" code="D65DG142WK"/>
+<Mention id="M33" type="SpecificInteraction" span="59 15" str="laxative effect" code="NO MAP"/>
+<Mention id="M32" type="Precipitant" span="107 28" str="products containing maltitol" code="D65DG142WK"/>
+<Interaction id="I13" type="Pharmacodynamic interaction" trigger="M31" precipitant="M29" effect="M33"/>
+<Interaction id="I14" type="Pharmacodynamic interaction" trigger="M31" precipitant="M32" effect="M33"/>
+</Sentence>
+<Sentence id="6893" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Patients with ESRD retain phosphorus and can develop hyperphosphatemia.</SentenceText>
+</Sentence>
+<Sentence id="6894" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>High serum phosphorus can precipitate serum calcium resulting in ectopic calcification.</SentenceText>
+</Sentence>
+<Sentence id="6895" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Hyperphosphatemia also plays a role in the development of secondary hyperparathyroidism in patients with ESRD.</SentenceText>
+</Sentence>
+<Sentence id="6896" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Calcium acetate, when taken with meals, combines with dietary phosphate to form an insoluble calcium-phosphate complex, which is excreted in the feces, resulting in decreased serum phosphorus concentrations.</SentenceText>
+</Sentence>
+<Sentence id="6897" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Orally administered calcium acetate from pharmaceutical dosage forms is systemically absorbed up to approximately 40% under fasting conditions and up to approximately 30% under non-fasting conditions.</SentenceText>
+</Sentence>
+<Sentence id="6898" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>This range represents data from both healthy subjects and renal dialysis patients under various conditions.</SentenceText>
+</Sentence>
+<Sentence id="6899" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>A randomized, 3-arm, open-label, cross-over study in healthy volunteers evaluated the bioavailability of PHOSLYRA compared to calcium acetate gelcaps.</SentenceText>
+</Sentence>
+<Sentence id="6900" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Each subject received ~1000 mg elemental calcium from each dose of the following study medications: 30 mL PHOSLYRA (test), 6 calcium acetate gelcaps (reference), or 5 calcium citrate caplets (positive control) in three periods.</SentenceText>
+</Sentence>
+<Sentence id="6901" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>The study medications were administered three times per day with meals from Day 0 through Day 2 and one morning dose on Day 3 of each period.</SentenceText>
+</Sentence>
+<Sentence id="6902" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Treatment (baseline-subtracted) related changes (AUC and C max) in serum calcium and phosphorus assessed over the 6 hours following dosing were similar for PHOSLYRA and calcium acetate gelcaps.</SentenceText>
+</Sentence>
+<Sentence id="6903" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Urinary excretion of calcium and phosphorus were not significantly increased with PHOSLYRA compared to calcium acetate gelcaps.</SentenceText>
+</Sentence>
+<Sentence id="6904" LabelDrug="Phoslyra" section="34090-1">
+<SentenceText>Drug Interactions In vivo In a study of 15 healthy subjects, a co-administered single dose of 4 calcium acetate tablets (approximately 2.7 g) decreased the bioavailability of ciprofloxacin by approximately 50%.</SentenceText>
+<Mention id="M34" type="Trigger" span="142 29" str="decreased the bioavailability"/>
+<Mention id="M35" type="Precipitant" span="175 13" str="ciprofloxacin" code="5E8K9I0O4U"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M34" precipitant="M35" effect="C54358"/>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="flouroquinolones" precipitantCode="N0000193223"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="levothyroxine" precipitantCode="Q51BO43MG4" effect="C54358"/>
+<LabelInteraction type="Unspecified interaction" precipitant="levothyroxine" precipitantCode="Q51BO43MG4"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="tetracyclines" precipitantCode="N0000175882" effect="C54358"/>
+<LabelInteraction type="Unspecified interaction" precipitant="tetracyclines" precipitantCode="N0000175882"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoroquinolones" precipitantCode="N0000193223" effect="C54358"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="maltitol" precipitantCode="D65DG142WK" effect="62315008: Diarrhea (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="maltitol" precipitantCode="D65DG142WK" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nutritional supplements that contain maltitol" precipitantCode="D65DG142WK" effect="62315008: Diarrhea (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="calcium supplements" precipitantCode="N0000175901"/>
+<LabelInteraction type="Unspecified interaction" precipitant="calcium-based nonprescription antacids" precipitantCode="N0000175901"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="digitalis" precipitantCode="F1T8QT9U8B" effect="12876009: Poisoning caused by digitalis glycoside (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="digitalis" precipitantCode="F1T8QT9U8B" effect="C54357"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="products containing maltitol" precipitantCode="D65DG142WK" effect="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="ciprofloxacin" precipitantCode="5E8K9I0O4U" effect="C54358"/>
+
+</LabelInteractions></Label>

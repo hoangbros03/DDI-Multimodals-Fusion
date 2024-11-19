@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Brintellix" setid="4b0700c9-b417-4c3a-b36f-de461e125bd3">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7 DRUG INTERACTIONS  • Strong inhibitors of CYP2D6: Reduce BRINTELLIX dose by half when a strong CYP2D6 inhibitor (e.g., bupropion, fluoxetine, paroxetine, or quinidine) is coadministered ( 2.6 and 7.3 ).  • Strong CYP Inducers: Consider increasing BRINTELLIX dose when a strong CYP inducer (e.g., rifampin, carbamazepine, or phenytoin) is coadministered for more than 14 days. The maximum recommended dose should not exceed 3 times the original dose ( 2.7 and 7.3 ).  7.1 CNS Active Agents  Monoamine Oxidase Inhibitors  Adverse reactions, some of which are serious or fatal, can develop in patients who use MAOIs or who have recently been discontinued from an MAOI and started on a serotonergic antidepressant(s) or who have recently had SSRI or SNRI therapy discontinued prior to initiation of an MAOI [see Dosage and Administration (2.4) , Contraindications (4) and Warnings and Precautions (5.2) ] .  Serotonergic Drugs  Based on the mechanism of action of BRINTELLIX and the potential for serotonin toxicity, serotonin syndrome may occur when BRINTELLIX is coadministered with other drugs that may affect the serotonergic neurotransmitter systems (e.g., SSRIs, SNRIs, triptans, buspirone, tramadol, and tryptophan products etc.). Closely monitor symptoms of serotonin syndrome if BRINTELLIX is co-administered with other serotonergic drugs. Treatment with BRINTELLIX and any concomitant serotonergic agents should be discontinued immediately if serotonin syndrome occurs [see Warnings and Precautions (5.2) ].  Other CNS Active Agents  No clinically relevant effect was observed on steady state lithium exposure following coadministration with multiple daily doses of BRINTELLIX. Multiple doses of BRINTELLIX did not affect the pharmacokinetics or pharmacodynamics (composite cognitive score) of diazepam. A clinical study has shown that BRINTELLIX (single dose of 20 or 40 mg) did not increase the impairment of mental and motor skills caused by alcohol (single dose of 0.6 g/kg). Details on the potential pharmacokinetic interactions between BRINTELLIX and bupropion can be found in Section 7.3 .  7.2 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)  Serotonin release by platelets plays an important role in hemostasis. Epidemiological studies of case-control and cohort design have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding. These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding. Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.  Following coadministration of stable doses of warfarin (1 to 10 mg/day) with multiple daily doses of BRINTELLIX, no significant effects were observed in INR, prothrombin values or total warfarin (protein bound plus free drug) pharmacokinetics for both R- and S-warfarin [see Drug Interactions (7.4) ] . Coadministration of aspirin 150 mg/day with multiple daily doses of BRINTELLIX had no significant inhibitory effect on platelet aggregation or pharmacokinetics of aspirin and salicylic acid [see Drug Interactions (7.4) ] . Patients receiving other drugs that interfere with hemostasis should be carefully monitored when BRINTELLIX is initiated or discontinued [see Warnings and Precautions (5.3) ].  7.3 Potential for Other Drugs to Affect BRINTELLIX  Reduce BRINTELLIX dose by half when a strong CYP2D6 inhibitor (e.g., bupropion, fluoxetine, paroxetine, quinidine) is coadministered. Consider increasing the BRINTELLIX dose when a strong CYP inducer (e.g., rifampicin, carbamazepine, phenytoin) is coadministered. The maximum dose is not recommended to exceed three times the original dose [see Dosage and Administration  (  2.5 and 2.6) ] (Figure 1).  Figure 1. Impact of Other Drugs on Vortioxetine PK  Figure1.jpg  7.4 Potential for BRINTELLIX to Affect Other Drugs  No dose adjustment for the comedications is needed when BRINTELLIX is coadministered with a substrate of CYP1A2 (e.g., duloxetine), CYP2A6, CYP2B6 (e.g., bupropion), CYP2C8 (e.g., repaglinide), CYP2C9 (e.g., S-warfarin), CYP2C19 (e.g., diazepam), CYP2D6 (e.g., venlafaxine), CYP3A4/5 (e.g., budesonide), and P-gp (e.g., digoxin). In addition, no dose adjustment for lithium, aspirin, and warfarin is necessary.  Vortioxetine and its metabolites are unlikely to inhibit the following CYP enzymes and transporter based on in vitro data: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, and P-gp. As such, no clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.  In addition, vortioxetine did not induce CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A4/5 in an in vitro study in cultured human hepatocytes. Chronic administration of BRINTELLIX is unlikely to induce the metabolism of drugs metabolized by these CYP isoforms. Furthermore, in a series of clinical drug interaction studies, coadministration of BRINTELLIX with substrates for CYP2B6 (e.g., bupropion), CYP2C9 (e.g., warfarin), and CYP2C19 (e.g., diazepam), had no clinical meaningful effect on the pharmacokinetics of these substrates (Figure 2).  Because vortioxetine is highly bound to plasma protein, coadministration of BRINTELLIX with another drug that is highly protein bound may increase free concentrations of the other drug. However, in a clinical study with coadministration of BRINTELLIX (10 mg/day) and warfarin (1 mg/day to 10 mg/day), a highly protein-bound drug, no significant change in INR was observed [see Drug Interactions (7.2) ].  Figure 2. Impact of Vortioxetine on PK of Other Drugs  Figure2.jpg</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12 CLINICAL PHARMACOLOGY  12.1 Mechanism of Action  The mechanism of the antidepressant effect of vortioxetine is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through inhibition of the reuptake of serotonin (5-HT). It also has several other activities including 5-HT3 receptor antagonism and 5-HT1A receptor agonism. The contribution of these activities to vortioxetine’s antidepressant effect has not been established.  12.2 Pharmacodynamics  Vortioxetine binds with high affinity to the human serotonin transporter (Ki=1.6 nM), but not to the norepinephrine (Ki=113 nM) or dopamine (Ki&gt;1000 nM) transporters. Vortioxetine potently and selectively inhibits reuptake of serotonin (IC50=5.4 nM). Vortioxetine binds to 5-HT3 (Ki=3.7 nM), 5-HT1A (Ki=15 nM), 5-HT7 (Ki=19 nM), 5-HT1D (Ki=54 nM), and 5-HT1B (Ki=33 nM), receptors and is a 5-HT3, 5-HT1D, and 5-HT7 receptor antagonist, 5-HT1B receptor partial agonist, and 5-HT1A receptor agonist.  In humans, the mean 5-HT transporter occupancy, based on the results from 2 clinical PET studies using 5-HTT ligands ([ 11 C]-MADAM or [ 11 C]-DASB), was approximately 50% at 5 mg/day, 65% at 10 mg/day and approximately 80% at 20 mg/day in the regions of interest.  Effect on Cardiac Repolarization  The effect of vortioxetine 10 mg and 40 mg administered once daily on QTc interval was evaluated in a randomized, double-blind, placebo-, and active-controlled (moxifloxacin 400 mg), four-treatment-arm parallel study in 340 male subjects. In the study the upper bound of the one-sided 95% confidence interval for the QTc was below 10 ms, the threshold for regulatory concern. The oral dose of 40 mg is sufficient to assess the effect of metabolic inhibition.  Effect on Driving Performance  In a clinical study in healthy subjects, BRINTELLIX did not impair driving performance, or have adverse psychomotor or cognitive effects following single and multiple doses of 10 mg/day. Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that BRINTELLIX therapy does not affect their ability to engage in such activities.  12.3 Pharmacokinetics  Vortioxetine pharmacological activity is due to the parent drug. The pharmacokinetics of vortioxetine (2.5 mg to 60 mg) are linear and dose-proportional when vortioxetine is administered once daily. The mean terminal half-life is approximately 66 hours, and steady-state plasma concentrations are typically achieved within two weeks of dosing.  Absorption  The maximal plasma vortioxetine concentration (C max ) after dosing is reached within 7 to 11 hours postdose (T max ). Steady-state mean C max values were 9, 18, and 33 ng/mL following doses of 5, 10, and 20 mg/day. Absolute bioavailability is 75%. No effect of food on the pharmacokinetics was observed.  Distribution  The apparent volume of distribution of vortioxetine is approximately 2600 L, indicating extensive extravascular distribution. The plasma protein binding of vortioxetine in humans is 98%, independent of plasma concentrations. No apparent difference in the plasma protein binding between healthy subjects and subjects with hepatic (mild, moderate) or renal (mild, moderate, severe, ESRD) impairment is observed.  Metabolism and Elimination  Vortioxetine is extensively metabolized primarily through oxidation via cytochrome P450 isozymes CYP2D6, CYP3A4/5, CYP2C19, CYP2C9, CYP2A6, CYP2C8 and CYP2B6 and subsequent glucuronic acid conjugation. CYP2D6 is the primary enzyme catalyzing the metabolism of vortioxetine to its major, pharmacologically inactive, carboxylic acid metabolite, and poor metabolizers of CYP2D6 have approximately twice the vortioxetine plasma concentration of extensive metabolizers.  Following a single oral dose of [ 14 C]-labeled vortioxetine, approximately 59% and 26% of the administered radioactivity was recovered in the urine and feces, respectively as metabolites. Negligible amounts of unchanged vortioxetine were excreted in the urine up to 48 hours. The presence of hepatic (mild or moderate) or renal impairment (mild, moderate, severe and ESRD) did not affect the apparent clearance of vortioxetine.</Section>
+</Text><Sentences>
+<Sentence id="5130" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>•Strong inhibitors of CYP2D6: Reduce BRINTELLIX dose by half when a strong CYP2D6 inhibitor (e.g., bupropion, fluoxetine, paroxetine, or quinidine) is coadministered (2.6 and 7.3).</SentenceText>
+<Mention id="M11" type="Trigger" span="30 6;48 4" str="Reduce | dose"/>
+<Mention id="M2" type="Precipitant" span="1 27" str="Strong inhibitors of CYP2D6" code="NONE"/>
+<Mention id="M4" type="Precipitant" span="137 9" str="quinidine" code="N0000007728"/>
+<Mention id="M6" type="Precipitant" span="110 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M8" type="Precipitant" span="99 9" str="bupropion" code="01ZG3TPX31"/>
+<Mention id="M10" type="Precipitant" span="122 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M12" type="Precipitant" span="68 23" str="strong CYP2D6 inhibitor" code="NONE"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M11" precipitant="M2" effect="C54355"/>
+<Interaction id="I2" type="Pharmacokinetic interaction" trigger="M11" precipitant="M4" effect="C54355"/>
+<Interaction id="I3" type="Pharmacokinetic interaction" trigger="M11" precipitant="M6" effect="C54355"/>
+<Interaction id="I4" type="Pharmacokinetic interaction" trigger="M11" precipitant="M8" effect="C54355"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M11" precipitant="M10" effect="C54355"/>
+<Interaction id="I6" type="Pharmacokinetic interaction" trigger="M11" precipitant="M12" effect="C54355"/>
+</Sentence>
+<Sentence id="5131" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>•Strong CYP Inducers: Consider increasing BRINTELLIX dose when a strong CYP inducer (e.g., rifampin, carbamazepine, or phenytoin) is coadministered for more than 14 days.</SentenceText>
+<Mention id="M21" type="Trigger" span="31 10;53 4" str="increasing | dose"/>
+<Mention id="M14" type="Precipitant" span="119 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M16" type="Precipitant" span="91 8" str="rifampin" code="N0000006026"/>
+<Mention id="M18" type="Precipitant" span="101 13" str="carbamazepine" code="N0000007470"/>
+<Mention id="M20" type="Precipitant" span="1 19" str="Strong CYP Inducers" code="NONE"/>
+<Mention id="M22" type="Precipitant" span="65 18" str="strong CYP inducer" code="NONE"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M21" precipitant="M14" effect="C54356"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M21" precipitant="M16" effect="C54356"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M21" precipitant="M18" effect="C54356"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M21" precipitant="M20" effect="C54356"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M21" precipitant="M22" effect="C54356"/>
+</Sentence>
+<Sentence id="5132" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>The maximum recommended dose should not exceed 3 times the original dose (2.7 and 7.3).</SentenceText>
+</Sentence>
+<Sentence id="5133" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Monoamine Oxidase Inhibitors Adverse reactions, some of which are serious or fatal, can develop in patients who use MAOIs or who have recently been discontinued from an MAOI and started on a serotonergic antidepressant(s) or who have recently had SSRI or SNRI therapy discontinued prior to initiation of an MAOI.</SentenceText>
+<Mention id="M27" type="Trigger" span="29 17" str="Adverse reactions"/>
+<Mention id="M24" type="Precipitant" span="116 4" str="MAOI" code="n0000000184"/>
+<Mention id="M26" type="Precipitant" span="116 5" str="MAOIs" code="n0000000184"/>
+<Mention id="M28" type="Precipitant" span="0 28" str="Monoamine Oxidase Inhibitors" code="N0000000184"/>
+<Interaction id="I12" type="Unspecified interaction" trigger="M27" precipitant="M24"/>
+<Interaction id="I13" type="Unspecified interaction" trigger="M27" precipitant="M26"/>
+<Interaction id="I14" type="Unspecified interaction" trigger="M27" precipitant="M28"/>
+</Sentence>
+<Sentence id="5134" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Serotonergic Drugs Based on the mechanism of action of BRINTELLIX and the potential for serotonin toxicity, serotonin syndrome may occur when BRINTELLIX is coadministered with other drugs that may affect the serotonergic neurotransmitter systems (e.g., SSRIs, SNRIs, triptans, buspirone, tramadol, and tryptophan products etc.</SentenceText>
+<Mention id="M61" type="Trigger" span="74 9" str="potential"/>
+<Mention id="M30" type="Precipitant" span="267 8" str="triptans" code="NO MAP"/>
+<Mention id="M63" type="SpecificInteraction" span="88 18" str="serotonin toxicity " code="371089000: Serotonin syndrome (disorder)"/>
+<Mention id="M64" type="SpecificInteraction" span="108 18" str=" serotonin syndrome" code=" 371089000: Serotonin syndrome (disorder)"/>
+<Mention id="M34" type="Precipitant" span="182 63" str="drugs that may affect the serotonergic neurotransmitter systems" code="NO MAP"/>
+<Mention id="M38" type="Precipitant" span="253 5" str="SSRIs" code="n0000175696"/>
+<Mention id="M42" type="Precipitant" span="277 9" str="buspirone" code="TK65WKS8HL"/>
+<Mention id="M46" type="Precipitant" span="0 18" str="Serotonergic Drugs" code="N0000000256"/>
+<Mention id="M50" type="Precipitant" span="260 5" str="SNRIs" code="n0000175749"/>
+<Mention id="M54" type="Precipitant" span="302 10" str="tryptophan" code="8DUH1N11BX"/>
+<Mention id="M58" type="Precipitant" span="302 19" str="tryptophan products" code="NONE"/>
+<Mention id="M62" type="Precipitant" span="288 8" str="tramadol" code="39J1LGJ30J"/>
+<Interaction id="I15" type="Pharmacodynamic interaction" trigger="M61" precipitant="M30" effect="M63;M64"/>
+<Interaction id="I16" type="Pharmacodynamic interaction" trigger="M61" precipitant="M34" effect="M63;M64"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M61" precipitant="M38" effect="M63;M64"/>
+<Interaction id="I18" type="Pharmacodynamic interaction" trigger="M61" precipitant="M42" effect="M63;M64"/>
+<Interaction id="I19" type="Pharmacodynamic interaction" trigger="M61" precipitant="M46" effect="M63;M64"/>
+<Interaction id="I20" type="Pharmacodynamic interaction" trigger="M61" precipitant="M50" effect="M63;M64"/>
+<Interaction id="I21" type="Pharmacodynamic interaction" trigger="M61" precipitant="M54" effect="M63;M64"/>
+<Interaction id="I22" type="Pharmacodynamic interaction" trigger="M61" precipitant="M58" effect="M63;M64"/>
+<Interaction id="I23" type="Pharmacodynamic interaction" trigger="M61" precipitant="M62" effect="M63;M64"/>
+</Sentence>
+<Sentence id="5135" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Closely monitor symptoms of serotonin syndrome if BRINTELLIX is co-administered with other serotonergic drugs.</SentenceText>
+<Mention id="M65" type="Trigger" span="0 15" str="Closely monitor"/>
+<Mention id="M66" type="Precipitant" span="91 18" str="serotonergic drugs" code="N0000000256"/>
+<Mention id="M67" type="SpecificInteraction" span="28 18" str="serotonin syndrome" code="371089000: Serotonin syndrome (disorder)"/>
+<Interaction id="I24" type="Pharmacodynamic interaction" trigger="M65" precipitant="M66" effect="M67"/>
+</Sentence>
+<Sentence id="5136" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Treatment with BRINTELLIX and any concomitant serotonergic agents should be discontinued immediately if serotonin syndrome occurs.</SentenceText>
+<Mention id="M68" type="Trigger" span="66 37;123 6" str="should be discontinued immediately if | occurs"/>
+<Mention id="M69" type="Precipitant" span="46 19" str="serotonergic agents" code="N0000000256"/>
+<Mention id="M70" type="SpecificInteraction" span="104 18" str="serotonin syndrome" code="371089000: Serotonin syndrome (disorder)"/>
+<Interaction id="I25" type="Pharmacodynamic interaction" trigger="M68" precipitant="M69" effect="M70"/>
+</Sentence>
+<Sentence id="5137" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Other CNS Active Agents No clinically relevant effect was observed on steady state lithium exposure following coadministration with multiple daily doses of BRINTELLIX.</SentenceText>
+</Sentence>
+<Sentence id="5138" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Multiple doses of BRINTELLIX did not affect the pharmacokinetics or pharmacodynamics (composite cognitive score) of diazepam.</SentenceText>
+</Sentence>
+<Sentence id="5139" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>A clinical study has shown that BRINTELLIX (single dose of 20 or 40 mg) did not increase the impairment of mental and motor skills caused by alcohol (single dose of 0.6 g/kg).</SentenceText>
+</Sentence>
+<Sentence id="5140" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Details on the potential pharmacokinetic interactions between BRINTELLIX and bupropion can be found in Section 7.3.</SentenceText>
+</Sentence>
+<Sentence id="5141" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Serotonin release by platelets plays an important role in hemostasis.</SentenceText>
+</Sentence>
+<Sentence id="5142" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Epidemiological studies of case-control and cohort design have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding.</SentenceText>
+</Sentence>
+<Sentence id="5143" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>These studies have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.</SentenceText>
+<Mention id="M74" type="Trigger" span="77 10;93 4" str="potentiate | risk"/>
+<Mention id="M72" type="Precipitant" span="65 7" str="aspirin" code="N0000006582"/>
+<Mention id="M76" type="SpecificInteraction" span="101 8" str="bleeding" code="131148009: Bleeding (finding)"/>
+<Mention id="M75" type="Precipitant" span="56 5" str="NSAID" code="N0000175722"/>
+<Interaction id="I26" type="Pharmacodynamic interaction" trigger="M74" precipitant="M72" effect="M76"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M74" precipitant="M75" effect="M76"/>
+</Sentence>
+<Sentence id="5144" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.</SentenceText>
+<Mention id="M77" type="Trigger" span="0 7;22 7" str="Altered | effects"/>
+<Mention id="M78" type="Precipitant" span="125 8" str="warfarin" code="N0000006403"/>
+<Mention id="M79" type="SpecificInteraction" span="0 29" str="Altered anticoagulant effects " code="NO MAP"/>
+<Mention id="M80" type="SpecificInteraction" span="41 18" str=" increased bleeding" code=" 131148009: Bleeding (finding)"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M77" precipitant="M78" effect="M79;M80"/>
+</Sentence>
+<Sentence id="5145" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Following coadministration of stable doses of warfarin (1 to 10 mg/day) with multiple daily doses of BRINTELLIX, no significant effects were observed in INR, prothrombin values or total warfarin (protein bound plus free drug) pharmacokinetics for both R- and S-warfarin.</SentenceText>
+</Sentence>
+<Sentence id="5146" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Coadministration of aspirin 150 mg/day with multiple daily doses of BRINTELLIX had no significant inhibitory effect on platelet aggregation or pharmacokinetics of aspirin and salicylic acid.</SentenceText>
+</Sentence>
+<Sentence id="5147" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Patients receiving other drugs that interfere with hemostasis should be carefully monitored when BRINTELLIX is initiated or discontinued.</SentenceText>
+<Mention id="M81" type="Trigger" span="62 29" str="should be carefully monitored"/>
+<Mention id="M82" type="Precipitant" span="25 36" str="drugs that interfere with hemostasis" code="NO MAP"/>
+<Interaction id="I29" type="Unspecified interaction" trigger="M81" precipitant="M82"/>
+</Sentence>
+<Sentence id="5148" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Reduce BRINTELLIX dose by half when a strong CYP2D6 inhibitor (e.g., bupropion, fluoxetine, paroxetine, quinidine) is coadministered.</SentenceText>
+<Mention id="M91" type="Trigger" span="0 6;18 4" str="Reduce | dose"/>
+<Mention id="M84" type="Precipitant" span="69 9" str="bupropion" code="01ZG3TPX31"/>
+<Mention id="M86" type="Precipitant" span="80 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M88" type="Precipitant" span="92 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M90" type="Precipitant" span="38 23" str="strong CYP2D6 inhibitor" code="NONE"/>
+<Mention id="M92" type="Precipitant" span="104 9" str="quinidine" code="N0000007728"/>
+<Interaction id="I30" type="Pharmacokinetic interaction" trigger="M91" precipitant="M84" effect="C54355"/>
+<Interaction id="I31" type="Pharmacokinetic interaction" trigger="M91" precipitant="M86" effect="C54355"/>
+<Interaction id="I32" type="Pharmacokinetic interaction" trigger="M91" precipitant="M88" effect="C54355"/>
+<Interaction id="I33" type="Pharmacokinetic interaction" trigger="M91" precipitant="M90" effect="C54355"/>
+<Interaction id="I34" type="Pharmacokinetic interaction" trigger="M91" precipitant="M92" effect="C54355"/>
+</Sentence>
+<Sentence id="5149" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Consider increasing the BRINTELLIX dose when a strong CYP inducer (e.g., rifampicin, carbamazepine, phenytoin) is coadministered.</SentenceText>
+<Mention id="M99" type="Trigger" span="9 10;35 4" str="increasing | dose"/>
+<Mention id="M94" type="Precipitant" span="100 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M96" type="Precipitant" span="73 10" str="rifampicin" code="VJT6J7R4TR"/>
+<Mention id="M98" type="Precipitant" span="85 13" str="carbamazepine" code="N0000007470"/>
+<Mention id="M100" type="Precipitant" span="47 18" str="strong CYP inducer" code="NONE"/>
+<Interaction id="I35" type="Pharmacokinetic interaction" trigger="M99" precipitant="M94" effect="C54356"/>
+<Interaction id="I36" type="Pharmacokinetic interaction" trigger="M99" precipitant="M96" effect="C54356"/>
+<Interaction id="I37" type="Pharmacokinetic interaction" trigger="M99" precipitant="M98" effect="C54356"/>
+<Interaction id="I38" type="Pharmacokinetic interaction" trigger="M99" precipitant="M100" effect="C54356"/>
+</Sentence>
+<Sentence id="5150" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>The maximum dose is not recommended to exceed three times the original dose.</SentenceText>
+</Sentence>
+<Sentence id="5151" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Impact of Other Drugs on Vortioxetine PK Figure1.jpg No dose adjustment for the comedications is needed when BRINTELLIX is coadministered with a substrate of CYP1A2 (e.g., duloxetine), CYP2A6, CYP2B6 (e.g., bupropion), CYP2C8 (e.g., repaglinide), CYP2C9 (e.g., S-warfarin), CYP2C19 (e.g., diazepam), CYP2D6 (e.g., venlafaxine), CYP3A4/5 (e.g., budesonide), and P-gp (e.g., digoxin).</SentenceText>
+</Sentence>
+<Sentence id="5152" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>In addition, no dose adjustment for lithium, aspirin, and warfarin is necessary.</SentenceText>
+</Sentence>
+<Sentence id="5153" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Vortioxetine and its metabolites are unlikely to inhibit the following CYP enzymes and transporter based on in vitro data: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4/5, and P-gp.</SentenceText>
+</Sentence>
+<Sentence id="5154" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>As such, no clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.</SentenceText>
+</Sentence>
+<Sentence id="5155" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>In addition, vortioxetine did not induce CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A4/5 in an in vitro study in cultured human hepatocytes.</SentenceText>
+</Sentence>
+<Sentence id="5156" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Chronic administration of BRINTELLIX is unlikely to induce the metabolism of drugs metabolized by these CYP isoforms.</SentenceText>
+</Sentence>
+<Sentence id="5157" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Furthermore, in a series of clinical drug interaction studies, coadministration of BRINTELLIX with substrates for CYP2B6 (e.g., bupropion), CYP2C9 (e.g., warfarin), and CYP2C19 (e.g., diazepam), had no clinical meaningful effect on the pharmacokinetics of these substrates (Figure 2).</SentenceText>
+</Sentence>
+<Sentence id="5158" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Because vortioxetine is highly bound to plasma protein, coadministration of BRINTELLIX with another drug that is highly protein bound may increase free concentrations of the other drug.</SentenceText>
+<Mention id="M101" type="Trigger" span="138 46" str="increase free concentrations of the other drug"/>
+<Mention id="M102" type="Precipitant" span="100 33" str="drug that is highly protein bound" code="NO MAP"/>
+<Interaction id="I39" type="Pharmacokinetic interaction" trigger="M101" precipitant="M102" effect="C54357"/>
+</Sentence>
+<Sentence id="5159" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>However, in a clinical study with coadministration of BRINTELLIX (10 mg/day) and warfarin (1 mg/day to 10 mg/day), a highly protein-bound drug, no significant change in INR was observed.</SentenceText>
+</Sentence>
+<Sentence id="5160" LabelDrug="Brintellix" section="34073-7">
+<SentenceText>Impact of Vortioxetine on PK of Other Drugs Figure2.jpg</SentenceText>
+</Sentence>
+<Sentence id="5161" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The mechanism of the antidepressant effect of vortioxetine is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through inhibition of the reuptake of serotonin (5-HT).</SentenceText>
+</Sentence>
+<Sentence id="5162" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>It also has several other activities including 5-HT3 receptor antagonism and 5-HT1A receptor agonism.</SentenceText>
+</Sentence>
+<Sentence id="5163" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The contribution of these activities to vortioxetine’s antidepressant effect has not been established.</SentenceText>
+</Sentence>
+<Sentence id="5164" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Vortioxetine binds with high affinity to the human serotonin transporter (Ki=1.6 nM), but not to the norepinephrine (Ki=113 nM) or dopamine (Ki&gt;1000 nM) transporters.</SentenceText>
+</Sentence>
+<Sentence id="5165" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Vortioxetine potently and selectively inhibits reuptake of serotonin (IC50=5.4 nM).</SentenceText>
+</Sentence>
+<Sentence id="5166" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Vortioxetine binds to 5-HT3 (Ki=3.7 nM), 5-HT1A (Ki=15 nM), 5-HT7 (Ki=19 nM), 5-HT1D (Ki=54 nM), and 5-HT1B (Ki=33 nM), receptors and is a 5-HT3, 5-HT1D, and 5-HT7 receptor antagonist, 5-HT1B receptor partial agonist, and 5-HT1A receptor agonist.</SentenceText>
+</Sentence>
+<Sentence id="5167" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>In humans, the mean 5-HT transporter occupancy, based on the results from 2 clinical PET studies using 5-HTT ligands ([11C]-MADAM or [11C]-DASB), was approximately 50% at 5 mg/day, 65% at 10 mg/day and approximately 80% at 20 mg/day in the regions of interest.</SentenceText>
+</Sentence>
+<Sentence id="5168" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Effect on Cardiac Repolarization The effect of vortioxetine 10 mg and 40 mg administered once daily on QTc interval was evaluated in a randomized, double-blind, placebo-, and active-controlled (moxifloxacin 400 mg), four-treatment-arm parallel study in 340 male subjects.</SentenceText>
+</Sentence>
+<Sentence id="5169" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>In the study the upper bound of the one-sided 95% confidence interval for the QTc was below 10 ms, the threshold for regulatory concern.</SentenceText>
+</Sentence>
+<Sentence id="5170" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The oral dose of 40 mg is sufficient to assess the effect of metabolic inhibition.</SentenceText>
+</Sentence>
+<Sentence id="5171" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Effect on Driving Performance In a clinical study in healthy subjects, BRINTELLIX did not impair driving performance, or have adverse psychomotor or cognitive effects following single and multiple doses of 10 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="5172" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Because any psychoactive drug may impair judgment, thinking, or motor skills, however, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that BRINTELLIX therapy does not affect their ability to engage in such activities.</SentenceText>
+</Sentence>
+<Sentence id="5173" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Vortioxetine pharmacological activity is due to the parent drug.</SentenceText>
+</Sentence>
+<Sentence id="5174" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The pharmacokinetics of vortioxetine (2.5 mg to 60 mg) are linear and dose-proportional when vortioxetine is administered once daily.</SentenceText>
+</Sentence>
+<Sentence id="5175" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The mean terminal half-life is approximately 66 hours, and steady-state plasma concentrations are typically achieved within two weeks of dosing.</SentenceText>
+</Sentence>
+<Sentence id="5176" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Absorption The maximal plasma vortioxetine concentration (Cmax) after dosing is reached within 7 to 11 hours postdose (Tmax).</SentenceText>
+</Sentence>
+<Sentence id="5177" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Steady-state mean Cmax values were 9, 18, and 33 ng/mL following doses of 5, 10, and 20 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="5178" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>No effect of food on the pharmacokinetics was observed.</SentenceText>
+</Sentence>
+<Sentence id="5179" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Distribution The apparent volume of distribution of vortioxetine is approximately 2600L, indicating extensive extravascular distribution.</SentenceText>
+</Sentence>
+<Sentence id="5180" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The plasma protein binding of vortioxetine in humans is 98%, independent of plasma concentrations.</SentenceText>
+</Sentence>
+<Sentence id="5181" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>No apparent difference in the plasma protein binding between healthy subjects and subjects with hepatic (mild, moderate) or renal (mild, moderate, severe, ESRD) impairment is observed.</SentenceText>
+</Sentence>
+<Sentence id="5182" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Metabolism and Elimination Vortioxetine is extensively metabolized primarily through oxidation via cytochrome P450 isozymes CYP2D6, CYP3A4/5,CYP2C19, CYP2C9, CYP2A6, CYP2C8 and CYP2B6 and subsequent glucuronic acid conjugation.</SentenceText>
+</Sentence>
+<Sentence id="5183" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>CYP2D6 is the primary enzyme catalyzing the metabolism of vortioxetine to its major, pharmacologically inactive, carboxylic acid metabolite, and poor metabolizers of CYP2D6 have approximately twice the vortioxetine plasma concentration of extensive metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="5184" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Following a single oral dose of [14C]-labeled vortioxetine, approximately 59% and 26% of the administered radioactivity was recovered in the urine and feces, respectively as metabolites.</SentenceText>
+</Sentence>
+<Sentence id="5185" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>Negligible amounts of unchanged vortioxetine were excreted in the urine up to 48 hours.</SentenceText>
+</Sentence>
+<Sentence id="5186" LabelDrug="Brintellix" section="34090-1">
+<SentenceText>The presence of hepatic (mild or moderate) or renal impairment (mild, moderate, severe and ESRD) did not affect the apparent clearance of vortioxetine.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="strong inhibitors of cyp2d6" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="quinidine" precipitantCode="N0000007728" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="bupropion" precipitantCode="01ZG3TPX31" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp2d6 inhibitor" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="N0000006023" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampin" precipitantCode="N0000006026" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="carbamazepine" precipitantCode="N0000007470" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp inducers" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="strong cyp inducer" precipitantCode="NONE" effect="C54356"/>
+<LabelInteraction type="Unspecified interaction" precipitant="maoi" precipitantCode="n0000000184"/>
+<LabelInteraction type="Unspecified interaction" precipitant="maois" precipitantCode="n0000000184"/>
+<LabelInteraction type="Unspecified interaction" precipitant="monoamine oxidase inhibitors" precipitantCode="N0000000184"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="triptans" precipitantCode="NO MAP" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="triptans" precipitantCode="NO MAP" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may affect the serotonergic neurotransmitter systems" precipitantCode="NO MAP" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that may affect the serotonergic neurotransmitter systems" precipitantCode="NO MAP" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ssris" precipitantCode="n0000175696" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ssris" precipitantCode="n0000175696" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="buspirone" precipitantCode="TK65WKS8HL" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="buspirone" precipitantCode="TK65WKS8HL" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="serotonergic drugs" precipitantCode="N0000000256" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="serotonergic drugs" precipitantCode="N0000000256" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="snris" precipitantCode="n0000175749" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="snris" precipitantCode="n0000175749" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tryptophan" precipitantCode="8DUH1N11BX" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tryptophan" precipitantCode="8DUH1N11BX" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tryptophan products" precipitantCode="NONE" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tryptophan products" precipitantCode="NONE" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tramadol" precipitantCode="39J1LGJ30J" effect=" 371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tramadol" precipitantCode="39J1LGJ30J" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="serotonergic agents" precipitantCode="N0000000256" effect="371089000: Serotonin syndrome (disorder)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="aspirin" precipitantCode="N0000006582" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="nsaid" precipitantCode="N0000175722" effect="131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="N0000006403" effect=" 131148009: Bleeding (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="warfarin" precipitantCode="N0000006403" effect="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="drugs that interfere with hemostasis" precipitantCode="NO MAP"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="rifampicin" precipitantCode="VJT6J7R4TR" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drug that is highly protein bound" precipitantCode="NO MAP" effect="C54357"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Adasuve" setid="b074f950-246a-41f0-aedf-32f38998a4b1">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7  DRUG INTERACTIONS  7.  1  CNS Depressants  ADASUVE is a central nervous system (CNS) depressant. The concurrent use of ADASUVE with other CNS depressants (e.g., alcohol, opioid analgesics, benzodiazepines, tricyclic antidepressants, general anesthetics, phenothiazines, sedative/hypnotics, muscle relaxants, and/or illicit CNS depressants) can increase the risk of respiratory depression, hypotension, profound sedation, and syncope. Therefore, consider reducing the dose of CNS depressants if used concomitantly with ADASUVE.  7.2  Anticholinergic Drugs  ADASUVE has anticholinergic activity. The concomitant use of ADASUVE and other anticholinergic drugs can increase the risk of anticholinergic adverse reactions including exacerbation of glaucoma and urinary retention.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12  CLINICAL PHARMACOLOGY  Figure 8. Mean Plasma Concentrations of Loxapine following Single-Dose Administration ADASUVE 10 mg in Healthy Subjects  12.1  Mechanism of Action  The mechanism of action of loxapine in the treatment of agitation associated with schizophrenia is unknown. However, its efficacy could be mediated through a combination of antagonism of central dopamine D 2 and serotonin 5-HT 2A  receptors. The mechanism of action of loxapine in the treatment of agitation associated with bipolar I disorder is unknown.   12.2  Pharmacodynamics  Loxapine acts as an antagonist at central serotonin and dopamine receptors, with high affinity for serotonin 5-HT 2A and dopamine D 1 , D 2 , D 3 , and D 4 receptors (K i values of 2 nM, 18 nM, 10 nM, 21 nM, 9 nM, respectively). Some of the adverse effects of loxapine may be related to the antagonism of histamine H 1 (somnolence), muscarinic M1 (anticholinergic), and adrenergic α 2 (orthostatic hypotension) receptors (K i values of 15 nM, 117 nM and 250 nM, respectively).  Thorough QTc Study  ADASUVE did not prolong the QTc interval. The effect of ADASUVE on QTc prolongation was evaluated in a randomized, double-blinded, positive- (moxifloxacin 400 mg) and placebo-controlled parallel study in healthy subjects. A total of 48 healthy subjects were administered ADASUVE 10 mg. In this study with a demonstrated ability to detect small effects, the upper bound of the 90% confidence interval (CI) for the largest placebo-adjusted, baseline-corrected QTc based on individual correction method was below 10 milliseconds, the threshold for regulatory concern.  12.3  Pharmacokinetics  Absorption:    The single-dose pharmacokinetic parameters of loxapine following administration of single doses of ADASUVE 10 mg in healthy adult subjects are presented in Table 3 and Figure 8.  Administration of ADASUVE resulted in rapid absorption of loxapine, with a median time of maximum plasma concentration (T max ) of 2 minutes. Loxapine exposure in the first 2 hours after administration (AUC 0-2h ) was 66.7 ng•h/mL for the 10 mg dose. As a consequence of the very rapid absorption of loxapine after oral inhalation, there is substantial variability in the early plasma concentrations of loxapine. The mean plasma loxapine concentrations following administration of ADASUVE were linear over the clinical dose range. AUC 0-2h , AUC inf , and C max increased in a dose-dependent manner.  Table 3. Pharmacokinetics in Healthy Adult Subjects Administered a Single Dose of ADASUVE 10 mg  Parameter  Healthy Subjects  ADASUVE 10 mg (N=114)  AUC 0-2h (ng•h/mL), mean ± SD  66.7 ± 18.2  AUC inf (ng•h/mL), mean ± SD  188 ± 47  C max (ng/mL), mean ± SD  257 ± 219  T max (minutes), median (25%, 75%)  1.13 (1, 2)  Half-life(h), mean ± SD  7.61 ± 1.87  Figure 8. Mean Plasma Concentrations of Loxapine following Single-Dose Administration ADASUVE 10 mg in Healthy Subjects  Distribution:    Loxapine is removed rapidly from the plasma and distributed in tissues. Animal studies following oral administration suggest an initial preferential distribution in the lungs, brain, spleen, heart, and kidney.   Loxapine is 96.6% bound to human plasma proteins.  Metabolism:    Loxapine is metabolized extensively in the liver following oral administration, with multiple metabolites formed. The main metabolic pathways include: 1) hydroxylation to form 8-OH-loxapine by CYP1A2 and 7-OH-loxapine by CYP3A4 and CYP2D6, 2) N-oxidation to form loxapine N-oxide by flavanoid monoamine oxidases (FMOs), and 3) de-methylation to form amoxapine. Because there are multiple metabolic pathways, the risk of metabolic interactions caused by an effect on an individual isoform is minimal. For ADASUVE, the order of metabolites observed in humans (based on systemic exposure) was 8-OH-loxapine &gt;&gt; loxapine N-oxide, 7-OH-loxapine &gt; amoxapine. Plasma levels of 8-OH-loxapine are similar to those of the parent compound.  Excretion:    Excretion occurs mainly in the first 24 hours. Metabolites are excreted in the urine in the form of conjugates and in the feces unconjugated. The terminal elimination half-life (T ½ ) ranged from 6 to 8 hours.  Transporter Interaction:  In vitro studies indicated that loxapine was not a substrate for p-glycoprotein (P-gp): however, loxapine inhibited P-gp.    Special Populations:  Pharmacokinetics in Smokers  :  Loxapine exposures in nonsmokers and smokers are similar, with geometric mean ratios of 92%, 85%, and 99% for AUC 0-  2  h , AUC inf , and C max respectively. No dosage adjustment is recommended based on smoking status.  Demographic Effects  : There were no clinically significant differences in loxapine pharmacokinetics following administration of ADASUVE in subgroups based on age, weight, body mass index, gender, or race.</Section>
+</Text><Sentences>
+<Sentence id="2761" LabelDrug="Adasuve" section="34073-7">
+<SentenceText>ADASUVE is a central nervous system (CNS) depressant.</SentenceText>
+</Sentence>
+<Sentence id="2762" LabelDrug="Adasuve" section="34073-7">
+<SentenceText>The concurrent use of ADASUVE with other CNS depressants (e.g., alcohol, opioid analgesics, benzodiazepines, tricyclic antidepressants, general anesthetics, phenothiazines, sedative/hypnotics, muscle relaxants, and/or illicit CNS depressants) can increase the risk of respiratory depression, hypotension, profound sedation, and syncope.</SentenceText>
+</Sentence>
+<Sentence id="2763" LabelDrug="Adasuve" section="34073-7">
+<SentenceText>Therefore, consider reducing the dose of CNS depressants if used concomitantly with ADASUVE.</SentenceText>
+</Sentence>
+<Sentence id="2764" LabelDrug="Adasuve" section="34073-7">
+<SentenceText>The concomitant use of ADASUVE and other anticholinergic drugs can increase the risk of anticholinergic adverse reactions including exacerbation of glaucoma and urinary retention.</SentenceText>
+</Sentence>
+<Sentence id="2765" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Mean Plasma Concentrations of Loxapine following Single-Dose Administration ADASUVE 10 mg in Healthy Subjects The mechanism of action of loxapine in the treatment of agitation associated with schizophrenia is unknown.</SentenceText>
+</Sentence>
+<Sentence id="2766" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>However, its efficacy could be mediated through a combination of antagonism of central dopamine D2 and serotonin 5-HT2A receptors.</SentenceText>
+</Sentence>
+<Sentence id="2767" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>The mechanism of action of loxapine in the treatment of agitation associated with bipolar I disorder is unknown.</SentenceText>
+</Sentence>
+<Sentence id="2768" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Loxapine acts as an antagonist at central serotonin and dopamine receptors, with high affinity for serotonin 5-HT2A and dopamine D1, D2, D3, and D4 receptors (Ki values of 2 nM, 18 nM, 10 nM, 21 nM, 9 nM, respectively).</SentenceText>
+</Sentence>
+<Sentence id="2769" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Some of the adverse effects of loxapine may be related to the antagonism of histamine H1 (somnolence), muscarinic M1 (anticholinergic), and adrenergic α2 (orthostatic hypotension) receptors (Ki values of 15 nM, 117 nM and 250 nM, respectively).</SentenceText>
+</Sentence>
+<Sentence id="2770" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Thorough QTc Study ADASUVE did not prolong the QTc interval.</SentenceText>
+</Sentence>
+<Sentence id="2771" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>The effect of ADASUVE on QTc prolongation was evaluated in a randomized, double-blinded, positive- (moxifloxacin 400 mg) and placebo-controlled parallel study in healthy subjects.</SentenceText>
+</Sentence>
+<Sentence id="2772" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>A total of 48 healthy subjects were administered ADASUVE 10 mg.</SentenceText>
+</Sentence>
+<Sentence id="2773" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>In this study with a demonstrated ability to detect small effects, the upper bound of the 90% confidence interval (CI) for the largest placebo-adjusted, baseline-corrected QTc based on individual correction method was below 10 milliseconds, the threshold for regulatory concern.</SentenceText>
+</Sentence>
+<Sentence id="2774" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Absorption: The single-dose pharmacokinetic parameters of loxapine following administration of single doses of ADASUVE 10 mg in healthy adult subjects are presented in Table 3 and Figure 8.</SentenceText>
+</Sentence>
+<Sentence id="2775" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Administration of ADASUVE resulted in rapid absorption of loxapine, with a median time of maximum plasma concentration (Tmax) of 2 minutes.</SentenceText>
+</Sentence>
+<Sentence id="2776" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Loxapine exposure in the first 2 hours after administration (AUC0-2h) was 66.7 ng•h/mL for the 10 mg dose.</SentenceText>
+</Sentence>
+<Sentence id="2777" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>As a consequence of the very rapid absorption of loxapine after oral inhalation, there is substantial variability in the early plasma concentrations of loxapine.</SentenceText>
+</Sentence>
+<Sentence id="2778" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>The mean plasma loxapine concentrations following administration of ADASUVE were linear over the clinical dose range.</SentenceText>
+</Sentence>
+<Sentence id="2779" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>AUC0-2h, AUCinf, and Cmax increased in a dose-dependent manner.</SentenceText>
+</Sentence>
+<Sentence id="2780" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Pharmacokinetics in Healthy Adult Subjects Administered a Single Dose of ADASUVE 10 mg Parameter Healthy Subjects ADASUVE 10 mg (N=114) AUC0-2h (ng•h/mL), mean ± SD 66.7 ± 18.2 AUCinf (ng•h/mL), mean ± SD 188 ± 47 Cmax (ng/mL), mean ± SD 257 ± 219 Tmax (minutes), median (25%, 75%) 1.13 (1, 2) Half-life(h), mean ± SD 7.61 ± 1.87 Figure 8.</SentenceText>
+</Sentence>
+<Sentence id="2781" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Mean Plasma Concentrations of Loxapine following Single-Dose Administration ADASUVE 10 mg in Healthy Subjects Distribution: Loxapine is removed rapidly from the plasma and distributed in tissues.</SentenceText>
+</Sentence>
+<Sentence id="2782" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Animal studies following oral administration suggest an initial preferential distribution in the lungs, brain, spleen, heart, and kidney.</SentenceText>
+</Sentence>
+<Sentence id="2783" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Loxapine is 96.6% bound to human plasma proteins.</SentenceText>
+</Sentence>
+<Sentence id="2784" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Metabolism: Loxapine is metabolized extensively in the liver following oral administration, with multiple metabolites formed.</SentenceText>
+</Sentence>
+<Sentence id="2785" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>The main metabolic pathways include: 1) hydroxylation to form 8-OH-loxapine by CYP1A2 and 7-OH-loxapine by CYP3A4 and CYP2D6, 2) N-oxidation to form loxapine N-oxide by flavanoid monoamine oxidases (FMOs), and 3) de-methylation to form amoxapine.</SentenceText>
+</Sentence>
+<Sentence id="2786" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Because there are multiple metabolic pathways, the risk of metabolic interactions caused by an effect on an individual isoform is minimal.</SentenceText>
+</Sentence>
+<Sentence id="2787" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>For ADASUVE, the order of metabolites observed in humans (based on systemic exposure) was 8-OH-loxapine &gt;&gt; loxapine N-oxide, 7-OH-loxapine &gt; amoxapine.</SentenceText>
+</Sentence>
+<Sentence id="2788" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Plasma levels of 8-OH-loxapine are similar to those of the parent compound.</SentenceText>
+</Sentence>
+<Sentence id="2789" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Excretion: Excretion occurs mainly in the first 24 hours.</SentenceText>
+</Sentence>
+<Sentence id="2790" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Metabolites are excreted in the urine in the form of conjugates and in the feces unconjugated.</SentenceText>
+</Sentence>
+<Sentence id="2791" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>The terminal elimination half-life (T1/2) ranged from 6 to 8 hours.</SentenceText>
+</Sentence>
+<Sentence id="2792" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Transporter Interaction: In vitro studies indicated that loxapine was not a substrate for p-glycoprotein (P-gp): however, loxapine inhibited P-gp.</SentenceText>
+</Sentence>
+<Sentence id="2793" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Special Populations: Pharmacokinetics in Smokers: Loxapine exposures in nonsmokers and smokers are similar, with geometric mean ratios of 92%, 85%, and 99% for AUC0-2h, AUCinf, and Cmax respectively.</SentenceText>
+</Sentence>
+<Sentence id="2794" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>No dosage adjustment is recommended based on smoking status.</SentenceText>
+</Sentence>
+<Sentence id="2795" LabelDrug="Adasuve" section="34090-1">
+<SentenceText>Demographic Effects : There were no clinically significant differences in loxapine pharmacokinetics following administration of ADASUVE in subgroups based on age, weight, body mass index, gender, or race.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

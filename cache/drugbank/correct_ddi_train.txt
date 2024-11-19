@@ -1,0 +1,210 @@
+DDI-DrugBank.d113.s7
+Antacids: Concomitant administration of aluminum hydroxides and magnesium hydroxides does not interfere with absorption of meclofenamate sodium.
+{"@id": "DDI-DrugBank.d113.s7.e0", "@charOffset": "0-7", "@type": "group", "@text": "Antacids"}
+{"@id": "DDI-DrugBank.d113.s7.e1", "@charOffset": "40-58", "@type": "drug", "@text": "aluminum hydroxide"}
+{"@id": "DDI-DrugBank.d113.s7.e2", "@charOffset": "64-82", "@type": "drug", "@text": "magnesium hydroxide"}
+{"@id": "DDI-DrugBank.d113.s7.e3", "@charOffset": "123-142", "@type": "drug", "@text": "meclofenamate sodium"}
+
+DDI-DrugBank.d162.s12
+Non-steroidal Anti-inflammatory Drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop diuretics, potassium-sparing diuretics and thiazide diuretics.
+{'@id': 'DDI-DrugBank.d162.s12.e0', '@charOffset': '0-36', '@type': 'group', '@text': 'Non-steroidal Anti-inflammatory Drugs'}
+{'@id': 'DDI-DrugBank.d162.s12.e1', '@charOffset': '81-117', '@type': 'group', '@text': 'non-steroidal anti-inflammatory agent'}
+{'@id': 'DDI-DrugBank.d162.s12.e2', '@charOffset': '189-202', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d162.s12.e3', '@charOffset': '205-231', '@type': 'group', '@text': 'potassium-sparing diuretics'}
+{'@id': 'DDI-DrugBank.d162.s12.e4', '@charOffset': '237-254', '@type': 'group', '@text': 'thiazide diuretics'}
+
+DDI-DrugBank.d169.s1
+Co-administration of multiple doses of 10 mg of lenalidomide had no effect on the single dose pharmacokinetics of R- warfarin and S- warfarin.
+{'@id': 'DDI-DrugBank.d169.s1.e0', '@charOffset': '48-59', '@type': 'drug', '@text': 'lenalidomide'}
+{'@id': 'DDI-DrugBank.d169.s1.e1', '@charOffset': '114-124', '@type': 'drug', '@text': 'R- warfarin'}
+{'@id': 'DDI-DrugBank.d169.s1.e2', '@charOffset': '130-140', '@type': 'drug', '@text': 'S- warfarin'}
+
+DDI-DrugBank.d17.s25
+(In some patients, the steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop diuretics, potassium sparing diuretics, and thiazide diuretics.
+{'@id': 'DDI-DrugBank.d17.s25.e0', '@charOffset': '23-55', '@type': 'group', '@text': 'steroidal anti-inflammatory agent'}
+{'@id': 'DDI-DrugBank.d17.s25.e1', '@charOffset': '127-140', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d17.s25.e2', '@charOffset': '143-169', '@type': 'group', '@text': 'potassium sparing diuretics'}
+{'@id': 'DDI-DrugBank.d17.s25.e3', '@charOffset': '176-193', '@type': 'group', '@text': 'thiazide diuretics'}
+
+DDI-DrugBank.d212.s19
+Warfarin Keppra  (1000 mg twice daily) did not influence the pharmacokinetics of R warfarin and S warfarin.
+{'@id': 'DDI-DrugBank.d212.s19.e0', '@charOffset': '0-7', '@type': 'drug', '@text': 'Warfarin'}
+{'@id': 'DDI-DrugBank.d212.s19.e1', '@charOffset': '9-14', '@type': 'brand', '@text': 'Keppra'}
+{'@id': 'DDI-DrugBank.d212.s19.e2', '@charOffset': '81-90', '@type': 'drug', '@text': 'R warfarin'}
+{'@id': 'DDI-DrugBank.d212.s19.e3', '@charOffset': '96-105', '@type': 'drug', '@text': 'S warfarin'}
+
+DDI-DrugBank.d216.s16
+Warfarin: Eszopiclone 3 mg administered daily for 5 days did not affect the pharmacokinetics of (R)-warfarin or (S)-warfarin, nor were there any changes in the pharmacodynamic profile (prothrombin time) following a single 25 mg oral dose of warfarin
+{'@id': 'DDI-DrugBank.d216.s16.e0', '@charOffset': '0-7', '@type': 'drug', '@text': 'Warfarin'}
+{'@id': 'DDI-DrugBank.d216.s16.e1', '@charOffset': '10-20', '@type': 'drug', '@text': 'Eszopiclone'}
+{'@id': 'DDI-DrugBank.d216.s16.e2', '@charOffset': '94-107', '@type': 'drug', '@text': '(R)-warfarin'}
+{'@id': 'DDI-DrugBank.d216.s16.e3', '@charOffset': '112-123', '@type': 'drug', '@text': '(S)-warfarin'}
+{'@id': 'DDI-DrugBank.d216.s16.e4', '@charOffset': '241-248', '@type': 'drug', '@text': 'warfarin'}
+
+DDI-DrugBank.d231.s7
+Potentiation occurs with ganglionic adrenergic blocking drugs or peripheral adrenergic blocking drugs.
+{'@id': 'DDI-DrugBank.d231.s7.e0', '@charOffset': '25-60', '@type': 'group', '@text': 'ganglionic adrenergic blocking drugs'}
+{'@id': 'DDI-DrugBank.d231.s7.e1', '@charOffset': '65-100', '@type': 'group', '@text': 'peripheral adrenergic blocking drugs'}
+
+DDI-DrugBank.d284.s4
+The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop diuretics or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+{'@id': 'DDI-DrugBank.d284.s4.e0', '@charOffset': '78-108', '@type': 'group', '@text': 'non-potassium sparing diuretics'}
+{'@id': 'DDI-DrugBank.d284.s4.e1', '@charOffset': '119-132', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d284.s4.e2', '@charOffset': '137-154', '@type': 'group', '@text': 'thiazide diuretics'}
+{'@id': 'DDI-DrugBank.d284.s4.e3', '@charOffset': '184-196', '@type': 'group', '@text': 'beta-agonists'}
+{'@id': 'DDI-DrugBank.d284.s4.e4', '@charOffset': '243-254', '@type': 'group', '@text': 'beta-agonist'}
+
+DDI-DrugBank.d314.s30
+Vaccines: Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live vaccines or inactivated vaccines due to inhibition of antibody response.
+{'@id': 'DDI-DrugBank.d314.s30.e0', '@charOffset': '0-7', '@type': 'group', '@text': 'Vaccines'}
+{'@id': 'DDI-DrugBank.d314.s30.e1', '@charOffset': '22-35', '@type': 'group', '@text': 'corticosteroid'}
+{'@id': 'DDI-DrugBank.d314.s30.e2', '@charOffset': '94-106', '@type': 'group', '@text': 'live vaccines'}
+{'@id': 'DDI-DrugBank.d314.s30.e3', '@charOffset': '111-130', '@type': 'group', '@text': 'inactivated vaccines'}
+
+DDI-DrugBank.d325.s6
+Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha-adrenergic blocking agents or beta-adrenergic blocking agents.
+{'@id': 'DDI-DrugBank.d325.s6.e0', '@charOffset': '0-7', '@type': 'drug', '@text': 'Dopamine'}
+{'@id': 'DDI-DrugBank.d325.s6.e1', '@charOffset': '80-111', '@type': 'group', '@text': 'alpha-adrenergic blocking agents'}
+{'@id': 'DDI-DrugBank.d325.s6.e2', '@charOffset': '116-146', '@type': 'drug', '@text': 'beta-adrenergic blocking agents'}
+
+DDI-DrugBank.d333.s7
+Pharmacodynamic Interactions: The CNS-depressant action of the benzodiazepine class of drugs may be potentiated by alcohol, narcotics, barbiturates, nonbarbiturate hypnotics, antianxiety agents, the phenothiazines classes of antipsychotic agents, thioxanthene classes of antipsychotic agents and butyrophenone classes of antipsychotic agents, monoamine oxidase inhibitors and the tricyclic antidepressants, and by other anticonvulsant drugs.
+{'@id': 'DDI-DrugBank.d333.s7.e0', '@charOffset': '63-82', '@type': 'group', '@text': 'benzodiazepine class'}
+{'@id': 'DDI-DrugBank.d333.s7.e1', '@charOffset': '115-121', '@type': 'drug', '@text': 'alcohol'}
+{'@id': 'DDI-DrugBank.d333.s7.e2', '@charOffset': '124-132', '@type': 'group', '@text': 'narcotics'}
+{'@id': 'DDI-DrugBank.d333.s7.e3', '@charOffset': '135-146', '@type': 'group', '@text': 'barbiturates'}
+{'@id': 'DDI-DrugBank.d333.s7.e4', '@charOffset': '149-172', '@type': 'group', '@text': 'nonbarbiturate hypnotics'}
+{'@id': 'DDI-DrugBank.d333.s7.e5', '@charOffset': '175-192', '@type': 'group', '@text': 'antianxiety agents'}
+{'@id': 'DDI-DrugBank.d333.s7.e6', '@charOffset': '199-244', '@type': 'group', '@text': 'phenothiazines classes of antipsychotic agents'}
+{'@id': 'DDI-DrugBank.d333.s7.e7', '@charOffset': '247-290', '@type': 'group', '@text': 'thioxanthene classes of antipsychotic agents'}
+{'@id': 'DDI-DrugBank.d333.s7.e8', '@charOffset': '296-340', '@type': 'group', '@text': 'butyrophenone classes of antipsychotic agents'}
+{'@id': 'DDI-DrugBank.d333.s7.e9', '@charOffset': '343-370', '@type': 'group', '@text': 'monoamine oxidase inhibitors'}
+{'@id': 'DDI-DrugBank.d333.s7.e10', '@charOffset': '380-404', '@type': 'group', '@text': 'tricyclic antidepressants'}
+{'@id': 'DDI-DrugBank.d333.s7.e11', '@charOffset': '420-439', '@type': 'group', '@text': 'anticonvulsant drugs'}
+
+DDI-DrugBank.d356.s4
+In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop diuretics, potassium-sparing diuretics and thiazide diuretics.
+{'@id': 'DDI-DrugBank.d356.s4.e0', '@charOffset': '42-78', '@type': 'group', '@text': 'non-steroidal anti-inflammatory agent'}
+{'@id': 'DDI-DrugBank.d356.s4.e1', '@charOffset': '150-163', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d356.s4.e2', '@charOffset': '166-192', '@type': 'group', '@text': 'potassium-sparing diuretics'}
+{'@id': 'DDI-DrugBank.d356.s4.e3', '@charOffset': '198-215', '@type': 'group', '@text': 'thiazide diuretics'}
+
+DDI-DrugBank.d365.s1
+H1 Blockers and H2 Blockers - Although not reported, L-histidine, via its metabolism to histamine, might decrease the efficacy of H1 blockers and H2 blockers.
+{'@id': 'DDI-DrugBank.d365.s1.e0', '@charOffset': '0-10', '@type': 'group', '@text': 'H1 Blockers'}
+{'@id': 'DDI-DrugBank.d365.s1.e1', '@charOffset': '16-26', '@type': 'group', '@text': 'H2 Blockers'}
+{'@id': 'DDI-DrugBank.d365.s1.e2', '@charOffset': '53-63', '@type': 'drug', '@text': 'L-histidine'}
+{'@id': 'DDI-DrugBank.d365.s1.e3', '@charOffset': '130-140', '@type': 'group', '@text': 'H1 blockers'}
+{'@id': 'DDI-DrugBank.d365.s1.e4', '@charOffset': '146-156', '@type': 'group', '@text': 'H2 blockers'}
+
+DDI-DrugBank.d377.s0
+Phospholine Iodide potentiates other cholinesterase inhibitors such as succinylcholine or organophosphate insecticides and carbamate insecticides.
+{'@id': 'DDI-DrugBank.d377.s0.e0', '@charOffset': '0-17', '@type': 'drug', '@text': 'Phospholine Iodide'}
+{'@id': 'DDI-DrugBank.d377.s0.e1', '@charOffset': '37-61', '@type': 'group', '@text': 'cholinesterase inhibitors'}
+{'@id': 'DDI-DrugBank.d377.s0.e2', '@charOffset': '71-85', '@type': 'drug', '@text': 'succinylcholine'}
+{'@id': 'DDI-DrugBank.d377.s0.e3', '@charOffset': '90-116', '@type': 'drug_n', '@text': 'organophosphate insecticide'}
+{'@id': 'DDI-DrugBank.d377.s0.e4', '@charOffset': '123-143', '@type': 'drug_n', '@text': 'carbamate insecticide'}
+
+DDI-DrugBank.d382.s16
+Although there was no effect of Aprepitant on the plasma AUC of R(+) warfarin or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-)warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with Aprepitant.
+{'@id': 'DDI-DrugBank.d382.s16.e0', '@charOffset': '32-41', '@type': 'drug', '@text': 'Aprepitant'}
+{'@id': 'DDI-DrugBank.d382.s16.e1', '@charOffset': '64-76', '@type': 'drug', '@text': 'R(+) warfarin'}
+{'@id': 'DDI-DrugBank.d382.s16.e2', '@charOffset': '81-93', '@type': 'drug', '@text': 'S(-) warfarin'}
+{'@id': 'DDI-DrugBank.d382.s16.e3', '@charOffset': '144-155', '@type': 'drug', '@text': 'S(-)warfarin'}
+{'@id': 'DDI-DrugBank.d382.s16.e4', '@charOffset': '344-353', '@type': 'drug', '@text': 'Aprepitant'}
+
+DDI-DrugBank.d414.s6
+In some patients, the administration of a non- steroidal antiinflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop diuretics, potassium- sparing diuretics and thiazide diuretics.
+{'@id': 'DDI-DrugBank.d414.s6.e0', '@charOffset': '42-78', '@type': 'group', '@text': 'non- steroidal antiinflammatory agent'}
+{'@id': 'DDI-DrugBank.d414.s6.e1', '@charOffset': '150-163', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d414.s6.e2', '@charOffset': '166-193', '@type': 'group', '@text': 'potassium- sparing diuretics'}
+{'@id': 'DDI-DrugBank.d414.s6.e3', '@charOffset': '199-216', '@type': 'group', '@text': 'thiazide diuretics'}
+
+DDI-DrugBank.d44.s2
+Acellular vaccines, live vaccines and live-attenuated vaccines should not be administered during RAPTIVA treatment.
+{'@id': 'DDI-DrugBank.d44.s2.e0', '@charOffset': '0-17', '@type': 'group', '@text': 'Acellular vaccines'}
+{'@id': 'DDI-DrugBank.d44.s2.e1', '@charOffset': '20-32', '@type': 'group', '@text': 'live vaccines'}
+{'@id': 'DDI-DrugBank.d44.s2.e2', '@charOffset': '38-61', '@type': 'group', '@text': 'live-attenuated vaccines'}
+{'@id': 'DDI-DrugBank.d44.s2.e3', '@charOffset': '97-103', '@type': 'brand', '@text': 'RAPTIVA'}
+
+DDI-DrugBank.d46.s19
+- Non-steroidal Anti-inflammatory Drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop diuretics, potassium-sparing diuretics and thiazide diuretics.
+{'@id': 'DDI-DrugBank.d46.s19.e0', '@charOffset': '2-38', '@type': 'group', '@text': 'Non-steroidal Anti-inflammatory Drugs'}
+{'@id': 'DDI-DrugBank.d46.s19.e1', '@charOffset': '83-119', '@type': 'group', '@text': 'non-steroidal anti-inflammatory agent'}
+{'@id': 'DDI-DrugBank.d46.s19.e2', '@charOffset': '191-204', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d46.s19.e3', '@charOffset': '207-233', '@type': 'group', '@text': 'potassium-sparing diuretics'}
+{'@id': 'DDI-DrugBank.d46.s19.e4', '@charOffset': '239-256', '@type': 'drug', '@text': 'thiazide diuretics'}
+
+DDI-DrugBank.d531.s78
+Drug interaction studies with SUSTIVA and these imidazole antifungals and triazole antifungals have not been conducted.
+{'@id': 'DDI-DrugBank.d531.s78.e0', '@charOffset': '30-36', '@type': 'brand', '@text': 'SUSTIVA'}
+{'@id': 'DDI-DrugBank.d531.s78.e1', '@charOffset': '48-68', '@type': 'group', '@text': 'imidazole antifungals'}
+{'@id': 'DDI-DrugBank.d531.s78.e2', '@charOffset': '74-93', '@type': 'group', '@text': 'triazole antifungals'}
+
+DDI-DrugBank.d532.s4
+Patients with HACA titers may have allergic or hypersensitivity reactions when treated with other diagnostic monoclonal antibodies or therapeutic monoclonal antibodies.
+{'@id': 'DDI-DrugBank.d532.s4.e0', '@charOffset': '98-129', '@type': 'group', '@text': 'diagnostic monoclonal antibodies'}
+{'@id': 'DDI-DrugBank.d532.s4.e1', '@charOffset': '134-166', '@type': 'group', '@text': 'therapeutic monoclonal antibodies'}
+
+DDI-DrugBank.d558.s32
+Other Drugs: In healthy volunteers, amlodipine, phenytoin, glyburide, ranitidine, omeprazole, hormone replacement therapy (a combination of conjugated estrogens and medroxyprogesterone), antacid (aluminum hydroxides and magnesium hydroxides) and theophylline did not affect the pharmacokinetics of TIKOSYN.
+{'@id': 'DDI-DrugBank.d558.s32.e0', '@charOffset': '36-45', '@type': 'drug', '@text': 'amlodipine'}
+{'@id': 'DDI-DrugBank.d558.s32.e1', '@charOffset': '48-56', '@type': 'drug', '@text': 'phenytoin'}
+{'@id': 'DDI-DrugBank.d558.s32.e2', '@charOffset': '59-67', '@type': 'drug', '@text': 'glyburide'}
+{'@id': 'DDI-DrugBank.d558.s32.e3', '@charOffset': '70-79', '@type': 'drug', '@text': 'ranitidine'}
+{'@id': 'DDI-DrugBank.d558.s32.e4', '@charOffset': '82-91', '@type': 'drug', '@text': 'omeprazole'}
+{'@id': 'DDI-DrugBank.d558.s32.e5', '@charOffset': '151-159', '@type': 'group', '@text': 'estrogens'}
+{'@id': 'DDI-DrugBank.d558.s32.e6', '@charOffset': '165-183', '@type': 'drug', '@text': 'medroxyprogesterone'}
+{'@id': 'DDI-DrugBank.d558.s32.e7', '@charOffset': '187-193', '@type': 'group', '@text': 'antacid'}
+{'@id': 'DDI-DrugBank.d558.s32.e8', '@charOffset': '196-213', '@type': 'drug', '@text': 'aluminum hydroxide'}
+{'@id': 'DDI-DrugBank.d558.s32.e9', '@charOffset': '220-238', '@type': 'drug', '@text': 'magnesium hydroxide'}
+{'@id': 'DDI-DrugBank.d558.s32.e10', '@charOffset': '246-257', '@type': 'drug', '@text': 'theophylline'}
+{'@id': 'DDI-DrugBank.d558.s32.e11', '@charOffset': '298-304', '@type': 'brand', '@text': 'TIKOSYN'}
+
+DDI-DrugBank.d558.s5
+If a patient requires TIKOSYN and anti-ulcer therapy, it is suggested that omeprazole, ranitidine, or antacids (aluminum hydroxides and magnesium hydroxides) be used as alternatives to cimetidine, as these agents have no effect on the pharmacokinetic profile of TIKOSYN.
+{'@id': 'DDI-DrugBank.d558.s5.e0', '@charOffset': '22-28', '@type': 'brand', '@text': 'TIKOSYN'}
+{'@id': 'DDI-DrugBank.d558.s5.e1', '@charOffset': '34-43', '@type': 'group', '@text': 'anti-ulcer'}
+{'@id': 'DDI-DrugBank.d558.s5.e2', '@charOffset': '75-84', '@type': 'drug', '@text': 'omeprazole'}
+{'@id': 'DDI-DrugBank.d558.s5.e3', '@charOffset': '87-96', '@type': 'drug', '@text': 'ranitidine'}
+{'@id': 'DDI-DrugBank.d558.s5.e4', '@charOffset': '102-109', '@type': 'group', '@text': 'antacids'}
+{'@id': 'DDI-DrugBank.d558.s5.e5', '@charOffset': '112-129', '@type': 'drug', '@text': 'aluminum hydroxide'}
+{'@id': 'DDI-DrugBank.d558.s5.e6', '@charOffset': '136-154', '@type': 'drug', '@text': 'magnesium hydroxide'}
+{'@id': 'DDI-DrugBank.d558.s5.e7', '@charOffset': '185-194', '@type': 'drug', '@text': 'cimetidine'}
+{'@id': 'DDI-DrugBank.d558.s5.e8', '@charOffset': '262-268', '@type': 'brand', '@text': 'TIKOSYN'}
+
+DDI-DrugBank.d64.s91
+The beneficial effects on arterial thrombus formation from combined therapy with antiplatelet medication and anticoagulant medication must be weighed against an increased risk of inducing hemorrhage.
+{'@id': 'DDI-DrugBank.d64.s91.e0', '@charOffset': '81-103', '@type': 'group', '@text': 'antiplatelet medication'}
+{'@id': 'DDI-DrugBank.d64.s91.e1', '@charOffset': '109-132', '@type': 'group', '@text': 'anticoagulant medication'}
+
+DDI-DrugBank.d82.s23
+In some patients, the administration of INDOCIN can reduce the diuretic, natriuretic, and antihypertensive effects of loop diuretics, potassium-sparing diuretics, and thiazide diuretics.
+{'@id': 'DDI-DrugBank.d82.s23.e0', '@charOffset': '40-46', '@type': 'brand', '@text': 'INDOCIN'}
+{'@id': 'DDI-DrugBank.d82.s23.e1', '@charOffset': '118-131', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-DrugBank.d82.s23.e2', '@charOffset': '134-160', '@type': 'group', '@text': 'potassium-sparing diuretics'}
+{'@id': 'DDI-DrugBank.d82.s23.e3', '@charOffset': '167-184', '@type': 'group', '@text': 'thiazide diuretics'}
+
+DDI-MedLine.d1.s6
+No interactions have been observed with beta-receptor blockers, calcium antagonists, thiazide diuretics and loop diuretics and ACE inhibitors. 
+{'@id': 'DDI-MedLine.d1.s6.e0', '@charOffset': '40-61', '@type': 'group', '@text': 'beta-receptor blockers'}
+{'@id': 'DDI-MedLine.d1.s6.e1', '@charOffset': '64-82', '@type': 'group', '@text': 'calcium antagonists'}
+{'@id': 'DDI-MedLine.d1.s6.e2', '@charOffset': '85-102', '@type': 'group', '@text': 'thiazide diuretics'}
+{'@id': 'DDI-MedLine.d1.s6.e3', '@charOffset': '108-121', '@type': 'group', '@text': 'loop diuretics'}
+{'@id': 'DDI-MedLine.d1.s6.e4', '@charOffset': '127-140', '@type': 'group', '@text': 'ACE inhibitors'}
+
+DDI-MedLine.d115.s14
+However, careful attention must be directed to cross toxicity and possible pharmacokinetic interactions between antiretroviral drugs and antineoplastic drugs. 
+{'@id': 'DDI-MedLine.d115.s14.e0', '@charOffset': '112-131', '@type': 'group', '@text': 'antiretroviral drugs'}
+{'@id': 'DDI-MedLine.d115.s14.e1', '@charOffset': '137-156', '@type': 'group', '@text': 'antineoplastic drugs'}
+
+DDI-MedLine.d66.s0
+Changes in urinary homocysteine following synthetic steroidal estrogen and synthetic steroidal progestogen administration to rats.
+{'@id': 'DDI-MedLine.d66.s0.e0', '@charOffset': '42-69', '@type': 'group', '@text': 'synthetic steroidal estrogen'}
+{'@id': 'DDI-MedLine.d66.s0.e1', '@charOffset': '75-105', '@type': 'group', '@text': 'synthetic steroidal progestogen'}
+
+DDI-MedLine.d75.s3
+The percentage of neurons hyperpolarized by mu-selective opioids, delta(1)-selective opioids, and kappa-selective opioids was significantly reduced when 1% but not < 
+{'@id': 'DDI-MedLine.d75.s3.e0', '@charOffset': '44-63', '@type': 'group', '@text': 'mu-selective opioids'}
+{'@id': 'DDI-MedLine.d75.s3.e1', '@charOffset': '66-91', '@type': 'group', '@text': 'delta(1)-selective opioids'}
+{'@id': 'DDI-MedLine.d75.s3.e2', '@charOffset': '98-120', '@type': 'group', '@text': 'kappa-selective opioids'}

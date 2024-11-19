@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Haloperidol" setid="7d1a9689-23c8-44ef-a474-8c607e13d794">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The precise mechanism of action has not been clearly established.</Section>
+</Text><Sentences>
+<Sentence id="5129" LabelDrug="Haloperidol" section="34090-1">
+<SentenceText>The precise mechanism of action has not been clearly established.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

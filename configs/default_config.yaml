@@ -1,0 +1,69 @@
+# PLEASE CREATE NEW CONFIG INSTEAD OF OVERRIDE THIS CONFIG
+# Change this string to change the folder name of saving models
+training_session_name: session_name
+
+# Lookup
+type_embed: 'asada_bert_unpad'
+model_name_or_path: '/kaggle/input/biomedbert-finetune/transformers/v1.0/1'
+candidate_train_path: "cache/pkl/v2/notprocessed.candidates.train.pkl"
+candidate_test_path: "cache/pkl/v2/notprocessed.candidates.test.pkl"
+desc_dict_path: "/kaggle/input/desc-pretrained-ddi/desc_pretrained.pt"
+image_data_train_path: "/kaggle/input/data-image-allmdal/data_image_train_allmodal.pt" 
+image_data_test_path: "/kaggle/input/data-image-allmdal/data_image_test_allmodal.pt"
+map_drug_to_formula_csv_path: 'cache/mapped_drugs/DDI/ease_matching/full.csv'
+test_filtered_index_path : 'cache/filtered_ddi/test_filtered_index.txt'
+
+# Saved customdataset
+train_custom_dataset: 'ddi_train.pt'
+test_custom_dataset: 'ddi_test.pt'
+
+
+
+# Train configs
+seed: 129
+desc_conv_output_size: 64
+desc_conv_window_size: 3
+desc_layer_hidden: 0
+formula_conv_output_size: 64 
+formula_conv_window_size: 4
+use_graph: True
+use_formula: True
+use_desc: True
+use_image: True
+loss_type: ddi_no_negative
+freeze_bert: True
+min_batch_size: 9
+out_conv_list_dim: 256
+fusion_module: concat
+batch_size: 128
+weight_decay: 0.01
+lr: 0.0001
+epochs: 50
+represent_dim: [48,48,48,48]
+conv_window_size: [3, 5, 7]
+device: "cuda"
+parallel_training: False
+target_class: 5
+activation: 'gelu'
+pos_emb_dim: 10
+max_seq_length: 256
+optimizer: 'adamw'
+dropout_rate_other: 0.5
+dropout_rate_bert_output: 0.3
+middle_layer_size: 128
+gnn_option: 'GCN'
+gnn_readout_option: 'global_max_pool'
+gnn_num_layers: 5
+gnn_hidden_channels: 32
+gnn_use_gat_v2: False
+gnn_use_edge_attr: True
+apply_mask: False
+freeze_gnn: True
+freeze_formula: False
+freeze_image: True
+freeze_desc: False
+
+gnn_state_path: ''
+formula_state_path: ''
+desc_state_path: ''
+image_state_path: ''

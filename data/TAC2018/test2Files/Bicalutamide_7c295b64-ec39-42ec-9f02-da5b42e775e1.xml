@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Bicalutamide" setid="7c295b64-ec39-42ec-9f02-da5b42e775e1">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7. DRUG INTERACTIONS  Clinical studies have not shown any drug interactions between bicalutamide and LHRH analogs (goserelin or leuprolide). There is no evidence that bicalutamide induces hepatic enzymes.  In vitro studies have shown that R-bicalutamide is an inhibitor of CYP 3A4 with lesser inhibitory effects on CYP 2C9, 2C19 and 2D6 activity. Clinical studies have shown that with co-administration of bicalutamide, mean midazolam (a CYP 3A4 substrate) levels may be increased 1.5-fold (for C max ) and 1.9-fold (for AUC). Hence, caution should be exercised when bicalutamide is co-administered with CYP 3A4 substrates. In vitro protein-binding studies have shown that bicalutamide can displace coumarin anticoagulants from binding sites. Prothrombin times should be closely monitored in patients already receiving coumarin anticoagulants who are started on bicalutamide and adjustment of the anticoagulant dose may be necessary. R-bicalutamide is an inhibitor of CYP 3A4; therefore, caution should be used when bicalutamide is co-administered with CYP 3A4 substrates. ( 7 ) Prothrombin times should be closely monitored in patient already receiving coumarin anticoagulants who are started on bicalutamide. ( 7 )</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12. CLINICAL PHARMACOLOGY  12.1. Mechanism of Action  Bicalutamide is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen.  When bicalutamide is combined with LHRH analog therapy, the suppression of serum testosterone induced by the LHRH analog is not affected. However, in clinical trials with bicalutamide as a single agent for prostate cancer, rises in serum testosterone and estradiol have been noted.  In a subset of patients who have been treated with bicalutamide and an LHRH agonist, and who discontinue bicalutamide therapy due to progressive advanced prostate cancer, a reduction in Prostate Specific Antigen (PSA) and/or clinical improvement (antiandrogen withdrawal phenomenon) may be observed.  12.3. Pharmacokinetics  Absorption  Bicalutamide is well-absorbed following oral administration, although the absolute bioavailability is unknown. Co-administration of bicalutamide with food has no clinically significant effect on rate or extent of absorption.  Distribution  Bicalutamide is highly protein-bound (96%) [see Drug Interactions  (7) ] . Metabolism/Elimination  Bicalutamide undergoes stereospecific metabolism. The S (inactive) isomer is metabolized primarily by glucuronidation. The R (active) isomer also undergoes glucuronidation but is predominantly oxidized to an inactive metabolite followed by glucuronidation. Both the parent and metabolite glucuronides are eliminated in the urine and feces. The S-enantiomer is rapidly cleared relative to the R-enantiomer, with the R-enantiomer accounting for about 99% of total steady-state plasma levels.  Pharmacokinetics of the active enantiomer of bicalutamide in normal males and patients with prostate cancer are presented in Table 3.  Table 3.  Parameter  Mean  Standard Deviation  Normal Males (n=30)  Apparent Oral Clearance (L/hr)  0.320  0.103  Single Dose Peak Concentration (µg/mL)  0.768  0.178  Single Dose Time to Peak Concentration (hours)  31.3  14.6  Half-life (days)  5.8  2.29  Patients with Prostate Cancer (n=40)  C ss (µg/mL) 8.939  3.504</Section>
+</Text><Sentences>
+<Sentence id="4901" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>Clinical studies have not shown any drug interactions between bicalutamide and LHRH analogs (goserelin or leuprolide).</SentenceText>
+</Sentence>
+<Sentence id="4902" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>There is no evidence that bicalutamide induces hepatic enzymes.</SentenceText>
+</Sentence>
+<Sentence id="4903" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>In vitro studies have shown that R-bicalutamide is an inhibitor of CYP 3A4 with lesser inhibitory effects on CYP 2C9, 2C19 and 2D6 activity.</SentenceText>
+</Sentence>
+<Sentence id="4904" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>Clinical studies have shown that with co-administration of bicalutamide, mean midazolam (a CYP 3A4 substrate) levels may be increased 1.5-fold (for C max) and 1.9-fold (for AUC).</SentenceText>
+</Sentence>
+<Sentence id="4905" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>Hence, caution should be exercised when bicalutamide is co-administered with CYP 3A4 substrates.</SentenceText>
+</Sentence>
+<Sentence id="4906" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>In vitro protein-binding studies have shown that bicalutamide can displace coumarin anticoagulants from binding sites.</SentenceText>
+</Sentence>
+<Sentence id="4907" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>Prothrombin times should be closely monitored in patients already receiving coumarin anticoagulants who are started on bicalutamide and adjustment of the anticoagulant dose may be necessary.</SentenceText>
+</Sentence>
+<Sentence id="4908" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>R-bicalutamide is an inhibitor of CYP 3A4; therefore, caution should be used when bicalutamide is co-administered with CYP 3A4 substrates.</SentenceText>
+</Sentence>
+<Sentence id="4909" LabelDrug="Bicalutamide" section="34073-7">
+<SentenceText>Prothrombin times should be closely monitored in patient already receiving coumarin anticoagulants who are started on bicalutamide.</SentenceText>
+</Sentence>
+<Sentence id="4910" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Bicalutamide is a non-steroidal androgen receptor inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="4911" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue.</SentenceText>
+</Sentence>
+<Sentence id="4912" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen.</SentenceText>
+</Sentence>
+<Sentence id="4913" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>When bicalutamide is combined with LHRH analog therapy, the suppression of serum testosterone induced by the LHRH analog is not affected.</SentenceText>
+</Sentence>
+<Sentence id="4914" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>However, in clinical trials with bicalutamide as a single agent for prostate cancer, rises in serum testosterone and estradiol have been noted.</SentenceText>
+</Sentence>
+<Sentence id="4915" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>In a subset of patients who have been treated with bicalutamide and an LHRH agonist, and who discontinue bicalutamide therapy due to progressive advanced prostate cancer, a reduction in Prostate Specific Antigen (PSA) and/or clinical improvement (antiandrogen withdrawal phenomenon) may be observed.</SentenceText>
+</Sentence>
+<Sentence id="4916" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Absorption Bicalutamide is well-absorbed following oral administration, although the absolute bioavailability is unknown.</SentenceText>
+</Sentence>
+<Sentence id="4917" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Co-administration of bicalutamide with food has no clinically significant effect on rate or extent of absorption.</SentenceText>
+</Sentence>
+<Sentence id="4918" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Distribution Bicalutamide is highly protein-bound (96%).</SentenceText>
+</Sentence>
+<Sentence id="4919" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Metabolism/Elimination Bicalutamide undergoes stereospecific metabolism.</SentenceText>
+</Sentence>
+<Sentence id="4920" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>The S (inactive) isomer is metabolized primarily by glucuronidation.</SentenceText>
+</Sentence>
+<Sentence id="4921" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>The R (active) isomer also undergoes glucuronidation but is predominantly oxidized to an inactive metabolite followed by glucuronidation.</SentenceText>
+</Sentence>
+<Sentence id="4922" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Both the parent and metabolite glucuronides are eliminated in the urine and feces.</SentenceText>
+</Sentence>
+<Sentence id="4923" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>The S-enantiomer is rapidly cleared relative to the R-enantiomer, with the R-enantiomer accounting for about 99% of total steady-state plasma levels.</SentenceText>
+</Sentence>
+<Sentence id="4924" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Pharmacokinetics of the active enantiomer of bicalutamide in normal males and patients with prostate cancer are presented in Table 3.</SentenceText>
+</Sentence>
+<Sentence id="4925" LabelDrug="Bicalutamide" section="34090-1">
+<SentenceText>Parameter Mean Standard Deviation Normal Males (n=30) Apparent Oral Clearance (L/hr) 0.320 0.103 Single Dose Peak</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

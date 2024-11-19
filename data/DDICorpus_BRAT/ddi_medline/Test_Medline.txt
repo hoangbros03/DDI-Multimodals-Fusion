@@ -1,0 +1,690 @@
+21705423|a|Metabotropic glutamate receptor 5 antagonist protects dopaminergic and noradrenergic neurons from degeneration in MPTP-treated monkeys. Degeneration of the dopaminergic nigrostriatal system and of noradrenergic neurons in the locus coeruleus are important pathological features of Parkinson's disease. There is an urgent need to develop therapies that slow down the progression of neurodegeneration in Parkinson's disease. In the present study, we tested whether the highly specific metabotropic glutamate receptor 5 antagonist, 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine, reduces dopaminergic and noradrenergic neuronal loss in monkeys rendered parkinsonian by chronic treatment with low doses of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. Weekly intramuscular 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine injections (0.2-0.5 mg/kg body weight), in combination with daily administration of 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine or vehicle, were performed until the development of parkinsonian motor symptoms in either of the two experimental groups (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine versus 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle). After 21 weeks of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine treatment, all 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated animals displayed parkinsonian symptoms, whereas none of the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated monkeys were significantly affected. These behavioural observations were consistent with in vivo positron emission tomography dopamine transporter imaging data, and with post-mortem stereological counts of midbrain dopaminergic neurons, as well as striatal intensity measurements of dopamine transporter and tyrosine hydroxylase immunoreactivity, which were all significantly higher in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated animals than in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated monkeys. The 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine treatment also had a significant effect on the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced loss of norepinephrine neurons in the locus coeruleus and adjoining A5 and A7 noradrenaline cell groups. In 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/vehicle-treated animals, almost 40% loss of tyrosine hydroxylase-positive norepinephrine neurons was found in locus coeruleus/A5/A7 noradrenaline cell groups, whereas the extent of neuronal loss was lower than 15% of control values in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine/3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine-treated monkeys. Our data demonstrate that chronic treatment with the metabotropic glutamate receptor 5 antagonist, 3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine, significantly reduces 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine toxicity towards dopaminergic and noradrenergic cell groups in non-human primates. This suggests that the use of metabotropic glutamate receptor 5 antagonists may be a useful strategy to reduce degeneration of catecholaminergic neurons in Parkinson's disease.
+21705423	T1	DRUG_N 114 118	MPTP
+21705423	T2	DRUG_N 529 577	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T3	DRUG_N 704 748	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T4	DRUG_N 771 815	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T5	DRUG_N 900 948	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T6	DRUG_N 1071 1115	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T7	DRUG_N 1116 1164	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T8	DRUG_N 1172 1216	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T9	DRUG_N 1245 1289	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T10	DRUG_N 1305 1349	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T11	DRUG_N 1427 1471	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T12	DRUG_N 1472 1520	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T13	DRUG_N 1915 1959	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T14	DRUG_N 1960 2008	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T15	DRUG_N 2033 2077	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T16	DRUG_N 2107 2155	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T17	DRUG_N 2203 2247	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T18	DRUG_N 2364 2408	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T19	DRUG_N 2644 2688	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	T20	DRUG_N 2689 2737	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T21	DRUG_N 2854 2902	3-[(2-methyl-1,3-thiazol-4-yl) ethynyl] pyridine
+21705423	T22	DRUG_N 2926 2970	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+21705423	R1	EFFECT Arg1:T11 Arg2:T12
+21705423	R2	EFFECT Arg1:T13 Arg2:T14
+21705423	R3	EFFECT Arg1:T16 Arg2:T17
+21705423	R4	EFFECT Arg1:T19 Arg2:T20
+21705423	R5	EFFECT Arg1:T21 Arg2:T22
+
+21706316|a|Effect of ketoconazole-mediated CYP3A4 inhibition on clinical pharmacokinetics of panobinostat (LBH589), an orally active histone deacetylase inhibitor. Panobinostat is partly metabolized by CYP3A4 in vitro. This study evaluated the effect of a potent CYP3A inhibitor, ketoconazole, on the pharmacokinetics and safety of panobinostat. Patients received a single panobinostat oral dose on day 1, followed by 4  days wash-out period. On days 5-9, ketoconazole was administered. On day 8, a single panobinostat dose was co-administered with ketoconazole. Panobinostat was administered as single agent three times a week on day 15 and onward. In the presence of ketoconazole, there was 1.6- and 1.8-fold increase in C (max) and AUC of panobinostat, respectively. No substantial change in T (max) or half-life was observed. No difference in panobinostat-pharmacokinetics between patients carrying CYP3A5*1/*3 and CYP3A5*3/*3 alleles was observed. Most frequently reported adverse events were gastrointestinal related. Patients had asymptomatic hypophosphatemia (64%), and urine analysis suggested renal phosphate wasting. Co-administration of panobinostat with CYP3A inhibitors is feasible as the observed increase in panobinostat PK parameters was not considered clinically relevant. Considering the variability in exposure following enzyme inhibition and the fact that chronic dosing of panobinostat was not studied with CYP3A inhibitors, close monitoring of panobinostat-related adverse events is necessary.
+21706316	T1	DRUG 10 22	ketoconazole
+21706316	T2	DRUG 82 94	panobinostat
+21706316	T3	DRUG 96 102	LBH589
+21706316	T4	GROUP 122 151	histone deacetylase inhibitor
+21706316	T5	DRUG 153 165	Panobinostat
+21706316	T6	DRUG 269 281	ketoconazole
+21706316	T7	DRUG 321 333	panobinostat
+21706316	T8	DRUG 362 374	panobinostat
+21706316	T9	DRUG 445 457	ketoconazole
+21706316	T10	DRUG 495 507	panobinostat
+21706316	T11	DRUG 538 550	ketoconazole
+21706316	T12	DRUG 552 564	Panobinostat
+21706316	T13	DRUG 658 670	ketoconazole
+21706316	T14	DRUG 731 743	panobinostat
+21706316	T15	DRUG 836 848	panobinostat
+21706316	T16	DRUG 1138 1150	panobinostat
+21706316	T17	DRUG 1213 1225	panobinostat
+21706316	T18	DRUG 1384 1396	panobinostat
+21706316	T19	DRUG 1456 1468	panobinostat
+21706316	R1	MECHANISM Arg1:T13 Arg2:T14
+
+21715267|a|Interaction study of moxifloxacin and lomefloxacin with co-administered drugs. Moxifloxacin and lomefloxacin are fluoroquinolone antibiotics used in treating urinary and respiratory tract infections. Fluoroquinolones are known to have interactions with drugs that are active in gastro intestinal tract. Being moxifloxacin and lomefloxacin fluoroquinolones the interaction study of was carried out with sucralfate, gelusil, erythromycin and multi minerals. The interaction was studied at neutral, acidic and basic conditions both at room temperature and 37  C. The effect of dissolution medium simulating various body environments with response to pH has been examined in order to elucidate the interactions. The response of moxifloxacin and lomefloxacin after interaction with co-administered drugs at different conditions and temperature were noted using a Shimadzu HPLC system with PDA detector. It was seen that interaction of these fluoroquinolones was more at 37  C than at room temperature. Moxifloxacin and Lomefloxacin reacts faster with sucralfate and gelusil in acidic media whereas with erythromycin in basic media and multi-minerals in neutral media. The study ensures the interaction of fluoroquinolones with selected class of drugs. In order to achieve the effective therapeutic effect appropriate time intervals between administrations of drugs is essential.
+21715267	T1	DRUG 21 33	moxifloxacin
+21715267	T2	DRUG 38 50	lomefloxacin
+21715267	T3	DRUG 79 91	Moxifloxacin
+21715267	T4	DRUG 96 108	lomefloxacin
+21715267	T5	GROUP 113 140	fluoroquinolone antibiotics
+21715267	T6	GROUP 200 216	Fluoroquinolones
+21715267	T7	DRUG 309 321	moxifloxacin
+21715267	T8	GROUP 339 355	fluoroquinolones
+21715267	T9	DRUG 402 412	sucralfate
+21715267	T10	BRAND 414 421	gelusil
+21715267	T11	DRUG 423 435	erythromycin
+21715267	T12	GROUP 440 454	multi minerals
+21715267	T13	DRUG 724 736	moxifloxacin
+21715267	T14	DRUG 741 753	lomefloxacin
+21715267	T15	GROUP 936 952	fluoroquinolones
+21715267	T16	DRUG 997 1009	Moxifloxacin
+21715267	T17	DRUG 1014 1026	Lomefloxacin
+21715267	T18	DRUG 1046 1056	sucralfate
+21715267	T19	BRAND 1061 1068	gelusil
+21715267	T20	DRUG 1098 1110	erythromycin
+21715267	T21	GROUP 1130 1144	multi-minerals
+21715267	T22	GROUP 1200 1216	fluoroquinolones
+21715267	R1	MECHANISM Arg1:T16 Arg2:T18
+21715267	R2	MECHANISM Arg1:T16 Arg2:T19
+21715267	R3	MECHANISM Arg1:T16 Arg2:T20
+21715267	R4	MECHANISM Arg1:T16 Arg2:T21
+21715267	R5	MECHANISM Arg1:T17 Arg2:T18
+21715267	R6	MECHANISM Arg1:T17 Arg2:T19
+21715267	R7	MECHANISM Arg1:T17 Arg2:T20
+21715267	R8	MECHANISM Arg1:T17 Arg2:T21
+
+21716267|a|Exposure to oral S-ketamine is unaffected by itraconazole but greatly increased by ticlopidine. This study examined drug-drug interactions of oral S-ketamine with the cytochrome P450 (CYP) 2B6 inhibitor ticlopidine and the CYP3A inhibitor itraconazole. In this randomized, blinded, crossover study, 11 healthy volunteers ingested 0.2 mg/kg S-ketamine after pretreatments with oral ticlopidine (250 mg twice daily), itraconazole (200 mg once daily), or placebo in 6-day treatment periods at intervals of 4 weeks. Ticlopidine treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (AUC(0-   )) of oral ketamine by 2.4-fold, whereas itraconazole treatment did not increase the exposure to S-ketamine. The ratio of norketamine AUC(0-   ) to ketamine AUC(0-   ) was significantly decreased in the ticlopidine (P &lt; 0.001) and itraconazole phases (P = 0.006) as compared to placebo. In the ticlopidine and itraconazole phases, the areas under the effect-time curves (self-reported drowsiness and performance) were significantly higher than those in the placebo phase (P < 0.05). The findings suggest that the dosage of S-ketamine should be reduced in patients receiving ticlopidine.
+21716267	T1	DRUG 17 27	S-ketamine
+21716267	T2	DRUG 45 57	itraconazole
+21716267	T3	DRUG 83 94	ticlopidine
+21716267	T4	DRUG 147 157	S-ketamine
+21716267	T5	DRUG 203 214	ticlopidine
+21716267	T6	DRUG 239 251	itraconazole
+21716267	T7	DRUG 340 350	S-ketamine
+21716267	T8	DRUG 381 392	ticlopidine
+21716267	T9	DRUG 415 427	itraconazole
+21716267	T10	DRUG 512 523	Ticlopidine
+21716267	T11	DRUG 646 654	ketamine
+21716267	T12	DRUG 676 688	itraconazole
+21716267	T13	DRUG 732 742	S-ketamine
+21716267	T14	DRUG_N 757 768	norketamine
+21716267	T15	DRUG 783 791	ketamine
+21716267	T16	DRUG 838 849	ticlopidine
+21716267	T17	DRUG 869 881	itraconazole
+21716267	T18	DRUG 932 943	ticlopidine
+21716267	T19	DRUG 948 960	itraconazole
+21716267	T20	DRUG 1161 1171	S-ketamine
+21716267	T21	DRUG 1212 1223	ticlopidine
+21716267	R1	EFFECT Arg1:T1 Arg2:T3
+21716267	R2	MECHANISM Arg1:T10 Arg2:T11
+21716267	R3	ADVISE Arg1:T20 Arg2:T21
+
+21720561|a|Determinants of sensitivity to DZNep induced apoptosis in multiple myeloma cells. The 3-Deazaneplanocin A (DZNep), one of S-adenosylhomocysteine (AdoHcy) hydrolase inhibitors, has shown antitumor activities in a broad range of solid tumors and acute myeloid leukemia. Here, we examined its effects on multiple myeloma (MM) cells and found that, at 500 nM, it potently inhibited growth and induced apoptosis in 2 of 8 MM cell lines. RNA from un-treated and DZNep treated cells was profiled by Affymetrix HG-U133 Plus 2.0 microarray and genes with a significant change in gene expression were determined by significance analysis of microarray (SAM) testing. ALOX5 was the most down-regulated gene (5.8-fold) in sensitive cells and was expressed at low level in resistant cells. The results were corroborated by quantitative RT-PCR. Western-blot analysis indicated ALOX5 was highly expressed only in sensitive cell line H929 and greatly decreased upon DZNep treatment. Ectopic expression of ALOX5 reduced sensitivity to DZNep in H929 cells. Furthermore, down-regulation of ALOX5 by RNA interference could also induce apoptosis in H929. Gene expression analysis on MM patient dataset indicated ALOX5 expression was significantly higher in MM patients compared to normal plasma cells. We also found that Bcl-2 was overexpressed in DZNep insensitive cells, and cotreatment with DZNep and ABT-737, a Bcl-2 family inhibitor, synergistically inhibited growth and induced apoptosis of DZNep insensitive MM cells. Taken together, this study shows one of mechanisms of the DZNep efficacy on MM correlates with its ability to down-regulate the ALOX5 levels. In addition, DZNep insensitivity might be associated with overexpression of Bcl-2, and the combination of ABT-737 and DZNep could synergistically induced apoptosis. These results suggest that DZNep may be exploited therapeutically for a subset of MM.
+21720561	T1	DRUG_N 31 36	DZNep
+21720561	T2	DRUG_N 86 105	3-Deazaneplanocin A
+21720561	T3	DRUG_N 107 112	DZNep
+21720561	T4	DRUG_N 456 461	DZNep
+21720561	T5	DRUG_N 949 954	DZNep
+21720561	T6	DRUG_N 1017 1022	DZNep
+21720561	T7	DRUG_N 1326 1331	DZNep
+21720561	T8	DRUG_N 1372 1377	DZNep
+21720561	T9	DRUG_N 1382 1389	ABT-737
+21720561	T10	DRUG_N 1475 1480	DZNep
+21720561	T11	DRUG_N 1561 1566	DZNep
+21720561	T12	DRUG_N 1658 1663	DZNep
+21720561	T13	DRUG_N 1751 1758	ABT-737
+21720561	T14	DRUG_N 1763 1768	DZNep
+21720561	T15	DRUG_N 1837 1842	DZNep
+21720561	R1	EFFECT Arg1:T8 Arg2:T9
+21720561	R2	EFFECT Arg1:T13 Arg2:T14
+
+21729965|a|Implanon   failure in an HIV-positive woman on antiretroviral therapy resulting in two ectopic pregnancies. Since its introduction in 1999, Implanon   remains one of the preferred contraceptive choices for many women as it offers a highly effective means of long-term contraception for three years that does not rely on adherence. Like all hormonal contraceptives, certain hepatic enzyme-inducing drugs may reduce its efficacy. We present an interesting case of an HIV-positive woman on antiretroviral therapy having tubal pregnancies on two separate occasions with Implanon in place.
+21729965	T1	BRAND 0 8	Implanon
+21729965	T2	GROUP 47 61	antiretroviral
+21729965	T3	BRAND 140 148	Implanon
+21729965	T4	GROUP 340 363	hormonal contraceptives
+21729965	T5	GROUP 487 501	antiretroviral
+21729965	T6	BRAND 566 574	Implanon
+21729965	R1	EFFECT Arg1:T1 Arg2:T2
+21729965	R2	EFFECT Arg1:T5 Arg2:T6
+
+21731754|a|Antidepressant-warfarin interaction and associated gastrointestinal bleeding risk in a case-control study. Bleeding is the most common and worrisome adverse effect of warfarin therapy. One of the factors that might increase bleeding risk is initiation of interacting drugs that potentiate warfarin. We sought to evaluate whether initiation of an antidepressant increases the risk of hospitalization for gastrointestinal bleeding in warfarin users. Medicaid claims data (1999-2005) were used to perform an observational case-control study nested within person-time exposed to warfarin in those   18 years. In total, 430,455 warfarin users contributed 407,370 person-years of warfarin use. The incidence rate of hospitalization for GI bleeding among warfarin users was 4.48 per 100 person-years (95% CI, 4.42-4.55). Each gastrointestinal bleeding cases was matched to 50 controls based on index date and state. Warfarin users had an increased odds ratio of gastrointestinal bleeding upon initiation of citalopram (OR   =   1.73 [95% CI, 1.25-2.38]), fluoxetine (OR   =   1.63 [95% CI, 1.11-2.38]), paroxetine (OR   =   1.64 [95% CI, 1.27-2.12]), amitriptyline (OR   =   1.47 [95% CI, 1.02-2.11]). Also mirtazapine, which is not believed to interact with warfarin, increased the risk of GI bleeding (OR   =   1.75 [95% CI, 1.30-2.35]). Warfarin users who initiated citalopram, fluoxetine, paroxetine, amitriptyline, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding. However, the elevated risk with mirtazapine suggests that a drug-drug interaction may not have been responsible for all of the observed increased risk.
+21731754	T1	GROUP 0 14	Antidepressant
+21731754	T2	DRUG 15 23	warfarin
+21731754	T3	DRUG 167 175	warfarin
+21731754	T4	DRUG 289 297	warfarin
+21731754	T5	GROUP 346 360	antidepressant
+21731754	T6	DRUG 432 440	warfarin
+21731754	T7	DRUG 575 583	warfarin
+21731754	T8	DRUG 623 631	warfarin
+21731754	T9	DRUG 674 682	warfarin
+21731754	T10	DRUG 748 756	warfarin
+21731754	T11	DRUG 909 917	Warfarin
+21731754	T12	DRUG 1000 1010	citalopram
+21731754	T13	DRUG 1048 1058	fluoxetine
+21731754	T14	DRUG 1096 1106	paroxetine
+21731754	T15	DRUG 1144 1157	amitriptyline
+21731754	T16	DRUG 1200 1211	mirtazapine
+21731754	T17	DRUG 1252 1260	warfarin
+21731754	T18	DRUG 1333 1341	Warfarin
+21731754	T19	DRUG 1362 1372	citalopram
+21731754	T20	DRUG 1374 1384	fluoxetine
+21731754	T21	DRUG 1386 1396	paroxetine
+21731754	T22	DRUG 1398 1411	amitriptyline
+21731754	T23	DRUG 1416 1427	mirtazapine
+21731754	T24	DRUG 1532 1543	mirtazapine
+21731754	R1	EFFECT Arg1:T11 Arg2:T12
+21731754	R2	EFFECT Arg1:T11 Arg2:T13
+21731754	R3	EFFECT Arg1:T11 Arg2:T14
+21731754	R4	EFFECT Arg1:T11 Arg2:T15
+21731754	R5	EFFECT Arg1:T16 Arg2:T17
+21731754	R6	EFFECT Arg1:T18 Arg2:T19
+21731754	R7	EFFECT Arg1:T18 Arg2:T20
+21731754	R8	EFFECT Arg1:T18 Arg2:T21
+21731754	R9	EFFECT Arg1:T18 Arg2:T22
+21731754	R10	EFFECT Arg1:T18 Arg2:T23
+
+21741958|a|Effects of CYP inhibitors on precocene I metabolism and toxicity in rat liver slices. We present a comprehensive in vitro approach to assessing metabolism-mediated hepatotoxicity using male Sprague-Dawley rat liver slices incubated with the well characterized hepatotoxicant, precocene I, and inhibitors of cytochrome P450 (CYP) enzymes. This approach combines liquid chromatography mass spectrometry (LC MS) detection methods with multiple toxicity endpoints to enable identification of critical metabolic pathways for hepatotoxicity. The incubations were performed in the absence and presence of the non-specific CYP inhibitor, 1-aminobenzotriazole (ABT) and isoform-specific inhibitors. The metabolite profile of precocene I in rat liver slices shares some features of the in vivo profile, but also had a major difference in that epoxide dihydrodiol hydrolysis products were not observed to a measurable extent. As examples of our liver slice metabolite identification procedure, a minor glutathione adduct and previously unreported 7-O-desmethyl and glucuronidated metabolites of precocene I are reported. Precocene I induced hepatocellular necrosis in a dose- and time-dependent manner. ABT decreased the toxicity of precocene I, increased exposure to parent compound, and decreased metabolite levels in a dose-dependent manner. Of the isoform-specific CYP inhibitors tested for an effect on the precocene I metabolite profile, only tranylcypromine was noticeably effective, indicating a role of CYPs 2A6, 2C9, 2Cl9, and 2E1. With respect to toxicity, the order of CYP inhibitor effectiveness was ABT>diethyldithiocarbamate~tranylcypromine>ketoconazole. Furafylline and sulfaphenazole had no effect, while quinidine appeared to augment precocene I toxicity. These results suggest that rat liver slices do not reproduce the reported in vivo biotransformation of precocene I and therefore may not be an appropriate model for precocene I metabolism. However, these results provide an example of how small molecule manipulation of CYP activity in an in vitro model can be used to confirm metabolism-mediated toxicity.
+21741958	T1	DRUG_N 29 40	precocene I
+21741958	T2	DRUG_N 276 287	precocene I
+21741958	T3	DRUG_N 630 650	1-aminobenzotriazole
+21741958	T4	DRUG_N 652 655	ABT
+21741958	T5	DRUG_N 716 727	precocene I
+21741958	T6	DRUG_N 1084 1095	precocene I
+21741958	T7	DRUG_N 1110 1121	Precocene I
+21741958	T8	DRUG_N 1192 1195	ABT
+21741958	T9	DRUG_N 1222 1233	precocene I
+21741958	T10	DRUG_N 1401 1412	precocene I
+21741958	T11	DRUG 1438 1453	tranylcypromine
+21741958	T12	DRUG_N 1602 1605	ABT
+21741958	T13	DRUG_N 1606 1628	diethyldithiocarbamate
+21741958	T14	DRUG 1629 1644	tranylcypromine
+21741958	T15	DRUG 1645 1657	ketoconazole
+21741958	T16	DRUG_N 1659 1670	Furafylline
+21741958	T17	DRUG_N 1675 1689	sulfaphenazole
+21741958	T18	DRUG 1711 1720	quinidine
+21741958	T19	DRUG_N 1741 1752	precocene I
+21741958	T20	DRUG_N 1866 1877	precocene I
+21741958	T21	DRUG_N 1928 1939	precocene I
+21741958	R1	EFFECT Arg1:T8 Arg2:T9
+21741958	R2	EFFECT Arg1:T18 Arg2:T19
+
+21750604|a|Glycosidic enzymes enhance retinal transduction following intravitreal delivery of AAV2. To determine whether the co-injection of extracellular matrix degrading enzymes improves retinal transduction following intravitreal delivery of adeno-associated virus-2 (AAV2). AAV2 containing cDNA encoding enhanced green fluorescent protein (GFP), under the control of a chicken   -actin promoter, was delivered by intravitreal injection to adult mice in conjunction with enzymes including collagenase, hyaluronan lyase, heparinase III, or chondroitin ABC lyase. Two weeks later, retinal flatmounts were examined for GFP expression using confocal microscopy. Without the addition of enzymes, transduction was limited to occasional cells in the retinal ganglion cell layer. The addition of heparinase III or chondroitin ABC lyase greatly enhanced transduction of the retinal ganglion cell layer and increased the depth of transduction into the outer retina. Hyaluronan lyase had a limited effect and collagenase was ineffective. Electroretinograms survived with higher concentrations of heparinase III and chondroitin ABC lyase than were required for optimal retinal transduction. AAV2-mediated retinal transduction is improved by co-injection of heparinase III or chondroitin ABC lyase. Improved transduction efficiency may allow intravitreal injection to become the preferred route for delivering gene therapy to both the inner and outer retina.
+21750604	T1	DRUG_N 83 87	AAV2
+21750604	T2	DRUG_N 234 258	adeno-associated virus-2
+21750604	T3	DRUG_N 260 264	AAV2
+21750604	T4	DRUG_N 267 271	AAV2
+21750604	T5	DRUG_N 481 492	collagenase
+21750604	T6	DRUG_N 494 510	hyaluronan lyase
+21750604	T7	DRUG_N 512 526	heparinase III
+21750604	T8	DRUG_N 531 552	chondroitin ABC lyase
+21750604	T9	DRUG_N 780 794	heparinase III
+21750604	T10	DRUG_N 798 819	chondroitin ABC lyase
+21750604	T11	DRUG_N 948 964	Hyaluronan lyase
+21750604	T12	DRUG_N 990 1001	collagenase
+21750604	T13	DRUG_N 1077 1091	heparinase III
+21750604	T14	DRUG_N 1096 1117	chondroitin ABC lyase
+21750604	T15	DRUG_N 1171 1175	AAV2
+21750604	T16	DRUG_N 1237 1251	heparinase III
+21750604	T17	DRUG_N 1255 1276	chondroitin ABC lyase
+21750604	R1	EFFECT Arg1:T15 Arg2:T16
+21750604	R2	EFFECT Arg1:T15 Arg2:T17
+
+21751692|a|Prevention of emergence agitation in seven children receiving low-dose ketamine and propofol total intravenous anesthesia. Emergence agitation (EA) can be a distressing side effect of pediatric anesthesia. We retrospectively reviewed the records of 7 pediatric oncology patients who received low-dose ketamine in conjunction with propofol for total intravenous anesthesia (TIVA) repeatedly for radiation therapy. EA signs were observed in all 7 patients in association with propofol TIVA but did not recur in any of 123 subsequent anesthetics sessions during which low-dose ketamine was added to propofol. Based on this experience, we suggest that low-dose ketamine added to propofol may be associated with prevention of EA in children with a history of EA with propofol TIVA.
+21751692	T1	DRUG 71 79	ketamine
+21751692	T2	DRUG 84 92	propofol
+21751692	T3	DRUG 301 309	ketamine
+21751692	T4	DRUG 330 338	propofol
+21751692	T5	DRUG 474 482	propofol
+21751692	T6	DRUG 574 582	ketamine
+21751692	T7	DRUG 596 604	propofol
+21751692	T8	DRUG 657 665	ketamine
+21751692	T9	DRUG 675 683	propofol
+21751692	T10	DRUG 762 770	propofol
+21751692	R1	EFFECT Arg1:T8 Arg2:T9
+
+21751753|a|Tamoxifen and CYP 2D6 inhibitors: caution. Tamoxifen, an estrogen antagonist, is the standard hormone treatment for breast cancer. It is extensively transformed into its active metabolites by the cytochrome P450 enzyme system, especially into endoxifen by isoenzyme CYP 2D6. Co-administration of tamoxifen with isoenzyme CYP 2D6 inhibitors reduces this metabolism. Selective serotonin reuptake inhibitor (SSRI) antidepressants inhibit isoenzyme CYP 2D6. Paroxetine and fluoxetine reduce the plasma concentration of endoxifen by about 50%. Two epidemiological studies involving about 3700 women have shown a link between the use of SSRI antidepressants and an increased frequency of breast cancer recurrence. Other studies, with a lower level of evidence, were less convincing. Studies of other isoenzyme CYP 2D6 inhibitors showed no increase in the risk of breast cancer recurrence, but they lacked statistical power. It is better to avoid prescribing isoenzyme CYP 2D6 inhibitors to women treated with tamoxifen for breast cancer, especially SSRI antidepressants such as paroxetine and fluoxetine. Depression does not always require antidepressant drug therapy, and antidepressants have no proven preventive impact on hot flushes linked to the menopause. If in certain cases, an antidepressant is considered necessary, it may be advisable to replace tamoxifen with anastrozole.
+21751753	T1	DRUG 0 9	Tamoxifen
+21751753	T2	DRUG 43 52	Tamoxifen
+21751753	T3	GROUP 57 76	estrogen antagonist
+21751753	T4	DRUG_N 243 252	endoxifen
+21751753	T5	DRUG 296 305	tamoxifen
+21751753	T6	GROUP 365 426	Selective serotonin reuptake inhibitor (SSRI) antidepressants
+21751753	T7	DRUG 454 464	Paroxetine
+21751753	T8	DRUG 469 479	fluoxetine
+21751753	T9	DRUG_N 515 524	endoxifen
+21751753	T10	GROUP 631 651	SSRI antidepressants
+21751753	T11	DRUG 1003 1012	tamoxifen
+21751753	T12	GROUP 1043 1063	SSRI antidepressants
+21751753	T13	DRUG 1072 1082	paroxetine
+21751753	T14	DRUG 1087 1097	fluoxetine
+21751753	T15	GROUP 1134 1153	antidepressant drug
+21751753	T16	GROUP 1167 1182	antidepressants
+21751753	T17	GROUP 1280 1294	antidepressant
+21751753	T18	DRUG 1351 1360	tamoxifen
+21751753	T19	DRUG 1366 1377	anastrozole
+21751753	R1	MECHANISM Arg1:T7 Arg2:T9
+21751753	R2	MECHANISM Arg1:T8 Arg2:T9
+21751753	R3	ADVISE Arg1:T11 Arg2:T12
+21751753	R4	ADVISE Arg1:T11 Arg2:T13
+21751753	R5	ADVISE Arg1:T11 Arg2:T14
+21751753	R6	ADVISE Arg1:T17 Arg2:T18
+
+21753255|a|Amphetamine locomotor sensitization and conditioned place preference in adolescent male and female rats neonatally treated with quinpirole. Neonatal quinpirole treatment has been shown to produce an increase in dopamine D2-like receptor sensitivity that persists throughout the subject's lifetime. The objective was to analyze the effects of neonatal quinpirole treatment on effects of amphetamine in adolescent rats using locomotor sensitization and conditioned place preference procedures. Sprague-Dawley rats were treated with quinpirole (1 mg/kg) or saline from postnatal days (P)1 to P11 and raised to adolescence. For locomotor sensitization, subjects were given amphetamine (1 mg/kg) or saline every second day from P35 to P47 and were placed into a locomotor arena. In female rats, neonatal quinpirole treatment enhanced amphetamine locomotor sensitization compared with quinpirole-free controls sensitized to amphetamine. Male rats demonstrated sensitization to amphetamine, although this was muted compared with female rats, and were unaffected by neonatal quinpirole. For conditioned place preference, subjects were conditioned for 8 consecutive days (P32-39) with amphetamine (1 mg/kg) or saline and a drug-free preference test was conducted at P40. Rats treated with neonatal quinpirole enhanced time spent in the amphetamine-paired context compared with quinpirole-free controls conditioned with amphetamine, but only female controls conditioned with amphetamine spent more time in the drug-paired context compared with saline-treated controls. Increased D   -like receptor sensitivity appears to have enhanced the behavioral effects of amphetamine, but these effects were more prevalent in adolescent female rats compared with male rats.
+21753255	T1	DRUG 0 11	Amphetamine
+21753255	T2	DRUG_N 128 138	quinpirole
+21753255	T3	DRUG_N 149 159	quinpirole
+21753255	T4	DRUG_N 351 361	quinpirole
+21753255	T5	DRUG 386 397	amphetamine
+21753255	T6	DRUG_N 530 540	quinpirole
+21753255	T7	DRUG 669 680	amphetamine
+21753255	T8	DRUG_N 799 809	quinpirole
+21753255	T9	DRUG 829 840	amphetamine
+21753255	T10	DRUG_N 879 889	quinpirole
+21753255	T11	DRUG 918 929	amphetamine
+21753255	T12	DRUG 971 982	amphetamine
+21753255	T13	DRUG_N 1067 1077	quinpirole
+21753255	T14	DRUG 1176 1187	amphetamine
+21753255	T15	DRUG_N 1289 1299	quinpirole
+21753255	T16	DRUG 1327 1338	amphetamine
+21753255	T17	DRUG_N 1368 1378	quinpirole
+21753255	T18	DRUG 1410 1421	amphetamine
+21753255	T19	DRUG 1465 1476	amphetamine
+21753255	T20	DRUG 1651 1662	amphetamine
+21753255	R1	EFFECT Arg1:T8 Arg2:T9
+
+21753749|a|In vivo CYP3A activity is significantly lower in cyclosporine-treated as compared with tacrolimus-treated renal allograft recipients. In vitro studies have identified cyclosporine and tacrolimus as CYP3A inhibitors. In the current study in renal allograft recipients, we used intravenously and orally administered midazolam as a drug probe to assess whether the study drugs at doses that are generally used in clinical practice have differential effects on in vivo hepatic and first-pass CYP3A activities. Systemic and apparent oral midazolam clearance were 24% (269    73 vs. 354    102  ml/min, P = 0.022) and 31% (479    190 vs. 688    265  ml/min, P = 0.013), respectively, lower in cyclosporine-treated patients (n = 20) than in matched tacrolimus-treated patients (n = 20). The latter displayed midazolam clearances similar to those in two larger cohorts of nonmatched tacrolimus-treated patients (n = 58 and n = 80) and to those receiving a calcineurin inhibitor-free regimen (n = 6). This implies that in vivo hepatic and first-pass CYP3A activities are significantly lower in patients receiving cyclosporine than in those receiving tacrolimus, indicating that, at the doses generally used in clinical practice, cyclosporine is the stronger of the two with respect to CYP3A inhibition. This observation has important implications in the context of drug-drug interactions in transplant recipients.
+21753749	T1	DRUG 49 61	cyclosporine
+21753749	T2	DRUG 87 97	tacrolimus
+21753749	T3	DRUG 167 179	cyclosporine
+21753749	T4	DRUG 184 194	tacrolimus
+21753749	T5	DRUG 314 323	midazolam
+21753749	T6	DRUG 533 542	midazolam
+21753749	T7	DRUG 687 699	cyclosporine
+21753749	T8	DRUG 742 752	tacrolimus
+21753749	T9	DRUG 801 810	midazolam
+21753749	T10	DRUG 875 885	tacrolimus
+21753749	T11	GROUP 948 969	calcineurin inhibitor
+21753749	T12	DRUG 1104 1116	cyclosporine
+21753749	T13	DRUG 1141 1151	tacrolimus
+21753749	T14	DRUG 1220 1232	cyclosporine
+21753749	R1	MECHANISM Arg1:T6 Arg2:T7
+
+
+21762640|a|Improved parathyroid hormone control by cinacalcet is associated with reduction in darbepoetin requirement in patients with end-stage renal disease. Uncontrolled hy-per-parathyroidism causes bone marrow fibrosis, leading to erythropoietin (EPO) resistance. Medical treatment with cinacalcet is effective in reducing plasma parathyroid hormone (PTH) levels, but its effect on darbepoetin dosing is unknown. METHODS AND AIMS: We conducted a retrospective cohort study of 40 end-stage renal disease (ESRD) patients (age: 55    14; mean    SD; 21:male) who had at least 12 months of cinacalcet therapy. The distribution of renal replacement therapies were: 14 peritoneal dialysis, 18 conventional hemodialysis and 8 nocturnal hemodialysis. Standard dialysis related biochemical indices and medications used were recorded. The primary objective of the study was to ascertain the difference in darbepoetin responsiveness before and after 12 months of cinacalcet therapy. Our secondary objective was to determine if there was a relationship between the changes in PTH and darbepoetin requirement. Overall, PTH levels decreased from 197.5 (151.8; 249.2) to 66.1 (41.2; 136.5) (median (25th;75th percentile)) pmol/l; p &lt; 0.001. Cinacalcet dose increased from 30.0   6 to 63   25 mg/day, p < 0.05. Hemoglobin remained unchanged (116   13 to 116   13 g/l), while darbepoetin requirement decreased from 40 (20; 60) to 24 (19; 59)   g/week, p = 0.02. The remainder of the dialysis-related biochemistry (electrolytes, calcium, phosphate, iron status) and vitamin D use remained unchanged. A reduction in PTH level of greater than 30% was experienced by 82.5% (33/40) of our cohort. Among the responders, the fall in PTH and reduction darbepoetin requirement were related (R = -0.48, p = 0.004). Reduction of PTH by cinacalcet is associated with a decrease in darbepoetin requirement. The interface between bone and bone marrow in uremia represents a critical step in red blood cell production which merits further investigation.
+21762640	T1	DRUG 40 50	cinacalcet
+21762640	T2	DRUG 83 94	darbepoetin
+21762640	T3	DRUG 224 238	erythropoietin
+21762640	T4	DRUG 240 243	EPO
+21762640	T5	DRUG 280 290	cinacalcet
+21762640	T6	DRUG 375 386	darbepoetin
+21762640	T7	DRUG 579 589	cinacalcet
+21762640	T8	DRUG 888 899	darbepoetin
+21762640	T9	DRUG 945 955	cinacalcet
+21762640	T10	DRUG 1065 1076	darbepoetin
+21762640	T11	DRUG 1222 1232	Cinacalcet
+21762640	T12	DRUG 1355 1366	darbepoetin
+21762640	T13	DRUG 1723 1734	darbepoetin
+21762640	T14	DRUG 1804 1814	cinacalcet
+21762640	T15	DRUG 1848 1859	darbepoetin
+21762640	R1	EFFECT Arg1:T14 Arg2:T15
+
+21763710|a|Interaction of celecoxib with different anti-cancer drugs is antagonistic in breast but not in other cancer cells. Celecoxib, an inhibitor of cyclooxygenase-2, is being investigated for enhancement of chemotherapy efficacy in cancer clinical trials. This study investigates the ability of cyclooxygenase-2 inhibitors to sensitize cells from different origins to several chemotherapeutic agents. The effect of the drug's mechanism of action and sequence of administration are also investigated. The sensitivity, cell cycle, apoptosis and DNA damage of five different cancer cell lines (HeLa, HCT116, HepG2, MCF7 and U251) to 5-FU, cisplatin, doxorubicin and etoposide   celecoxib following different incubation schedules were analyzed. We found antagonism between celecoxib and the four drugs in the breast cancer cells MCF7 following all incubation schedules and between celecoxib and doxorubicin in all cell lines except for two combinations in HCT116 cells. Celecoxib with the other three drugs in the remaining four cell lines resulted in variable interactions. Mechanistic investigations revealed that celecoxib exerts different molecular effects in different cells. In some lines, it abrogates the drug-induced G2/M arrest enhancing pre-mature entry into mitosis with damaged DNA thus increasing apoptosis and resulting in synergism. In other cells, it enhances drug-induced G2/M arrest allowing time to repair drug-induced DNA damage before entry into mitosis and decreasing cell death resulting in antagonism. In some synergistic combinations, celecoxib-induced abrogation of G2/M arrest was not associated with apoptosis but permanent arrest in G1 phase. These results, if confirmed in-vivo, indicate that celecoxib is not a suitable chemosensitizer for breast cancer or with doxorubicin for other cancers. Moreover, combination of celecoxib with other drugs should be tailored to the tumor type, drug and administration schedule.
+21763710	T1	DRUG 15 24	celecoxib
+21763710	T2	GROUP 40 57	anti-cancer drugs
+21763710	T3	DRUG 115 124	Celecoxib
+21763710	T4	GROUP 289 316	cyclooxygenase-2 inhibitors
+21763710	T5	GROUP 370 393	chemotherapeutic agents
+21763710	T6	DRUG 624 628	5-FU
+21763710	T7	DRUG 630 639	cisplatin
+21763710	T8	DRUG 641 652	doxorubicin
+21763710	T9	DRUG 657 666	etoposide
+21763710	T10	DRUG 669 678	celecoxib
+21763710	T11	DRUG 763 772	celecoxib
+21763710	T12	DRUG 871 880	celecoxib
+21763710	T13	DRUG 885 896	doxorubicin
+21763710	T14	DRUG 960 969	Celecoxib
+21763710	T15	DRUG 1106 1115	celecoxib
+21763710	T16	DRUG 1714 1723	celecoxib
+21763710	T17	DRUG 1784 1795	doxorubicin
+21763710	T18	DRUG 1840 1849	celecoxib
+21763710	R1	EFFECT Arg1:T1 Arg2:T2
+21763710	R2	EFFECT Arg1:T12 Arg2:T13
+
+21771377|a|[Interaction between clopidogrel and proton pump inhibitors]. The drug interaction between proton pump inhibitors and clopidogrel has been the subject of much study in recent years. Contradictory results regarding the effect of proton pump inhibitors on platelet reactivity and on clinical outcome in clopidogrel-treated patients have been reported in literature. Concomitant use of omeprazole and clopidogrel was found to decrease the exposure (AUC) to clopidogrel's active metabolite by 50% and to sharply increase platelet reactivity, as a result of inhibition by omeprazole of CYP2C19, a cytochrome P450 (CYP) enzyme. Pantoprazole has a much weaker effect on clopidogrel's pharmacokinetics and on platelet reactivity during concomitant use. The influence of the other proton pump inhibitors when used simultaneously with clopidogrel has not yet been investigated in adequately randomized studies. Regulatory agencies state that the combination of clopidogrel and the CYP2C19 inhibitors omeprazole and esomeprazole should be avoided. To date, there is no conclusive evidence of a clinically-relevant interaction between any of the proton pump inhibitors and clopidogrel.
+21771377	T1	DRUG 21 32	clopidogrel
+21771377	T2	GROUP 37 59	proton pump inhibitors
+21771377	T3	GROUP 91 113	proton pump inhibitors
+21771377	T4	DRUG 118 129	clopidogrel
+21771377	T5	GROUP 228 250	proton pump inhibitors
+21771377	T6	DRUG 301 312	clopidogrel
+21771377	T7	DRUG 383 393	omeprazole
+21771377	T8	DRUG 398 409	clopidogrel
+21771377	T9	DRUG 567 577	omeprazole
+21771377	T10	DRUG 622 634	Pantoprazole
+21771377	T11	DRUG 663 674	clopidogrel
+21771377	T12	GROUP 772 794	proton pump inhibitors
+21771377	T13	DRUG 825 836	clopidogrel
+21771377	T14	DRUG 951 962	clopidogrel
+21771377	T15	DRUG 990 1000	omeprazole
+21771377	T16	DRUG 1005 1017	esomeprazole
+21771377	T17	GROUP 1134 1156	proton pump inhibitors
+21771377	T18	DRUG 1161 1172	clopidogrel
+21771377	R1	MECHANISM Arg1:T7 Arg2:T8
+21771377	R2	MECHANISM Arg1:T10 Arg2:T11
+21771377	R3	ADVISE Arg1:T14 Arg2:T15
+21771377	R4	ADVISE Arg1:T14 Arg2:T16
+
+21772306|a|In vitro activity of minocycline combined with fosfomycin against clinical isolates of methicillin-resistant Staphylococcus aureus. This study aimed to evaluate the in vitro activity of minocycline combined with fosfomycin against isolates of methicillin-resistant Staphylococcus aureus (MRSA). A total of 87 clinical isolates of MRSA collected from three Chinese hospitals were included in the study. The checkerboard method with determination of the fractional IC index (FICI) was used to determine whether antibiotic combinations act synergistically against these isolates. The susceptibility results for minocycline and fosfomycin were interpreted according to the most relevant criteria. The results demonstrated the following interactions: 76 isolates (87.4%) showed synergistic interactions (FICI   0.5) and 11 isolates (12.6%) showed indifferent interactions (0.5&lt;FICI&lt;4). No antagonistic interactions (FICI   4) were observed. The combination of minocycline and fosfomycin can be synergistic against MRSA. Further studies are required to determine the potential clinical role of this combination regimen as a therapeutic alternative for certain types of MRSA infections.
+21772306	T1	DRUG 21 32	minocycline
+21772306	T2	DRUG 47 57	fosfomycin
+21772306	T3	DRUG 87 98	methicillin
+21772306	T4	DRUG 186 197	minocycline
+21772306	T5	DRUG 212 222	fosfomycin
+21772306	T6	DRUG 243 254	methicillin
+21772306	T7	GROUP 509 519	antibiotic
+21772306	T8	DRUG 608 619	minocycline
+21772306	T9	DRUG 624 634	fosfomycin
+21772306	T10	DRUG 961 972	minocycline
+21772306	T11	DRUG 977 987	fosfomycin
+21772306	R1	EFFECT Arg1:T10 Arg2:T11
+
+21785118|a|Drug interaction of levothyroxine with infant colic drops. Infacol (Forest Laboratories UK, Kent, UK) is a widely available over-the-counter preparation used to relieve colic symptoms in neonates and infants. The active ingredient is simeticone. No drug interactions with simeticone are documented in the current summary of product characteristics. The authors report the case of an infant with confirmed congenital hypothyroidism on levothyroxine who experienced a possible drug interaction with simeticone. Despite adequate levothyroxine dosage, thyroid stimulating hormone (TSH) was high, suggesting undertreatment. Questioning revealed the child was taking Infacol drops before feeds while on levothyroxine. The colic drops were immediately discontinued and TSH promptly normalised with a reduction in thyroxine requirement to an age appropriate dosage. Drug interaction of thyroxine with simeticone has not been reported previously and is not listed in the British National Formulary for Children. Clinicians and parents need to be aware of this interaction to avoid unnecessary undertreatment and prevent potential long-term neurological sequelae.
+21785118	T1	DRUG 20 33	levothyroxine
+21785118	T2	BRAND 59 66	Infacol
+21785118	T3	DRUG 234 244	simeticone
+21785118	T4	DRUG 272 282	simeticone
+21785118	T5	DRUG 434 447	levothyroxine
+21785118	T6	DRUG 497 507	simeticone
+21785118	T7	DRUG 526 539	levothyroxine
+21785118	T8	BRAND 661 668	Infacol
+21785118	T9	DRUG 697 710	levothyroxine
+21785118	T10	DRUG 878 887	thyroxine
+21785118	T11	DRUG 893 903	simeticone
+21785118	R1	INT Arg1:T5 Arg2:T6
+
+21795430|a|Calcium does not inhibit the absorption of 5 milligrams of nonheme or heme iron at doses less than 800 milligrams in nonpregnant women. Calcium is the only known component in the diet that may affect absorption of both nonheme and heme iron. However, the evidence for a calcium effect on iron absorption mainly comes from studies that did not isolate the effect of calcium from that of other dietary components, because it was detected in single-meal studies. Our objective was to establish potential effects of calcium on absorption of nonheme and heme iron and the dose response for this effect in the absence of a meal. Fifty-four healthy, nonpregnant women were selected to participate in 4 iron absorption studies using iron radioactive tracers. We evaluated the effects of calcium doses between 200 and 1500 mg on absorption of 5 mg nonheme iron (as ferrous sulfate). We also evaluated the effects of calcium doses between 200 and 800 mg on absorption of 5 mg heme iron [as concentrated RBC (CRBC)]. Calcium was administered as calcium chloride in all studies and minerals were ingested on an empty stomach. Calcium doses   1000 mg diminished nonheme iron absorption by an average of 49.6%. A calcium dose of 800 mg diminished absorption of 5 mg heme iron by 37.7%. In conclusion, we demonstrated an isolated effect of calcium (as chloride) on absorption of 5 mg of iron provided as nonheme (as sulfate) and heme (as CRBC) iron. This effect was observed at doses higher than previously reported from single-meal studies, starting at ~800 mg of calcium.
+21795430	T1	DRUG 0 7	Calcium
+21795430	T2	DRUG 59 66;75 79	nonheme iron
+21795430	T3	DRUG 70 79	heme iron
+21795430	T4	DRUG 136 143	Calcium
+21795430	T5	DRUG 219 226;236 240	nonheme iron
+21795430	T6	DRUG 231 240	heme iron
+21795430	T7	DRUG 270 277	calcium
+21795430	T8	DRUG 288 292	iron
+21795430	T9	DRUG 365 372	calcium
+21795430	T10	DRUG 512 519	calcium
+21795430	T11	DRUG 537 544;554 558	nonheme iron
+21795430	T12	DRUG 549 558	heme iron
+21795430	T13	DRUG 695 699	iron
+21795430	T14	DRUG 779 786	calcium
+21795430	T15	DRUG 839 851	nonheme iron
+21795430	T16	DRUG 856 871	ferrous sulfate
+21795430	T17	DRUG 907 914	calcium
+21795430	T18	DRUG 966 975	heme iron
+21795430	T19	DRUG 1006 1013	Calcium
+21795430	T20	DRUG 1034 1050	calcium chloride
+21795430	T21	GROUP 1070 1078	minerals
+21795430	T22	DRUG 1114 1121	Calcium
+21795430	T23	DRUG 1149 1161	nonheme iron
+21795430	T24	DRUG 1199 1206	calcium
+21795430	T25	DRUG 1252 1261	heme iron
+21795430	T26	DRUG 1325 1332	calcium
+21795430	T27	DRUG 1389 1396;1429 1433	nonheme iron
+21795430	T28	DRUG 1414 1418;1429 1433	heme iron
+21795430	T29	DRUG 1550 1557	calcium
+21795430	R1	MECHANISM Arg1:T4 Arg2:T5
+21795430	R2	MECHANISM Arg1:T4 Arg2:T6
+21795430	R3	MECHANISM Arg1:T7 Arg2:T8
+21795430	R4	MECHANISM Arg1:T22 Arg2:T23
+21795430	R5	MECHANISM Arg1:T24 Arg2:T25
+21795430	R6	MECHANISM Arg1:T26 Arg2:T27
+21795430	R7	MECHANISM Arg1:T26 Arg2:T28
+
+21796416|a|Synergistic interaction between sunitinib and docetaxel is sequence dependent in human non-small lung cancer with EGFR TKIs-resistant mutation. Previous studies have demonstrated that sunitinib has the anti-tumor activity in human non-small cell lung cancer (NSCLC). This study was aimed to investigate the efficacy of single use of sunitinib and that of concurrent or sequential administration of sunitinib and docetaxel in NSCLC cell lines that are resistant to EGFR TKIs. NSCLC cell lines with EGFR T790M mutation and K-ras mutation were exposed to either sunitinib or docetaxel or both based on various sequential administrations. After exposure, the cell viability was measured by MTT assay, cell cycle distribution was analyzed by flow cytometry, and alterations in signaling pathway were determined by immunoblotting. Sunitinib exhibited dose-dependent growth inhibition in NSCLC cell lines and arrested cell cycle at G1 phase, whereas docetaxel arrested at S phase. Although single or concurrent use of sunitinib and docetaxel has some anti-proliferative effects, the sequential administrations of both drugs remarkably enhanced anti-tumor activity. When cells were exposed to docetaxel followed by sunitinib, synergism was observed. The molecular basis of this synergism is that the signaling pathways that were initially activated by docetaxel exposure were efficiently suppressed by the subsequent exposure to sunitinib. In contrast, the reverse of this sequential administration resulted in antagonism, which may be due to differential effects on cell cycle arrest. Sunitinib as a single agent exhibits anti-proliferative effects in vitro in NSCLC cell lines with EGFR T790M and K-ras mutations but the sequential administration of docetaxel followed by sunitinib is superior to sunitinib followed by docetaxel and concurrent administration.
+21796416	T1	DRUG 32 41	sunitinib
+21796416	T2	DRUG 46 55	docetaxel
+21796416	T3	DRUG 184 193	sunitinib
+21796416	T4	DRUG 333 342	sunitinib
+21796416	T5	DRUG 398 407	sunitinib
+21796416	T6	DRUG 412 421	docetaxel
+21796416	T7	DRUG 559 568	sunitinib
+21796416	T8	DRUG 572 581	docetaxel
+21796416	T9	DRUG 825 834	Sunitinib
+21796416	T10	DRUG 943 952	docetaxel
+21796416	T11	DRUG 1011 1020	sunitinib
+21796416	T12	DRUG 1025 1034	docetaxel
+21796416	T13	DRUG 1185 1194	docetaxel
+21796416	T14	DRUG 1207 1216	sunitinib
+21796416	T15	DRUG 1344 1353	docetaxel
+21796416	T16	DRUG 1421 1430	sunitinib
+21796416	T17	DRUG 1578 1587	Sunitinib
+21796416	T18	DRUG 1744 1753	docetaxel
+21796416	T19	DRUG 1766 1775	sunitinib
+21796416	T20	DRUG 1791 1800	sunitinib
+21796416	T21	DRUG 1813 1822	docetaxel
+21796416	R1	INT Arg1:T1 Arg2:T2
+21796416	R2	EFFECT Arg1:T11 Arg2:T12
+21796416	R3	EFFECT Arg1:T13 Arg2:T14
+21796416	R4	EFFECT Arg1:T15 Arg2:T16
+21796416	R5	EFFECT Arg1:T18 Arg2:T19
+
+21800506|a|Distinct synergistic action of piperacillin and methylglyoxal against Pseudomonas aeruginosa. The dicarbonyl compound methylglyoxal is a natural constituent of Manuka honey produced from Manuka flowers in New Zealand. It is known to possess both anticancer and antibacterial activity. Such observations prompted to investigate the ability of methylglyoxal as a potent drug against multidrug resistant Pseudomonas aeruginosa. A total of 12 test P. aeruginosa strains isolated from various hospitals were tested for their resistances against many antibiotics, most of which are applied in the treatment of P. aeruginosa infections. Results revealed that the strains were resistant to many drugs at high levels, only piperacillin, carbenicillin, amikacin and ciprofloxacin showed resistances at comparatively lower levels. Following multiple experimentations it was observed that methylglyoxal was also antimicrobic against all the strains at comparable levels. Distinct and statistically significant synergism was observed between methylglyoxal and piperacillin by disc diffusion tests when compared with their individual effects. The fractional inhibitory concentration index of this combination evaluated by checkerboard analysis, was 0.5, which confirmed synergism between the pair. Synergism was also noted when methylglyoxal was combined with carbenicillin and amikacin.
+21800506	T1	DRUG 31 43	piperacillin
+21800506	T2	DRUG_N 48 61	methylglyoxal
+21800506	T3	DRUG_N 118 131	methylglyoxal
+21800506	T4	DRUG_N 342 355	methylglyoxal
+21800506	T5	GROUP 545 556	antibiotics
+21800506	T6	DRUG 714 726	piperacillin
+21800506	T7	DRUG 728 741	carbenicillin
+21800506	T8	DRUG 743 751	amikacin
+21800506	T9	DRUG 756 769	ciprofloxacin
+21800506	T10	DRUG_N 877 890	methylglyoxal
+21800506	T11	DRUG_N 1029 1042	methylglyoxal
+21800506	T12	DRUG 1047 1059	piperacillin
+21800506	T13	DRUG_N 1314 1327	methylglyoxal
+21800506	T14	DRUG 1346 1359	carbenicillin
+21800506	T15	DRUG 1364 1372	amikacin
+21800506	R1	EFFECT Arg1:T11 Arg2:T12
+21800506	R2	EFFECT Arg1:T13 Arg2:T14
+21800506	R3	EFFECT Arg1:T13 Arg2:T15
+
+21807063|a|Protective effect of acetyl-l-carnitine and  alpha lipoic acid against the acute toxicity of diepoxybutane to human lymphocytes. The biotransformation and oxidative stress may contribute to 1,2:3,4-diepoxybutane (DEB)-induced toxicity to human lymphocytes of Fanconi Anemia (FA) patients. Thus, the identification of putative inhibitors of bioactivation, as well as the determination of the protective role of oxidant defenses, on DEB-induced toxicity, can help to understand what is failing in FA cells. In the present work we studied the contribution of several biochemical pathways for DEB-induced acute toxicity in human lymphocyte suspensions, by using inhibitors of epoxide hydrolases, inhibitors of protective enzymes as glutathione S-transferase and catalase, the depletion of glutathione (GSH), and the inhibition of protein synthesis; and a variety of putative protective compounds, including antioxidants, and mitochondrial protective agents. The present study reports two novel findings: (i) it was clearly evidenced, for the first time, that the acute exposure of freshly isolated human lymphocytes to DEB results in severe GSH depletion and loss of ATP, followed by cell death; (ii) acetyl-l-carnitine elicits a significant protective effect on DEB induced toxicity, which was potentiated by  alpha-lipoic acid. Collectively, these findings contribute to increase our knowledge of DEB-induce toxicity and will be very useful when applied in studies with lymphocytes from FA patients, in order to find out a protective agent against spontaneous and DEB-induced chromosome instability.
+21807063	T1	DRUG 21 39	acetyl-l-carnitine
+21807063	T2	DRUG_N 45 62	alpha lipoic acid
+21807063	T3	DRUG 1197 1215	acetyl-l-carnitine
+21807063	T4	DRUG 1307 1324	alpha-lipoic acid
+21807063	R1	EFFECT Arg1:T3 Arg2:T4
+
+21809690|a|[Influence of hemantane and doxycycline on MPTP-evoked behavior violations in C57BL/6 mice]. The effects of anti-parkinsonian drug hemantane [(2-adamantyl)hexamethylenimine] (10 mg/kg, p. o.) and/or antibiotic drug doxycycline (100 mg/kg, p. o.), as well as that of neurotoxin 1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine (MPTP) (4 x 20 mg/kg, i. p.) were studied in elevated plus maze test on C57BL/6 mice. On second day after injection, MPTP decreased the locomot or activity in comparison to saline. Acute administration of hemantane or doxycycline failed to influence locomotion in mice, while their combination normalized motor activity. The results obtained confirm the role of inflammatory processes in parkinsonism and suggest expediency of combined pharmacotherapy of neurodegenerative diseases.
+21809690	T1	DRUG_N 14 23	hemantane
+21809690	T2	DRUG 28 39	doxycycline
+21809690	T3	GROUP 108 130	anti-parkinsonian drug
+21809690	T4	DRUG_N 131 140	hemantane
+21809690	T5	DRUG_N 142 172	(2-adamantyl)hexamethylenimine
+21809690	T6	GROUP 199 214	antibiotic drug
+21809690	T7	DRUG 215 226	doxycycline
+21809690	T8	DRUG_N 277 321	1-methyl-4-phenyl-1,2,3,4-tetrahydropyridine
+21809690	T9	DRUG_N 323 327	MPTP
+21809690	T10	DRUG_N 439 443	MPTP
+21809690	T11	DRUG_N 527 536	hemantane
+21809690	T12	DRUG 540 551	doxycycline
+21809690	R1	EFFECT Arg1:T11 Arg2:T12
+
+21813412|a|The role of p27(Kip1) in dasatinib-enhanced paclitaxel cytotoxicity in human ovarian cancer cells. Less than 50% of ovarian cancers respond to paclitaxel. Effective strategies are needed to enhance paclitaxel sensitivity. A library of silencing RNAs (siRNAs) was used to identify kinases that regulate paclitaxel sensitivity in human ovarian cancer SKOv3 cells. The effect of dasatinib, an inhibitor of Src and Abl kinases, on paclitaxel sensitivity was measured in ovarian cancer cells and HEY xenografts. The roles of p27(Kip1), Bcl-2, and Cdk1 in apoptosis induced by dasatinib and paclitaxel were assessed using a terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling (TUNEL) assay, siRNA knockdown of gene expression, transfection with Bcl-2 and Cdk1 expression vectors, and flow cytometry. All statistical tests were two-sided. Src family and Abl kinases were identified as modulators of paclitaxel sensitivity in SKOv3 cells. The siRNA knockdown of Src, Fyn, or Abl1 enhanced paclitaxel-mediated growth inhibition in ovarian cancer cells compared with a control siRNA. HEY cells treated with dasatinib plus paclitaxel formed fewer colonies than did cells treated with either agent alone. Treatment of HEY xenograft-bearing mice with dasatinib plus paclitaxel inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, dasatinib + paclitaxel vs paclitaxel: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [CI] = 0.44 to 0.62 cm3, P = .014); dasatinib + paclitaxel vs. dasatinib: 0.28 vs. 0.55 cm3, difference = 0.27 cm3, 95% CI = 0.21 to 0.33 cm3, P = .035). Combined treatment induced more TUNEL-positive apoptotic cells than did either agent alone. The siRNA knockdown of p27(Kip1) decreased dasatinib- and paclitaxel-induced apoptosis compared with a negative control siRNA (sub-G1 fraction, control siRNA vs. p27(Kip1) siRNA: 42.5% vs. 20.1%, difference = 22.4%, 95% CI = 20.1% to 24.7%, P = .017). Studies with forced expression and siRNA knockdown of Bcl-2 and Cdk1 suggest that dasatinib-mediated induction of p27(Kip1) enhanced paclitaxel-induced apoptosis by negatively regulating Bcl-2 and Cdk1 expression. Inhibition of Src family and Abl kinases with either siRNAs or dasatinib enhances paclitaxel sensitivity of ovarian cancer cells through p27(Kip1)-mediated suppression of Bcl-2 and Cdk1 expression.
+21813412	T1	DRUG 25 34	dasatinib
+21813412	T2	DRUG 44 54	paclitaxel
+21813412	T3	DRUG 143 153	paclitaxel
+21813412	T4	DRUG 198 208	paclitaxel
+21813412	T5	DRUG 302 312	paclitaxel
+21813412	T6	DRUG 376 385	dasatinib
+21813412	T7	DRUG 427 437	paclitaxel
+21813412	T8	DRUG 571 580	dasatinib
+21813412	T9	DRUG 585 595	paclitaxel
+21813412	T10	DRUG 910 920	paclitaxel
+21813412	T11	DRUG 999 1009	paclitaxel
+21813412	T12	DRUG 1115 1124	dasatinib
+21813412	T13	DRUG 1130 1140	paclitaxel
+21813412	T14	DRUG 1256 1265	dasatinib
+21813412	T15	DRUG 1271 1281	paclitaxel
+21813412	T16	DRUG 1382 1391	dasatinib
+21813412	T17	DRUG 1394 1404	paclitaxel
+21813412	T18	DRUG 1408 1418	paclitaxel
+21813412	T19	DRUG 1522 1531	dasatinib
+21813412	T20	DRUG 1534 1544	paclitaxel
+21813412	T21	DRUG 1549 1558	dasatinib
+21813412	T22	DRUG 1775 1784	dasatinib
+21813412	T23	DRUG 1790 1800	paclitaxel
+21813412	T24	DRUG 2066 2075	dasatinib
+21813412	T25	DRUG 2117 2127	paclitaxel
+21813412	T26	DRUG 2261 2270	dasatinib
+21813412	T27	DRUG 2280 2290	paclitaxel
+21813412	R1	EFFECT Arg1:T1 Arg2:T2
+21813412	R2	EFFECT Arg1:T12 Arg2:T13
+21813412	R3	EFFECT Arg1:T14 Arg2:T15
+21813412	R4	EFFECT Arg1:T24 Arg2:T25
+21813412	R5	EFFECT Arg1:T26 Arg2:T27
+
+21825263|a|Phase I trial of lenalidomide and CCI-779 in patients with relapsed multiple myeloma: evidence for lenalidomide-CCI-779 interaction via P-glycoprotein. Multiple myeloma (MM) is an incurable plasma-cell neoplasm for which most treatments involve a therapeutic agent combined with dexamethasone. The preclinical combination of lenalidomide with the mTOR inhibitor CCI-779 has displayed synergy in vitro and represents a novel combination in MM.
+21825263	T1	DRUG 17 29	lenalidomide
+21825263	T2	DRUG 34 41	CCI-779
+21825263	T3	DRUG 99 111	lenalidomide
+21825263	T4	DRUG 112 119	CCI-779
+21825263	T5	DRUG 279 292	dexamethasone
+21825263	T6	DRUG 325 337	lenalidomide
+21825263	T7	DRUG 362 369	CCI-779
+21825263	R1	EFFECT Arg1:T6 Arg2:T7
+
+21844260|a|Enhancement of humoral immune responses to inactivated Newcastle disease and avian influenza vaccines by oral administration of ginseng stem-and-leaf saponins in chickens. Newcastle disease (ND) and avian influenza (AI) are common in the poultry industry. The objective of this study was to evaluate the effect of oral administration of ginseng stem-and-leaf saponins (GSLS) on the humoral immune responses of chickens to inactivated ND and AI vaccines. In experiment 1, oral administration of GSLS at a dose of 5 mg/kg of BW for 7 d on the immune response in chickens intramuscularly injected with inactivated ND vaccine was evaluated. Results showed that GSLS significantly increased the antibody level against ND in the serum of chickens. In experiment 2, the same regimen of GSLS was administered to chickens inoculated with inactivated AI vaccines, and an enhanced serum antibody response to AI vaccination was also observed. Considering the safety of GSLS, because no adverse effect was found throughout the experiments, GSLS may be a promising oral adjuvant to improve immunization in poultry.
+21844260	T1	GROUP 77 101	avian influenza vaccines
+21844260	T2	DRUG_N 128 158	ginseng stem-and-leaf saponins
+21844260	T3	DRUG_N 337 367	ginseng stem-and-leaf saponins
+21844260	T4	DRUG_N 369 373	GSLS
+21844260	T5	DRUG 422 436;444 452	inactivated ND vaccines
+21844260	T6	DRUG 422 433;441 443;444 452	inactivated AI vaccines
+21844260	T7	DRUG_N 494 498	GSLS
+21844260	T8	DRUG 599 621	inactivated ND vaccine
+21844260	T9	DRUG_N 657 661	GSLS
+21844260	T10	DRUG_N 779 783	GSLS
+21844260	T11	DRUG 829 852	inactivated AI vaccines
+21844260	T12	DRUG_N 957 961	GSLS
+21844260	T13	DRUG_N 1027 1031	GSLS
+21844260	R1	EFFECT Arg1:T10 Arg2:T11
+
+21868520|a|Interaction of dacarbazine and imexon, in vitro and in vivo, in human A375 melanoma cells. We evaluated mechanisms of interaction between the alkyating agent dacarbazine (DTIC) and the pro-oxidant, imexon, in the human A375 melanoma cell line. The effect of DTIC and imexon, alone and in combination, was evaluated for growth inhibition (MTT), radiolabeled drug uptake, cellular thiol content (HPLC), and DNA strand breaks (Comet assay). Pharmacokinetic and antitumor effects were evaluated in mice. Growth inhibition in vitro was additive with the two drugs. There was no effect on drug uptake or on the number of DNA strand breaks. There was a >75% reduction in cellular glutathione and cysteine with imexon but not DTIC. Co-administration of the two drugs in mice caused an increase in the area under the curve of both drugs, but the combination was not effective in reducing human A375 melanoma tumors in vivo. Imexon and dacarbazine show additive effects in vitro but not in vivo in human A375 melanoma cells.
+21868520	T1	DRUG 15 26	dacarbazine
+21868520	T2	DRUG_N 31 37	imexon
+21868520	T3	DRUG 158 169	dacarbazine
+21868520	T4	DRUG 171 175	DTIC
+21868520	T5	DRUG 198 204	imexon
+21868520	T6	DRUG 258 262	DTIC
+21868520	T7	DRUG 267 273	imexon
+21868520	T8	DRUG 703 709	imexon
+21868520	T9	DRUG 718 722	DTIC
+21868520	T10	DRUG 915 921	Imexon
+21868520	T11	DRUG 926 937	dacarbazine
+21868520	R1	EFFECT Arg1:T10 Arg2:T11
+
+21868551|a|Lapatinib enhances herceptin-mediated antibody-dependent cellular cytotoxicity by up-regulation of cell surface HER2 expression. Although it was previously reported that lapatinib combined with Herceptin improved the progression-free survival rate compared with lapatinib alone for patients with Herceptin-refractory HER2-positive metastatic breast cancer, the mechanism is purported to be an antiproliferative effect relating to the synergism of these two agents. We evaluated how lapatinib interacts with Herceptin in HER2-positive breast cancer, with a particular focus on Herceptin-mediated antibody-dependent cellular cytotoxicity (ADCC). In an in vitro assay, lapatinib induced HER2 expression at the cell surface of HER2-positive breast cancer cell lines, leading to the enhancement of Herceptin-mediated ADCC. Furthermore, we present a case report in which a second Herceptin treatment following lapatinib resulted in the marked shrinkage of multiple metastatic tumors in HER2-positive breast cancer. Lapatinib may have the potential to convert Herceptin-refractory to Herceptin-sensitive tumors in HER2-positive breast cancer by up-regulation of the cell surface expression of HER2.
+21868551	T1	DRUG 0 9	Lapatinib
+21868551	T2	BRAND 19 28	herceptin
+21868551	T3	DRUG 170 179	lapatinib
+21868551	T4	BRAND 194 203	Herceptin
+21868551	T5	DRUG 262 271	lapatinib
+21868551	T6	BRAND 296 305	Herceptin
+21868551	T7	DRUG 482 491	lapatinib
+21868551	T8	BRAND 507 516	Herceptin
+21868551	T9	BRAND 576 585	Herceptin
+21868551	T10	DRUG 666 675	lapatinib
+21868551	T11	BRAND 793 802	Herceptin
+21868551	T12	BRAND 874 883	Herceptin
+21868551	T13	DRUG 904 913	lapatinib
+21868551	T14	DRUG 1009 1018	Lapatinib
+21868551	T15	BRAND 1053 1062	Herceptin
+21868551	T16	BRAND 1077 1086	Herceptin
+21868551	R1	EFFECT Arg1:T1 Arg2:T2
+21868551	R2	EFFECT Arg1:T3 Arg2:T4
+21868551	R3	EFFECT Arg1:T10 Arg2:T11
+21868551	R4	EFFECT Arg1:T12 Arg2:T13
+
+21873163|a|Antitumor effects of CRM197, a specific inhibitor of HB-EGF, in T-cell acute lymphoblastic leukemia. The therapeutic outcome for T-cell acute lymphoblastic leukemia (T-ALL) remains poor; thus, novel, targeted therapies are urgently needed. Recently, we showed that heparin-binding epidermal growth factor-like growth factor (HB-EGF), a member of the EGF family, is a promising target for the treatment of various types of cancer. The aim of the present study was to investigate whether HB-EGF is a therapeutic target for T-ALL, and to further elucidate the antitumor effects of a specific inhibitor of HB-EGF, cross-reacting material 197 (CRM197). We elucidated the expression of HB-EGF in T-ALL cell lines, and evaluated the effect of CRM197 on these cells alone or in combination with anticancer agent. The expression of EGFR and EGFR ligands was determined by flow cytometry, RT-PCR and real-time quantitative PCR. Induction of apoptosis was assessed by TUNEL assay. HB-EGF was strongly expressed by T-ALL cell lines, and the expression of both HB-EGF and EGFR was enhanced by doxorubicin. CRM197 induced apoptosis, and furthermore, the combination of CRM197 plus doxorubicin enhanced cytotoxicity in a T-ALL cell line. These results suggest that HB-EGF is a promising therapeutic target for T-ALL.
+21873163	T1	DRUG_N 21 27	CRM197
+21873163	T2	DRUG_N 610 637	cross-reacting material 197
+21873163	T3	DRUG_N 639 645	CRM197
+21873163	T4	DRUG_N 736 742	CRM197
+21873163	T5	GROUP 787 803	anticancer agent
+21873163	T6	DRUG 1080 1091	doxorubicin
+21873163	T7	DRUG_N 1093 1099	CRM197
+21873163	T8	DRUG_N 1155 1161	CRM197
+21873163	T9	DRUG 1167 1178	doxorubicin
+21873163	R1	EFFECT Arg1:T8 Arg2:T9
+
+21876510|a|Ephedrine enhances the antinociceptive effect of dexmedetomidine in mice. Dexmedetomidine, a highly selective alpha-2-adrenoceptor agonist, was recently introduced into clinical practice for its sedative and analgesic properties. The purpose of this study was to evaluate whether the psychostimulant drug ephedrine has any effect on dexmedetomidine-induced antinociception and locomotor inhibitor activity in mice in acute application. In both sexes of swiss albino mice; antinociception was assessed with hot-plate test and the locomotor, exploratory activities were assessed with holed open field test. The animals were received; saline + saline, ephedrine (10   mg/kg) + saline, saline + dexmedetomidine (15     g/kg) and ephedrine (10   mg/kg) + dexmedetomidine (15     g/kg), intraperitoneally, 30 min before hot plate or holed open field tests. In the hot plate test in mice, co-administration of 15     g/kg dexmedetomidine with 10   mg/kg ephedrine intraperitoneally not only enhanced, but also prolonged the duration of antinociception induced by dexmedetomidine. At the same time, the locomotor inhibitory effect of dexmedetomidine was counteracted by ephedrine. We concluded that the combined administration of dexmedetomidine with ephedrine may have beneficial effects in the treatment of pain without causing sedation, which limits the use of dexmedetomidine as an analgesic in humans.
+21876510	T1	DRUG 0 9	Ephedrine
+21876510	T2	DRUG 49 64	dexmedetomidine
+21876510	T3	DRUG 74 89	Dexmedetomidine
+21876510	T4	DRUG 305 314	ephedrine
+21876510	T5	DRUG 333 348	dexmedetomidine
+21876510	T6	DRUG 649 658	ephedrine
+21876510	T7	DRUG 691 706	dexmedetomidine
+21876510	T8	DRUG 725 734	ephedrine
+21876510	T9	DRUG 750 765	dexmedetomidine
+21876510	T10	DRUG 915 930	dexmedetomidine
+21876510	T11	DRUG 947 956	ephedrine
+21876510	T12	DRUG 1056 1071	dexmedetomidine
+21876510	T13	DRUG 1126 1141	dexmedetomidine
+21876510	T14	DRUG 1162 1171	ephedrine
+21876510	T15	DRUG 1222 1237	dexmedetomidine
+21876510	T16	DRUG 1243 1252	ephedrine
+21876510	T17	DRUG 1356 1371	dexmedetomidine
+21876510	T18	GROUP 1378 1387	analgesic
+21876510	R1	EFFECT Arg1:T1 Arg2:T2
+21876510	R2	EFFECT Arg1:T10 Arg2:T11
+21876510	R3	EFFECT Arg1:T13 Arg2:T14
+21876510	R4	EFFECT Arg1:T15 Arg2:T16
+
+21878082|a|[Efficacy of fixed combination amlodipine/valsartan in hospitalized patients with hypertensive disease. Efficacy and tolerability of fixed amlodipine/valsartan combination was studied in 86 patients with hypertensive disease hospitalized in departments of general internal medicine or cardiology. All patients had indications for antihypertensive therapy and were randomized either to fixed combination amlodipine/valsartan (n=43) or to therapy which corresponded to the hospital formulary (n=43). Correction of antihypertensive therapy was performed by treating physician at daily rounds. Self-control of blood pressure (BP) was performed by patients with the use of UA767PC apparatus. Results of BP self-control were compared with clinical measurements in order to detect concealed inefficacy of treatment. Results. Rate of achievement of target BP with fixed combination amlodipine/valsartan (93%) was comparable with that on traditional therapy (90%). But the use of fixed combination amlodipine/valsartan compared with traditional therapy was associated with lower clinical and self measured BP, quicker achievement of target BP (5.8+/-2.3 and 9.2+/-1.8 days, respectively, 0.05), lesser number of antihypertensive drugs (2.5+/-0.6 and 3.0+/-0.9 days, respectively), lower rate of concealed inefficacy of treatment (12 and 31%, respectively, 0.05). Conclusions. We have demonstrated appropriateness of inhospital administration of fixed amlodipine/valsartan combination as an approach allowing to achieve target BP in shorter time, with the use of fewer antihypertensive drugs, and diminishing concealed inefficacy of treatment.
+21878082	T1	DRUG 31 41	amlodipine
+21878082	T2	DRUG 42 51	valsartan
+21878082	T3	DRUG 139 149	amlodipine
+21878082	T4	DRUG 150 159	valsartan
+21878082	T5	DRUG 403 413	amlodipine
+21878082	T6	DRUG 414 423	valsartan
+21878082	T7	GROUP 512 528	antihypertensive
+21878082	T8	DRUG 874 884	amlodipine
+21878082	T9	DRUG 885 894	valsartan
+21878082	T10	DRUG 989 999	amlodipine
+21878082	T11	DRUG 1000 1009	valsartan
+21878082	T12	GROUP 1203 1225	antihypertensive drugs
+21878082	T13	DRUG 1442 1452	amlodipine
+21878082	T14	DRUG 1453 1462	valsartan
+21878082	T15	GROUP 1559 1581	antihypertensive drugs
+21878082	R1	EFFECT Arg1:T10 Arg2:T11
+21878082	R2	EFFECT Arg1:T13 Arg2:T14
+
+21897348|a|Ticagrelor (Brilinta)--better than clopidogrel (Plavix) The FDA has approved ticagrelor (Brilinta-AstraZeneca), an oral antiplatelet drug, for use with low-dose aspirin to reduce the rate of thrombotic cardiovascular events in patients with acute coronary syndrome (ACS). It will compete with clopidogrel (Plavix) and prasugrel (Effient) for such use. Clopidogrel is expected to become available generically in the US within the next few months.
+21897348	T1	DRUG 0 10	Ticagrelor
+21897348	T2	BRAND 12 20	Brilinta
+21897348	T3	DRUG 35 46	clopidogrel
+21897348	T4	BRAND 48 54	Plavix
+21897348	T5	DRUG 77 87	ticagrelor
+21897348	T6	BRAND 89 97	Brilinta
+21897348	T7	GROUP 120 137	antiplatelet drug
+21897348	T8	BRAND 161 168	aspirin
+21897348	T9	DRUG 293 304	clopidogrel
+21897348	T10	BRAND 306 312	Plavix
+21897348	T11	DRUG 318 327	prasugrel
+21897348	T12	BRAND 329 336	Effient
+21897348	T13	DRUG 352 363	Clopidogrel
+21897348	R1	EFFECT Arg1:T5 Arg2:T8
+21897348	R2	EFFECT Arg1:T6 Arg2:T8
+
+22029226|a|Influence of piperine on ibuprofen induced antinociception and its pharmacokinetics. Piperine (CAS 94-62-2), an alkaloid obtained from Piper nigrum and P. longum, is a known inhibitor of various enzymes (CYP isozymes) responsible for biotransformation of drugs. By inhibiting the metabolism of drugs, piperine improves the bioavailability of drugs. In the present study piperine (10 mg/kg) significantly increased the dose-dependent antinociceptive activity of ibuprofen evaluated by both acetic acid writhing and formalin test, when it was administered with ibuprofen. Ibuprofen plasma concentration was also increased when it was administered with piperine. The synergistic antinociception activity of ibuprofen when administered with piperine can be attributed to increased plasma concentration of ibuprofen. From this study it can be concluded that piperine can be used as a bioenhancer along with ibuprofen.
+22029226	T1	DRUG_N 13 21	piperine
+22029226	T2	DRUG 25 34	ibuprofen
+22029226	T3	DRUG_N 85 93	Piperine
+22029226	T4	DRUG_N 301 309	piperine
+22029226	T5	DRUG_N 370 378	piperine
+22029226	T6	DRUG 461 470	ibuprofen
+22029226	T7	DRUG 489 500	acetic acid
+22029226	T8	DRUG 559 568	ibuprofen
+22029226	T9	DRUG 570 579	Ibuprofen
+22029226	T10	DRUG_N 650 658	piperine
+22029226	T11	DRUG 704 713	ibuprofen
+22029226	T12	DRUG_N 737 745	piperine
+22029226	T13	DRUG 801 810	ibuprofen
+22029226	T14	DRUG_N 853 861	piperine
+22029226	T15	DRUG 902 911	ibuprofen
+22029226	R1	EFFECT Arg1:T5 Arg2:T6
+22029226	R2	MECHANISM Arg1:T9 Arg2:T10
+22029226	R3	MECHANISM Arg1:T11 Arg2:T12
+22029226	R4	EFFECT Arg1:T14 Arg2:T15
+

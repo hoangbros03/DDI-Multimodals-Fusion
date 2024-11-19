@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Amitriptyline Hydrochloride" setid="ea35caf8-c8c8-481a-97a2-25f68cbc240b">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Amitriptyline hydrochloride is an antidepressant with sedative effects. Its mechanism of action in man is not known. It is not a monoamine oxidase inhibitor and it does not act primarily by stimulation of the central nervous system.  Amitriptyline inhibits the membrane pump mechanism responsible for uptake of norepinephrine and serotonin in adrenergic and serotonergic neurons. Pharmacologically this action may potentiate or prolong neuronal activity since reuptake of these biogenic amines is important physiologically in terminating transmitting activity. This interference with reuptake of norepinephrine and/or serotonin is believed by some to underlie the antidepressant activity of amitriptyline.</Section>
+</Text><Sentences>
+<Sentence id="1181" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient’s clinical response and not on the basis of plasma levels.</SentenceText>
+<Mention id="M1" type="Trigger" span="37 8;63 13" str="increase | concentration"/>
+<Mention id="M2" type="Precipitant" span="96 10" str="topiramate" code="NONE"/>
+<Interaction id="I1" type="Pharmacokinetic interaction" trigger="M1" precipitant="M2" effect="C54355"/>
+</Sentence>
+<Sentence id="1182" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available.</SentenceText>
+</Sentence>
+<Sentence id="1183" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.</SentenceText>
+</Sentence>
+<Sentence id="1184" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).</SentenceText>
+</Sentence>
+<Sentence id="1185" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="1186" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.</SentenceText>
+</Sentence>
+<Sentence id="1187" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).</SentenceText>
+</Sentence>
+<Sentence id="1188" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.</SentenceText>
+</Sentence>
+<Sentence id="1189" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.</SentenceText>
+<Mention id="M3" type="Trigger" span="29 12" str="interactions"/>
+<Mention id="M4" type="Precipitant" span="20 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="1190" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Nevertheless, caution is indicated in the coadministration of TCAs with any of the SSRIs and also in switching from one class to the other.</SentenceText>
+<Mention id="M5" type="Trigger" span="14 7" str="caution"/>
+<Mention id="M6" type="Precipitant" span="83 4" str="SSRI" code="n0000175696"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="1191" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</SentenceText>
+<Mention id="M7" type="Trigger" span="26 45" str="sufficient time must elapse before initiating"/>
+<Mention id="M8" type="Precipitant" span="120 10" str="fluoxetine" code="01K63SUP8D"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M7" precipitant="M8"/>
+</Sentence>
+<Sentence id="1192" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.</SentenceText>
+<Mention id="M9" type="Trigger" span="105 11" str="lower doses"/>
+<Mention id="M10" type="Precipitant" span="50 42" str="drugs that can inhibit cytochrome P450 2D6" code="N0000182137"/>
+<Interaction id="I5" type="Pharmacokinetic interaction" trigger="M9" precipitant="M10" effect="C54355"/>
+</Sentence>
+<Sentence id="1193" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Furthermore, whenever one of these other drugs is withdrawn from cotherapy, an increased dose of tricyclic antidepressant may be required.</SentenceText>
+</Sentence>
+<Sentence id="1194" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>It is desirable to monitor TCA plasma levels whenever a TCA is going to be coadministered with another drug known to be an inhibitor of P450 2D6.</SentenceText>
+<Mention id="M11" type="Trigger" span="19 7" str="monitor"/>
+<Mention id="M12" type="Precipitant" span="123 21" str="inhibitor of P450 2D6" code="n0000182135"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M11" precipitant="M12"/>
+</Sentence>
+<Sentence id="1195" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Guanethidine or similarly acting compounds; thyroid medication; alcohol, barbiturates and other CNS depressants; and disulfiram.</SentenceText>
+</Sentence>
+<Sentence id="1196" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>When amitriptyline hydrochloride is given with anticholinergic agents or sympathomimetic drugs, including epinephrine combined with local anesthetics, close supervision and careful adjustment of dosages are required.</SentenceText>
+<Mention id="M19" type="Trigger" span="151 17" str="close supervision "/>
+<Mention id="M20" type="Trigger" span="181 21" str=" adjustment of dosages"/>
+<Mention id="M15" type="Precipitant" span="47 22" str="anticholinergic agents" code="NONE"/>
+<Mention id="M18" type="Precipitant" span="106 43" str="epinephrine combined with local anesthetics" code="NONE"/>
+<Mention id="M21" type="Precipitant" span="73 21" str="sympathomimetic drugs" code="N0000029104"/>
+<Interaction id="I7" type="Unspecified interaction" trigger="M19;M20" precipitant="M15"/>
+<Interaction id="I8" type="Unspecified interaction" trigger="M19;M20" precipitant="M18"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M19;M20" precipitant="M21"/>
+</Sentence>
+<Sentence id="1197" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Hyperpyrexia has been reported when amitriptyline hydrochloride is administered with anticholinergic agents or with neuroleptic drugs, particularly during hot weather.</SentenceText>
+<Mention id="M27" type="SpecificInteraction" span="0 12" str="Hyperpyrexia" code="409702008: Hyperpyrexia (finding)"/>
+<Mention id="M23" type="Precipitant" span="85 22" str="anticholinergic agents" code="NONE"/>
+<Mention id="M26" type="Precipitant" span="116 17" str="neuroleptic drugs" code="NONE"/>
+<Interaction id="I10" type="Pharmacodynamic interaction" trigger="M27" precipitant="M23" effect="M27"/>
+<Interaction id="I11" type="Pharmacodynamic interaction" trigger="M27" precipitant="M26" effect="M27"/>
+</Sentence>
+<Sentence id="1198" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Paralytic ileus may occur in patients taking tricyclic antidepressants in combination with anticholinergic type drugs.</SentenceText>
+<Mention id="M30" type="SpecificInteraction" span="0 15" str="Paralytic ileus" code="55525008: Paralytic ileus (disorder)"/>
+<Mention id="M29" type="Precipitant" span="91 15" str="anticholinergic" code="NONE"/>
+<Interaction id="I12" type="Pharmacodynamic interaction" trigger="M30" precipitant="M29" effect="M30"/>
+</Sentence>
+<Sentence id="1199" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Cimetidine is reported to reduce hepatic metabolism of certain tricyclic antidepressants, thereby delaying elimination and increasing steady-state concentrations of these drugs.</SentenceText>
+<Mention id="M31" type="Trigger" span="26 6;41 10" str="reduce | metabolism "/>
+<Mention id="M32" type="Trigger" span="98 20" str=" delaying elimination "/>
+<Mention id="M33" type="Trigger" span="123 10;147 13" str=" increasing | concentration"/>
+<Mention id="M34" type="Precipitant" span="0 10" str="Cimetidine" code="80061L1WGD"/>
+<Interaction id="I13" type="Pharmacokinetic interaction" trigger="M31;M32;M33" precipitant="M34" effect="C54355"/>
+</Sentence>
+<Sentence id="1200" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Clinically significant effects have been reported with the tricyclic antidepressants when used concomitantly with cimetidine.</SentenceText>
+</Sentence>
+<Sentence id="1201" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Increases in plasma levels of tricyclic antidepressants, and in the frequency and severity of side effects, particularly anticholinergic, have been reported when cimetidine was added to the drug regimen.</SentenceText>
+<Mention id="M35" type="Trigger" span="0 9;13 13" str="Increases | plasma levels"/>
+<Mention id="M36" type="Precipitant" span="162 10" str="cimetidine" code="80061L1WGD"/>
+<Interaction id="I14" type="Pharmacokinetic interaction" trigger="M35" precipitant="M36" effect="C54355"/>
+</Sentence>
+<Sentence id="1202" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Discontinuation of cimetidine in well controlled patients receiving tricyclic antidepressants and cimetidine may decrease the plasma levels and efficacy of the antidepressants.</SentenceText>
+<Mention id="M37" type="Trigger" span="0 15;113 26" str="Discontinuation | decrease the plasma levels"/>
+<Mention id="M38" type="Precipitant" span="19 10" str="cimetidine" code="80061L1WGD"/>
+<Interaction id="I15" type="Pharmacokinetic interaction" trigger="M37" precipitant="M38" effect="C54355"/>
+</Sentence>
+<Sentence id="1203" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Caution is advised if patients receive large doses of ethchlorvynol concurrently.</SentenceText>
+<Mention id="M39" type="Trigger" span="0 7" str="Caution"/>
+<Mention id="M40" type="Precipitant" span="54 13" str="ethchlorvynol" code="NONE"/>
+<Interaction id="I16" type="Unspecified interaction" trigger="M39" precipitant="M40"/>
+</Sentence>
+<Sentence id="1204" LabelDrug="Amitriptyline Hydrochloride" section="34073-7">
+<SentenceText>Transient delirium has been reported in patients who were treated with one gram of ethchlorvynol and 75 mg to 150 mg of amitriptyline hydrochloride.</SentenceText>
+<Mention id="M43" type="SpecificInteraction" span="0 18" str="Transient delirium" code="2776000: Delirium (disorder)"/>
+<Mention id="M42" type="Precipitant" span="83 13" str="ethchlorvynol" code="NONE"/>
+<Interaction id="I17" type="Pharmacodynamic interaction" trigger="M43" precipitant="M42" effect="M43"/>
+</Sentence>
+<Sentence id="1205" LabelDrug="Amitriptyline Hydrochloride" section="34090-1">
+<SentenceText>Amitriptyline hydrochloride is an antidepressant with sedative effects.</SentenceText>
+</Sentence>
+<Sentence id="1206" LabelDrug="Amitriptyline Hydrochloride" section="34090-1">
+<SentenceText>Its mechanism of action in man is not known.</SentenceText>
+</Sentence>
+<Sentence id="1207" LabelDrug="Amitriptyline Hydrochloride" section="34090-1">
+<SentenceText>It is not a monoamine oxidase inhibitor and it does not act primarily by stimulation of the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="1208" LabelDrug="Amitriptyline Hydrochloride" section="34090-1">
+<SentenceText>Amitriptyline inhibits the membrane pump mechanism responsible for uptake of norepinephrine and serotonin in adrenergic and serotonergic neurons.</SentenceText>
+</Sentence>
+<Sentence id="1209" LabelDrug="Amitriptyline Hydrochloride" section="34090-1">
+<SentenceText>Pharmacologically this action may potentiate or prolong neuronal activity since reuptake of these biogenic amines is important physiologically in terminating transmitting activity.</SentenceText>
+</Sentence>
+<Sentence id="1210" LabelDrug="Amitriptyline Hydrochloride" section="34090-1">
+<SentenceText>This interference with reuptake of norepinephrine and/or serotonin is believed by some to underlie the antidepressant activity of amitriptyline.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacokinetic interaction" precipitant="topiramate" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ssri" precipitantCode="n0000175696"/>
+<LabelInteraction type="Unspecified interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="drugs that can inhibit cytochrome p450 2d6" precipitantCode="N0000182137" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of p450 2d6" precipitantCode="n0000182135"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic agents" precipitantCode="NONE" effect="409702008: Hyperpyrexia (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anticholinergic agents" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="epinephrine combined with local anesthetics" precipitantCode="NONE"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sympathomimetic drugs" precipitantCode="N0000029104"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="neuroleptic drugs" precipitantCode="NONE" effect="409702008: Hyperpyrexia (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic" precipitantCode="NONE" effect="55525008: Paralytic ileus (disorder)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ethchlorvynol" precipitantCode="NONE" effect="2776000: Delirium (disorder)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ethchlorvynol" precipitantCode="NONE"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Orphenadrine Citrate" setid="c8d8596a-b81f-4b83-a2f3-a55922ca4a82">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+Contraindicated in patients with glaucoma, pyloric or duodenal obstruction, stenosing peptic ulcers, prostatic hypertrophy or obstruction of the bladder neck, cardio-spasm (megaesophagus) and myasthenia gravis. Contraindicated in patients who have demonstrated a previous hypersensitivity to the drug.</Section>
+<Section name="DOSAGE &amp;amp; ADMINISTRATION SECTION" id="34068-7">
+INJECTION: Adults – One 2 mL vial (60 mg) intravenously or intramuscularly; may be repeated every 12 hours.</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+Confusion, anxiety and tremors have been reported in few patients receiving propoxyphene and orphenadrine concomitantly. As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases. Orphenadrine citrate should be used with caution in patients with tachycardia, cardiac decompensation, coronary insufficiency, cardiac arrhythmias. Safety of continuous long-term therapy with orphenadrine has not been established. Therefore, if orphenadrine is prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended. Pregnancy Category C. Animal reproduction studies have not been conducted with orphenadrine citrate injection. It is also not known whether orphenadrine citrate injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Orphenadrine citrate injection should be given to a pregnant woman only if clearly needed. Safety and effectiveness in pediatric patients have not been established.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+Some patients may experience transient episodes of light-headedness, dizziness or syncope. Orphenadrine citrate injection may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly. Orphenadrine citrate injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people. The overall prevalence of sulfite sensitivity in the general population is unknown and probably low. Sulfite sensitivity is seen more frequently in asthmatic than nonasthmatic people.</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+The mode of therapeutic action has not been clearly identified, but may be related to its analgesic properties. Orphenadrine citrate does not directly relax tense muscles in man. Orphenadrine citrate also possesses anti-cholinergic actions.</Section>
+</Text><Sentences>
+<Sentence id="2615" LabelDrug="Orphenadrine Citrate" section="34070-3">
+<SentenceText>Contraindicated in patients with glaucoma, pyloric or duodenal obstruction, stenosing peptic ulcers, prostatic hypertrophy or obstruction of the bladder neck, cardio-spasm (megaesophagus) and myasthenia gravis.</SentenceText>
+</Sentence>
+<Sentence id="2616" LabelDrug="Orphenadrine Citrate" section="34070-3">
+<SentenceText>Contraindicated in patients who have demonstrated a previous hypersensitivity to the drug.</SentenceText>
+</Sentence>
+<Sentence id="2617" LabelDrug="Orphenadrine Citrate" section="34068-7">
+<SentenceText>INJECTION: Adults – One 2 mL vial (60 mg) intravenously or intramuscularly; may be repeated every 12 hours.</SentenceText>
+</Sentence>
+<Sentence id="2618" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Confusion, anxiety and tremors have been reported in few patients receiving propoxyphene and orphenadrine concomitantly.</SentenceText>
+<Mention id="M3" type="SpecificInteraction" span="11 7" str="anxiety" code="48694002: Anxiety (finding)"/>
+<Mention id="M8" type="Precipitant" span="76 12" str="propoxyphene" code="S2F83W92TK"/>
+<Mention id="M6" type="SpecificInteraction" span="0 9" str="Confusion" code="40917007: Clouded consciousness (finding)"/>
+<Mention id="M9" type="SpecificInteraction" span="23 7" str="tremors" code="26079004: Tremor (finding)"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M3" precipitant="M8" effect="M3" effectCodeMatch="Exact Match"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M6" precipitant="M8" effect="M6" effectCodeMatch="Exact Match"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M9" precipitant="M8" effect="M9" effectCodeMatch="Exact Match"/>
+</Sentence>
+<Sentence id="2619" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases.</SentenceText>
+</Sentence>
+<Sentence id="2620" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Orphenadrine citrate should be used with caution in patients with tachycardia, cardiac decompensation, coronary insufficiency, cardiac arrhythmias.</SentenceText>
+</Sentence>
+<Sentence id="2621" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Safety of continuous long-term therapy with orphenadrine has not been established.</SentenceText>
+</Sentence>
+<Sentence id="2622" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Therefore, if orphenadrine is prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended.</SentenceText>
+</Sentence>
+<Sentence id="2623" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Pregnancy Category C. Animal reproduction studies have not been conducted with orphenadrine citrate injection.</SentenceText>
+</Sentence>
+<Sentence id="2624" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>It is also not known whether orphenadrine citrate injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.</SentenceText>
+</Sentence>
+<Sentence id="2625" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Orphenadrine citrate injection should be given to a pregnant woman only if clearly needed.</SentenceText>
+</Sentence>
+<Sentence id="2626" LabelDrug="Orphenadrine Citrate" section="42232-9">
+<SentenceText>Safety and effectiveness in pediatric patients have not been established.</SentenceText>
+</Sentence>
+<Sentence id="2627" LabelDrug="Orphenadrine Citrate" section="34071-1">
+<SentenceText>Some patients may experience transient episodes of light-headedness, dizziness or syncope.</SentenceText>
+</Sentence>
+<Sentence id="2628" LabelDrug="Orphenadrine Citrate" section="34071-1">
+<SentenceText>Orphenadrine citrate injection may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly.</SentenceText>
+</Sentence>
+<Sentence id="2629" LabelDrug="Orphenadrine Citrate" section="34071-1">
+<SentenceText>Orphenadrine citrate injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.</SentenceText>
+</Sentence>
+<Sentence id="2630" LabelDrug="Orphenadrine Citrate" section="34071-1">
+<SentenceText>The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.</SentenceText>
+</Sentence>
+<Sentence id="2631" LabelDrug="Orphenadrine Citrate" section="34071-1">
+<SentenceText>Sulfite sensitivity is seen more frequently in asthmatic than nonasthmatic people.</SentenceText>
+</Sentence>
+<Sentence id="2632" LabelDrug="Orphenadrine Citrate" section="34090-1">
+<SentenceText>The mode of therapeutic action has not been clearly identified, but may be related to its analgesic properties.</SentenceText>
+</Sentence>
+<Sentence id="2633" LabelDrug="Orphenadrine Citrate" section="34090-1">
+<SentenceText>Orphenadrine citrate does not directly relax tense muscles in man.</SentenceText>
+</Sentence>
+<Sentence id="2634" LabelDrug="Orphenadrine Citrate" section="34090-1">
+<SentenceText>Orphenadrine citrate also possesses anti-cholinergic actions.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="propoxyphene" precipitantCode="S2F83W92TK" effect="26079004: Tremor (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="propoxyphene" precipitantCode="S2F83W92TK" effect="40917007: Clouded consciousness (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="propoxyphene" precipitantCode="S2F83W92TK" effect="48694002: Anxiety (finding)"/>
+
+</LabelInteractions></Label>

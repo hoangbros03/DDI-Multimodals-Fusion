@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="ORAP" setid="90c0086a-b62c-4cdd-a6af-2efed69cfd4d">
+<Text><Section name="CONTRAINDICATIONS SECTION" id="34070-3">
+CONTRAINDICATIONS  1. ORAP (pimozide) is contraindicated in the treatment of simple tics or tics other than those associated with Tourette’s Disorder.  2. ORAP should not be used in patients taking drugs that may, themselves, cause motor and phonic tics (e.g., pemoline, methylphenidate and amphetamines) until such patients have been withdrawn from these drugs to determine whether or not the drugs, rather than Tourette’s Disorder, are responsible for the tics.  3. Because ORAP prolongs the QT interval of the electrocardiogram it is contraindicated in patients with congenital long QT syndrome, patients with a history of cardiac arrhythmias, patients taking other drugs which prolong the QT interval of the electrocardiogram or patients with known hypokalemia or hypomagnesemia (see also  PRECAUTIONS - Drug Interactions  ).  4. ORAP is contraindicated in patients with severe toxic central nervous system depression or comatose states from any cause.  5. ORAP is contraindicated in patients with hypersensitivity to it. As it is not known whether cross-sensitivity exists among the antipsychotics, pimozide should be used with appropriate caution in patients who have demonstrated hypersensitivity to other antipsychotic drugs.  6. Ventricular arrhythmias have been rarely associated with the use of macrolide antibiotics in patients with prolonged QT intervals, as might be produced by ORAP. Specifically, two sudden deaths have been reported when clarithromycin was added to ongoing pimozide therapy. Furthermore, some evidence suggests that pimozide is metabolized partly by the enzyme system cytochrome P450 3A4 (CYP 3A4). Macrolide antibiotics are inhibitors of CYP 3A4, and thus could potentially impede pimozide metabolism. For these reasons, ORAP is contraindicated in patients receiving the macrolide antibiotics clarithromycin, erythromycin, azithromycin, dirithromycin, and troleandomycin.  7. Concomitant use in patients taking Celexa or Lexapro is contraindicated (see  Precautions - Drug Interactions - Pimozide and Celexa  ).  8. Clinical drug interaction studies have demonstrated that pimozide is also metabolized by CYP 2D6. Concomitant use of ORAP with paroxetine and other strong CYP 2D6 inhibitors is contraindicated (See  PRECAUTIONS – Drug Interactions  ).  9. Concomitant use of pimozide in patients taking sertraline is contraindicated (See  PRECAUTIONS – Drug Interactions  ).  Because azole antifungal agents are also inhibitors of the CYP 3A4 enzymes and thus may likewise impair pimozide metabolism, ORAP is contraindicated in patients receiving the azole antifungal agents itraconazole and ketoconazole.  Similarly, protease inhibitor drugs are also inhibitors of CYP 3A4, and thus ORAP is contraindicated in patients receiving protease inhibitors such as ritonavir, saquinovir, indinavir, and nelfinavir. (See  PRECAUTIONS - Drug Interactions  ).  Nefazodone is a potent inhibitor of CYP 3A4, and its concomitant use with ORAP is also contraindicated.  Other drugs that are relatively less potent inhibitors of CYP 3A4 should also be avoided, in view of the risks: e.g. zileuton, fluvoxamine.</Section>
+<Section name="WARNINGS SECTION" id="34071-1">
+WARNINGS  The use of ORAP (pimozide) in the treatment of Tourette’s Disorder involves different risk/benefit considerations than when antipsychotic drugs are used to treat other conditions. Consequently, a decision to use ORAP should take into consideration the following (see also  PRECAUTIONS - Information for Patients  ).  Tardive Dyskinesia  A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs. Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome. Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.  Both the risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase. However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.  There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn. Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process. The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.  Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia. Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate. In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought. The need for continued treatment should be reassessed periodically.  If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered. However, some patients may require treatment despite the presence of the syndrome.  (For further information about the description of tardive dyskinesia and its clinical detection, please refer to  ADVERSE REACTIONS and PRECAUTIONS - Information for Patients  ).  Neuroleptic Malignant Syndrome (NMS)  A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status (including catatonic signs) and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.  The diagnostic evaluation of patients with this syndrome is complicated. In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS). Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.  The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available. There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.  If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered. The patient should be carefully monitored, since recurrences of NMS have been reported.  Hyperpyrexia, not associated with the above symptom complex, has been reported with other antipsychotic drugs.  Other  Sudden, unexpected deaths have occurred in experimental studies of conditions other than Tourette’s Disorder. These deaths occurred while patients were receiving dosages in the range of 1 mg per kg. One possible mechanism for such deaths is prolongation of the QT interval predisposing patients to ventricular arrhythmia. An electrocardiogram should be performed before ORAP treatment is initiated and periodically thereafter, especially during the period of dose adjustment.  ORAP may have a tumorigenic potential. Based on studies conducted in mice, it is known that pimozide can produce a dose-related increase in pituitary tumors. The full significance of this finding is not known, but should be taken into consideration in the physician’s and patient’s decisions to use this drug product. This finding should be given special consideration when the patient is young and chronic use of pimozide is anticipated (see  PRECAUTIONS - Carcinogenesis, Mutagenesis, Impairment of Fertility  ).</Section>
+<Section name="PRECAUTIONS SECTION" id="42232-9">
+PRECAUTIONS  Leukopenia, Neutropenia and Agranulocytosis  Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.  Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia. Patients with a history of a clinically significant low WBC or drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of ORAP should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.  Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur. Patients with severe neutropenia (absolute neutrophil count &lt;1000/mm 3 ) should discontinue ORAP and have their WBC followed until recovery.  General  ORAP (pimozide) may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks, such as driving a car or operating machinery, especially during the first few days of therapy.  ORAP produces anticholinergic side effects and should be used with caution in individuals whose conditions may be aggravated by anticholinergic activity.  ORAP should be administered cautiously to patients with impairment of liver or kidney function, because it is metabolized by the liver and excreted by the kidneys.  Antipsychotics should be administered with caution to patients receiving anticonvulsant medication, with a history of seizures, or with EEG abnormalities, because they may lower the convulsive threshold. If indicated, adequate anticonvulsant therapy should be maintained concomitantly.  Information for Patients  Treatment with ORAP exposes the patient to serious risks. A decision to use ORAP chronically in Tourette’s Disorder is one that deserves full consideration by the patient (or patient’s family) as well as by the treating physician. Because the goal of treatment is symptomatic improvement, the patient’s view of the need for treatment and assessment of response are critical in evaluating the impact of therapy and weighing its benefits against the risks. Since the physician is the primary source of information about the use of a drug in any disease, it is recommended that the following information be discussed with patients and/or their families.  ORAP is intended only for use in patients with Tourette’s Disorder whose symptoms are severe and who cannot tolerate, or who do not respond to HALDOL ® (haloperidol).  Given the likelihood that a proportion of patients exposed chronically to antipsychotics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk. The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.  There is limited information available on the use of ORAP in children under 12 years of age.  The information available on ORAP from foreign marketing experience and from U.S. clinical trials indicates that ORAP has a side effect profile similar to that of other antipsychotic drugs. Patients should be informed that all types of side effects associated with the use of antipsychotics may be associated with the use of ORAP.  In addition, sudden, unexpected deaths have occurred in patients taking high doses of ORAP for conditions other than Tourette’s Disorder. These deaths may have been the result of an effect of ORAP upon the heart. Therefore, patients should be instructed not to exceed the prescribed dose of ORAP and they should realize the need for the initial ECG and for follow-up ECGs during treatment.  Also, pimozide, at a dose about 15 times that given humans, caused an increase in the number of benign tumors of the pituitary gland in female mice. It is not possible to say how important this is. Similar tumors were not seen in rats given pimozide, nor at lower doses in mice, which is reassuring. However, any such finding must be considered to suggest a possible risk of long term use of the drug.  Because substances in grapefruit juice may inhibit the metabolism of pimozide by CYP 3A4, patients should be advised to avoid grapefruit juice.  Laboratory Tests  An ECG should be done at baseline and periodically thereafter throughout the period of dose adjustment. Any indication of prolongation of QTc interval beyond an absolute limit of 0.47 seconds (children) or 0.52 seconds (adults), or more than 25% above the patient’s original baseline should be considered a basis for stopping further dose increase (see CONTRAINDICATIONS ) and considering a lower dose.  Since hypokalemia has been associated with ventricular arrhythmias, potassium insufficiency, secondary to diuretics, diarrhea, or other cause, should be corrected before ORAP therapy is initiated and normal potassium maintained during therapy.  Drug Interactions  Because ORAP prolongs the QT interval of the electrocardiogram, an additive effect on QT interval would be anticipated if administered with other drugs, such as phenothiazines, tricyclic antidepressants or antiarrhythmic agents, which prolong the QT interval. Accordingly, pimozide should not be given with dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol, tacrolimus, ziprasidone, or other drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects. Also, the use of macrolide antibiotics in patients with prolonged QT intervals has been rarely associated with ventricular arrhythmias. Such concomitant administration should not be undertaken (see  CONTRAINDICATIONS  ).  Since ORAP is partly metabolized via CYP 3A4, it should not be administered concomitantly with inhibitors of this metabolic system, such as azole antifungal agents and protease inhibitor drugs (see  CONTRAINDICATIONS  ).  Pimozide and Celexa: In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone. Racemic citalopram did not alter the mean AUC or C max of pimozide. The mechanism of this pharmacodynamic interaction is not known. Concomitant use of pimozide and Celexa or Lexapro is contraindicated (See  CONTRAINDICATIONS  ).  CYP 2D6 inhibitors: In healthy subjects, co-administration of pimozide 2 mg (single dose) and paroxetine 60 mg resulted in a 151% increase in pimozide AUC and a 62% increase in pimozide Cmax compared to pimozide administered alone. The increase in pimozide AUC and Cmax is related to the CYP 2D6 inhibitory properties of paroxetine. Concomitant use of pimozide and paroxetine or other strong CYP 2D6 inhibitors are contraindicated (see  CONTRAINDICATIONS  ). As CYP 1A2 may also contribute to the metabolism of ORAP, prescribers should be aware of the theoretical potential for drug interactions with inhibitors of this enzymatic system.  ORAP may be capable of potentiating CNS depressants, including analgesics, sedatives, anxiolytics, and alcohol.  Rare case reports have suggested possible additive effects of pimozide and fluoxetine leading to bradycardia.  Concomitant administration of pimozide and sertraline should be contraindicated (See  Contraindications  ).  Pharmacogenomics  Individuals with genetic variations resulting in poor CYP 2D6 metabolism (approximately 5 to 10% of the population) exhibit higher pimozide concentrations than extensive CYP 2D6 metabolizers. The concentrations observed in poor CYP 2D6 metabolizers are similar to those seen with strong CYP 2D6 inhibitors such as paroxetine. The time to achieve steady state pimozide concentrations is expected to be longer (approximately 2 weeks) in poor CYP 2D6 metabolizers because of the prolonged half-life. Alternative dosing strategies are recommended in patients who are genetically poor CYP 2D6 metabolizers (see  DOSAGE and ADMINISTRATION  ).  Interaction with Food  Patients should avoid grapefruit juice because it may inhibit the metabolism of pimozide by CYP 3A4.  Carcinogenesis, Mutagenesis, Impairment of Fertility  Carcinogenicity studies were conducted in mice and rats. In mice, pimozide causes a dose-related increase in pituitary and mammary tumors.  When mice were treated for up to 18 months with pimozide, pituitary gland changes developed in females only. These changes were characterized as hyperplasia at doses approximating the human dose and adenoma at doses about fifteen times the maximum recommended human dose on a mg per kg basis. The mechanism for the induction of pituitary tumors in mice is not known.  Mammary gland tumors in female mice were also increased, but these tumors are expected in rodents treated with antipsychotic drugs which elevate prolactin levels. Chronic administration of an antipsychotic also causes elevated prolactin levels in humans. Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro , a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer. Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with antipsychotic drugs, the clinical significance of elevated serum prolactin levels is unknown for most patients. Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of these drugs and mammary tumorigenesis. The available evidence, however, is considered too limited to be conclusive at this time.  In a 24-month carcinogenicity study in rats, animals received up to 50 times the maximum recommended human dose. No increased incidence of overall tumors or tumors at any site was observed in either sex. Because of the limited number of animals surviving this study, the meaning of these results is unclear.  Pimozide did not have mutagenic activity in the Ames test with four bacterial test strains, in the mouse dominant lethal test or in the micronucleus test in rats.  Reproduction studies in animals were not adequate to assess all aspects of fertility. Nevertheless, female rats administered pimozide had prolonged estrus cycles, an effect also produced by other antipsychotic drugs.  Pregnancy  Category C. Reproduction studies performed in rats and rabbits at oral doses up to 8 times the maximum human dose did not reveal evidence of teratogenicity. In the rat, however, this multiple of the human dose resulted in decreased pregnancies and in the retarded development of fetuses. These effects are thought to be due to an inhibition or delay in implantation which is also observed in rodents administered other antipsychotic drugs. In the rabbit, maternal toxicity, mortality, decreased weight gain, and embryotoxicity including increased resorptions were dose-related. Because animal reproduction studies are not always predictive of human response, pimozide should be given to a pregnant woman only if the potential benefits of treatment clearly outweigh the potential risks.  Nonteratogenic effects. Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery. There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates. These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.  ORAP should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.  Labor and Delivery  This drug has no recognized use in labor or delivery.  Nursing Mothers  It is not known whether pimozide is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for tumorigenicity and unknown cardiovascular effects in the infant, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.  Pediatric Use  Although Tourette's Disorder most often has its onset between the ages of 2 and 15 years, information on the use and efficacy of ORAP in patients less than 12 years of age is limited. A 24-week open label study in 36 children between the ages of 2 and 12 demonstrated that pimozide has a similar safety profile in this age group as in older patients and there were no safety findings that would preclude its use in this age group.  Because its use and safety have not been evaluated in other childhood disorders, ORAP is not recommended for use in any condition other than Tourette’s Disorder.</Section>
+<Section name="DOSAGE &amp; ADMINISTRATION SECTION" id="34068-7">
+DOSAGE AND ADMINISTRATION  General  The suppression of tics by ORAP requires a slow and gradual introduction of the drug. The patient’s dose should be carefully adjusted to a point where the suppression of tics and the relief afforded is balanced against the untoward side effects of the drug.  An ECG should be done at baseline and periodically thereafter, especially during the period of dose adjustment (see  WARNINGS  and  PRECAUTIONS - Laboratory Tests  ). Periodic attempts should be made to reduce the dosage of ORAP to see whether or not tics persist at the level and extent first identified. In attempts to reduce the dosage of ORAP, consideration should be given to the possibility that increases of tic intensity and frequency may represent a transient, withdrawal-related phenomenon rather than a return of disease symptoms. Specifically, one to two weeks should be allowed to elapse before one concludes that an increase in tic manifestations is a function of the underlying disease syndrome rather than a response to drug withdrawal. A gradual withdrawal is recommended in any case.  Children  Reliable dose response data for the effects of ORAP (pimozide) on tic manifestation in Tourette’s Disorder patients below the age of twelve are not available.  Treatment should be initiated at a dose of 0.05 mg/kg preferably taken once at bedtime. The dose may be increased every third day to a maximum of 0.2 mg/kg not to exceed 10 mg/day.  At doses above 0.05 mg/kg/day, CYP 2D6 genotyping should be performed. In poor CYP 2D6 metabolizers, ORAP doses should not exceed 0.05 mg/kg/day, and doses should not be increased earlier than 14 days (see  PRECAUTIONS – Pharmacogenomics  ).  Adults  In general, treatment with ORAP should be initiated with a dose of 1 to 2 mg a day in divided doses. The dose may be increased thereafter every other day. Most patients are maintained at less than 0.2 mg/kg/day, or 10 mg/day, whichever is less. Doses greater than 0.2 mg/kg/day or 10 mg/day are not recommended.  At doses above 4 mg/day, CYP 2D6 genotyping should be performed. In poor CYP 2D6 metabolizers, ORAP doses should not exceed 4 mg/day, and doses should not be increased earlier than 14 days (see  PRECAUTIONS – Pharmacogenomics  ).</Section>
+</Text><Sentences>
+<Sentence id="5275" LabelDrug="ORAP" section="34068-7">
+<SentenceText>A gradual withdrawal is recommended in any case.</SentenceText>
+</Sentence>
+<Sentence id="5276" LabelDrug="ORAP" section="34068-7">
+<SentenceText>An ECG should be done at baseline and periodically thereafter, especially during the period of dose adjustment.</SentenceText>
+</Sentence>
+<Sentence id="5277" LabelDrug="ORAP" section="34068-7">
+<SentenceText>At doses above 0.05 mg/kg/day, CYP 2D6 genotyping should be performed.</SentenceText>
+</Sentence>
+<Sentence id="5278" LabelDrug="ORAP" section="34068-7">
+<SentenceText>At doses above 4 mg/day, CYP 2D6 genotyping should be performed.</SentenceText>
+</Sentence>
+<Sentence id="5279" LabelDrug="ORAP" section="34068-7">
+<SentenceText>Doses greater than 0.2 mg/kg/day or 10 mg/day are not recommended.</SentenceText>
+</Sentence>
+<Sentence id="5280" LabelDrug="ORAP" section="34068-7">
+<SentenceText>In attempts to reduce the dosage of ORAP, consideration should be given to the possibility that increases of tic intensity and frequency may represent a transient, withdrawal-related phenomenon rather than a return of disease symptoms.</SentenceText>
+</Sentence>
+<Sentence id="5281" LabelDrug="ORAP" section="34068-7">
+<SentenceText>In general, treatment with ORAP should be initiated with a dose of 1 to 2 mg a day in divided doses.</SentenceText>
+</Sentence>
+<Sentence id="5282" LabelDrug="ORAP" section="34068-7">
+<SentenceText>In poor CYP 2D6 metabolizers, ORAP doses should not exceed 0.05 mg/kg/day, and doses should not be increased earlier than 14 days.</SentenceText>
+</Sentence>
+<Sentence id="5283" LabelDrug="ORAP" section="34068-7">
+<SentenceText>In poor CYP 2D6 metabolizers, ORAP doses should not exceed 4 mg/day, and doses should not be increased earlier than 14 days.</SentenceText>
+</Sentence>
+<Sentence id="5284" LabelDrug="ORAP" section="34068-7">
+<SentenceText>Most patients are maintained at less than 0.2 mg/kg/day, or 10 mg/day, whichever is less.</SentenceText>
+</Sentence>
+<Sentence id="5285" LabelDrug="ORAP" section="34068-7">
+<SentenceText>Periodic attempts should be made to reduce the dosage of ORAP to see whether or not tics persist at the level and extent first identified.</SentenceText>
+</Sentence>
+<Sentence id="5286" LabelDrug="ORAP" section="34068-7">
+<SentenceText>Reliable dose response data for the effects of ORAP (pimozide) on tic manifestation in Tourette’s Disorder patients below the age of twelve are not available.</SentenceText>
+</Sentence>
+<Sentence id="5287" LabelDrug="ORAP" section="34068-7">
+<SentenceText>Specifically, one to two weeks should be allowed to elapse before one concludes that an increase in tic manifestations is a function of the underlying disease syndrome rather than a response to drug withdrawal.</SentenceText>
+</Sentence>
+<Sentence id="5288" LabelDrug="ORAP" section="34068-7">
+<SentenceText>The dose may be increased every third day to a maximum of 0.2 mg/kg not to exceed 10 mg/day.</SentenceText>
+</Sentence>
+<Sentence id="5289" LabelDrug="ORAP" section="34068-7">
+<SentenceText>The dose may be increased thereafter every other day.</SentenceText>
+</Sentence>
+<Sentence id="5290" LabelDrug="ORAP" section="34068-7">
+<SentenceText>The patient’s dose should be carefully adjusted to a point where the suppression of tics and the relief afforded is balanced against the untoward side effects of the drug.</SentenceText>
+</Sentence>
+<Sentence id="5291" LabelDrug="ORAP" section="34068-7">
+<SentenceText>The suppression of tics by ORAP requires a slow and gradual introduction of the drug.</SentenceText>
+</Sentence>
+<Sentence id="5292" LabelDrug="ORAP" section="34068-7">
+<SentenceText>Treatment should be initiated at a dose of 0.05 mg/kg preferably taken once at bedtime.</SentenceText>
+</Sentence>
+<Sentence id="5293" LabelDrug="ORAP" section="34070-3">
+<SentenceText>.</SentenceText>
+</Sentence>
+<Sentence id="5294" LabelDrug="ORAP" section="34070-3">
+<SentenceText>1.ORAP (pimozide) is contraindicated in the treatment of simple tics or tics other than those associated with Tourette’s Disorder.</SentenceText>
+</Sentence>
+<Sentence id="5295" LabelDrug="ORAP" section="34070-3">
+<SentenceText>2.ORAP should not be used in patients taking drugs that may, themselves, cause motor and phonic tics (e.g., pemoline, methylphenidate and amphetamines) until such patients have been withdrawn from these drugs to determine whether or not the drugs, rather than Tourette’s Disorder, are responsible for the tics.</SentenceText>
+</Sentence>
+<Sentence id="5296" LabelDrug="ORAP" section="34070-3">
+<SentenceText>3.Because ORAP prolongs the QT interval of the electrocardiogram it is contraindicated in patients with congenital long QT syndrome, patients with a history of cardiac arrhythmias, patients taking other drugs which prolong the QT interval of the electrocardiogram or patients with known hypokalemia or hypomagnesemia.</SentenceText>
+</Sentence>
+<Sentence id="5297" LabelDrug="ORAP" section="34070-3">
+<SentenceText>4.ORAP is contraindicated in patients with severe toxic central nervous system depression or comatose states from any cause.</SentenceText>
+</Sentence>
+<Sentence id="5298" LabelDrug="ORAP" section="34070-3">
+<SentenceText>5.ORAP is contraindicated in patients with hypersensitivity to it.</SentenceText>
+</Sentence>
+<Sentence id="5299" LabelDrug="ORAP" section="34070-3">
+<SentenceText>6.Ventricular arrhythmias have been rarely associated with the use of macrolide antibiotics in patients with prolonged QT intervals, as might be produced by ORAP.</SentenceText>
+</Sentence>
+<Sentence id="5300" LabelDrug="ORAP" section="34070-3">
+<SentenceText>7.Concomitant use in patients taking Celexa or Lexapro is contraindicated.</SentenceText>
+<Mention id="M3" type="Trigger" span="58 15" str="contraindicated"/>
+<Mention id="M2" type="Precipitant" span="47 7" str="Lexapro" code="5U85DBW7LO"/>
+<Mention id="M4" type="Precipitant" span="37 6" str="Celexa" code="I1E9D14F36"/>
+<Interaction id="I1" type="Unspecified interaction" trigger="M3" precipitant="M2"/>
+<Interaction id="I2" type="Unspecified interaction" trigger="M3" precipitant="M4"/>
+</Sentence>
+<Sentence id="5301" LabelDrug="ORAP" section="34070-3">
+<SentenceText>8.Clinical drug interaction studies have demonstrated that pimozide is also metabolized by CYP 2D6.</SentenceText>
+</Sentence>
+<Sentence id="5302" LabelDrug="ORAP" section="34070-3">
+<SentenceText>9.Concomitant use of pimozide in patients taking sertraline is contraindicated.</SentenceText>
+<Mention id="M5" type="Trigger" span="63 15" str="contraindicated"/>
+<Mention id="M6" type="Precipitant" span="49 10" str="sertraline" code="QUC7NX6WMB"/>
+<Interaction id="I3" type="Unspecified interaction" trigger="M5" precipitant="M6"/>
+</Sentence>
+<Sentence id="5303" LabelDrug="ORAP" section="34070-3">
+<SentenceText>As it is not known whether cross-sensitivity exists among the antipsychotics, pimozide should be used with appropriate caution in patients who have demonstrated hypersensitivity to other antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5304" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Because azole antifungal agents are also inhibitors of the CYP 3A4 enzymes and thus may likewise impair pimozide metabolism, ORAP is contraindicated in patients receiving the azole antifungal agents itraconazole and ketoconazole.</SentenceText>
+<Mention id="M13" type="Trigger" span="133 15" str="contraindicated"/>
+<Mention id="M8" type="Precipitant" span="8 23" str="azole antifungal agents" code="n0000175487"/>
+<Mention id="M10" type="Precipitant" span="216 12" str="ketoconazole" code="N0000007319"/>
+<Mention id="M12" type="Precipitant" span="199 12" str="itraconazole" code="N0000006753"/>
+<Mention id="M14" type="Precipitant" span="41 25" str="inhibitors of the CYP 3A4" code="n0000182141"/>
+<Interaction id="I4" type="Unspecified interaction" trigger="M13" precipitant="M8"/>
+<Interaction id="I5" type="Unspecified interaction" trigger="M13" precipitant="M10"/>
+<Interaction id="I6" type="Unspecified interaction" trigger="M13" precipitant="M12"/>
+<Interaction id="I7" type="Unspecified interaction" trigger="M13" precipitant="M14"/>
+</Sentence>
+<Sentence id="5305" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Concomitant use of ORAP with paroxetine and other strong CYP 2D6 inhibitors is contraindicated.</SentenceText>
+<Mention id="M17" type="Trigger" span="79 15" str="contraindicated"/>
+<Mention id="M16" type="Precipitant" span="29 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M18" type="Precipitant" span="57 18" str="CYP 2D6 inhibitors" code="N0000182137"/>
+<Interaction id="I8" type="Unspecified interaction" trigger="M17" precipitant="M16"/>
+<Interaction id="I9" type="Unspecified interaction" trigger="M17" precipitant="M18"/>
+</Sentence>
+<Sentence id="5306" LabelDrug="ORAP" section="34070-3">
+<SentenceText>For these reasons, ORAP is contraindicated in patients receiving the macrolide antibiotics clarithromycin, erythromycin, azithromycin, dirithromycin, and troleandomycin.</SentenceText>
+<Mention id="M29" type="Trigger" span="27 15" str="contraindicated"/>
+<Mention id="M20" type="Precipitant" span="107 12" str="erythromycin" code="N0000007133"/>
+<Mention id="M22" type="Precipitant" span="135 13" str="dirithromycin" code="1801D76STL"/>
+<Mention id="M24" type="Precipitant" span="91 14" str="clarithromycin" code="N0000007316"/>
+<Mention id="M26" type="Precipitant" span="154 14" str="troleandomycin" code="C4DZ64560D"/>
+<Mention id="M28" type="Precipitant" span="121 12" str="azithromycin" code="N0000006752"/>
+<Mention id="M30" type="Precipitant" span="69 21" str="macrolide antibiotics" code="N0000175431"/>
+<Interaction id="I10" type="Unspecified interaction" trigger="M29" precipitant="M20"/>
+<Interaction id="I11" type="Unspecified interaction" trigger="M29" precipitant="M22"/>
+<Interaction id="I12" type="Unspecified interaction" trigger="M29" precipitant="M24"/>
+<Interaction id="I13" type="Unspecified interaction" trigger="M29" precipitant="M26"/>
+<Interaction id="I14" type="Unspecified interaction" trigger="M29" precipitant="M28"/>
+<Interaction id="I15" type="Unspecified interaction" trigger="M29" precipitant="M30"/>
+</Sentence>
+<Sentence id="5307" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Furthermore, some evidence suggests that pimozide is metabolized partly by the enzyme system cytochrome P450 3A4 (CYP 3A4).</SentenceText>
+</Sentence>
+<Sentence id="5308" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Macrolide antibiotics are inhibitors of CYP 3A4, and thus could potentially impede pimozide metabolism.</SentenceText>
+<Mention id="M33" type="Trigger" span="76 6;92 10" str="impede | metabolism"/>
+<Mention id="M32" type="Precipitant" span="26 21" str="inhibitors of CYP 3A4" code="n0000182141"/>
+<Mention id="M34" type="Precipitant" span="0 21" str="Macrolide antibiotics" code="N0000175431"/>
+<Interaction id="I16" type="Pharmacokinetic interaction" trigger="M33" precipitant="M32" effect="C54355"/>
+<Interaction id="I17" type="Pharmacokinetic interaction" trigger="M33" precipitant="M34" effect="C54355"/>
+</Sentence>
+<Sentence id="5309" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Nefazodone is a potent inhibitor of CYP 3A4, and its concomitant use with ORAP is also contraindicated.</SentenceText>
+<Mention id="M37" type="Trigger" span="87 15" str="contraindicated"/>
+<Mention id="M36" type="Precipitant" span="23 20" str="inhibitor of CYP 3A4" code="n0000182141"/>
+<Mention id="M38" type="Precipitant" span="0 10" str="Nefazodone" code="N0000007250"/>
+<Interaction id="I18" type="Unspecified interaction" trigger="M37" precipitant="M36"/>
+<Interaction id="I19" type="Unspecified interaction" trigger="M37" precipitant="M38"/>
+</Sentence>
+<Sentence id="5310" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Other drugs that are relatively less potent inhibitors of CYP 3A4 should also be avoided, in view of the risks: e.g.</SentenceText>
+<Mention id="M39" type="Trigger" span="66 6;78 10" str="should | be avoided"/>
+<Mention id="M40" type="Precipitant" span="44 21" str="inhibitors of CYP 3A4" code="n0000182141"/>
+<Interaction id="I20" type="Unspecified interaction" trigger="M39" precipitant="M40"/>
+</Sentence>
+<Sentence id="5311" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Similarly, protease inhibitor drugs are also inhibitors of CYP 3A4, and thus ORAP is contraindicated in patients receiving protease inhibitors such as ritonavir, saquinovir, indinavir, and nelfinavir.</SentenceText>
+<Mention id="M51" type="Trigger" span="85 15" str="contraindicated"/>
+<Mention id="M42" type="Precipitant" span="174 9" str="indinavir" code="N0000005722"/>
+<Mention id="M44" type="Precipitant" span="162 10" str="saquinovir" code="l3je09kz2f"/>
+<Mention id="M46" type="Precipitant" span="189 10" str="nelfinavir" code="N0000006047"/>
+<Mention id="M48" type="Precipitant" span="45 21" str="inhibitors of CYP 3A4" code="n0000182141"/>
+<Mention id="M50" type="Precipitant" span="151 9" str="ritonavir" code="N0000007423"/>
+<Mention id="M52" type="Precipitant" span="123 19" str="protease inhibitors" code="N0000000076"/>
+<Interaction id="I21" type="Unspecified interaction" trigger="M51" precipitant="M42"/>
+<Interaction id="I22" type="Unspecified interaction" trigger="M51" precipitant="M44"/>
+<Interaction id="I23" type="Unspecified interaction" trigger="M51" precipitant="M46"/>
+<Interaction id="I24" type="Unspecified interaction" trigger="M51" precipitant="M48"/>
+<Interaction id="I25" type="Unspecified interaction" trigger="M51" precipitant="M50"/>
+<Interaction id="I26" type="Unspecified interaction" trigger="M51" precipitant="M52"/>
+</Sentence>
+<Sentence id="5312" LabelDrug="ORAP" section="34070-3">
+<SentenceText>Specifically, two sudden deaths have been reported when clarithromycin was added to ongoing pimozide therapy.</SentenceText>
+<Mention id="M55" type="SpecificInteraction" span="18 13" str="sudden deaths" code="26636000: Sudden death (event)"/>
+<Mention id="M54" type="Precipitant" span="56 14" str="clarithromycin" code="N0000007316"/>
+<Interaction id="I27" type="Pharmacodynamic interaction" trigger="M55" precipitant="M54" effect="M55"/>
+</Sentence>
+<Sentence id="5313" LabelDrug="ORAP" section="34071-1">
+<SentenceText>(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS and PRECAUTIONS - Information for Patients ).</SentenceText>
+</Sentence>
+<Sentence id="5314" LabelDrug="ORAP" section="34071-1">
+<SentenceText>A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5315" LabelDrug="ORAP" section="34071-1">
+<SentenceText>A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5316" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.</SentenceText>
+</Sentence>
+<Sentence id="5317" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.</SentenceText>
+</Sentence>
+<Sentence id="5318" LabelDrug="ORAP" section="34071-1">
+<SentenceText>An electrocardiogram should be performed before ORAP treatment is initiated and periodically thereafter, especially during the period of dose adjustment.</SentenceText>
+</Sentence>
+<Sentence id="5319" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.</SentenceText>
+</Sentence>
+<Sentence id="5320" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Based on studies conducted in mice, it is known that pimozide can produce a dose-related increase in pituitary tumors.</SentenceText>
+</Sentence>
+<Sentence id="5321" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Both the risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.</SentenceText>
+</Sentence>
+<Sentence id="5322" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to antipsychotic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.</SentenceText>
+</Sentence>
+<Sentence id="5323" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status (including catatonic signs) and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).</SentenceText>
+</Sentence>
+<Sentence id="5324" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Consequently, a decision to use ORAP should take into consideration the following.</SentenceText>
+</Sentence>
+<Sentence id="5325" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.</SentenceText>
+</Sentence>
+<Sentence id="5326" LabelDrug="ORAP" section="34071-1">
+<SentenceText>However, some patients may require treatment despite the presence of the syndrome.</SentenceText>
+</Sentence>
+<Sentence id="5327" LabelDrug="ORAP" section="34071-1">
+<SentenceText>However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.</SentenceText>
+</Sentence>
+<Sentence id="5328" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Hyperpyrexia, not associated with the above symptom complex, has been reported with other antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5329" LabelDrug="ORAP" section="34071-1">
+<SentenceText>If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.</SentenceText>
+</Sentence>
+<Sentence id="5330" LabelDrug="ORAP" section="34071-1">
+<SentenceText>If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.</SentenceText>
+</Sentence>
+<Sentence id="5331" LabelDrug="ORAP" section="34071-1">
+<SentenceText>In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).</SentenceText>
+</Sentence>
+<Sentence id="5332" LabelDrug="ORAP" section="34071-1">
+<SentenceText>In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.</SentenceText>
+</Sentence>
+<Sentence id="5333" LabelDrug="ORAP" section="34071-1">
+<SentenceText>One possible mechanism for such deaths is prolongation of the QT interval predisposing patients to ventricular arrhythmia.</SentenceText>
+</Sentence>
+<Sentence id="5334" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.</SentenceText>
+</Sentence>
+<Sentence id="5335" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Sudden, unexpected deaths have occurred in experimental studies of conditions other than Tourette’s Disorder.</SentenceText>
+</Sentence>
+<Sentence id="5336" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The diagnostic evaluation of patients with this syndrome is complicated.</SentenceText>
+</Sentence>
+<Sentence id="5337" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.</SentenceText>
+</Sentence>
+<Sentence id="5338" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The full significance of this finding is not known, but should be taken into consideration in the physician’s and patient’s decisions to use this drug product.</SentenceText>
+</Sentence>
+<Sentence id="5339" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.</SentenceText>
+</Sentence>
+<Sentence id="5340" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The need for continued treatment should be reassessed periodically.</SentenceText>
+</Sentence>
+<Sentence id="5341" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The patient should be carefully monitored, since recurrences of NMS have been reported.</SentenceText>
+</Sentence>
+<Sentence id="5342" LabelDrug="ORAP" section="34071-1">
+<SentenceText>The use of ORAP (pimozide) in the treatment of Tourette’s Disorder involves different risk/benefit considerations than when antipsychotic drugs are used to treat other conditions.</SentenceText>
+</Sentence>
+<Sentence id="5343" LabelDrug="ORAP" section="34071-1">
+<SentenceText>There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.</SentenceText>
+</Sentence>
+<Sentence id="5344" LabelDrug="ORAP" section="34071-1">
+<SentenceText>There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.</SentenceText>
+</Sentence>
+<Sentence id="5345" LabelDrug="ORAP" section="34071-1">
+<SentenceText>These deaths occurred while patients were receiving dosages in the range of 1 mg per kg.</SentenceText>
+</Sentence>
+<Sentence id="5346" LabelDrug="ORAP" section="34071-1">
+<SentenceText>This finding should be given special consideration when the patient is young and chronic use of pimozide is anticipated.</SentenceText>
+</Sentence>
+<Sentence id="5347" LabelDrug="ORAP" section="34071-1">
+<SentenceText>Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.</SentenceText>
+</Sentence>
+<Sentence id="5348" LabelDrug="ORAP" section="42232-9">
+<SentenceText>A 24-week open label study in 36 children between the ages of 2 and 12 demonstrated that pimozide has a similar safety profile in this age group as in older patients and there were no safety findings that would preclude its use in this age group.</SentenceText>
+</Sentence>
+<Sentence id="5349" LabelDrug="ORAP" section="42232-9">
+<SentenceText>A decision to use ORAP chronically in Tourette’s Disorder is one that deserves full consideration by the patient (or patient’s family) as well as by the treating physician.</SentenceText>
+</Sentence>
+<Sentence id="5350" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Accordingly, pimozide should not be given with dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol, tacrolimus, ziprasidone, or other drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects.</SentenceText>
+<Mention id="M116" type="Trigger" span="423 23" str="pharmacodynamic effects"/>
+<Mention id="M57" type="Precipitant" span="362 84" str="drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects" code="NO MAP"/>
+<Mention id="M118" type="SpecificInteraction" span="391 15" str="QT prolongation" code="111975006: Prolonged QT interval (finding)"/>
+<Mention id="M60" type="Precipitant" span="275 20" str="levomethadyl acetate" code="R3B637Y991"/>
+<Mention id="M63" type="Precipitant" span="318 8" str="probucol" code="P3CTH044XJ"/>
+<Mention id="M66" type="Precipitant" span="328 10" str="tacrolimus" code="WM0HAQ4WNM"/>
+<Mention id="M69" type="Precipitant" span="47 10" str="dofetilide" code="R4Z9X1N2ND"/>
+<Mention id="M72" type="Precipitant" span="257 16" str="arsenic trioxide" code="S7V92P67HO"/>
+<Mention id="M75" type="Precipitant" span="204 12" str="moxifloxacin" code="U188XYD42P"/>
+<Mention id="M78" type="Precipitant" span="59 7" str="sotalol" code="A6D97U294I"/>
+<Mention id="M81" type="Precipitant" span="340 11" str="ziprasidone" code="6UKA5VEJ6X"/>
+<Mention id="M84" type="Precipitant" span="190 12" str="gatifloxacin" code="L4618BD7KJ"/>
+<Mention id="M87" type="Precipitant" span="148 14" str="chlorpromazine" code="U42B7VYA4P"/>
+<Mention id="M90" type="Precipitant" span="297 19" str="dolasetron mesylate" code="U3C8E5BWKR"/>
+<Mention id="M93" type="Precipitant" span="68 9" str="quinidine" code="N0000007728"/>
+<Mention id="M96" type="Precipitant" span="176 12" str="sparfloxacin" code="Q90AGA787L"/>
+<Mention id="M99" type="Precipitant" span="218 12" str="halofantrine" code="Q2OS4303HZ"/>
+<Mention id="M102" type="Precipitant" span="120 12" str="mesoridazine" code="5XE4NWM740"/>
+<Mention id="M105" type="Precipitant" span="79 39" str="other Class Ia and III anti-arrhythmics" code="N0000029121"/>
+<Mention id="M108" type="Precipitant" span="244 11" str="pentamidine" code="673LC5J4LQ"/>
+<Mention id="M111" type="Precipitant" span="164 10" str="droperidol" code="O9U0F09D5X"/>
+<Mention id="M114" type="Precipitant" span="232 10" str="mefloquine" code="TML814419R"/>
+<Mention id="M117" type="Precipitant" span="134 12" str="thioridazine" code="N3D6TG58NI"/>
+<Interaction id="I28" type="Pharmacodynamic interaction" trigger="M116" precipitant="M57" effect="M118"/>
+<Interaction id="I29" type="Pharmacodynamic interaction" trigger="M116" precipitant="M60" effect="M118"/>
+<Interaction id="I30" type="Pharmacodynamic interaction" trigger="M116" precipitant="M63" effect="M118"/>
+<Interaction id="I31" type="Pharmacodynamic interaction" trigger="M116" precipitant="M66" effect="M118"/>
+<Interaction id="I32" type="Pharmacodynamic interaction" trigger="M116" precipitant="M69" effect="M118"/>
+<Interaction id="I33" type="Pharmacodynamic interaction" trigger="M116" precipitant="M72" effect="M118"/>
+<Interaction id="I34" type="Pharmacodynamic interaction" trigger="M116" precipitant="M75" effect="M118"/>
+<Interaction id="I35" type="Pharmacodynamic interaction" trigger="M116" precipitant="M78" effect="M118"/>
+<Interaction id="I36" type="Pharmacodynamic interaction" trigger="M116" precipitant="M81" effect="M118"/>
+<Interaction id="I37" type="Pharmacodynamic interaction" trigger="M116" precipitant="M84" effect="M118"/>
+<Interaction id="I38" type="Pharmacodynamic interaction" trigger="M116" precipitant="M87" effect="M118"/>
+<Interaction id="I39" type="Pharmacodynamic interaction" trigger="M116" precipitant="M90" effect="M118"/>
+<Interaction id="I40" type="Pharmacodynamic interaction" trigger="M116" precipitant="M93" effect="M118"/>
+<Interaction id="I41" type="Pharmacodynamic interaction" trigger="M116" precipitant="M96" effect="M118"/>
+<Interaction id="I42" type="Pharmacodynamic interaction" trigger="M116" precipitant="M99" effect="M118"/>
+<Interaction id="I43" type="Pharmacodynamic interaction" trigger="M116" precipitant="M102" effect="M118"/>
+<Interaction id="I44" type="Pharmacodynamic interaction" trigger="M116" precipitant="M105" effect="M118"/>
+<Interaction id="I45" type="Pharmacodynamic interaction" trigger="M116" precipitant="M108" effect="M118"/>
+<Interaction id="I46" type="Pharmacodynamic interaction" trigger="M116" precipitant="M111" effect="M118"/>
+<Interaction id="I47" type="Pharmacodynamic interaction" trigger="M116" precipitant="M114" effect="M118"/>
+<Interaction id="I48" type="Pharmacodynamic interaction" trigger="M116" precipitant="M117" effect="M118"/>
+</Sentence>
+<Sentence id="5351" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Also, pimozide, at a dose about 15 times that given humans, caused an increase in the number of benign tumors of the pituitary gland in female mice.</SentenceText>
+</Sentence>
+<Sentence id="5352" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Also, the use of macrolide antibiotics in patients with prolonged QT intervals has been rarely associated with ventricular arrhythmias.</SentenceText>
+</Sentence>
+<Sentence id="5353" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Alternative dosing strategies are recommended in patients who are genetically poor CYP 2D6 metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="5354" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with antipsychotic drugs, the clinical significance of elevated serum prolactin levels is unknown for most patients.</SentenceText>
+</Sentence>
+<Sentence id="5355" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Although Tourette's Disorder most often has its onset between the ages of 2 and 15 years, information on the use and efficacy of ORAP in patients less than 12 years of age is limited.</SentenceText>
+</Sentence>
+<Sentence id="5356" LabelDrug="ORAP" section="42232-9">
+<SentenceText>An ECG should be done at baseline and periodically thereafter throughout the period of dose adjustment.</SentenceText>
+</Sentence>
+<Sentence id="5357" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Antipsychotics should be administered with caution to patients receiving anticonvulsant medication, with a history of seizures, or with EEG abnormalities, because they may lower the convulsive threshold.</SentenceText>
+<Mention id="M121" type="SpecificInteraction" span="172 30" str="lower the convulsive threshold" code="19260006: Lowered convulsive threshold (finding)"/>
+<Mention id="M120" type="Precipitant" span="73 25" str="anticonvulsant medication" code="N0000029145"/>
+<Interaction id="I49" type="Pharmacodynamic interaction" trigger="M121" precipitant="M120" effect="M121"/>
+</Sentence>
+<Sentence id="5358" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Any indication of prolongation of QTc interval beyond an absolute limit of 0.47 seconds (children) or 0.52 seconds (adults), or more than 25% above the patient’s original baseline should be considered a basis for stopping further dose increase and considering a lower dose.</SentenceText>
+</Sentence>
+<Sentence id="5359" LabelDrug="ORAP" section="42232-9">
+<SentenceText>As CYP 1A2 may also contribute to the metabolism of ORAP, prescribers should be aware of the theoretical potential for drug interactions with inhibitors of this enzymatic system.</SentenceText>
+<Mention id="M122" type="Trigger" span="93 43" str="theoretical potential for drug interactions"/>
+<Mention id="M123" type="Precipitant" span="3 7;142 10" str="CYP 1A2 | inhibitors" code="n0000182138"/>
+<Interaction id="I50" type="Unspecified interaction" trigger="M122" precipitant="M123"/>
+</Sentence>
+<Sentence id="5360" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because animal reproduction studies are not always predictive of human response, pimozide should be given to a pregnant woman only if the potential benefits of treatment clearly outweigh the potential risks.</SentenceText>
+</Sentence>
+<Sentence id="5361" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because its use and safety have not been evaluated in other childhood disorders, ORAP is not recommended for use in any condition other than Tourette’s Disorder.</SentenceText>
+</Sentence>
+<Sentence id="5362" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because many drugs are excreted in human milk and because of the potential for tumorigenicity and unknown cardiovascular effects in the infant, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.</SentenceText>
+</Sentence>
+<Sentence id="5363" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because of the limited number of animals surviving this study, the meaning of these results is unclear.</SentenceText>
+</Sentence>
+<Sentence id="5364" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because ORAP prolongs the QT interval of the electrocardiogram, an additive effect on QT interval would be anticipated if administered with other drugs, such as phenothiazines, tricyclic antidepressants or antiarrhythmic agents, which prolong the QT interval.</SentenceText>
+<Mention id="M130" type="Trigger" span="67 15" str="additive effect"/>
+<Mention id="M125" type="Precipitant" span="177 25" str="tricyclic antidepressants" code="N0000029148"/>
+<Mention id="M132" type="SpecificInteraction" span="235 23" str="prolong the QT interval" code="111975006: Prolonged QT interval (finding)"/>
+<Mention id="M128" type="Precipitant" span="161 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M131" type="Precipitant" span="206 21" str="antiarrhythmic agents" code="N0000178311"/>
+<Interaction id="I51" type="Pharmacodynamic interaction" trigger="M130" precipitant="M125" effect="M132"/>
+<Interaction id="I52" type="Pharmacodynamic interaction" trigger="M130" precipitant="M128" effect="M132"/>
+<Interaction id="I53" type="Pharmacodynamic interaction" trigger="M130" precipitant="M131" effect="M132"/>
+</Sentence>
+<Sentence id="5365" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because substances in grapefruit juice may inhibit the metabolism of pimozide by CYP 3A4, patients should be advised to avoid grapefruit juice.</SentenceText>
+<Mention id="M133" type="Trigger" span="43 22" str="inhibit the metabolism"/>
+<Mention id="M134" type="Precipitant" span="22 16" str="grapefruit juice" code="n0000164879"/>
+<Interaction id="I54" type="Pharmacokinetic interaction" trigger="M133" precipitant="M134" effect="C54355"/>
+</Sentence>
+<Sentence id="5366" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Because the goal of treatment is symptomatic improvement, the patient’s view of the need for treatment and assessment of response are critical in evaluating the impact of therapy and weighing its benefits against the risks.</SentenceText>
+</Sentence>
+<Sentence id="5367" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Carcinogenicity studies were conducted in mice and rats.</SentenceText>
+</Sentence>
+<Sentence id="5368" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Category C. Reproduction studies performed in rats and rabbits at oral doses up to 8 times the maximum human dose did not reveal evidence of teratogenicity.</SentenceText>
+</Sentence>
+<Sentence id="5369" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Chronic administration of an antipsychotic also causes elevated prolactin levels in humans.</SentenceText>
+</Sentence>
+<Sentence id="5370" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.</SentenceText>
+</Sentence>
+<Sentence id="5371" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Concomitant administration of pimozide and sertraline should be contraindicated.</SentenceText>
+<Mention id="M135" type="Trigger" span="64 15" str="contraindicated"/>
+<Mention id="M136" type="Precipitant" span="43 10" str="sertraline" code="QUC7NX6WMB"/>
+<Interaction id="I55" type="Unspecified interaction" trigger="M135" precipitant="M136"/>
+</Sentence>
+<Sentence id="5372" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Concomitant use of pimozide and Celexa or Lexapro is contraindicated.</SentenceText>
+<Mention id="M139" type="Trigger" span="53 15" str="contraindicated"/>
+<Mention id="M138" type="Precipitant" span="42 7" str="Lexapro" code="5U85DBW7LO"/>
+<Mention id="M140" type="Precipitant" span="32 6" str="Celexa" code="I1E9D14F36"/>
+<Interaction id="I56" type="Unspecified interaction" trigger="M139" precipitant="M138"/>
+<Interaction id="I57" type="Unspecified interaction" trigger="M139" precipitant="M140"/>
+</Sentence>
+<Sentence id="5373" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Concomitant use of pimozide and paroxetine or other strong CYP 2D6 inhibitors are contraindicated.</SentenceText>
+<Mention id="M143" type="Trigger" span="82 15" str="contraindicated"/>
+<Mention id="M142" type="Precipitant" span="59 18" str="CYP 2D6 inhibitors" code="N0000182137"/>
+<Mention id="M144" type="Precipitant" span="32 10" str="paroxetine" code="41VRH5220H"/>
+<Interaction id="I58" type="Unspecified interaction" trigger="M143" precipitant="M142"/>
+<Interaction id="I59" type="Unspecified interaction" trigger="M143" precipitant="M144"/>
+</Sentence>
+<Sentence id="5374" LabelDrug="ORAP" section="42232-9">
+<SentenceText>CYP 2D6 inhibitors: In healthy subjects, co-administration of pimozide 2 mg (single dose) and paroxetine 60 mg resulted in a 151% increase in pimozide AUC and a 62% increase in pimozide Cmax compared to pimozide administered alone.</SentenceText>
+<Mention id="M147" type="Trigger" span="130 11;186 4" str="increase in | Cmax"/>
+<Mention id="M152" type="Precipitant" span="94 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M150" type="Precipitant" span="0 18" str="CYP 2D6 inhibitors" code="N0000182137"/>
+<Mention id="M151" type="Trigger" span="130 11;151 3" str="increase in | AUC"/>
+<Interaction id="I60" type="Pharmacokinetic interaction" trigger="M147" precipitant="M152" effect="C54602"/>
+<Interaction id="I61" type="Pharmacokinetic interaction" trigger="M147" precipitant="M150" effect="C54602"/>
+<Interaction id="I62" type="Pharmacokinetic interaction" trigger="M151" precipitant="M150" effect="C54605"/>
+<Interaction id="I63" type="Pharmacokinetic interaction" trigger="M151" precipitant="M152" effect="C54605"/>
+</Sentence>
+<Sentence id="5375" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Given the likelihood that a proportion of patients exposed chronically to antipsychotics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk.</SentenceText>
+</Sentence>
+<Sentence id="5376" LabelDrug="ORAP" section="42232-9">
+<SentenceText>However, any such finding must be considered to suggest a possible risk of long term use of the drug.</SentenceText>
+</Sentence>
+<Sentence id="5377" LabelDrug="ORAP" section="42232-9">
+<SentenceText>If indicated, adequate anticonvulsant therapy should be maintained concomitantly.</SentenceText>
+</Sentence>
+<Sentence id="5378" LabelDrug="ORAP" section="42232-9">
+<SentenceText>In a 24-month carcinogenicity study in rats, animals received up to 50 times the maximum recommended human dose.</SentenceText>
+</Sentence>
+<Sentence id="5379" LabelDrug="ORAP" section="42232-9">
+<SentenceText>In addition, sudden, unexpected deaths have occurred in patients taking high doses of ORAP for conditions other than Tourette’s Disorder.</SentenceText>
+</Sentence>
+<Sentence id="5380" LabelDrug="ORAP" section="42232-9">
+<SentenceText>In mice, pimozide causes a dose-related increase in pituitary and mammary tumors.</SentenceText>
+</Sentence>
+<Sentence id="5381" LabelDrug="ORAP" section="42232-9">
+<SentenceText>In the rabbit, maternal toxicity, mortality, decreased weight gain, and embryotoxicity including increased resorptions were dose-related.</SentenceText>
+</Sentence>
+<Sentence id="5382" LabelDrug="ORAP" section="42232-9">
+<SentenceText>In the rat, however, this multiple of the human dose resulted in decreased pregnancies and in the retarded development of fetuses.</SentenceText>
+</Sentence>
+<Sentence id="5383" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Individuals with genetic variations resulting in poor CYP 2D6 metabolism (approximately 5 to 10% of the population) exhibit higher pimozide concentrations than extensive CYP 2D6 metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="5384" LabelDrug="ORAP" section="42232-9">
+<SentenceText>It is not known whether pimozide is excreted in human milk.</SentenceText>
+</Sentence>
+<Sentence id="5385" LabelDrug="ORAP" section="42232-9">
+<SentenceText>It is not possible to say how important this is.</SentenceText>
+</Sentence>
+<Sentence id="5386" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Mammary gland tumors in female mice were also increased, but these tumors are expected in rodents treated with antipsychotic drugs which elevate prolactin levels.</SentenceText>
+</Sentence>
+<Sentence id="5387" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of these drugs and mammary tumorigenesis.</SentenceText>
+</Sentence>
+<Sentence id="5388" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.</SentenceText>
+</Sentence>
+<Sentence id="5389" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Nevertheless, female rats administered pimozide had prolonged estrus cycles, an effect also produced by other antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5390" LabelDrug="ORAP" section="42232-9">
+<SentenceText>No increased incidence of overall tumors or tumors at any site was observed in either sex.</SentenceText>
+</Sentence>
+<Sentence id="5391" LabelDrug="ORAP" section="42232-9">
+<SentenceText>ORAP (pimozide) may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks, such as driving a car or operating machinery, especially during the first few days of therapy.</SentenceText>
+</Sentence>
+<Sentence id="5392" LabelDrug="ORAP" section="42232-9">
+<SentenceText>ORAP is intended only for use in patients with Tourette’s Disorder whose symptoms are severe and who cannot tolerate, or who do not respond to HALDOL® (haloperidol).</SentenceText>
+</Sentence>
+<Sentence id="5393" LabelDrug="ORAP" section="42232-9">
+<SentenceText>ORAP may be capable of potentiating CNS depressants, including analgesics, sedatives, anxiolytics, and alcohol.</SentenceText>
+<Mention id="M161" type="Trigger" span="23 12" str="potentiating"/>
+<Mention id="M154" type="Precipitant" span="63 10" str="analgesics" code="N0000029133"/>
+<Mention id="M156" type="Precipitant" span="86 11" str="anxiolytics" code="NO MAP"/>
+<Mention id="M158" type="Precipitant" span="75 9" str="sedatives" code="N0000029143"/>
+<Mention id="M160" type="Precipitant" span="103 7" str="alcohol" code="N0000007432"/>
+<Mention id="M162" type="Precipitant" span="36 15" str="CNS depressants" code="N0000175758"/>
+<Interaction id="I64" type="Unspecified interaction" trigger="M161" precipitant="M154"/>
+<Interaction id="I65" type="Unspecified interaction" trigger="M161" precipitant="M156"/>
+<Interaction id="I66" type="Unspecified interaction" trigger="M161" precipitant="M158"/>
+<Interaction id="I67" type="Unspecified interaction" trigger="M161" precipitant="M160"/>
+<Interaction id="I68" type="Unspecified interaction" trigger="M161" precipitant="M162"/>
+</Sentence>
+<Sentence id="5394" LabelDrug="ORAP" section="42232-9">
+<SentenceText>ORAP produces anticholinergic side effects and should be used with caution in individuals whose conditions may be aggravated by anticholinergic activity.</SentenceText>
+</Sentence>
+<Sentence id="5395" LabelDrug="ORAP" section="42232-9">
+<SentenceText>ORAP should be administered cautiously to patients with impairment of liver or kidney function, because it is metabolized by the liver and excreted by the kidneys.</SentenceText>
+</Sentence>
+<Sentence id="5396" LabelDrug="ORAP" section="42232-9">
+<SentenceText>ORAP should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.</SentenceText>
+</Sentence>
+<Sentence id="5397" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Patients should avoid grapefruit juice because it may inhibit the metabolism of pimozide by CYP 3A4.</SentenceText>
+<Mention id="M163" type="Trigger" span="54 22" str="inhibit the metabolism"/>
+<Mention id="M164" type="Precipitant" span="22 16" str="grapefruit juice" code="n0000164879"/>
+<Interaction id="I69" type="Pharmacokinetic interaction" trigger="M163" precipitant="M164" effect="C54355"/>
+</Sentence>
+<Sentence id="5398" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Patients should be informed that all types of side effects associated with the use of antipsychotics may be associated with the use of ORAP.</SentenceText>
+</Sentence>
+<Sentence id="5399" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Patients with a history of a clinically significant low WBC or drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of ORAP should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.</SentenceText>
+</Sentence>
+<Sentence id="5400" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.</SentenceText>
+</Sentence>
+<Sentence id="5401" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Patients with severe neutropenia (absolute neutrophil count &lt;1000/mm3) should discontinue ORAP and have their WBC followed until recovery.</SentenceText>
+</Sentence>
+<Sentence id="5402" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Pimozide and Celexa: In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.</SentenceText>
+<Mention id="M165" type="Trigger" span="154 15" str="associated with"/>
+<Mention id="M166" type="Precipitant" span="104 10" str="citalopram" code="0DHU5B8D6V"/>
+<Mention id="M167" type="SpecificInteraction" span="177 15" str="increase in QTc" code="NO MAP"/>
+<Interaction id="I70" type="Pharmacodynamic interaction" trigger="M165" precipitant="M166" effect="M167"/>
+</Sentence>
+<Sentence id="5403" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Pimozide did not have mutagenic activity in the Ames test with four bacterial test strains, in the mouse dominant lethal test or in the micronucleus test in rats.</SentenceText>
+</Sentence>
+<Sentence id="5404" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.</SentenceText>
+</Sentence>
+<Sentence id="5405" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Racemic citalopram did not alter the mean AUC or Cmax of pimozide.</SentenceText>
+</Sentence>
+<Sentence id="5406" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Rare case reports have suggested possible additive effects of pimozide and fluoxetine leading to bradycardia.</SentenceText>
+<Mention id="M168" type="Trigger" span="86 10" str="leading to"/>
+<Mention id="M169" type="Precipitant" span="75 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M170" type="SpecificInteraction" span="97 11" str="bradycardia" code="48867003: Bradycardia (finding)"/>
+<Interaction id="I71" type="Pharmacodynamic interaction" trigger="M168" precipitant="M169" effect="M170"/>
+</Sentence>
+<Sentence id="5407" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Reproduction studies in animals were not adequate to assess all aspects of fertility.</SentenceText>
+</Sentence>
+<Sentence id="5408" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Similar tumors were not seen in rats given pimozide, nor at lower doses in mice, which is reassuring.</SentenceText>
+</Sentence>
+<Sentence id="5409" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Since hypokalemia has been associated with ventricular arrhythmias, potassium insufficiency, secondary to diuretics, diarrhea, or other cause, should be corrected before ORAP therapy is initiated and normal potassium maintained during therapy.</SentenceText>
+</Sentence>
+<Sentence id="5410" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Since ORAP is partly metabolized via CYP 3A4, it should not be administered concomitantly with inhibitors of this metabolic system, such as azole antifungal agents and protease inhibitor drugs.</SentenceText>
+<Mention id="M175" type="Trigger" span="49 26" str="should not be administered"/>
+<Mention id="M172" type="Precipitant" span="168 24" str="protease inhibitor drugs" code="n0000000076"/>
+<Mention id="M174" type="Precipitant" span="37 7;95 10" str="CYP 3A4 | inhibitors" code="n0000182141"/>
+<Mention id="M176" type="Precipitant" span="140 23" str="azole antifungal agents" code="n0000175487"/>
+<Interaction id="I72" type="Unspecified interaction" trigger="M175" precipitant="M172"/>
+<Interaction id="I73" type="Unspecified interaction" trigger="M175" precipitant="M174"/>
+<Interaction id="I74" type="Unspecified interaction" trigger="M175" precipitant="M176"/>
+</Sentence>
+<Sentence id="5411" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Since the physician is the primary source of information about the use of a drug in any disease, it is recommended that the following information be discussed with patients and/or their families.</SentenceText>
+</Sentence>
+<Sentence id="5412" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Such concomitant administration should not be undertaken.</SentenceText>
+</Sentence>
+<Sentence id="5413" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The available evidence, however, is considered too limited to be conclusive at this time.</SentenceText>
+</Sentence>
+<Sentence id="5414" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The concentrations observed in poor CYP 2D6 metabolizers are similar to those seen with strong CYP 2D6 inhibitors such as paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="5415" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.</SentenceText>
+</Sentence>
+<Sentence id="5416" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The increase in pimozide AUC and Cmax is related to the CYP 2D6 inhibitory properties of paroxetine.</SentenceText>
+<Mention id="M177" type="Trigger" span="4 11;25 3" str="increase in | AUC"/>
+<Mention id="M180" type="Precipitant" span="89 10" str="paroxetine" code="41VRH5220H"/>
+<Mention id="M179" type="Trigger" span="4 11;33 4" str="increase in | Cmax"/>
+<Interaction id="I75" type="Pharmacokinetic interaction" trigger="M177" precipitant="M180" effect="C54605"/>
+<Interaction id="I76" type="Pharmacokinetic interaction" trigger="M179" precipitant="M180" effect="C54602"/>
+</Sentence>
+<Sentence id="5417" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The information available on ORAP from foreign marketing experience and from U.S. clinical trials indicates that ORAP has a side effect profile similar to that of other antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5418" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The mechanism for the induction of pituitary tumors in mice is not known.</SentenceText>
+</Sentence>
+<Sentence id="5419" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The mechanism of this pharmacodynamic interaction is not known.</SentenceText>
+</Sentence>
+<Sentence id="5420" LabelDrug="ORAP" section="42232-9">
+<SentenceText>The time to achieve steady state pimozide concentrations is expected to be longer (approximately 2 weeks) in poor CYP 2D6 metabolizers because of the prolonged half-life.</SentenceText>
+</Sentence>
+<Sentence id="5421" LabelDrug="ORAP" section="42232-9">
+<SentenceText>There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.</SentenceText>
+</Sentence>
+<Sentence id="5422" LabelDrug="ORAP" section="42232-9">
+<SentenceText>There is limited information available on the use of ORAP in children under 12 years of age.</SentenceText>
+</Sentence>
+<Sentence id="5423" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Therefore, patients should be instructed not to exceed the prescribed dose of ORAP and they should realize the need for the initial ECG and for follow-up ECGs during treatment.</SentenceText>
+</Sentence>
+<Sentence id="5424" LabelDrug="ORAP" section="42232-9">
+<SentenceText>These changes were characterized as hyperplasia at doses approximating the human dose and adenoma at doses about fifteen times the maximum recommended human dose on a mg per kg basis.</SentenceText>
+</Sentence>
+<Sentence id="5425" LabelDrug="ORAP" section="42232-9">
+<SentenceText>These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.</SentenceText>
+</Sentence>
+<Sentence id="5426" LabelDrug="ORAP" section="42232-9">
+<SentenceText>These deaths may have been the result of an effect of ORAP upon the heart.</SentenceText>
+</Sentence>
+<Sentence id="5427" LabelDrug="ORAP" section="42232-9">
+<SentenceText>These effects are thought to be due to an inhibition or delay in implantation which is also observed in rodents administered other antipsychotic drugs.</SentenceText>
+</Sentence>
+<Sentence id="5428" LabelDrug="ORAP" section="42232-9">
+<SentenceText>This drug has no recognized use in labor or delivery.</SentenceText>
+</Sentence>
+<Sentence id="5429" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.</SentenceText>
+</Sentence>
+<Sentence id="5430" LabelDrug="ORAP" section="42232-9">
+<SentenceText>Treatment with ORAP exposes the patient to serious risks.</SentenceText>
+</Sentence>
+<Sentence id="5431" LabelDrug="ORAP" section="42232-9">
+<SentenceText>When mice were treated for up to 18 months with pimozide, pituitary gland changes developed in females only.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Unspecified interaction" precipitant="lexapro" precipitantCode="5U85DBW7LO"/>
+<LabelInteraction type="Unspecified interaction" precipitant="celexa" precipitantCode="I1E9D14F36"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sertraline" precipitantCode="QUC7NX6WMB"/>
+<LabelInteraction type="Unspecified interaction" precipitant="azole antifungal agents" precipitantCode="n0000175487"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ketoconazole" precipitantCode="N0000007319"/>
+<LabelInteraction type="Unspecified interaction" precipitant="itraconazole" precipitantCode="N0000006753"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitors of the cyp 3a4" precipitantCode="n0000182141"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="paroxetine" precipitantCode="41VRH5220H" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="paroxetine" precipitantCode="41VRH5220H"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp 2d6 inhibitors" precipitantCode="N0000182137" effect="C54602"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cyp 2d6 inhibitors" precipitantCode="N0000182137" effect="C54605"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp 2d6 inhibitors" precipitantCode="N0000182137"/>
+<LabelInteraction type="Unspecified interaction" precipitant="erythromycin" precipitantCode="N0000007133"/>
+<LabelInteraction type="Unspecified interaction" precipitant="dirithromycin" precipitantCode="1801D76STL"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="clarithromycin" precipitantCode="N0000007316" effect="26636000: Sudden death (event)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="clarithromycin" precipitantCode="N0000007316"/>
+<LabelInteraction type="Unspecified interaction" precipitant="troleandomycin" precipitantCode="C4DZ64560D"/>
+<LabelInteraction type="Unspecified interaction" precipitant="azithromycin" precipitantCode="N0000006752"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="macrolide antibiotics" precipitantCode="N0000175431" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="macrolide antibiotics" precipitantCode="N0000175431"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="inhibitors of cyp 3a4" precipitantCode="n0000182141" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitors of cyp 3a4" precipitantCode="n0000182141"/>
+<LabelInteraction type="Unspecified interaction" precipitant="inhibitor of cyp 3a4" precipitantCode="n0000182141"/>
+<LabelInteraction type="Unspecified interaction" precipitant="nefazodone" precipitantCode="N0000007250"/>
+<LabelInteraction type="Unspecified interaction" precipitant="indinavir" precipitantCode="N0000005722"/>
+<LabelInteraction type="Unspecified interaction" precipitant="saquinovir" precipitantCode="l3je09kz2f"/>
+<LabelInteraction type="Unspecified interaction" precipitant="nelfinavir" precipitantCode="N0000006047"/>
+<LabelInteraction type="Unspecified interaction" precipitant="ritonavir" precipitantCode="N0000007423"/>
+<LabelInteraction type="Unspecified interaction" precipitant="protease inhibitors" precipitantCode="N0000000076"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="drugs that have demonstrated qt prolongation as one of their pharmacodynamic effects" precipitantCode="NO MAP" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="levomethadyl acetate" precipitantCode="R3B637Y991" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="probucol" precipitantCode="P3CTH044XJ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tacrolimus" precipitantCode="WM0HAQ4WNM" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="dofetilide" precipitantCode="R4Z9X1N2ND" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="arsenic trioxide" precipitantCode="S7V92P67HO" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="moxifloxacin" precipitantCode="U188XYD42P" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sotalol" precipitantCode="A6D97U294I" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="ziprasidone" precipitantCode="6UKA5VEJ6X" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="gatifloxacin" precipitantCode="L4618BD7KJ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="chlorpromazine" precipitantCode="U42B7VYA4P" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="dolasetron mesylate" precipitantCode="U3C8E5BWKR" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="quinidine" precipitantCode="N0000007728" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sparfloxacin" precipitantCode="Q90AGA787L" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="halofantrine" precipitantCode="Q2OS4303HZ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="mesoridazine" precipitantCode="5XE4NWM740" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="other class ia and iii anti-arrhythmics" precipitantCode="N0000029121" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="pentamidine" precipitantCode="673LC5J4LQ" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="droperidol" precipitantCode="O9U0F09D5X" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="mefloquine" precipitantCode="TML814419R" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="thioridazine" precipitantCode="N3D6TG58NI" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="anticonvulsant medication" precipitantCode="N0000029145" effect="19260006: Lowered convulsive threshold (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp 1a2 | inhibitors" precipitantCode="n0000182138"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="tricyclic antidepressants" precipitantCode="N0000029148" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="antiarrhythmic agents" precipitantCode="N0000178311" effect="111975006: Prolonged QT interval (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="grapefruit juice" precipitantCode="n0000164879" effect="C54355"/>
+<LabelInteraction type="Unspecified interaction" precipitant="analgesics" precipitantCode="N0000029133"/>
+<LabelInteraction type="Unspecified interaction" precipitant="anxiolytics" precipitantCode="NO MAP"/>
+<LabelInteraction type="Unspecified interaction" precipitant="sedatives" precipitantCode="N0000029143"/>
+<LabelInteraction type="Unspecified interaction" precipitant="alcohol" precipitantCode="N0000007432"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cns depressants" precipitantCode="N0000175758"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="citalopram" precipitantCode="0DHU5B8D6V" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="48867003: Bradycardia (finding)"/>
+<LabelInteraction type="Unspecified interaction" precipitant="protease inhibitor drugs" precipitantCode="n0000000076"/>
+<LabelInteraction type="Unspecified interaction" precipitant="cyp 3a4 | inhibitors" precipitantCode="n0000182141"/>
+
+</LabelInteractions></Label>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Pimozide" setid="70b079e2-a1f7-4a93-8685-d60a4d7c1280">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  Pharmacodynamic Actions  Pimozide tablets, USP is an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity. However, receptor blockade is often accompanied by a series of secondary alterations in central dopamine metabolism and function which may contribute to both pimozide’s therapeutic and untoward effects. In addition, pimozide tablets, USP in common with other antipsychotic drugs, has various effects on other central nervous system receptor systems which are not fully characterized.  Metabolism and Pharmacokinetics  More than 50% of a dose of pimozide is absorbed after oral administration. Based on the pharmacokinetic and metabolic profile, pimozide appears to undergo significant first pass metabolism. Peak serum levels occur generally six to eight hours (range 4 to 12 hours) after dosing.  Pimozide is extensively metabolized, primarily by N-dealkylation in the liver. This metabolism is catalyzed mainly by the cytochrome P450 3A4 (CYP 3A4) enzymatic system and to a lesser extent, by cytochrome P450 1A2 (CYP 1A2) and cytochrome P450 2D6 (CYP 2D6). Two major metabolites have been identified, 1-(4-piperidyl)-2-benzimidazolinone and 4,4-bis(4-fluorophenyl) butyric acid. The antipsychotic activity of these metabolites is undetermined. The major route of elimination of pimozide and its metabolites is through the kidney.  The mean serum elimination half-life of pimozide in schizophrenic patients was approximately 55 hours. There was a 13-fold interindividual difference in the area under the serum pimozide level-time curve and an equivalent degree of variation in peak serum levels among patients studied. The significance of this is unclear since there are few correlations between plasma levels and clinical findings.  Effects of food and disease upon the absorption, distribution, metabolism and elimination of pimozide are not known. Effects of concomitant medication and genetic variations on pimozide metabolism are described in the CONTRAINDICATIONS and PRECAUTIONS sections.</Section>
+</Text><Sentences>
+<Sentence id="2723" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Because pimozide prolongs the QT interval of the electrocardiogram, an additive effect on QT interval would be anticipated if administered with other drugs, such as phenothiazines, tricyclic antidepressants or antiarrhythmic agents, which prolong the QT interval.</SentenceText>
+</Sentence>
+<Sentence id="2724" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Accordingly, pimozide should not be given with dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol, tacrolimus, ziprasidone, or other drugs that have demonstrated QT prolongation as one of their pharmacodynamic effects.</SentenceText>
+</Sentence>
+<Sentence id="2725" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Also, the use of macrolide antibiotics in patients with prolonged QT intervals has been rarely associated with ventricular arrhythmias.</SentenceText>
+</Sentence>
+<Sentence id="2726" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Such concomitant administration should not be undertaken.</SentenceText>
+</Sentence>
+<Sentence id="2727" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Since pimozide is partly metabolized via CYP 3A4, it should not be administered concomitantly with inhibitors of this metabolic system, such as azole antifungal agents and protease inhibitor drugs.</SentenceText>
+</Sentence>
+<Sentence id="2728" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Pimozide and Celexa: In a controlled study, a single dose of pimozide 2 mg coadministered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.</SentenceText>
+</Sentence>
+<Sentence id="2729" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Racemic citalopram did not alter the mean AUC or Cmax of pimozide.</SentenceText>
+</Sentence>
+<Sentence id="2730" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The mechanism of this pharmacodynamic interaction is not known.</SentenceText>
+</Sentence>
+<Sentence id="2731" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Concomitant use of Pimozide and Celexa or Lexapro is contraindicated.</SentenceText>
+</Sentence>
+<Sentence id="2732" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>CYP 2D6 inhibitors: In healthy subjects, co-administration of pimozide 2 mg (single dose) and paroxetine 60 mg resulted in a 151% increase in pimozide AUC and a 62% increase in pimozide Cmax compared to pimozide administered alone.</SentenceText>
+</Sentence>
+<Sentence id="2733" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The increase in pimozide AUC and Cmax is related to the CYP 2D6 inhibitory properties of paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="2734" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Concomitant use of pimozide and paroxetine or other strong CYP 2D6 inhibitors are contraindicated.</SentenceText>
+</Sentence>
+<Sentence id="2735" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>As CYP 1A2 may also contribute to the metabolism of pimozide, prescribers should be aware of the theoretical potential for drug interactions with inhibitors of this enzymatic system.</SentenceText>
+</Sentence>
+<Sentence id="2736" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Pimozide may be capable of potentiating CNS depressants, including analgesics, sedatives, anxiolytics, and alcohol.</SentenceText>
+</Sentence>
+<Sentence id="2737" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Rare case reports have suggested possible additive effects of pimozide and fluoxetine leading to bradycardia.</SentenceText>
+</Sentence>
+<Sentence id="2738" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Concomitant administration of pimozide and sertraline should be contraindicated.</SentenceText>
+</Sentence>
+<Sentence id="2739" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Pharmacogenomics Individuals with genetic variations resulting in poor CYP 2D6 metabolism (approximately 5 to 10% of the population) exhibit higher pimozide concentrations than extensive CYP 2D6 metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="2740" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The concentrations observed in poor CYP 2D6 metabolizers are similar to those seen with strong CYP 2D6 inhibitors such as paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="2741" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>The time to achieve steady state Pimozide concentrations is expected to be longer (approximately 2 weeks) in poor CYP 2D6 metabolizers because of the prolonged half-life.</SentenceText>
+</Sentence>
+<Sentence id="2742" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Alternative dosing strategies are recommended in patients who are genetically poor CYP 2D6 metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="2743" LabelDrug="Pimozide" section="34073-7">
+<SentenceText>Interaction with Food Patients should avoid grapefruit juice because it may inhibit the metabolism of pimozide by CYP 3A4.</SentenceText>
+</Sentence>
+<Sentence id="2744" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Pharmacodynamic Actions Pimozide tablets, USP is an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system.</SentenceText>
+</Sentence>
+<Sentence id="2745" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity.</SentenceText>
+</Sentence>
+<Sentence id="2746" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>However, receptor blockade is often accompanied by a series of secondary alterations in central dopamine metabolism and function which may contribute to both pimozide’s therapeutic and untoward effects.</SentenceText>
+</Sentence>
+<Sentence id="2747" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>In addition, pimozide tablets, USP in common with other antipsychotic drugs, has various effects on other central nervous system receptor systems which are not fully characterized.</SentenceText>
+</Sentence>
+<Sentence id="2748" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Metabolism and Pharmacokinetics More than 50% of a dose of pimozide is absorbed after oral administration.</SentenceText>
+</Sentence>
+<Sentence id="2749" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Based on the pharmacokinetic and metabolic profile, pimozide appears to undergo significant first pass metabolism.</SentenceText>
+</Sentence>
+<Sentence id="2750" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Peak serum levels occur generally six to eight hours (range 4 to 12 hours) after dosing.</SentenceText>
+</Sentence>
+<Sentence id="2751" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Pimozide is extensively metabolized, primarily by N-dealkylation in the liver.</SentenceText>
+</Sentence>
+<Sentence id="2752" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>This metabolism is catalyzed mainly by the cytochrome P450 3A4 (CYP 3A4) enzymatic system and to a lesser extent, by cytochrome P450 1A2 (CYP 1A2) and cytochrome P450 2D6 (CYP 2D6).</SentenceText>
+</Sentence>
+<Sentence id="2753" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Two major metabolites have been identified, 1-(4-piperidyl)-2-benzimidazolinone and 4,4-bis(4-fluorophenyl) butyric acid.</SentenceText>
+</Sentence>
+<Sentence id="2754" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The antipsychotic activity of these metabolites is undetermined.</SentenceText>
+</Sentence>
+<Sentence id="2755" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The major route of elimination of pimozide and its metabolites is through the kidney.</SentenceText>
+</Sentence>
+<Sentence id="2756" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The mean serum elimination half-life of pimozide in schizophrenic patients was approximately 55 hours.</SentenceText>
+</Sentence>
+<Sentence id="2757" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>There was a 13-fold interindividual difference in the area under the serum pimozide level-time curve and an equivalent degree of variation in peak serum levels among patients studied.</SentenceText>
+</Sentence>
+<Sentence id="2758" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>The significance of this is unclear since there are few correlations between plasma levels and clinical findings.</SentenceText>
+</Sentence>
+<Sentence id="2759" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Effects of food and disease upon the absorption, distribution, metabolism and elimination of pimozide are not known.</SentenceText>
+</Sentence>
+<Sentence id="2760" LabelDrug="Pimozide" section="34090-1">
+<SentenceText>Effects of concomitant medication and genetic variations on pimozide metabolism are described in the CONTRAINDICATIONS and PRECAUTIONS sections.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

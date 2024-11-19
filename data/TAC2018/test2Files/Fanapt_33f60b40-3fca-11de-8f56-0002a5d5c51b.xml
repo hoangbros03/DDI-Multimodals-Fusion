@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Fanapt" setid="33f60b40-3fca-11de-8f56-0002a5d5c51b">
+<Text><Section name="DRUG INTERACTIONS SECTION" id="34073-7">
+7     DRUG INTERACTIONS  Given the primary CNS effects of FANAPT, caution should be used when it is taken in combination with other centrally acting drugs and alcohol. Due to its - alpha1-adrenergic receptor antagonism, FANAPT has the potential to enhance the effect of certain antihypertensive agents.  The dose of FANAPT should be reduced in patients co-administered a strong CYP2D6 or CYP3A4 inhibitor. ( 2.2 , 7.1 )  7.1     Potential for Other Drugs to Affect FANAPT  Iloperidone is not a substrate for CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2E1 enzymes. This suggests that an interaction of iloperidone with inhibitors or inducers of these enzymes, or other factors, like smoking, is unlikely.  Both CYP3A4 and CYP2D6 are responsible for iloperidone metabolism. Inhibitors of CYP3A4 (e.g., ketoconazole) or CYP2D6 (e.g., fluoxetine, paroxetine) can inhibit iloperidone elimination and cause increased blood levels.   Ketoconazole: Co-administration of ketoconazole (200 mg twice daily for 4 days), a potent inhibitor of CYP3A4, with a 3 mg single dose of iloperidone to 19 healthy volunteers, ages 18-45 years, increased the area under the curve (AUC) of iloperidone and its metabolites P88 and P95 by 57%, 55% and 35%, respectively. Iloperidone doses should be reduced by about one-half when administered with ketoconazole or other strong inhibitors of CYP3A4 (e.g., itraconazole). Weaker inhibitors (e.g., erythromycin, grapefruit juice) have not been studied. When the CYP3A4 inhibitor is withdrawn from the combination therapy, the iloperidone dose should be returned to the previous level.  Fluoxetine : Coadministration of fluoxetine (20 mg twice daily for 21 days), a potent inhibitor of CYP2D6, with a single 3 mg dose of iloperidone to 23 healthy volunteers, ages 29-44 years, who were classified as CYP2D6 extensive metabolizers, increased the AUC of iloperidone and its metabolite P88, by about 2- to 3-fold, and decreased the AUC of its metabolite P95 by one-half. Iloperidone doses should be reduced by one-half when administered with fluoxetine. When fluoxetine is withdrawn from the combination therapy, the iloperidone dose should be returned to the previous level. Other strong inhibitors of CYP2D6 would be expected to have similar effects and would need appropriate dose reductions. When the CYP2D6 inhibitor is withdrawn from the combination therapy, iloperidone dose could then be increased to the previous level.  Paroxetine: Coadministration of paroxetine (20 mg/day for 5-8 days), a potent inhibitor of CYP2D6, with multiple doses of iloperidone (8 or 12 mg twice daily) to patients with schizophrenia ages 18-65 years resulted in increased mean steady-state peak concentrations of iloperidone and its metabolite P88, by about 1.6 fold, and decreased mean steady-state peak concentrations of its metabolite P95 by one-half. Iloperidone doses should be reduced by one-half when administered with paroxetine. When paroxetine is withdrawn from the combination therapy, the iloperidone dose should be returned to the previous level. Other strong inhibitors of CYP2D6 would be expected to have similar effects and would need appropriate dose reductions. When the CYP2D6 inhibitor is withdrawn from the combination therapy, iloperidone dose could then be increased to previous levels.  Paroxetine and Ketoconazole:    Coadministration of paroxetine (20 mg once daily for 10 days), a CYP2D6 inhibitor, and ketoconazole (200 mg twice daily) with multiple doses of iloperidone (8 or 12 mg twice daily) to patients with schizophrenia ages 18-65 years resulted in a 1.4 fold increase in steady-state concentrations of iloperidone and its metabolite P88 and a 1.4 fold decrease in the P95 in the presence of paroxetine. So giving iloperidone with inhibitors of both of its metabolic pathways did not add to the effect of either inhibitor given alone. Iloperidone doses should therefore be reduced by about one-half if administered concomitantly with both a CYP2D6 and CYP3A4 inhibitor.  7.2     Potential for FANAPT to Affect Other Drugs  In vitro studies in human liver microsomes showed that iloperidone does not substantially inhibit the metabolism of drugs metabolized by the following cytochrome P450 isozymes: CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, or CYP2E1. Furthermore, in vitro studies in human liver microsomes showed that iloperidone does not have enzyme inducing properties, specifically for the following cytochrome P450 isozymes: CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP3A5.  Dextromethorphan: A study in healthy volunteers showed that changes in the pharmacokinetics of dextromethorphan (80 mg dose) when a 3 mg dose of iloperidone was co-administered resulted in a 17% increase in total exposure and a 26% increase in the maximum plasma concentrations C max of dextromethorphan. Thus, an interaction between iloperidone and other CYP2D6 substrates is unlikely.  Fluoxetine:  A single 3 mg dose of iloperidone had no effect on the pharmacokinetics of fluoxetine (20 mg twice daily).   Midazolam (a sensitive CYP 3A4 substrate):  A study in patients with schizophrenia showed a less than 50% increase in midazolam total exposure at iloperidone steady state (14 days of oral dosing at up to 10 mg iloperidone twice daily) and no effect on midazolam C max . Thus, an interaction between iloperidone and other CYP3A4 substrates is unlikely.  7.3     Drugs that Prolong the QT Interval  FANAPT should not be used with any other drugs that prolong the QT interval [see Warnings and Precautions ( 5.2 )] .</Section>
+<Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+12     CLINICAL PHARMACOLOGY  12.1     Mechanism of Action  The mechanism of action of FANAPT, as with other drugs having efficacy in schizophrenia, is unknown. However it is proposed that the efficacy of FANAPT is mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2 (5-HT 2 ) antagonisms.   12.2     Pharmacodynamics  FANAPT exhibits high (nM) affinity binding to serotonin 5-HT 2A dopamine D 2 and D 3 receptors, and norepinephrine NEα1 receptors (K i values of 5.6, 6.3, 7.1, and 0.36 nM, respectively). FANAPT has moderate affinity for dopamine D 4 , and serotonin 5-HT 6 and 5-HT 7 receptors (K i values of 25, 43, and 22, nM respectively), and low affinity for the serotonin 5-HT 1A , dopamine D 1 , and histamine H 1 receptors (K i values of 168, 216 and 437 nM, respectively). FANAPT has no appreciable affinity (K i &gt;1000 nM) for cholinergic muscarinic receptors. FANAPT functions as an antagonist at the dopamine D 2 , D 3 , serotonin 5-HT 1A and norepinephrine α 1 /α 2C receptors. The affinity of the FANAPT metabolite P88 is generally equal or less than that of the parent compound. In contrast, the metabolite P95 only shows affinity for 5-HT 2A (K i value of 3.91) and the NE α1A , NE α1B , NE α1D , and NE α2  C receptors (K i values of 4.7, 2.7, 8.8 and 4.7 nM respectively).   12.3     Pharmacokinetics  The observed mean elimination half-lives for iloperidone, P88 and P95 in CYP2D6 extensive metabolizers (EM) are 18, 26, and 23 hours, respectively, and in poor metabolizers (PM) are 33, 37 and 31 hours, respectively. Steady-state concentrations are attained within 3-4 days of dosing. Iloperidone accumulation is predictable from single-dose pharmacokinetics. The pharmacokinetics of iloperidone is more than dose proportional. Elimination of iloperidone is mainly through hepatic metabolism involving 2 P450 isozymes, CYP2D6 and CYP3A4.  Absorption:  Iloperidone is well absorbed after administration of the tablet with peak plasma concentrations occurring within 2 to 4 hours; while the relative bioavailability of the tablet formulation compared to oral solution is 96%. Administration of iloperidone with a standard high-fat meal did not significantly affect the C max or AUC of iloperidone, P88, or P95, but delayed T max by 1 hour for iloperidone, 2 hours for P88 and 6 hours for P95. FANAPT can be administered without regard to meals.   Distribution:  Iloperidone has an apparent clearance (clearance/bioavailability) of 47 to 102 L/h, with an apparent volume of distribution of 1340-2800 L. At therapeutic concentrations, the unbound fraction of iloperidone in plasma is ~3% and of each metabolite (P88 and P95) it is ~8%.  Metabolism and Elimination:    Iloperidone is metabolized primarily by 3 biotransformation pathways: carbonyl reduction, hydroxylation (mediated by CYP2D6) and O -demethylation (mediated by CYP3A4). There are 2 predominant iloperidone metabolites, P95 and P88. The iloperidone metabolite P95 represents 47.9% of the AUC of iloperidone and its metabolites in plasma at steady-state for extensive metabolizers (EM) and 25% for poor metabolizers (PM). The active metabolite P88 accounts for 19.5% and 34.0% of total plasma exposure in EM and PM, respectively.  Approximately 7% - 10% of Caucasians and 3% - 8% of black/African Americans lack the capacity to metabolize CYP2D6 substrates and are classified as poor metabolizers (PM), whereas the rest are intermediate, extensive or ultrarapid metabolizers. Coadministration of FANAPT with known strong inhibitors of CYP2D6 like fluoxetine results in a 2.3-fold increase in iloperidone plasma exposure, and therefore one-half of the FANAPT dose should be administered.  Similarly, PMs of CYP2D6 have higher exposure to iloperidone compared with EMs and PMs should have their dose reduced by one-half. Laboratory tests are available to identify CYP2D6 PMs.  The bulk of the radioactive materials were recovered in the urine (mean 58.2% and 45.1% in EM and PM, respectively), with feces accounting for 19.9% (EM) to 22.1% (PM) of the dosed radioactivity.  Transporter Interaction: Iloperidone and P88 are not substrates of P-gp and iloperidone is a weak P-gp inhibitor.</Section>
+</Text><Sentences>
+<Sentence id="3967" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Given the primary CNS effects of FANAPT, caution should be used when it is taken in combination with other centrally acting drugs and alcohol.</SentenceText>
+</Sentence>
+<Sentence id="3968" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Due to its - alpha1-adrenergic receptor antagonism, FANAPT has the potential to enhance the effect of certain antihypertensive agents.</SentenceText>
+</Sentence>
+<Sentence id="3969" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>The dose of FANAPT should be reduced in patients co-administered a strong CYP2D6 or CYP3A4 inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="3970" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Iloperidone is not a substrate for CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2E1 enzymes.</SentenceText>
+</Sentence>
+<Sentence id="3971" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>This suggests that an interaction of iloperidone with inhibitors or inducers of these enzymes, or other factors, like smoking, is unlikely.</SentenceText>
+</Sentence>
+<Sentence id="3972" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Both CYP3A4 and CYP2D6 are responsible for iloperidone metabolism.</SentenceText>
+</Sentence>
+<Sentence id="3973" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Inhibitors of CYP3A4 (e.g., ketoconazole) or CYP2D6 (e.g., fluoxetine, paroxetine) can inhibit iloperidone elimination and cause increased blood levels.</SentenceText>
+</Sentence>
+<Sentence id="3974" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Ketoconazole: Co-administration of ketoconazole (200 mg twice daily for 4 days), a potent inhibitor of CYP3A4, with a 3 mg single dose of iloperidone to 19 healthy volunteers, ages 18 to 45 years, increased the area under the curve (AUC) of iloperidone and its metabolites P88 and P95 by 57%, 55% and 35%, respectively.</SentenceText>
+</Sentence>
+<Sentence id="3975" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Iloperidone doses should be reduced by about one-half when administered with ketoconazole or other strong inhibitors of CYP3A4 (e.g., itraconazole).</SentenceText>
+</Sentence>
+<Sentence id="3976" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Weaker inhibitors (e.g., erythromycin, grapefruit juice) have not been studied.</SentenceText>
+</Sentence>
+<Sentence id="3977" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>When the CYP3A4 inhibitor is withdrawn from the combination therapy, the iloperidone dose should be returned to the previous level.</SentenceText>
+</Sentence>
+<Sentence id="3978" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Fluoxetine: Co-administration of fluoxetine (20 mg twice daily for 21 days), a potent inhibitor of CYP2D6, with a single 3 mg dose of iloperidone to 23 healthy volunteers, ages 29 to 44 years, who were classified as CYP2D6 extensive metabolizers, increased the AUC of iloperidone and its metabolite P88, by about 2- to 3-fold, and decreased the AUC of its metabolite P95 by one-half.</SentenceText>
+</Sentence>
+<Sentence id="3979" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Iloperidone doses should be reduced by one-half when administered with fluoxetine.</SentenceText>
+</Sentence>
+<Sentence id="3980" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>When fluoxetine is withdrawn from the combination therapy, the iloperidone dose should be returned to the previous level.</SentenceText>
+</Sentence>
+<Sentence id="3981" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Other strong inhibitors of CYP2D6 would be expected to have similar effects and would need appropriate dose reductions.</SentenceText>
+</Sentence>
+<Sentence id="3982" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>When the CYP2D6 inhibitor is withdrawn from the combination therapy, iloperidone dose could then be increased to the previous level.</SentenceText>
+</Sentence>
+<Sentence id="3983" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Paroxetine: Co-administration of paroxetine (20 mg/day for 5-8 days), a potent inhibitor of CYP2D6, with multiple doses of iloperidone (8 or 12 mg twice daily) to patients with schizophrenia ages 18-65 resulted in increased mean steady-state peak concentrations of iloperidone and its metabolite P88, by about 1.6 fold, and decreased mean steady-state peak concentrations of its metabolite P95 by one-half.</SentenceText>
+</Sentence>
+<Sentence id="3984" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Iloperidone doses should be reduced by one-half when administered with paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="3985" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>When paroxetine is withdrawn from the combination therapy, the iloperidone dose should be returned to the previous level.</SentenceText>
+</Sentence>
+<Sentence id="3987" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>When the CYP2D6 inhibitor is withdrawn from the combination therapy, iloperidone dose could then be increased to previous levels.</SentenceText>
+</Sentence>
+<Sentence id="3988" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Paroxetine and Ketoconazole: Co-administration of paroxetine (20 mg once daily for 10 days), a CYP2D6 inhibitor, and ketoconazole (200 mg twice daily) with multiple doses of iloperidone (8 or 12 mg twice daily) to patients with schizophrenia ages 18-65 resulted in a 1.4 fold increase in steady-state concentrations of iloperidone and its metabolite P88 and a 1.4 fold decrease in the P95 in the presence of paroxetine.</SentenceText>
+</Sentence>
+<Sentence id="3989" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>So giving iloperidone with inhibitors of both of its metabolic pathways did not add to the effect of either inhibitor given alone.</SentenceText>
+</Sentence>
+<Sentence id="3990" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Iloperidone doses should therefore be reduced by about one-half if administered concomitantly with both a CYP2D6 and CYP3A4 inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="3991" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>In vitro studies in human liver microsomes showed that iloperidone does not substantially inhibit the metabolism of drugs metabolized by the following cytochrome P450 isozymes: CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, or CYP2E1.</SentenceText>
+</Sentence>
+<Sentence id="3992" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Furthermore, in vitro studies in human liver microsomes showed that iloperidone does not have enzyme inducing properties, specifically for the following cytochrome P450 isozymes: CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP3A4 and CYP3A5.</SentenceText>
+</Sentence>
+<Sentence id="3993" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Dextromethorphan: A study in healthy volunteers showed that changes in the pharmacokinetics of dextromethorphan (80 mg dose) when a 3 mg dose of iloperidone was co-administered resulted in a 17% increase in total exposure and a 26% increase in the maximum plasma concentrations (Cmax)of dextromethorphan.</SentenceText>
+</Sentence>
+<Sentence id="3994" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Thus, an interaction between iloperidone and other CYP2D6 substrates is unlikely.</SentenceText>
+</Sentence>
+<Sentence id="3995" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Fluoxetine: A single 3 mg dose of iloperidone had no effect on the pharmacokinetics of fluoxetine (20 mg twice daily).</SentenceText>
+</Sentence>
+<Sentence id="3996" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Midazolam (a sensitive CYP 3A4 substrate):A study in patients with schizophrenia showed a less than 50% increase in midazolam total exposure at iloperidone steady state (14 days of oral dosing at up to 10 mg iloperidone twice daily) and no effect on midazolam Cmax.</SentenceText>
+</Sentence>
+<Sentence id="3997" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>Thus, an interaction between iloperidone and other CYP3A4 substrates is unlikely.</SentenceText>
+</Sentence>
+<Sentence id="3998" LabelDrug="Fanapt" section="34073-7">
+<SentenceText>FANAPT should not be used with any other drugs that prolong the QT interval.</SentenceText>
+</Sentence>
+<Sentence id="3999" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The mechanism of action of FANAPT, as with other drugs having efficacy in schizophrenia, is unknown.</SentenceText>
+</Sentence>
+<Sentence id="4000" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>However it is proposed that the efficacy of FANAPTis mediated through a combination of dopamine type 2 (D2) and serotonin type 2 (5-HT2) antagonisms.</SentenceText>
+</Sentence>
+<Sentence id="4001" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>FANAPT exhibits high (nM) affinity binding to serotonin 5-HT2A dopamine D2 and D3 receptors, and norepinephrine NEα1 receptors (Ki values of 5.6, 6.3, 7.1, and 0.36 nM, respectively).</SentenceText>
+</Sentence>
+<Sentence id="4002" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>FANAPT has moderate affinity for dopamine D4, and serotonin 5-HT6 and 5-HT7 receptors (Ki values of 25, 43, and 22, nM respectively), and low affinity for the serotonin 5-HT1A, dopamine D1, and histamine H1 receptors (Ki values of 168, 216 and 437 nM, respectively).</SentenceText>
+</Sentence>
+<Sentence id="4003" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>FANAPT has no appreciable affinity (Ki &gt;1000 nM) for cholinergic muscarinic receptors.</SentenceText>
+</Sentence>
+<Sentence id="4004" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>FANAPT functions as an antagonist at the dopamine D2, D3, serotonin 5-HT1A and norepinephrine α1/α2C receptors.</SentenceText>
+</Sentence>
+<Sentence id="4005" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The affinity of the FANAPT metabolite P88 is generally equal or less than that of the parent compound.</SentenceText>
+</Sentence>
+<Sentence id="4006" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>In contrast, the metabolite P95 only shows affinity for 5-HT2A (Ki value of 3.91) and the NEα1A, NEα1B, NEα1D, and NEα2 C receptors (Ki values of 4.7, 2.7, 8.8, and 4.7 nM respectively).</SentenceText>
+</Sentence>
+<Sentence id="4007" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The observed mean elimination half-lives for iloperidone, P88 and P95 in CYP2D6 extensive metabolizers (EM)are 18, 26, and 23 hours, respectively, and in poor metabolizers (PM) are 33, 37, and 31 hours, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4008" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Steady-state concentrations are attained within 3-4 days of dosing.</SentenceText>
+</Sentence>
+<Sentence id="4009" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Iloperidone accumulation is predictable from single-dose pharmacokinetics.</SentenceText>
+</Sentence>
+<Sentence id="4010" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The pharmacokinetics of iloperidone is more than dose proportional.</SentenceText>
+</Sentence>
+<Sentence id="4011" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Elimination of iloperidone is mainly through hepatic metabolism involving 2 P450 isozymes, CYP2D6 and CYP3A4.</SentenceText>
+</Sentence>
+<Sentence id="4012" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Absorption:Iloperidone is well absorbed after administration of the tablet with peak plasma concentrations occurring within 2 to 4 hours; while the relative bioavailability of the tablet formulation compared to oral solution is 96%.</SentenceText>
+</Sentence>
+<Sentence id="4013" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Administration of iloperidone with a standard high-fat meal did not significantly affect the Cmax or AUC of iloperidone, P88, or P95, but delayed Tmax by 1 hour for iloperidone, 2 hours for P88 and 6 hours for P95.</SentenceText>
+</Sentence>
+<Sentence id="4014" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>FANAPT can be administered without regard to meals.</SentenceText>
+</Sentence>
+<Sentence id="4015" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Distribution:Iloperidone has an apparent clearance (clearance/bioavailability) of 47 to 102 L/h, with an apparent volume of distribution of 1340 to 2800 L. At therapeutic concentrations, the unbound fraction of iloperidone in plasma is ~3% and of each metabolite (P88 and P95) it is ~8%.</SentenceText>
+</Sentence>
+<Sentence id="4016" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Metabolism and Elimination: Iloperidone is metabolized primarily by 3 biotransformation pathways: carbonyl reduction, hydroxylation (mediated by CYP2D6) and O-demethylation (mediated by CYP3A4).</SentenceText>
+</Sentence>
+<Sentence id="4017" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>There are 2 predominant iloperidone metabolites, P95 and P88.</SentenceText>
+</Sentence>
+<Sentence id="4018" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The iloperidone metabolite P95 represents 47.9% of the AUC of iloperidone and its metabolites in plasma at steady-state for extensive metabolizers (EM) and 25% for poor metabolizers (PM).</SentenceText>
+</Sentence>
+<Sentence id="4019" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The active metabolite P88 accounts for 19.5% and 34.0% of total plasma exposure in EM and PM, respectively.</SentenceText>
+</Sentence>
+<Sentence id="4020" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Approximately 7% - 10% of Caucasians and 3% - 8% of black/African Americans lack the capacity to metabolize CYP2D6 substrates and are classified as poor metabolizers (PM), whereas the rest are intermediate, extensive or ultrarapid metabolizers.</SentenceText>
+</Sentence>
+<Sentence id="4021" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Co-administration of FANAPT with known strong inhibitors of CYP2D6 like fluoxetine results in a 2.3-fold increase in iloperidone plasma exposure, andtherefore one-half of the FANAPT dose should be administered.</SentenceText>
+</Sentence>
+<Sentence id="4022" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Similarly, PMs of CYP2D6 have higher exposure to iloperidone compared with EMsand PMs should have their dose reduced by one-half.</SentenceText>
+</Sentence>
+<Sentence id="4023" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Laboratory tests are available to identify CYP2D6 PMs.</SentenceText>
+</Sentence>
+<Sentence id="4024" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>The bulk of the radioactive materials were recovered in the urine (mean 58.2% and 45.1% in EM and PM, respectively), with feces accounting for 19.9% (EM) to 22.1% (PM) of the dosed radioactivity.</SentenceText>
+</Sentence>
+<Sentence id="4025" LabelDrug="Fanapt" section="34090-1">
+<SentenceText>Transporter Interaction: Iloperidone and P88 are not substrates of P-gp and iloperidone is a weak P-gp inhibitor.</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions>
+</LabelInteractions>
+</Label>

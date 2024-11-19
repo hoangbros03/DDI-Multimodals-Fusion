@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Label drug="Maprotiline Hydrochloride" setid="c3ca69e6-1ea0-4c2c-abcb-7264b2e79a87">
+<Text><Section name="CLINICAL PHARMACOLOGY SECTION" id="34090-1">
+CLINICAL PHARMACOLOGY  The mechanism of action of maprotiline is not precisely known. It does not act primarily by stimulation of the central nervous system and is not a monoamine oxidase inhibitor. The postulated mechanism of maprotiline is that it acts primarily by potentiation of central adrenergic synapses by blocking reuptake of norepinephrine at nerve endings. This pharmacologic action is thought to be responsible for the drug's antidepressant and anxiolytic effects.  The mean time to peak is 12 hours. The half-life of elimination averages 51 hours.  Steady-state levels measured prior to the morning dose on a one dosage regimen are summarized as follows:  Average Minimum Concentration  95% Confidence Limits  Regimen  ng/mL  ng/mL  50 mg × 3 daily  238  181–295</Section>
+</Text><Sentences>
+<Sentence id="4320" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>Close supervision and careful adjustment of dosage are required when administering maprotiline concomitantly with anticholinergic or sympathomimetic drugs because of the possibility of additive atropine like effects.</SentenceText>
+<Mention id="M4" type="Trigger" span="185 8;208 7" str="additive | effects"/>
+<Mention id="M2" type="Precipitant" span="114 15;149 5" str="anticholinergic | drugs" code="n0000175574"/>
+<Mention id="M6" type="SpecificInteraction" span="185 30" str="additive atropine like effects" code="NO MAP"/>
+<Mention id="M5" type="Precipitant" span="133 21" str="sympathomimetic drugs" code="N0000029104"/>
+<Interaction id="I1" type="Pharmacodynamic interaction" trigger="M4" precipitant="M2" effect="M6"/>
+<Interaction id="I2" type="Pharmacodynamic interaction" trigger="M4" precipitant="M5" effect="M6"/>
+</Sentence>
+<Sentence id="4321" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>Concurrent administration of maprotiline with electroshock therapy should be avoided because of the lack of experience in this area.</SentenceText>
+</Sentence>
+<Sentence id="4322" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>Caution should be exercised when administering maprotiline to hyperthyroid patients or those on thyroid medication because of the possibility of enhanced potential for cardiovascular toxicity of maprotiline.</SentenceText>
+<Mention id="M9" type="SpecificInteraction" span="168 23" str="cardiovascular toxicity" code="267037003: Cardiovascular symptoms (finding)"/>
+<Mention id="M8" type="Precipitant" span="96 18" str="thyroid medication" code="NO MAP"/>
+<Interaction id="I3" type="Pharmacodynamic interaction" trigger="M9" precipitant="M8" effect="M9"/>
+</Sentence>
+<Sentence id="4323" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>Maprotiline should be used with caution in patients receiving guanethidine or similar agents since it may block the pharmacologic effects of these drugs.</SentenceText>
+<Mention id="M10" type="Trigger" span="106 5;130 7" str="block | effects"/>
+<Mention id="M11" type="Precipitant" span="62 12" str="guanethidine" code="ZTI6C33Q2Q"/>
+<Mention id="M12" type="SpecificInteraction" span="62 12;106 5;130 7" str="guanethidine | block | effects" code="NO MAP"/>
+<Interaction id="I4" type="Pharmacodynamic interaction" trigger="M10" precipitant="M11" effect="M12"/>
+</Sentence>
+<Sentence id="4324" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>The risk of seizures may be increased when maprotiline is taken concomitantly with phenothiazines or when the dosage of benzodiazepines is rapidly tapered in patients receiving maprotiline.</SentenceText>
+<Mention id="M16" type="Trigger" span="4 4;28 9" str="risk | increased"/>
+<Mention id="M14" type="Precipitant" span="120 15" str="benzodiazepines" code="N0000007542"/>
+<Mention id="M15" type="SpecificInteraction" span="12 8;38 4;139 15" str="seizures | when | rapidly tapered" code="91175000: Seizure (finding)"/>
+<Mention id="M17" type="Precipitant" span="83 14" str="phenothiazines" code="N0000175746"/>
+<Mention id="M18" type="SpecificInteraction" span="12 8" str="seizures" code="91175000: Seizure (finding)"/>
+<Interaction id="I5" type="Pharmacodynamic interaction" trigger="M16" precipitant="M14" effect="M15"/>
+<Interaction id="I6" type="Pharmacodynamic interaction" trigger="M16" precipitant="M17" effect="M18"/>
+</Sentence>
+<Sentence id="4325" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>Because of the pharmacologic similarity of maprotiline hydrochloride to the tricyclic antidepressants, the plasma concentration of maprotiline may be increased when the drug is given concomitantly with hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by concomitant administration with hepatic enzyme inducers (e.g., barbiturates, phenytoin), as has occurred with tricyclic antidepressants.</SentenceText>
+<Mention id="M25" type="Trigger" span="107 20;150 9" str="plasma concentration | increased"/>
+<Mention id="M20" type="Precipitant" span="247 10" str="fluoxetine" code="01K63SUP8D"/>
+<Mention id="M29" type="Trigger" span="107 20;263 9" str="plasma concentration | decreased"/>
+<Mention id="M22" type="Precipitant" span="353 9" str="phenytoin" code="N0000006023"/>
+<Mention id="M24" type="Precipitant" span="235 10" str="cimetidine" code="80061L1WGD"/>
+<Mention id="M26" type="Precipitant" span="202 25" str="hepatic enzyme inhibitors" code="NONE"/>
+<Mention id="M28" type="Precipitant" span="339 12" str="barbiturates" code="N0000008016"/>
+<Mention id="M30" type="Precipitant" span="308 23" str="hepatic enzyme inducers" code="NO MAP"/>
+<Interaction id="I7" type="Pharmacokinetic interaction" trigger="M25" precipitant="M20" effect="C54355"/>
+<Interaction id="I8" type="Pharmacokinetic interaction" trigger="M29" precipitant="M22" effect="C54356"/>
+<Interaction id="I9" type="Pharmacokinetic interaction" trigger="M25" precipitant="M24" effect="C54355"/>
+<Interaction id="I10" type="Pharmacokinetic interaction" trigger="M25" precipitant="M26" effect="C54355"/>
+<Interaction id="I11" type="Pharmacokinetic interaction" trigger="M29" precipitant="M28" effect="C54356"/>
+<Interaction id="I12" type="Pharmacokinetic interaction" trigger="M29" precipitant="M30" effect="C54356"/>
+</Sentence>
+<Sentence id="4326" LabelDrug="Maprotiline Hydrochloride" section="34073-7">
+<SentenceText>Adjustment of the dosage of maprotiline hydrochloride may therefore be necessary in such cases.</SentenceText>
+</Sentence>
+<Sentence id="4328" LabelDrug="Maprotiline Hydrochloride" section="34090-1">
+<SentenceText>The mechanism of action of maprotiline is not precisely known.</SentenceText>
+</Sentence>
+<Sentence id="4329" LabelDrug="Maprotiline Hydrochloride" section="34090-1">
+<SentenceText>It does not act primarily by stimulation of the central nervous system and is not a monoamine oxidase inhibitor.</SentenceText>
+</Sentence>
+<Sentence id="4330" LabelDrug="Maprotiline Hydrochloride" section="34090-1">
+<SentenceText>The postulated mechanism of maprotiline is that it acts primarily by potentiation of central adrenergic synapses by blocking reuptake of norepinephrine at nerve endings.</SentenceText>
+</Sentence>
+<Sentence id="4331" LabelDrug="Maprotiline Hydrochloride" section="34090-1">
+<SentenceText>This pharmacologic action is thought to be responsible for the drug's antidepressant and anxiolytic effects.</SentenceText>
+</Sentence>
+<Sentence id="4332" LabelDrug="Maprotiline Hydrochloride" section="34090-1">
+<SentenceText>The half-life of elimination averages 51 hours.</SentenceText>
+</Sentence>
+<Sentence id="4333" LabelDrug="Maprotiline Hydrochloride" section="34090-1">
+<SentenceText>Steady-state levels measured prior to the morning dose on a one dosage regimen are summarized as follows: Average Minimum Concentration 95% Confidence Limits Regimen ng/mL ng/mL 50 mg × 3 daily 238 181–295</SentenceText>
+</Sentence>
+</Sentences>
+<LabelInteractions><LabelInteraction type="Pharmacodynamic interaction" precipitant="anticholinergic | drugs" precipitantCode="n0000175574" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="sympathomimetic drugs" precipitantCode="N0000029104" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="thyroid medication" precipitantCode="NO MAP" effect="267037003: Cardiovascular symptoms (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="guanethidine" precipitantCode="ZTI6C33Q2Q" effect="NO MAP"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="benzodiazepines" precipitantCode="N0000007542" effect="91175000: Seizure (finding)"/>
+<LabelInteraction type="Pharmacodynamic interaction" precipitant="phenothiazines" precipitantCode="N0000175746" effect="91175000: Seizure (finding)"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="fluoxetine" precipitantCode="01K63SUP8D" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="phenytoin" precipitantCode="N0000006023" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="cimetidine" precipitantCode="80061L1WGD" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic enzyme inhibitors" precipitantCode="NONE" effect="C54355"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="barbiturates" precipitantCode="N0000008016" effect="C54356"/>
+<LabelInteraction type="Pharmacokinetic interaction" precipitant="hepatic enzyme inducers" precipitantCode="NO MAP" effect="C54356"/>
+
+</LabelInteractions></Label>
