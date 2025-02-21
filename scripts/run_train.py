@@ -289,7 +289,7 @@ def run_train(yaml_path):
 
     all_candidates_test = load_pkl(config.candidate_test_path)
     full_labels = get_labels(all_candidates_test)
-    with open(config.filtered_index_path, 'r') as f:
+    with open(config.test_filtered_index_path, 'r') as f:
         lines = f.read().split('\n')[:-1]
         filtered_lst_index_test = [int(x.strip()) for x in lines]
 
