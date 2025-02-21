@@ -24,7 +24,7 @@ from ddi_kt_2024.multimodal.desc_handler import *
 from wandb_setup import wandb_setup
 from ddi_kt_2024 import logging_config
 from ddi_kt_2024.utils import standardlize_config
-
+from ddi_kt_2024.multimodal.image_handler import *
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 from ddi_kt_2024.text.preprocess.asada_preprocess import *
 from ddi_kt_2024.text.reader.yaml_reader import get_yaml_config
