@@ -37,8 +37,8 @@ from torch_geometric.loader import DataLoader as GeoDataLoader
 from ddi_kt_2024.mol.mol_dataset import MolDataset
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 
-@click.command()
-@click.option("--yaml_path", required=True, type=str, help="Path to the yaml config")
+# @click.command()
+# @click.option("--yaml_path", required=True, type=str, help="Path to the yaml config")
 def legacy_run_train(yaml_path):
     # Initialize
     config = get_yaml_config(yaml_path)
