@@ -5,7 +5,7 @@ class Desc_Fast(Dataset):
         self.desc_dict = desc_dict
         self.can_type = can_type
         self.e_idx = e_idx
-        print("Auto negative filtering...")
+        # print("Auto negative filtering...")
         self.negative_instance_filtering()
         
     def __len__(self):
@@ -35,5 +35,5 @@ class Desc_Fast(Dataset):
             new_candidates.append(self.candidates[idx])
         
         self.candidates = new_candidates
-        print("Negative filtering ok!")
+        # print("Negative filtering ok!")
         
