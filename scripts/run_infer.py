@@ -109,7 +109,7 @@ def inference(json_path, model_path, result_file, config):
     model.config = config
 
     checkpoint = torch.load(model_path)
-    model.load_state_dict(checkpoint)
+    model.model.load_state_dict(checkpoint)
     logging.info("Model loaded successfully.")
     
     # Load Modalities
@@ -120,7 +120,7 @@ def inference(json_path, model_path, result_file, config):
 
     # Prepare Data
     result_arr = []
-    model.eval()
+    model.model.eval()
     for sample in content:
         drug_name = sample['e1']  # Assuming 'e1' contains the drug name
 
@@ -186,7 +186,7 @@ def inference(json_path, model_path, result_file, config):
                     'image': next(iter(dataloader_image_test)).to(config.device)
                 }
                 with torch.no_grad():
-                    output = model(**inputs)
+                    output = model.model(**inputs)
                     result_arr.append(get_decode_a_label(torch.argmax(output, dim=1)))
 
     logging.info("Inference process done!")
