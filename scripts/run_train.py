@@ -68,8 +68,8 @@ def legacy_run_train(yaml_path):
         data_test.batch_padding(batch_size=config.batch_size, min_batch_size=config.min_batch_size)
         data_test.squeeze()
     elif config.type_embed == 'bert_sentence':
-        data_train = torch.load(config.train_custom_dataset)
-        data_test = torch.load(config.test_custom_dataset)
+        data_train = torch.load(config.train_custom_dataset, weights_only=False)
+        data_test = torch.load(config.test_custom_dataset, weights_only=False)
         # breakpoint()
     else:
         raise ValueError("Value of type_embed isn't supported yet!")
@@ -167,7 +167,7 @@ def run_train(yaml_path):
     dataloader_text_test = DataLoader(data_text_test, batch_size=config.batch_size, shuffle=False)
 
     # Desc handle
-    desc_dict = torch.load(config.desc_dict_path)
+    desc_dict = torch.load(config.desc_dict_path, weights_only=False)
     data_desc_train_1, data_desc_train_2 = Desc_Fast(train_candidates, desc_dict, 'train', 'e1'), Desc_Fast(train_candidates, desc_dict, 'train', 'e2')
     data_desc_test_1, data_desc_test_2 = Desc_Fast(test_candidates, desc_dict, 'test', 'e1'), Desc_Fast(test_candidates, desc_dict, 'test', 'e2')
     dataloader_train_desc1 = DataLoader(data_desc_train_1, batch_size=config.batch_size, shuffle=False)
@@ -176,8 +176,8 @@ def run_train(yaml_path):
     dataloader_test_desc2 = DataLoader(data_desc_test_2, batch_size=config.batch_size, shuffle=False)
 
     # Image
-    data_train = torch.load(config.image_data_train_path)
-    data_test = torch.load(config.image_data_test_path)
+    data_train = torch.load(config.image_data_train_path, weights_only=False)
+    data_test = torch.load(config.image_data_test_path, weights_only=False)
 
     data_train.prepare_type = "train"
     data_train.negative_instance_filtering()
@@ -293,10 +293,10 @@ def run_train(yaml_path):
         lines = f.read().split('\n')[:-1]
         filtered_lst_index_test = [int(x.strip()) for x in lines]
 
-    gnn_state = torch.load(config.gnn_state_path,map_location="cpu")
-    formula_state = torch.load(config.formula_state_path,map_location="cpu")
-    desc_state = torch.load(config.desc_state_path,map_location="cpu")
-    # image_state = torch.load(config.image_state_path,map_location="cpu")
+    gnn_state = torch.load(config.gnn_state_path,map_location="cpu", weights_only=False)
+    formula_state = torch.load(config.formula_state_path,map_location="cpu", weights_only=False)
+    desc_state = torch.load(config.desc_state_path,map_location="cpu", weights_only=False)
+    # image_state = torch.load(config.image_state_path,map_location="cpu", weights_only=False)
 
     if kwargs['freeze_gnn']:
         del gnn_state['classifier.weight']
