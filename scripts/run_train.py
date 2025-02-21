@@ -189,8 +189,8 @@ def run_train(yaml_path):
     # Formula
     df = mapped_property_reader('cache/mapped_drugs/DDI/ease_matching/full.csv')
     mapped_formula = get_property_dict(df, property_name='formula')
-    x_train, y_train = candidate_property(all_candidates_train, mapped_formula)
-    x_test, y_test = candidate_property(all_candidates_test, mapped_formula)
+    x_train, y_train = candidate_property(train_candidates, mapped_formula)
+    x_test, y_test = candidate_property(test_candidates, mapped_formula)
 
     dataloader_train_for1 = FormulaDataloader(x_train,
                                             batch_size=config.batch_size,
@@ -222,8 +222,8 @@ def run_train(yaml_path):
 
     # Graph
     mapped_smiles = get_property_dict(df, property_name='smiles')
-    x_train, y_train = candidate_property(all_candidates_train, mapped_smiles)
-    x_test, y_test = candidate_property(all_candidates_test, mapped_smiles)
+    x_train, y_train = candidate_property(train_candidates, mapped_smiles)
+    x_test, y_test = candidate_property(test_candidates, mapped_smiles)
 
     dataset_train_mol1 = MolDataset(x_train, element=1)
     dataset_train_mol2 = MolDataset(x_train, element=2)
@@ -278,7 +278,7 @@ def run_train(yaml_path):
                     model_name_or_path=config.model_name_or_path,
                     wandb_available=True,
                     freeze_bert=True, # Let it default
-                    image_reduced_dim=represent_dim,
+                    image_reduced_dim=config.represent_dim[-1],
                     loss_type=config.loss_type,
                     apply_mask=config.apply_mask,
                     represent_dim = config.represent_dim,
@@ -293,10 +293,10 @@ def run_train(yaml_path):
         lines = f.read().split('\n')[:-1]
         filtered_lst_index_test = [int(x.strip()) for x in lines]
 
-    gnn_state = torch.load(gnn_state_path,map_location="cpu")
-    formula_state = torch.load(formula_state_path,map_location="cpu")
-    desc_state = torch.load(desc_state_path,map_location="cpu")
-    image_state = torch.load(image_state_path,map_location="cpu")
+    gnn_state = torch.load(config.gnn_state_path,map_location="cpu")
+    formula_state = torch.load(config.formula_state_path,map_location="cpu")
+    desc_state = torch.load(config.desc_state_path,map_location="cpu")
+    # image_state = torch.load(config.image_state_path,map_location="cpu")
 
     if kwargs['freeze_gnn']:
         del gnn_state['classifier.weight']
