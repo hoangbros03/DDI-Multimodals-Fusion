@@ -184,7 +184,7 @@ def save_model(output_path, file_name, config, model, wandb_available=False, pre
     if not Path(output_path).exists():
         check_and_create_folder(output_path)
     # Check if .yaml is existing
-    if len(list(Path(output_path).glob("*.yaml"))) ==0:
+    if len(list(Path(output_path).glob("*.yaml"))) == 0:
         # Saving yaml
         if not wandb_available:
             save_yaml_config(str(Path(output_path) / "config.yaml"), config.data)
@@ -194,6 +194,12 @@ def save_model(output_path, file_name, config, model, wandb_available=False, pre
     dump_pkl(pred_logit, str(Path(output_path) / f"pred_logit_{str(file_name[:-3])}.pkl"))
     torch.save(model.state_dict(), str(Path(output_path) / file_name))
     logging.info(f"Model saved into {str(Path(output_path) / file_name)}")
+
+    # Keep only the latest 5 checkpoints
+    checkpoints = sorted(Path(output_path).glob("*.pt"), key=lambda x: x.stat().st_mtime, reverse=True)
+    for checkpoint in checkpoints[5:]:
+        checkpoint.unlink()
+        logging.info(f"Removed old checkpoint {checkpoint}")
 
 def get_idx(sent, vocab_lookup, tag_lookup, direction_lookup, edge_lookup):
     '''

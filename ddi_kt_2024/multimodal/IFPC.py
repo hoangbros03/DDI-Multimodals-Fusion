@@ -614,22 +614,22 @@ class Trainer:
             if max_val_micro_f1 < results['microF']:
                 if not os.path.exists("checkpoints"):
                     os.makedirs("checkpoints")
-#                 save_model(
-#                         output_path=f"checkpoints",
-#                         file_name=f"epoch{epoch}val_micro_f1{results['microF']}.pt",
-#                         config=None,
-#                         model=self.model,
-#                         pred_logit=preds,
-#                         wandb_available=True
-#                     )
-#                 max_val_micro_f1 = results['microF']
-#                 print(f"Checkpoint saved at:\n  Epoch = {epoch}\n  Micro F1 = {max_val_micro_f1}")
+                save_model(
+                        output_path=f"checkpoints",
+                        file_name=f"epoch{epoch}val_micro_f1{results['microF']}.pt",
+                        config=None,
+                        model=self.model,
+                        pred_logit=preds,
+                        wandb_available=True
+                    )
+                max_val_micro_f1 = results['microF']
+                print(f"Checkpoint saved at:\n  Epoch = {epoch}\n  Micro F1 = {max_val_micro_f1}")
                 print("Model isn't saved to have enough space for running")
-#                 if self.log:
-#                     artifact = wandb.Artifact(f"checkpoints_{wandb.run.id}", type='checkpoints')
-#                     artifact.add_file(f"./checkpoints/pred_logit_epoch{epoch}val_micro_f1{results['microF']}.pkl")
-#                     wandb.log_artifact(artifact)
-#                     print("Log pkl into wandb successfully.")
+                if self.log:
+                    artifact = wandb.Artifact(f"checkpoints_{wandb.run.id}", type='checkpoints')
+                    artifact.add_file(f"./checkpoints/pred_logit_epoch{epoch}val_micro_f1{results['microF']}.pkl")
+                    wandb.log_artifact(artifact)
+                    print("Log pkl into wandb successfully.")
 
         if self.wandb_available:
             wandb.finish()
