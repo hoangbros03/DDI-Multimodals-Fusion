@@ -235,10 +235,10 @@ def run_train(yaml_path):
     dataset_test_mol1.negative_instance_filtering('cache/filtered_ddi/test_filtered_index.txt')
     dataset_test_mol2.negative_instance_filtering('cache/filtered_ddi/test_filtered_index.txt')
 
-    dataloader_train_graph1 = DataLoader(dataset_train_mol1, batch_size=config.batch_size, shuffle=False)
-    dataloader_train_graph2 = DataLoader(dataset_train_mol2, batch_size=config.batch_size, shuffle=False)
-    dataloader_test_graph1 = DataLoader(dataset_test_mol1, batch_size=config.batch_size, shuffle=False)
-    dataloader_test_graph2 = DataLoader(dataset_test_mol2, batch_size=config.batch_size, shuffle=False)
+    dataloader_train_graph1 = GeoDataLoader(dataset_train_mol1, batch_size=config.batch_size, shuffle=False)
+    dataloader_train_graph2 = GeoDataLoader(dataset_train_mol2, batch_size=config.batch_size, shuffle=False)
+    dataloader_test_graph1 = GeoDataLoader(dataset_test_mol1, batch_size=config.batch_size, shuffle=False)
+    dataloader_test_graph2 = GeoDataLoader(dataset_test_mol2, batch_size=config.batch_size, shuffle=False)
 
     # Load kwarg
     kwargs = {
