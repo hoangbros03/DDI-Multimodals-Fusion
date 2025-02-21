@@ -5,14 +5,15 @@ from datetime import datetime
 import click
 import torch
 
-from ddi_kt_2024.preprocess.spacy_nlp import SpacyNLP
-from ddi_kt_2024.dependency_parsing.dependency_parser import DependencyParser
-from ddi_kt_2024.dependency_parsing.path_processer import PathProcesser
+# from ddi_kt_2024.preprocess.spacy_nlp import SpacyNLP
+# from ddi_kt_2024.dependency_parsing.dependency_parser import DependencyParser
+# from ddi_kt_2024.dependency_parsing.path_processer import PathProcesser
 # from ddi_kt_2024.model.trainer import Trainer
+from ddi_kt_2024.text.preprocess.asada_preprocess import new_convert_to_examples, preprocess
 from ddi_kt_2024.multimodal.IFPC import *
-from ddi_kt_2024.reader.yaml_reader import get_yaml_config
+from ddi_kt_2024.text.reader.yaml_reader import get_yaml_config
 from ddi_kt_2024 import logging_config
-from ddi_kt_2024.model.word_embedding import WordEmbedding
+# from ddi_kt_2024.model.word_embedding import WordEmbedding
 from ddi_kt_2024.utils import (
     get_lookup, 
     DictAccessor, 
