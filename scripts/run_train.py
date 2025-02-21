@@ -14,10 +14,10 @@ from ddi_kt_2024.utils import (
     load_pkl,
     get_labels
 )
-from ddi_kt_2024.reader.yaml_reader import get_yaml_config
-from ddi_kt_2024.model.custom_dataset import CustomDataset, BertEmbeddingDataset
+# from ddi_kt_2024.text.reader.yaml_reader import get_yaml_config
+# from ddi_kt_2024.model.custom_dataset import CustomDataset, BertEmbeddingDataset
 # from ddi_kt_2024.model.trainer import Trainer, BertTrainer
-from ddi_kt_2024.model.word_embedding import WordEmbedding
+# from ddi_kt_2024.model.word_embedding import WordEmbedding
 from ddi_kt_2024.multimodal.IFPC import *
 from ddi_kt_2024.text.preprocess.asada_preprocess import _negative_filtering
 from ddi_kt_2024.multimodal.desc_handler import *
