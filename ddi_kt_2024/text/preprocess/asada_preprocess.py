@@ -470,5 +470,5 @@ def _negative_filtering(dataset, data_type="train"):
         *[torch.tensor(torch.stack(new_data[i], dim=0), dtype=torch.long) for i in range(len(new_data))]
     )
     
-    print("Negative filtering ok!")
+    # print("Negative filtering ok!")
     return new_dataset

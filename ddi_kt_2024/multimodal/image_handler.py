@@ -168,7 +168,7 @@ class ImageTextDataset(Dataset):
         self.all_relative_dist2 = new_all_relative_dist2
         self.images_classifier = new_images_classifier
         self.labels = new_labels
-        print("Negative filtering ok!")
+        # print("Negative filtering ok!")
 
 class Image_PreTrained_Model(nn.Module):
     def __init__(self, 

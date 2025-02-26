@@ -14,17 +14,17 @@ from ddi_kt_2024.utils import (
     load_pkl,
     get_labels
 )
-from ddi_kt_2024.reader.yaml_reader import get_yaml_config
-from ddi_kt_2024.model.custom_dataset import CustomDataset, BertEmbeddingDataset
+# from ddi_kt_2024.text.reader.yaml_reader import get_yaml_config
+# from ddi_kt_2024.model.custom_dataset import CustomDataset, BertEmbeddingDataset
 # from ddi_kt_2024.model.trainer import Trainer, BertTrainer
-from ddi_kt_2024.model.word_embedding import WordEmbedding
+# from ddi_kt_2024.model.word_embedding import WordEmbedding
 from ddi_kt_2024.multimodal.IFPC import *
 from ddi_kt_2024.text.preprocess.asada_preprocess import _negative_filtering
 from ddi_kt_2024.multimodal.desc_handler import *
 from wandb_setup import wandb_setup
 from ddi_kt_2024 import logging_config
 from ddi_kt_2024.utils import standardlize_config
-
+from ddi_kt_2024.multimodal.image_handler import *
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 from ddi_kt_2024.text.preprocess.asada_preprocess import *
 from ddi_kt_2024.text.reader.yaml_reader import get_yaml_config
@@ -37,8 +37,8 @@ from torch_geometric.loader import DataLoader as GeoDataLoader
 from ddi_kt_2024.mol.mol_dataset import MolDataset
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 
-@click.command()
-@click.option("--yaml_path", required=True, type=str, help="Path to the yaml config")
+# @click.command()
+# @click.option("--yaml_path", required=True, type=str, help="Path to the yaml config")
 def legacy_run_train(yaml_path):
     # Initialize
     config = get_yaml_config(yaml_path)
@@ -68,8 +68,8 @@ def legacy_run_train(yaml_path):
         data_test.batch_padding(batch_size=config.batch_size, min_batch_size=config.min_batch_size)
         data_test.squeeze()
     elif config.type_embed == 'bert_sentence':
-        data_train = torch.load(config.train_custom_dataset)
-        data_test = torch.load(config.test_custom_dataset)
+        data_train = torch.load(config.train_custom_dataset, weights_only=False)
+        data_test = torch.load(config.test_custom_dataset, weights_only=False)
         # breakpoint()
     else:
         raise ValueError("Value of type_embed isn't supported yet!")
@@ -167,7 +167,7 @@ def run_train(yaml_path):
     dataloader_text_test = DataLoader(data_text_test, batch_size=config.batch_size, shuffle=False)
 
     # Desc handle
-    desc_dict = torch.load(config.desc_dict_path)
+    desc_dict = torch.load(config.desc_dict_path, weights_only=False)
     data_desc_train_1, data_desc_train_2 = Desc_Fast(train_candidates, desc_dict, 'train', 'e1'), Desc_Fast(train_candidates, desc_dict, 'train', 'e2')
     data_desc_test_1, data_desc_test_2 = Desc_Fast(test_candidates, desc_dict, 'test', 'e1'), Desc_Fast(test_candidates, desc_dict, 'test', 'e2')
     dataloader_train_desc1 = DataLoader(data_desc_train_1, batch_size=config.batch_size, shuffle=False)
@@ -176,8 +176,8 @@ def run_train(yaml_path):
     dataloader_test_desc2 = DataLoader(data_desc_test_2, batch_size=config.batch_size, shuffle=False)
 
     # Image
-    data_train = torch.load(config.image_data_train_path)
-    data_test = torch.load(config.image_data_test_path)
+    data_train = torch.load(config.image_data_train_path, weights_only=False)
+    data_test = torch.load(config.image_data_test_path, weights_only=False)
 
     data_train.prepare_type = "train"
     data_train.negative_instance_filtering()
@@ -189,8 +189,8 @@ def run_train(yaml_path):
     # Formula
     df = mapped_property_reader('cache/mapped_drugs/DDI/ease_matching/full.csv')
     mapped_formula = get_property_dict(df, property_name='formula')
-    x_train, y_train = candidate_property(all_candidates_train, mapped_formula)
-    x_test, y_test = candidate_property(all_candidates_test, mapped_formula)
+    x_train, y_train = candidate_property(train_candidates, mapped_formula)
+    x_test, y_test = candidate_property(test_candidates, mapped_formula)
 
     dataloader_train_for1 = FormulaDataloader(x_train,
                                             batch_size=config.batch_size,
@@ -222,8 +222,8 @@ def run_train(yaml_path):
 
     # Graph
     mapped_smiles = get_property_dict(df, property_name='smiles')
-    x_train, y_train = candidate_property(all_candidates_train, mapped_smiles)
-    x_test, y_test = candidate_property(all_candidates_test, mapped_smiles)
+    x_train, y_train = candidate_property(train_candidates, mapped_smiles)
+    x_test, y_test = candidate_property(test_candidates, mapped_smiles)
 
     dataset_train_mol1 = MolDataset(x_train, element=1)
     dataset_train_mol2 = MolDataset(x_train, element=2)
@@ -235,10 +235,10 @@ def run_train(yaml_path):
     dataset_test_mol1.negative_instance_filtering('cache/filtered_ddi/test_filtered_index.txt')
     dataset_test_mol2.negative_instance_filtering('cache/filtered_ddi/test_filtered_index.txt')
 
-    dataloader_train_graph1 = DataLoader(dataset_train_mol1, batch_size=config.batch_size, shuffle=False)
-    dataloader_train_graph2 = DataLoader(dataset_train_mol2, batch_size=config.batch_size, shuffle=False)
-    dataloader_test_graph1 = DataLoader(dataset_test_mol1, batch_size=config.batch_size, shuffle=False)
-    dataloader_test_graph2 = DataLoader(dataset_test_mol2, batch_size=config.batch_size, shuffle=False)
+    dataloader_train_graph1 = GeoDataLoader(dataset_train_mol1, batch_size=config.batch_size, shuffle=False)
+    dataloader_train_graph2 = GeoDataLoader(dataset_train_mol2, batch_size=config.batch_size, shuffle=False)
+    dataloader_test_graph1 = GeoDataLoader(dataset_test_mol1, batch_size=config.batch_size, shuffle=False)
+    dataloader_test_graph2 = GeoDataLoader(dataset_test_mol2, batch_size=config.batch_size, shuffle=False)
 
     # Load kwarg
     kwargs = {
@@ -278,7 +278,7 @@ def run_train(yaml_path):
                     model_name_or_path=config.model_name_or_path,
                     wandb_available=True,
                     freeze_bert=True, # Let it default
-                    image_reduced_dim=represent_dim,
+                    image_reduced_dim=config.represent_dim[-1],
                     loss_type=config.loss_type,
                     apply_mask=config.apply_mask,
                     represent_dim = config.represent_dim,
@@ -289,14 +289,14 @@ def run_train(yaml_path):
 
     all_candidates_test = load_pkl(config.candidate_test_path)
     full_labels = get_labels(all_candidates_test)
-    with open(config.filtered_index_path, 'r') as f:
+    with open(config.test_filtered_index_path, 'r') as f:
         lines = f.read().split('\n')[:-1]
         filtered_lst_index_test = [int(x.strip()) for x in lines]
 
-    gnn_state = torch.load(gnn_state_path,map_location="cpu")
-    formula_state = torch.load(formula_state_path,map_location="cpu")
-    desc_state = torch.load(desc_state_path,map_location="cpu")
-    image_state = torch.load(image_state_path,map_location="cpu")
+    gnn_state = torch.load(config.gnn_state_path,map_location="cpu", weights_only=False)
+    formula_state = torch.load(config.formula_state_path,map_location="cpu", weights_only=False)
+    desc_state = torch.load(config.desc_state_path,map_location="cpu", weights_only=False)
+    # image_state = torch.load(config.image_state_path,map_location="cpu", weights_only=False)
 
     if kwargs['freeze_gnn']:
         del gnn_state['classifier.weight']
