@@ -195,13 +195,15 @@ def run_train(yaml_path):
     # Contextual Text handle
     examples = new_convert_to_examples(test_candidates, "test", drugother_mask="full")
     data_text_test = preprocess(examples, model_name=config.model_name_or_path, save_path="data_test.pt")
+    before_negative_data_text_test = data_text_test
 
     examples = new_convert_to_examples(train_candidates, "train", drugother_mask="full")
     data_text_train = preprocess(examples, model_name=config.model_name_or_path, save_path="data_train.pt")
-
+    before_negative_data_text_train = data_text_train
+    
     data_text_train = _negative_filtering(data_text_train, filtered_idx_file_path=filtered_idx_train_path)
     data_text_test = _negative_filtering(data_text_test, filtered_idx_file_path=filtered_idx_test_path)
-    
+
     dataloader_text_train = DataLoader(data_text_train, batch_size=config.batch_size, shuffle=False)
     dataloader_text_test = DataLoader(data_text_test, batch_size=config.batch_size, shuffle=False)
 
@@ -224,7 +226,23 @@ def run_train(yaml_path):
         train_images_classifier = all_images_classifier[:new_train_number]
         test_images_classifier = all_images_classifier[new_train_number:]
         data_train.images_classifier = train_images_classifier
-        data_train.images_classifier = test_images_classifier
+        data_test.images_classifier = test_images_classifier
+
+        data_train.candidates = train_candidates
+        data_train.all_input_ids = before_negative_data_text_train.tensors[0]
+        data_train.all_attention_mask = before_negative_data_text_train.tensors[1]
+        data_train.all_token_type_ids = before_negative_data_text_train.tensors[2]
+        data_train.all_relative_dist1 = before_negative_data_text_train.tensors[3]
+        data_train.all_relative_dist2 = before_negative_data_text_train.tensors[4]
+        data_train.labels = get_labels(train_candidates)
+
+        data_test.candidates = test_candidates
+        data_test.all_input_ids = before_negative_data_text_test.tensors[0]
+        data_test.all_attention_mask = before_negative_data_text_test.tensors[1]
+        data_test.all_token_type_ids = before_negative_data_text_test.tensors[2]
+        data_test.all_relative_dist1 = before_negative_data_text_test.tensors[3]
+        data_test.all_relative_dist2 = before_negative_data_text_test.tensors[4]
+        data_test.labels = get_labels(test_candidates)
     data_train.prepare_type = "train"
     data_train.negative_instance_filtering(filtered_idx_train_path)
     data_test.prepare_type = "test"
@@ -334,9 +352,8 @@ def run_train(yaml_path):
 
     model.config = config
 
-    all_candidates_test = load_pkl(config.candidate_test_path)
-    full_labels = get_labels(all_candidates_test)
-    with open(config.test_filtered_index_path, 'r') as f:
+    full_labels = get_labels(test_candidates)
+    with open(filtered_idx_test_path, 'r') as f:
         lines = f.read().split('\n')[:-1]
         filtered_lst_index_test = [int(x.strip()) for x in lines]
 
