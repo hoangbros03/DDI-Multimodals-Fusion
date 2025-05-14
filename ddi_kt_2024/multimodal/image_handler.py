@@ -126,21 +126,23 @@ class ImageTextDataset(Dataset):
                 self.images_classifier[idx], 
                 self.labels[idx])
     
-    def _get_filtered_idx(self):
-        """Don't need to call it directly"""
-        if self.prepare_type == "train":
-            txt_path = "cache/filtered_ddi/train_filtered_index.txt"
-        elif self.prepare_type == "test":
-            txt_path = "cache/filtered_ddi/test_filtered_index.txt"
-        else:
-            print("Wrong prepare_type, only support train and test")
-            return
-        with open(txt_path, "r") as f:
+    # def _get_filtered_idx(self):
+    #     """Don't need to call it directly"""
+    #     if self.prepare_type == "train":
+    #         txt_path = "cache/filtered_ddi/train_filtered_index.txt"
+    #     elif self.prepare_type == "test":
+    #         txt_path = "cache/filtered_ddi/test_filtered_index.txt"
+    #     else:
+    #         print("Wrong prepare_type, only support train and test")
+    #         return
+        
+
+    def negative_instance_filtering(self, filtered_idx_file_path):
+        # self._get_filtered_idx()
+        with open(filtered_idx_file_path, "r") as f:
             lines = f.read().split('\n')[:-1]
             self.filtered_idx = [int(x.strip()) for x in lines]
-
-    def negative_instance_filtering(self):
-        self._get_filtered_idx()
+            
         new_candidates = list()
         new_all_input_ids = list()
         new_all_attention_mask = list()

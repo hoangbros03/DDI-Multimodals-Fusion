@@ -17,50 +17,52 @@ from transformers import glue_output_modes as output_modes
 from ddi_kt_2024.utils import load_pkl
 
 def fix_candidates(candidates, can_type):
-    # Get dict
-    if can_type == "train":
-        file_path = 'cache/drugbank/correct_ddi_train.txt'
-    else:
-        file_path = 'cache/drugbank/correct_ddi_test.txt'
-    data = {}
-    ids = []
-    with open(file_path, 'r') as file:
-        new_id = 2
-        current_id = None
-        for line in file:
-            line = line.strip()
-            if line=="":
-                new_id=2
-                continue
-            if new_id==2:
-                current_id = line
-                ids.append(line)
-                data[current_id] = {}
-                new_id = 1
-                continue
-            elif new_id==1:
-                data[current_id]['text'] = line
-                data[current_id]['entities'] = {}
-                new_id=0
-                continue
-            entitiy_dict =ast.literal_eval(line)
-            data[current_id]['entities'][entitiy_dict['@id']] = {
-                '@charOffset': entitiy_dict['@charOffset'],
-                '@text': entitiy_dict['@text']
-            }
+    def _handle(file_path, candidates):
+        data = {}
+        ids = []
+        with open(file_path, 'r') as file:
+            new_id = 2
+            current_id = None
+            for line in file:
+                line = line.strip()
+                if line=="":
+                    new_id=2
+                    continue
+                if new_id==2:
+                    current_id = line
+                    ids.append(line)
+                    data[current_id] = {}
+                    new_id = 1
+                    continue
+                elif new_id==1:
+                    data[current_id]['text'] = line
+                    data[current_id]['entities'] = {}
+                    new_id=0
+                    continue
+                entitiy_dict =ast.literal_eval(line)
+                data[current_id]['entities'][entitiy_dict['@id']] = {
+                    '@charOffset': entitiy_dict['@charOffset'],
+                    '@text': entitiy_dict['@text']
+                }
 
-    # Fix candidates
-    for idx, candidate in enumerate(candidates):
-        c_id = ".".join(candidate['id'].split(".")[:-1])
-        if c_id in ids:
-            # Get entities id
-            e1_id = candidate['e1']['@id']
-            e2_id = candidate['e2']['@id']
-            candidates[idx]['text'] = data[c_id]['text']
-            candidates[idx]['e1']['@text'] = data[c_id]['entities'][e1_id]['@text']
-            candidates[idx]['e1']['@charOffset'] = data[c_id]['entities'][e1_id]['@charOffset']
-            candidates[idx]['e2']['@text'] = data[c_id]['entities'][e2_id]['@text']
-            candidates[idx]['e2']['@charOffset'] = data[c_id]['entities'][e2_id]['@charOffset']
+        # Fix candidates
+        for idx, candidate in enumerate(candidates):
+            c_id = ".".join(candidate['id'].split(".")[:-1])
+            if c_id in ids:
+                # Get entities id
+                e1_id = candidate['e1']['@id']
+                e2_id = candidate['e2']['@id']
+                candidates[idx]['text'] = data[c_id]['text']
+                candidates[idx]['e1']['@text'] = data[c_id]['entities'][e1_id]['@text']
+                candidates[idx]['e1']['@charOffset'] = data[c_id]['entities'][e1_id]['@charOffset']
+                candidates[idx]['e2']['@text'] = data[c_id]['entities'][e2_id]['@text']
+                candidates[idx]['e2']['@charOffset'] = data[c_id]['entities'][e2_id]['@charOffset']
+        
+        return candidates
+
+    # Get dict
+    candidates = _handle('cache/drugbank/correct_ddi_train.txt', candidates)
+    candidates = _handle('cache/drugbank/correct_ddi_test.txt', candidates)
     print("Fix complete!")
     return candidates
             
@@ -448,15 +450,15 @@ def preprocess(examples, model_name, max_seq_length=128, save_path=None, desc = 
     
     return dataset
 
-def _negative_filtering(dataset, data_type="train"):
-    if data_type == "train":
-        txt_path = "cache/filtered_ddi/train_filtered_index.txt"
-    elif data_type == "test":
-        txt_path = "cache/filtered_ddi/test_filtered_index.txt"
-    else:
-        print("Wrong prepare_type, only support train and test")
-        return
-    with open(txt_path, "r") as f:
+def _negative_filtering(dataset, filtered_idx_file_path):
+    # if data_type == "train":
+    #     txt_path = "cache/filtered_ddi/train_filtered_index.txt"
+    # elif data_type == "test":
+    #     txt_path = "cache/filtered_ddi/test_filtered_index.txt"
+    # else:
+    #     print("Wrong prepare_type, only support train and test")
+    #     return
+    with open(filtered_idx_file_path, "r") as f:
         lines = f.read().split('\n')[:-1]
         filtered_idx = [int(x.strip()) for x in lines]
 

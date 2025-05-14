@@ -37,6 +37,11 @@ from torch_geometric.loader import DataLoader as GeoDataLoader
 from ddi_kt_2024.mol.mol_dataset import MolDataset
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler, TensorDataset)
 
+NUM_OF_ORIGIN_TRAIN_SAMPLES = 27792
+NUM_OF_ORIGIN_TEST_SAMPLES = 5716
+DEFAULT_TRAIN_FILTERED_IDX_PATH = 'cache/filtered_ddi/train_filtered_index.txt'
+DEFAULT_TEST_FILTERED_IDX_PATH = 'cache/filtered_ddi/test_filtered_index.txt'
+
 # @click.command()
 # @click.option("--yaml_path", required=True, type=str, help="Path to the yaml config")
 def legacy_run_train(yaml_path):
@@ -151,38 +156,80 @@ def run_train(yaml_path):
     if not wandb_available:
         config = standardlize_config(config)
 
-    # Text handle
+    # Load candidates
     test_candidates = load_pkl(config.candidate_test_path)
+    train_candidates = load_pkl(config.candidate_train_path)
+    filtered_idx_train_path = DEFAULT_TRAIN_FILTERED_IDX_PATH
+    filtered_idx_test_path = DEFAULT_TEST_FILTERED_IDX_PATH
+    change_ratio = False
+    if getattr(config, 'train_ratio', None) is not None and isinstance(config.train_ratio, int) and \
+        config.train_ratio % 10 == 0:
+        print("Figure out new required ratio. Handling...")
+        change_ratio = True
+        new_train_number = int((NUM_OF_ORIGIN_TRAIN_SAMPLES+NUM_OF_ORIGIN_TEST_SAMPLES)*(config.train_ratio*1.0/100.0))
+        new_test_number = (NUM_OF_ORIGIN_TRAIN_SAMPLES+NUM_OF_ORIGIN_TEST_SAMPLES) - new_train_number
+        with open(DEFAULT_TRAIN_FILTERED_IDX_PATH, "r") as f:
+            lines = [int(i) for i in f.read().split('\n')[:-1]]
+        with open(DEFAULT_TEST_FILTERED_IDX_PATH, "r") as f:
+            test_lines = f.read().split('\n')[:-1]
+            lines = lines + [int(i)+NUM_OF_ORIGIN_TRAIN_SAMPLES for i in test_lines]
+        idx = np.searchsorted(lines, new_train_number)
+        new_filtered_train_list = lines[: idx]
+        new_filtered_test_list = [i - new_train_number for i in lines[idx:]]
+        filtered_idx_train_path = "new_train_filtered_idx.txt"
+        filtered_idx_test_path = "new_test_filtered_idx.txt"
+        with open(filtered_idx_train_path, "w") as f:
+            for i in new_filtered_train_list:
+                f.write(str(i) + "\n")
+        with open(filtered_idx_test_path, "w") as f:
+            for i in new_filtered_test_list:
+                f.write(str(i) + "\n")
+
+        # New candidates
+        all_candidates = train_candidates + test_candidates
+        new_train_candidates = all_candidates[:new_train_number]
+        new_test_candidates = all_candidates[new_train_number:]
+        train_candidates = new_train_candidates
+        test_candidates = new_test_candidates
+
+    # Contextual Text handle
     examples = new_convert_to_examples(test_candidates, "test", drugother_mask="full")
     data_text_test = preprocess(examples, model_name=config.model_name_or_path, save_path="data_test.pt")
 
-    train_candidates = load_pkl(config.candidate_train_path)
     examples = new_convert_to_examples(train_candidates, "train", drugother_mask="full")
     data_text_train = preprocess(examples, model_name=config.model_name_or_path, save_path="data_train.pt")
-    
-    data_text_train = _negative_filtering(data_text_train, data_type="train")
-    data_text_test = _negative_filtering(data_text_test, data_type="test")
+
+    data_text_train = _negative_filtering(data_text_train, filtered_idx_file_path=filtered_idx_train_path)
+    data_text_test = _negative_filtering(data_text_test, filtered_idx_file_path=filtered_idx_test_path)
     
     dataloader_text_train = DataLoader(data_text_train, batch_size=config.batch_size, shuffle=False)
     dataloader_text_test = DataLoader(data_text_test, batch_size=config.batch_size, shuffle=False)
 
     # Desc handle
     desc_dict = torch.load(config.desc_dict_path, weights_only=False)
-    data_desc_train_1, data_desc_train_2 = Desc_Fast(train_candidates, desc_dict, 'train', 'e1'), Desc_Fast(train_candidates, desc_dict, 'train', 'e2')
-    data_desc_test_1, data_desc_test_2 = Desc_Fast(test_candidates, desc_dict, 'test', 'e1'), Desc_Fast(test_candidates, desc_dict, 'test', 'e2')
+    data_desc_train_1 = Desc_Fast(train_candidates, desc_dict, 'train', 'e1', filtered_idx_train_path)
+    data_desc_train_2 = Desc_Fast(train_candidates, desc_dict, 'train', 'e2', filtered_idx_train_path)
+    data_desc_test_1 = Desc_Fast(test_candidates, desc_dict, 'test', 'e1', filtered_idx_test_path)
+    data_desc_test_2 = Desc_Fast(test_candidates, desc_dict, 'test', 'e2', filtered_idx_test_path)
     dataloader_train_desc1 = DataLoader(data_desc_train_1, batch_size=config.batch_size, shuffle=False)
     dataloader_train_desc2 = DataLoader(data_desc_train_2, batch_size=config.batch_size, shuffle=False)
     dataloader_test_desc1 = DataLoader(data_desc_test_1, batch_size=config.batch_size, shuffle=False)
     dataloader_test_desc2 = DataLoader(data_desc_test_2, batch_size=config.batch_size, shuffle=False)
 
-    # Image
+    # Image: len(data_train.images_classifier) = dataset size
     data_train = torch.load(config.image_data_train_path, weights_only=False)
     data_test = torch.load(config.image_data_test_path, weights_only=False)
-
+    if change_ratio:
+        all_images_classifier = data_train.images_classifier + data_test.images_classifier
+        train_images_classifier = all_images_classifier[:new_train_number]
+        test_images_classifier = all_images_classifier[new_train_number:]
+        data_train.images_classifier = train_images_classifier
+        data_train.images_classifier = test_images_classifier
     data_train.prepare_type = "train"
-    data_train.negative_instance_filtering()
+    data_train.negative_instance_filtering(filtered_idx_train_path)
     data_test.prepare_type = "test"
-    data_test.negative_instance_filtering()
+    data_test.negative_instance_filtering(filtered_idx_test_path)
+
     dataloader_image_train = DataLoader(data_train, batch_size=config.batch_size, shuffle=False)
     dataloader_image_test = DataLoader(data_test, batch_size=config.batch_size, shuffle=False)
 
@@ -194,28 +241,28 @@ def run_train(yaml_path):
 
     dataloader_train_for1 = FormulaDataloader(x_train,
                                             batch_size=config.batch_size,
-                                            nit_path='cache/filtered_ddi/train_filtered_index.txt',
+                                            nit_path=filtered_idx_train_path,
                                             split_option='2',
                                             element=1,
                                             device='cuda')
 
     dataloader_train_for2 = FormulaDataloader(x_train,
                                             batch_size=config.batch_size,
-                                            nit_path='cache/filtered_ddi/train_filtered_index.txt',
+                                            nit_path=filtered_idx_train_path,
                                             split_option='2',
                                             element=2,
                                             device='cuda')
 
     dataloader_test_for1 = FormulaDataloader(x_test,
                                             batch_size=config.batch_size,
-                                            nit_path='cache/filtered_ddi/test_filtered_index.txt',
+                                            nit_path=filtered_idx_test_path,
                                             split_option='2',
                                             element=1,
                                             device='cuda')
 
     dataloader_test_for2 = FormulaDataloader(x_test,
                                             batch_size=config.batch_size,
-                                            nit_path='cache/filtered_ddi/test_filtered_index.txt',
+                                            nit_path=filtered_idx_test_path,
                                             split_option='2',
                                             element=2,
                                             device='cuda')
@@ -230,10 +277,10 @@ def run_train(yaml_path):
     dataset_test_mol1 = MolDataset(x_test, element=1)
     dataset_test_mol2 = MolDataset(x_test, element=2)
 
-    dataset_train_mol1.negative_instance_filtering('cache/filtered_ddi/train_filtered_index.txt')
-    dataset_train_mol2.negative_instance_filtering('cache/filtered_ddi/train_filtered_index.txt')
-    dataset_test_mol1.negative_instance_filtering('cache/filtered_ddi/test_filtered_index.txt')
-    dataset_test_mol2.negative_instance_filtering('cache/filtered_ddi/test_filtered_index.txt')
+    dataset_train_mol1.negative_instance_filtering(filtered_idx_train_path)
+    dataset_train_mol2.negative_instance_filtering(filtered_idx_train_path)
+    dataset_test_mol1.negative_instance_filtering(filtered_idx_test_path)
+    dataset_test_mol2.negative_instance_filtering(filtered_idx_test_path)
 
     dataloader_train_graph1 = GeoDataLoader(dataset_train_mol1, batch_size=config.batch_size, shuffle=False)
     dataloader_train_graph2 = GeoDataLoader(dataset_train_mol2, batch_size=config.batch_size, shuffle=False)
