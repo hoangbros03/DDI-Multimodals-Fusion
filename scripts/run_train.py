@@ -14,10 +14,6 @@ from ddi_kt_2024.utils import (
     load_pkl,
     get_labels
 )
-# from ddi_kt_2024.text.reader.yaml_reader import get_yaml_config
-# from ddi_kt_2024.model.custom_dataset import CustomDataset, BertEmbeddingDataset
-# from ddi_kt_2024.model.trainer import Trainer, BertTrainer
-# from ddi_kt_2024.model.word_embedding import WordEmbedding
 from ddi_kt_2024.multimodal.IFPC import *
 from ddi_kt_2024.text.preprocess.asada_preprocess import _negative_filtering
 from ddi_kt_2024.multimodal.desc_handler import *
@@ -327,7 +323,8 @@ def run_train(yaml_path):
             'freeze_formula': config.freeze_formula,
             'freeze_image': config.freeze_image,
             'freeze_desc': config.freeze_desc,
-
+            'main_text_loss_weights': getattr(config, 'main_text_loss_weights', 0.8),
+            'modal_loss_weights': getattr(config, 'modal_loss_weights', 0.2),
     }
     model = Trainer(num_labels=config.target_class,
                     dropout_rate=config.dropout_rate_other,
@@ -360,7 +357,6 @@ def run_train(yaml_path):
     gnn_state = torch.load(config.gnn_state_path,map_location="cpu", weights_only=False)
     formula_state = torch.load(config.formula_state_path,map_location="cpu", weights_only=False)
     desc_state = torch.load(config.desc_state_path,map_location="cpu", weights_only=False)
-    # image_state = torch.load(config.image_state_path,map_location="cpu", weights_only=False)
 
     if kwargs['freeze_gnn']:
         del gnn_state['classifier.weight']

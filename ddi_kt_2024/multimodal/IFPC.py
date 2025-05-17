@@ -136,14 +136,18 @@ class BertForSequenceClassification(BertPreTrainedModel):
             print(kwargs['hidden_channels'])
             print(f"Using Graph. Output dims = {self.gnn.hidden_channels}")
             self.norm_graph = torch.nn.BatchNorm1d(self.gnn.hidden_channels)
-            self.reduce_dim_graph = nn.Linear(self.gnn.hidden_channels, self.represent_dim[0])
+            self.graph_classifier = nn.Linear(self.gnn.hidden_channels*2, self.num_labels)
+            self.graph_classifier_represent = nn.Linear(self.num_labels, self.represent_dim[0])
+
             self.freeze_gnn = kwargs['freeze_gnn']
             if self.freeze_gnn:
                 print("Freezing GNN")
                 self.gnn = self.freeze_parameters(self.gnn)
                 self.norm_graph = self.freeze_parameters(self.norm_graph)
-            
-            self.all_represent_dim +=self.represent_dim[0]*2
+
+            self._init_weights(self.graph_classifier_represent)
+            self.all_represent_dim +=self.represent_dim[0]
+            self.all_projection_dim += self.gnn.hidden_channels
         
         # Formula
         if kwargs['use_formula']:
@@ -152,8 +156,10 @@ class BertForSequenceClassification(BertPreTrainedModel):
             self.formula_conv_window_size = kwargs['formula_conv_window_size']
             self.formula_clf = BertForFormulaClassification(**kwargs)
             self.formula_conv = nn.Conv1d(768, self.formula_conv_output_size, self.formula_conv_window_size, padding=(self.formula_conv_window_size-1)//2)
+            # print(f"Using Formula. Output dims = {self.formula_conv_output_size}")
             self.norm_formula = torch.nn.BatchNorm1d(self.formula_conv_output_size)
-            self.reduce_dim_formula = nn.Linear(self.formula_conv_output_size, self.represent_dim[1])
+            self.formula_classifier = nn.Linear(self.formula_conv_output_size*2, self.num_labels)
+            self.formula_classifier_represent = nn.Linear(self.num_labels, self.represent_dim[1])
 
             self.freeze_formula = kwargs['freeze_formula']
             if self.freeze_formula:
@@ -162,7 +168,10 @@ class BertForSequenceClassification(BertPreTrainedModel):
                 self.formula_conv = self.freeze_parameters(self.formula_conv)
                 self.norm_formula = self.freeze_parameters(self.norm_formula)
 
-            self.all_represent_dim +=self.represent_dim[1] *2
+            self._init_weights(self.formula_classifier)
+            self._init_weights(self.formula_classifier_represent)
+            self.all_represent_dim +=self.represent_dim[1]
+            self.all_projection_dim += self.formula_conv_output_size
 
         # Desc
         if kwargs['use_desc']:
@@ -172,22 +181,30 @@ class BertForSequenceClassification(BertPreTrainedModel):
             self.desc_layer_hidden = kwargs['desc_layer_hidden']
             print(f"Using descriptions. Output dims = {self.desc_conv_output_size}")
             self.desc_conv = nn.Conv1d(768, self.desc_conv_output_size, self.desc_conv_window_size, padding=(self.desc_conv_window_size-1)//2)
-            self.norm_desc = torch.nn.BatchNorm1d(num_features=self.desc_conv_output_size)
-            self.reduce_dim_desc = nn.Linear(self.desc_conv_output_size, self.represent_dim[2])
+            self.desc_classifier = nn.Linear(self.desc_conv_output_size*2, self.num_labels)
+            self.desc_classifier_represent = nn.Linear(self.num_labels, self.represent_dim[2])
+            self.norm_desc = torch.nn.BatchNorm1d(num_features=self.represent_dim[2])
+            self._init_weights(self.desc_classifier_represent)
             
             if kwargs['freeze_desc']:
                 self.freeze_desc = True
                 print("Freezing desc...")
                 self.desc_conv = self.freeze_parameters(self.desc_conv)
                 
-            self.all_represent_dim +=self.represent_dim[2]*2
+            self._init_weights(self.desc_classifier)
+            self._init_weights(self.desc_classifier_represent)
+            self.all_represent_dim +=self.represent_dim[2]
+            self.all_projection_dim += self.desc_conv_output_size
             
         # Image
         if kwargs['use_image']:
             self.use_image=True
             self.image_classifier_dim = 2000//2
-            self.reduce_img_dim_layer = nn.Linear(self.image_classifier_dim, self.represent_dim[3])
+            self.reduce_img_dim_layer = nn.Linear(self.image_classifier_dim, 48)
+            self.image_classifier = nn.Linear(48*2, self.num_labels)
+            self.image_classifier_represent = nn.Linear(self.num_labels, self.represent_dim[3])
             self.norm_img = nn.BatchNorm1d(num_features = self.represent_dim[3])
+            self._init_weights(self.image_classifier_represent)
             
             # Due to the change, no freeze image at all
             if kwargs['freeze_image']:
@@ -195,12 +212,24 @@ class BertForSequenceClassification(BertPreTrainedModel):
                 print("Due to the change, no freeze image at all...")
                 
             
-            self.all_represent_dim +=self.represent_dim[3]*2
+            self.all_represent_dim +=self.represent_dim[3]
+            self.all_projection_dim += 48
 
         # BERT part
         self.pos_emb.weight.data.uniform_(-1e-3, 1e-3)
         self.bert = transformers.BertModel.from_pretrained(self.model_name_or_path)
         
+        # Loss part
+        if 'modal_loss_weights' in kwargs.keys():
+            self.modal_loss_weights = kwargs['modal_loss_weights']
+        else:
+            self.modal_loss_weights = 0.2
+        
+        if 'main_text_loss_weights' in kwargs.keys():
+            self.main_text_loss_weights = kwargs['main_text_loss_weights']
+        else:
+            self.main_text_loss_weights = 0.8
+
         if freeze_bert:
             for param in self.bert.parameters():
                 param.requires_grad = False
@@ -328,19 +357,25 @@ class BertForSequenceClassification(BertPreTrainedModel):
             conv_outputs.append(conv_output)
         pooled_output = self.dropout_bert_output(self.norm_text(torch.cat(conv_outputs, 1)))
         text_output = pooled_output
-
+        
         # Graph
         if self.use_graph:
             gnn1_outputs, mask1 = self.gnn(graph1)
             gnn2_outputs, mask2 = self.gnn(graph2)
 
+
             if self.apply_mask == True:
                 gnn1_outputs = gnn1_outputs * mask1
                 gnn2_outputs = gnn2_outputs * mask2
             
-            gnn1_outputs = self.reduce_dim_graph(self.norm_graph(gnn1_outputs))
-            gnn2_outputs = self.reduce_dim_graph(self.norm_graph(gnn2_outputs))
-            pooled_output=torch.cat((pooled_output, gnn1_outputs, gnn2_outputs),1)
+            gnn1_outputs = self.norm_graph(gnn1_outputs)
+            gnn2_outputs = self.norm_graph(gnn2_outputs)
+            
+#             gnn_predict = self.graph_classifier(torch.cat((gnn1_outputs, gnn2_outputs, drug1_embed, drug2_embed), 1))
+            gnn_predict = self.graph_classifier(torch.cat((gnn1_outputs, gnn2_outputs), 1))
+
+            gnn_represent = self.graph_classifier_represent(self.activation(gnn_predict))
+            pooled_output=torch.cat((pooled_output, gnn_represent),1)
 
         # Formula
         if self.use_formula:
@@ -353,44 +388,54 @@ class BertForSequenceClassification(BertPreTrainedModel):
             if self.apply_mask == True:
                 pooled_formula1_output = pooled_formula1_output * mask1
                 pooled_formula2_output = pooled_formula2_output * mask2
+                
+            pooled_formula1_output = self.norm_formula(pooled_formula1_output)
+            pooled_formula2_output = self.norm_formula(pooled_formula2_output)
+            formula1_outputs, formula2_outputs = pooled_formula1_output, pooled_formula2_output
             
-            pooled_formula1_output = self.reduce_dim_formula(pooled_formula1_output)
-            pooled_formula2_output = self.reduce_dim_formula(pooled_formula2_output)
-            pooled_output=torch.cat((pooled_output, pooled_formula1_output, pooled_formula2_output),1)
+#             formula_outputs = torch.cat((pooled_formula1_output, pooled_formula2_output, drug1_embed, drug2_embed), 1)
+            formula_outputs = torch.cat((pooled_formula1_output, pooled_formula2_output), 1)
+
+            formula_predict = self.formula_classifier(formula_outputs)
+            formula_represent = self.formula_classifier_represent(self.activation(formula_predict))
+            pooled_output=torch.cat((pooled_output, formula_represent),1)
 
         # Desc
         if self.use_desc:
+            desc1 = desc1.float()
+            desc2 = desc2.float()
             desc1_conv_input = desc1
             desc2_conv_input = desc2
             desc1_conv_output = self.activation(self.desc_conv(desc1_conv_input.transpose(1,2)))
             desc2_conv_output = self.activation(self.desc_conv(desc2_conv_input.transpose(1,2)))
-            pooled_desc1_output = self.reduce_dim_desc(torch.max(desc1_conv_output, -1)[0])
-            pooled_desc2_output = self.reduce_dim_desc(torch.max(desc2_conv_output, -1)[0])
-    
-            pooled_output = torch.cat((pooled_output, pooled_desc1_output, pooled_desc2_output), 1)
+            pooled_desc1_output, _ = torch.max(desc1_conv_output, -1)
+            pooled_desc2_output, _ = torch.max(desc2_conv_output, -1)
+
+#             desc_outputs = torch.cat((pooled_desc1_output, pooled_desc2_output, drug1_embed, drug2_embed), 1)
+            desc_outputs = torch.cat((pooled_desc1_output, pooled_desc2_output), 1)
+
+            desc_outputs = self.desc_classifier(desc_outputs)
+            desc_predict = desc_outputs
+            desc_represent = self.desc_classifier_represent(desc_outputs)
+            desc_represent = self.norm_desc(desc_represent)
+            try:
+                pooled_output=torch.cat((pooled_output, desc_represent),1)
+            except:
+                import pdb; pdb.set_trace()
+            
 
         # Image
         if self.use_image:
             image_classifier_output1 = image_classifier_output1.float()
-            image1_outputs = self.reduce_img_dim_layer(image_classifier_output1[:,:self.image_classifier_dim])
-            image2_outputs = self.reduce_img_dim_layer(image_classifier_output1[:,self.image_classifier_dim:])
-            
-            pooled_output=torch.cat((pooled_output, image1_outputs, image2_outputs),1)
+            image1_outputs = self.activation(self.reduce_img_dim_layer(image_classifier_output1[:,:self.image_classifier_dim]))
+            image2_outputs = self.activation(self.reduce_img_dim_layer(image_classifier_output1[:,self.image_classifier_dim:]))
 
-        if self.fusion_module.lower() == "tensorfusion":
-            tensorfusion_layer_gd = self.TensorFusion_gd(text_output, gnn_represent, desc_represent)
-            tensorfusion_layer_fi = self.TensorFusion_gd(text_output, formula_represent, image_represent)
-            pooled_output = torch.cat((text_output, tensorfusion_layer_gd, tensorfusion_layer_fi), 1)
-        elif self.fusion_module.lower() == "hybridfusion":
-            tensorfusion_layer_gd = self.TensorFusion_gd(text_output, gnn_represent, desc_represent)
-            tensorfusion_layer_fi = self.TensorFusion_gd(text_output, formula_represent, image_represent)
-            text_represent = self.text_for_elementwise(text_output)
-            coarse_grained_tgd = self.activation(self.weight_elementwise_tgd(text_represent * gnn_represent))
-            coarse_grained_tfi = self.activation(self.weight_elementwise_tfi(text_represent * formula_represent))
-            pooled_output = torch.cat((text_output, tensorfusion_layer_gd, tensorfusion_layer_fi, coarse_grained_tgd, coarse_grained_tfi),1)
-            
-        if self.loss_type in ['add_binary_loss', "mul_binary_loss"]:
-            binary_logits = self.binary_classifier(pooled_output)
+            image_outputs = self.image_classifier(torch.cat((image1_outputs, image2_outputs),dim=-1))
+
+            image_predict = image_outputs
+            image_represent = self.image_classifier_represent(image_outputs)
+            image_represent = self.norm_img(image_represent)
+            pooled_output=torch.cat((pooled_output, image_represent),1)
             
         if self.middle_layer_size == 0:
             logits = self.classifier(pooled_output)
@@ -407,6 +452,10 @@ class BertForSequenceClassification(BertPreTrainedModel):
                 17029.0/1319,
                 17029.0/189]).to('cuda' if torch.cuda.is_available() else 'cpu')
             loss_fct = CrossEntropyLoss(weight=weight)
+            
+            # Add loss for every modal
+            loss_for_modals = [CrossEntropyLoss(weight=weight) for _ in range(4)]
+            
         elif self.loss_type == "add_binary_loss" or self.loss_type == "mul_binary_loss":
             weight = torch.tensor([17029.0/13008,
                 17029.0/826,
@@ -417,23 +466,16 @@ class BertForSequenceClassification(BertPreTrainedModel):
             loss_binary = CrossEntropyLoss(weight=torch.tensor([17029.0/13008, 17029.0/(17029- 13008)]).to('cuda' if torch.cuda.is_available() else 'cpu'))
         else:
             loss_fct = CrossEntropyLoss()
-            
-        if self.loss_type == "add_binary_loss":
-            labels = torch.nn.functional.one_hot(labels, 5).float()
-            loss_result_fct = loss_fct(logits.view(-1, self.num_labels), labels.argmax(dim=-1))
-            loss_result_binary = loss_binary(binary_logits.view(-1, 2), (labels.argmax(dim=-1)>0.0).long())
-            loss = 0.8*loss_result_fct + 0.2*loss_result_binary
-        elif self.loss_type == "mul_binary_loss":
-            labels = torch.nn.functional.one_hot(labels, 5).float()
-            loss_result_fct = loss_fct(logits.view(-1, self.num_labels), labels.argmax(dim=-1))
-            loss_result_binary = loss_binary(binary_logits.view(-1, 2), (labels.argmax(dim=-1)>0.0).long())
-            loss = loss_result_fct*loss_result_binary
-        else:
-            labels = torch.nn.functional.one_hot(labels, 5).float()
-            loss = loss_fct(logits.view(-1, self.num_labels), labels.argmax(dim=-1))
-            
-        outputs = (loss,) + outputs
+        
+        labels = torch.nn.functional.one_hot(labels, 5).float()
+        loss = loss_fct(logits.view(-1, self.num_labels), labels.argmax(dim=-1))
+        loss = loss * self.main_text_loss_weights
 
+        # Add loss for every modal
+        predicts = [gnn_predict, formula_predict, desc_predict, image_predict]
+        for loss_func_idx in range(len(loss_for_modals)):
+            loss = loss + self.modal_loss_weights* loss_for_modals[loss_func_idx](predicts[loss_func_idx].view(-1, self.num_labels), labels.argmax(dim=-1))
+        outputs = (loss,) + outputs 
         return outputs
 
 
@@ -578,12 +620,6 @@ class Trainer:
 
                 outputs = self.model(**inputs)
                 loss = outputs[0]
-#                 if self.config.fusion_module.lower() == "hybridfusion":
-#                     loss_fct, loss_binary = outputs[:2]
-#                     loss_binary.backward(retain_graph=True)
-#                     loss_fct.backward()
-#                     loss = loss_binary + loss_fct
-#                 else:
                 loss.backward()
 
                 train_loss += loss.item()

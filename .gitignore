@@ -1,6 +1,11 @@
 # Wandb
 wandb/
 
+# git lfs
+DDI-Multimodals-Fusion-2024/
+output_dir/
+runs/
+
 # Avoid pushing model and infer result
 /checkpoints
 /results
