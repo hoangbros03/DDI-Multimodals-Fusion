@@ -336,7 +336,7 @@ class BertForSequenceClassification(BertPreTrainedModel):
                 desc1=None, desc2=None,
                 image_classifier_output1=None,
                 labels=None):
-
+        gnn_predict, formula_predict, desc_predict, image_predict = None, None, None, None
         outputs = self.bert(input_ids,
                             attention_mask=attention_mask,
                             token_type_ids=token_type_ids,
@@ -472,8 +472,16 @@ class BertForSequenceClassification(BertPreTrainedModel):
         loss = loss * self.main_text_loss_weights
 
         # Add loss for every modal
-        predicts = [gnn_predict, formula_predict, desc_predict, image_predict]
-        for loss_func_idx in range(len(loss_for_modals)):
+        predicts = []
+        if gnn_predict is not None:
+            predicts.append(gnn_predict)
+        if formula_predict is not None:
+            predicts.append(formula_predict)
+        if desc_predict is not None:
+            predicts.append(desc_predict)
+        if image_predict is not None:
+            predicts.append(image_predict)
+        for loss_func_idx in range(len(predicts)):
             loss = loss + self.modal_loss_weights* loss_for_modals[loss_func_idx](predicts[loss_func_idx].view(-1, self.num_labels), labels.argmax(dim=-1))
         outputs = (loss,) + outputs 
         return outputs
