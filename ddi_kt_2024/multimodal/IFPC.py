@@ -420,8 +420,9 @@ class BertForSequenceClassification(BertPreTrainedModel):
             desc_represent = self.norm_desc(desc_represent)
             try:
                 pooled_output=torch.cat((pooled_output, desc_represent),1)
-            except:
-                import pdb; pdb.set_trace()
+            except Exception as e:
+                print("Error when forwarding in model", str(e))
+                raise ValueError(e)
             
 
         # Image
