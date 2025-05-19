@@ -196,7 +196,7 @@ def run_train(yaml_path):
     data_text_train = preprocess(examples, model_name=config.model_name_or_path, save_path="data_train.pt")
     before_negative_data_text_train = data_text_train
     
-    if config.get_data_pt_only:
+    if getattr(config, 'get_data_pt_only') is not None and config.get_data_pt_only:
         print("Only get data.pt. Exiting.")
         return
         
