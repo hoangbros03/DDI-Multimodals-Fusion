@@ -196,7 +196,7 @@ def run_train(yaml_path):
     data_text_train = preprocess(examples, model_name=config.model_name_or_path, save_path="data_train.pt")
     before_negative_data_text_train = data_text_train
     
-    if getattr(config, 'get_data_pt_only') is not None:
+    if getattr(config, 'get_data_pt_only', None) is not None:
         print("Only get data.pt. Exiting.")
         return
         
@@ -326,8 +326,8 @@ def run_train(yaml_path):
             'freeze_formula': config.freeze_formula,
             'freeze_image': config.freeze_image,
             'freeze_desc': config.freeze_desc,
-            'main_text_loss_weights': getattr(config, 'main_text_loss_weights') if config.main_text_loss_weights is not None else 0.8,
-            'modal_loss_weights': getattr(config, 'modal_loss_weights') if config.modal_loss_weights is not None else 0.2,
+            'main_text_loss_weights': getattr(config, 'main_text_loss_weights', None) if config.main_text_loss_weights is not None else 0.8,
+            'modal_loss_weights': getattr(config, 'modal_loss_weights', None) if config.modal_loss_weights is not None else 0.2,
     }
     model = Trainer(num_labels=config.target_class,
                     dropout_rate=config.dropout_rate_other,
