@@ -9,12 +9,13 @@ import click
 from tqdm import tqdm
 from pprint import pprint
 from torch.utils.data import DataLoader
-
+import numpy as np
 from ddi_kt_2024.utils import (
     load_pkl,
     get_labels
 )
-from ddi_kt_2024.multimodal.IFPC import *
+from ddi_kt_2024.multimodal.IFPC import Trainer as IFPC_Trainer
+from ddi_kt_2024.multimodal.IFPC_CrossAttention import Trainer as IFPC_CrossAttention_Trainer
 from ddi_kt_2024.text.preprocess.asada_preprocess import _negative_filtering
 from ddi_kt_2024.multimodal.desc_handler import *
 from wandb_setup import wandb_setup
@@ -328,8 +329,13 @@ def run_train(yaml_path):
             'freeze_desc': config.freeze_desc,
             'main_text_loss_weights': getattr(config, 'main_text_loss_weights', None) if hasattr(config, 'main_text_loss_weights') else 0.8,
             'modal_loss_weights': getattr(config, 'modal_loss_weights', None) if hasattr(config, 'modal_loss_weights') else 0.2,
+            'cross_attention': getattr(config, 'cross_attention', None) if hasattr(config, 'cross_attention') else False,
     }
-    model = Trainer(num_labels=config.target_class,
+    if hasattr(config, 'cross_attention'):
+        trainer = IFPC_CrossAttention_Trainer
+    else:
+        trainer = IFPC_Trainer
+    model = trainer(num_labels=config.target_class,
                     dropout_rate=config.dropout_rate_other,
                     dropout_prob_text=config.dropout_rate_bert_output,
                     out_conv_list_dim=config.out_conv_list_dim,

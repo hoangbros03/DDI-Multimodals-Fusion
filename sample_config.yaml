@@ -17,7 +17,7 @@ test_custom_dataset: 'ddi_test.pt'
 
 # Train configs
 seed: 129
-train_ratio: 50 # 50 -> 0.5 and so on
+# train_ratio: 50 # 50 -> 0.5 and so on
 desc_conv_output_size: 64
 desc_conv_window_size: 3
 desc_layer_hidden: 0
@@ -61,6 +61,7 @@ freeze_image: True
 freeze_desc: False
 main_text_loss_weights: 0.8
 modal_loss_weights: 0.2
+cross_attention: 768
 
 gnn_state_path: './DDI-Multimodals-Fusion-2024/gcn_ck.pt'
 formula_state_path: './DDI-Multimodals-Fusion-2024/formula_ck.pt'
